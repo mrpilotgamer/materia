@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/history/ages/age-of-regrowth/"}
 ---
 
-
+# Age of Regrowth
 
 *0 PC - 3100 PC*
 
