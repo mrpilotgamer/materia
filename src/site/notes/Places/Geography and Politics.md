@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/places/geography-and-politics/"}
 ---
 
-# The World, an Overview
+# Geography and Politics
 
 The world is vast, with many realms and places to explore. Here, we will discuss Both planes, realms, continents, and anything in-between. We will also list out any organizations and powers within those realms, as where there are people, there will always be complicated relations
 
