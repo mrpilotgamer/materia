@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/history/ages/age-of-expansion/"}
 ---
 
+# Age of Expansion
 *4200 PC - 4673 PC*
 
 In an ever growing world, the sapient species saw the land as ripe for the taking. Kingdoms grew, expanded, past mountains and shores, creating the first Empires.
