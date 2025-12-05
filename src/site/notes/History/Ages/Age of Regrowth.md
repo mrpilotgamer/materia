@@ -3,7 +3,6 @@
 ---
 
 # Age of Regrowth
-
 *0 PC - 3100 PC*
 
 After the [[History/Great Schism War\|Great Schism War]], The world was left in ruins, both literally and metaphorically. The Age of Regrowth started with a world barren of much, be it people, life, ect. 

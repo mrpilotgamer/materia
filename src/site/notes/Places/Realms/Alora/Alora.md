@@ -4,7 +4,7 @@
 
 # Alora
 
-One of the Largest Realms on [[Places/Materia\|Materia]], Alora is full of many diverse peoples, [[Species and Cultures\|Cultures]], and [[History/History and Myths\|Histories]].
+One of the Largest Realms on [[Places/Materia\|Materia]], Alora is full of many diverse peoples, [[Species and Cultures/Species and Cultures\|Cultures]], and [[History/History and Myths\|Histories]].
 
 ## Regions
 

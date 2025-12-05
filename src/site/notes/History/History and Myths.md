@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/history/history-and-myths/"}
 ---
 
-# 
+# History and Myths
 
 Across time and memory, there have been events and stories told to us all. Here, we have categorized these into 2 sections. History, is what we believe to be true, based on records, and documentation with no reason for us to believe to be fiction. The other is Myths, stories told, but with no evidence or reason for us to believe it to be necessarily accurate to our history.
 

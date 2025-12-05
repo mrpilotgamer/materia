@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/history/ages/age-of-enlightenment/"}
 ---
 
-# 
+# Age of Enlightenment
 *3100 PC - 4200 PC*
 
 Inevitably, Civilization rises, and sapient races begin to advance beyond their small groupings. The age of enlightenment is defined as the time across realms, when many civilizations began advancing, both technologically, and magically. 

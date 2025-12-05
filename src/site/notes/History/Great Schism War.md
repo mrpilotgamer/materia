@@ -4,7 +4,7 @@
 
 # Great Schism War
 
-The defining time of [[Places/Materia\|Materia]], The Great Schism War was the darkest time in history. A time during [[History/Ages/Prehistory\|Prehistory]] when the [[Primordials\|Primordials]] and the [[Gods\|Gods]] waged war with each other.
+The defining time of [[Places/Materia\|Materia]], The Great Schism War was the darkest time in history. A time during [[History/Ages/Prehistory\|Prehistory]] when the [[Primordials\|Primordials]] and the [[Religion and Deities/Deific Figures/Gods\|Gods]] waged war with each other.
 
 According to the little answers we can get from communing with the gods, and information gleaned from beings from other planes of existence, the war was a conflict of interest between the two parties. Before the war, Gods existed and walked across [[Places/Materia\|Materia]]. The Primordials, while tolerating their existence for a while, eventually saw them as interfering with natural life, and thus the conflict began.
 
