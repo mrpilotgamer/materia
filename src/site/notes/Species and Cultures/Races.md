@@ -23,3 +23,7 @@
 [[Species and Cultures/Races/Vullukk\|Vullukk]] - Curious, and climbers by nature, the Vullukk are a very intelligent people, along side their nimble characteristics. Many vullukk naturally pick up the long tradition of collecting tidbits of trivia from wherever they can, learning about the world one factoid at a time.
 
 [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] - Descended from ancient fire giants, the Yol-Mar are a people known for being strong, capable, and passionate. Their blood innately gives them some of the abilities their ancestors had, as their weapons turn red hot, and their skin is resistant to burns.
+
+# Uncommon Races
+
+[[Species and Cultures/Races/Beastfallen\|Beastfallen]] - Blending humanoid forms with diverse animalistic features, the Beastfallen possess heightened senses, natural weapons, and distinct behavioral instincts rooted in their specific heritage. Their mysterious existence is believed to be the result of ancient transformative magic or curses that fundamentally altered them on a biological level rather than through natural evolution.
