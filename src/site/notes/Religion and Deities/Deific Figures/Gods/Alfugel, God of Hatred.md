@@ -13,7 +13,7 @@ As a god of anger and strength, Alfugel is well worshipped by those who fight on
 
 ## Worship and Clergy
 
-### Domains (PF1e)
+### Domains
 **Granted Domains:** Death, Destruction, Fire, Strength, War
 
 **Subdomains:** Arson, Ash, Blood, Catastrophe, Ferocity, Murder, Rage, Resolve
@@ -57,8 +57,6 @@ In the current [[History/Ages/Age of Stability\|Age of Stability]], Alfugel's wo
 **Allies:** Alfugel maintains an uneasy alliance with [[Mendura, God of Courage\|Mendura, God of Courage]], as both deities value battlefield valor, though Mendura's emphasis on standing firm differs from Alfugel's focus on overwhelming offense.
 
 **Rivals:** [[Selcontri, God of Restraint\|Selcontri, God of Restraint]] stands in philosophical opposition to everything Alfugel represents, teaching that restraint and patience are virtues. The two deities' followers often clash in theological debates—and occasionally in more direct confrontations.
-
-**Servants:** Alfugel's divine herald is said to be a massive trox warrior wreathed in flames, wielding a greataxe that can cleave mountains. Lesser servitors include rage drakes and fire elementals bound to serve the god's will.
 
 ## Holy Days and Festivals
 
