@@ -19,7 +19,7 @@ As a god of anger and strength, Alfugel is well worshipped by those who fight on
 **Subdomains:** Arson, Ash, Blood, Catastrophe, Ferocity, Murder, Rage, Resolve
 
 ### Holy Symbol
-A Cracked Skull with Flames in its Eyes—representing both the mortality that comes from battle and the burning rage that drives warriors forward.
+A Cracked Skull with Flames in its Eyes
 
 ### Sacred Elements
 **Favored Weapon:** Greataxe
@@ -54,9 +54,9 @@ In the current [[History/Ages/Age of Stability\|Age of Stability]], Alfugel's wo
 
 ## Related Entities
 
-**Allies:** Alfugel maintains an uneasy alliance with [[Mendura, God of Courage\|Mendura, God of Courage]], as both deities value battlefield valor, though Mendura's emphasis on standing firm differs from Alfugel's focus on overwhelming offense.
+**Allies:** Alfugel maintains an uneasy alliance with [[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura, God of Courage]], as both deities value battlefield valor, though Mendura's emphasis on standing firm differs from Alfugel's focus on overwhelming offense.
 
-**Rivals:** [[Selcontri, God of Restraint\|Selcontri, God of Restraint]] stands in philosophical opposition to everything Alfugel represents, teaching that restraint and patience are virtues. The two deities' followers often clash in theological debates—and occasionally in more direct confrontations.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri, God of Restraint]] stands in philosophical opposition to everything Alfugel represents, teaching that restraint and patience are virtues. The two deities' followers often clash in theological debates—and occasionally in more direct confrontations.
 
 ## Holy Days and Festivals
 
