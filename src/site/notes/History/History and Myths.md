@@ -18,7 +18,7 @@ Our History is divided into many ages, as to better understand and define our pa
 
 [[History/Ages/Age of Expansion\|Age of Expansion]] - A short period of time, where many civilizations across the world expanded at an ever increasing rate, taking resources and space at an ever increasing rate
 
-[[History/Ages/Age of Incursion\|Age of Incursion]] - When the civilizations had drained so much, that the world was starting to feel the effects, the [[Primordials\|Primordials]] Stepped in, and caused minor devastation across the lands, reminding the civilizations that they will learn to coexist with the land, or they will not exist at all
+[[History/Ages/Age of Incursion\|Age of Incursion]] - When the civilizations had drained so much, that the world was starting to feel the effects, the [[Religion and Deities/Deific Figures/Primordials\|Primordials]] Stepped in, and caused minor devastation across the lands, reminding the civilizations that they will learn to coexist with the land, or they will not exist at all
 
 [[History/Ages/Age of Stability\|Age of Stability]] - After the Incursion, peace and stability returned to the world. While many cities and lands were lost, a balance was achieved that allowed many peoples to prosper, and remain stable. This is the current age we find ourselves in.
 

@@ -8,8 +8,10 @@ The Wildlands, also known as the Land of Many Origins, is known for being the re
 
 ## Countries
 
-[[Bornumia\|Bornumia]] - 
+[[Empire of Bornumia\|Empire of Bornumia]] - 
 
-[[Oligarchy of Presium\|Oligarchy of Presium]] - 
+[[Cilomutesan Union\|Cilomutesan Union]] - 
 
-[[Empire of Adriacium\|Empire of Adriacium]] - 
+[[Empire of Nox\|Empire of Nox]] - 
+
+[[Republic of Saventiaria\|Republic of Saventiaria]] - 

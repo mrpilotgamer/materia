@@ -65,7 +65,7 @@ Celebrated during the month of **Alfula** (the fifth month, named in Alfugel's h
 
 The day also features contests of strength and martial prowess, where warriors prove their mettle in combat tournaments. These competitions can be fierce, and while death is not the goal, serious injury is considered an acceptable risk. The victors are said to receive Alfugel's favor in the coming year.
 
-In some communities, controlled bonfires are lit, into which participants throw symbols of their frustrations—though the clergy ensures these fires are properly maintained to avoid the kind of destructive conflagration that drew the [[Primordials\|Primordials]]' ire during the [[History/Ages/Age of Incursion\|Age of Incursion]].
+In some communities, controlled bonfires are lit, into which participants throw symbols of their frustrations—though the clergy ensures these fires are properly maintained to avoid the kind of destructive conflagration that drew the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]' ire during the [[History/Ages/Age of Incursion\|Age of Incursion]].
 
 ## Areas of Concern
 

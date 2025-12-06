@@ -10,8 +10,6 @@ The Jotuun Nexus, also known as the Birth and Deathplace of Giants, was once a f
 
 [[Khania\|Khania]] -
 
-[[Helano\|Helano]] - 
-
 [[Hovden\|Hovden]] - 
 
 [[Stamvia\|Stamvia]] - 
