@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-###### **A foreward by [[Chief Archivist Zalia Thule\|Chief Archivist Zalia Thule]]**[^1]
+###### **A foreward by [[Chief Archivist Zalia Thule\|Chief Archivist Zalia Thule]]** [^1]
 
 Greetings, humble reader. As the lead on project Congregation of Ages, an initiative to archive and structure all our knowledge collected into a new and improved library archive, I am glad to see prospective researchers taking an interest in a mix of large scale history, and minute cultural details
 
