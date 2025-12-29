@@ -24,3 +24,7 @@ Our History is divided into many ages, as to better understand and define our pa
 
 
 ## Myths
+
+
+
+<span style="display:none">Gonna have to keep an eye on this section... dont want to much of my hand showing up in the past.</span>
