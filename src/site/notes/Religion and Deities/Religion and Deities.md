@@ -18,4 +18,3 @@ The Prime Deities of [[Places/Materia\|Materia]], Primordials are Lords over Nat
 
 [^1]: What we define as deific being in this context is slightly archaic and not exactly concrete. Currently, our best definition of Deific is any singular being that holds a relatively sigificant power over its own territory, and specifically has abilities we as of yet cannot define.
 
-

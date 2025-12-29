@@ -39,3 +39,5 @@ Gods are also known to require worship, whether it be because it allows them to 
  [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma, God of Desire]] - Sage of Cravings. Many of her followers are rewarded for indulging in vices, and chasing the dreams of their own making
 
 [^1]: It is currently unknown how the gods came to be. Theories are scattered about what happened Pre-Schism war, however some posit the gods may have either once been mortal and gifted this power, or perhaps stole this power from other deific beings. Or perhaps they were created by the Primordials, but somewhere along the way they became at odds with them.
+
+<span style="display:none">Idiots barely understand whats still so young. No matter. These gods are meaningless in the greater span of it all. Even should they find out about the ritual, barely any mortals could become a god</span>
