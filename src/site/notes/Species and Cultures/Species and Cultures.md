@@ -8,8 +8,10 @@ There are many creatures, both sapient and not, that walk these worlds. As such,
 
 ## [[Species and Cultures/Races\|Races]]
 
-There are many Sapient creatures we can find on [[Places/Materia\|Materia]]. Here, we list all we have been in contact with so far
+There are many Sapient creatures we can find on [[Places/Materia\|Materia]]. Here, we list all we have been in contact with so far [^1]
 
 ## [[Species and Cultures/Cultures\|Cultures]]
 
 Across the realms, many groupings of people exist, each with their own ideas, beliefs, and traditions. Here, we list the cultures we are aware of
+
+[^1]: Notably, little information exists about Races from Prehistory. Perhaps they were the same or similar, but my own hypothesis is that many more races existed back then.
