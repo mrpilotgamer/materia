@@ -4,7 +4,7 @@
 
 # Religion and Deities
 
-In the multiverse, there are many beings that can make claim to being of a deific level. Some, like the [[Religion and Deities/Deific Figures/Primordials\|Primordials]], have no contesters to their power and authority. Some, like Empyreal lords and Demon Lords, are in constant flux, due to competition and contests of power
+In the multiverse, there are many beings that can make claim to being of a deific level. Some, like the [[Religion and Deities/Deific Figures/Primordials\|Primordials]], have no contesters to their power and authority. Some, like Empyreal lords and Demon Lords, are in constant flux, due to competition and contests of power [^1]
 
 #### [[Religion and Deities/Deific Figures/Gods\|Gods]]
 
@@ -15,3 +15,7 @@ Some of the oldest beings in the multiverse, Progenitors are defined by their st
 #### [[Religion and Deities/Deific Figures/Primordials\|Primordials]]
 
 The Prime Deities of [[Places/Materia\|Materia]], Primordials are Lords over Nature, and over the [[Fey\|Fey]] Creatures that reside within. The Primordials may arguable be amongst the most powerful Deific figures in the multiverse, considering their level of mastery in controlling [[Places/Materia\|Materia]]'s planar structure
+
+[^1]: What we define as deific being in this context is slightly archaic and not exactly concrete. Currently, our best definition of Deific is any singular being that holds a relatively sigificant power over its own territory, and specifically has abilities we as of yet cannot define.
+
+

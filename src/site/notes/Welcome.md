@@ -19,4 +19,4 @@ For your convenience, I shall direct you to our main archive sections from here
 
 [^1]: Important to note, not everything in these texts were written by just me. I had assistance from the wonderful works of Researcher T̶̘̪̘̉̉̕͠b̸͎̾̾͋̊y̶̝͔̍̈̇́ủ̵̲̀͛̎h̶̭̪̐k̶̲̰͖̃̌̽̚l̷̨̀̇s̸̩͌
 
-<span style="display:none">Hmm... Truthfully, I couldn't care less about who reads this, but i wont say no to a treasure trove of information. Keep your friends close, and all that</span>
+<span style="display:none">Hmm... Truthfully, I couldn't care less about who reads this, but i wont say no to a treasure trove of information. Keep your friends close, and all that. For now, ill be sure to carefully scrub information about me from the records</span>

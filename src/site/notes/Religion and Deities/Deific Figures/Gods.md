@@ -6,7 +6,7 @@
 
 Gods, among the lower ranks of deific beings, are still among the most recognizable to mortals on the material plane. Gods have not always existed, and we can trace their history to sometime just before the [[History/Great Schism War\|Great Schism War]]
 
-Gods are also known to require worship, whether it be because it allows them to continue existing, or because it correlates with their power. Due to this, they are the most well known to take clergy, and have temples built in their names.
+Gods are also known to require worship, whether it be because it allows them to continue existing, or because it correlates with their power. Due to this, they are the most well known to take clergy, and have temples built in their names. [^1]
 
 ## List of Gods 
 
@@ -37,3 +37,5 @@ Gods are also known to require worship, whether it be because it allows them to 
  [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] - Judge of Souls. Every mortal will face this god once, as he is the one who decides which afterlife a soul goes to.
  
  [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma, God of Desire]] - Sage of Cravings. Many of her followers are rewarded for indulging in vices, and chasing the dreams of their own making
+
+[^1]: It is currently unknown how the gods came to be. Theories are scattered about what happened Pre-Schism war, however some posit the gods may have either once been mortal and gifted this power, or perhaps stole this power from other deific beings. Or perhaps they were created by the Primordials, but somewhere along the way they became at odds with them.
