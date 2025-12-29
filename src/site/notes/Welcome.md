@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-###### **A foreward by [[Chief Archivist Zalia Thule\|Chief Archivist Zalia Thule]]** [^1]
+###### **A foreward by [[Chief Archivist Zalia Thule\|Chief Archivist Zalia Thule]]**
 
-Greetings, humble reader. As the lead on project Congregation of Ages, an initiative to archive and structure all our knowledge collected into a new and improved library archive, I am glad to see prospective researchers taking an interest in a mix of large scale history, and minute cultural details
+Greetings, humble reader. As the lead on project Congregation of Ages, an initiative to archive and structure all our knowledge collected into a new and improved library archive, I am glad to see prospective researchers taking an interest in a mix of large scale history, and minute cultural details [^1]
 
 [[Places/Materia\|Materia]] is a large place, larger than any one person could ever explore, and I doubt ill learn all I could in a short time. Perhaps in the future, we will have successfully archived all we can, but I hypothesize we will run out of space before we even come close. Until such a day, you will have to make do with this mess I've made here.
 
