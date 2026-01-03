@@ -32,7 +32,7 @@ Celestia's primary residents, the archons, are to Celestia what the devils are t
 ## Petitioners
 Most petitioners of Celestia are lantern archons. More so than most petitioners on other planes, they are graced with both knowledge and power. Every petitioner's goal is to ascend through the layers of Mount Celestia and evolve into a more glorious archon type. Other archons treat lantern archons like children, forgiving their errors and guiding them onto paths of virtue. Lantern archons appear as floating balls of light that glow like a torch.
 
-<!Lantern archon petitioners have the following special petitioner qualities:
+<!-- Lantern archon petitioners have the following special petitioner qualities:
 
 **Additional Immunities:** Electricity, petrification.
 
@@ -48,7 +48,7 @@ Most petitioners of Celestia are lantern archons. More so than most petitioners 
 
 **Celestial Qualities:** Aura of menace (save DC 11), magic circle against evil, teleport, tongues, +4 racial bonus on saves against poison.
 
-**No Planar Commitment (Ex):** Unlike most other petitioners, lantern archons can leave their home plane.>
+**No Planar Commitment (Ex):** Unlike most other petitioners, lantern archons can leave their home plane. -->
 
 ## Layers
 

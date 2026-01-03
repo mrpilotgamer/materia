@@ -26,7 +26,7 @@ The yugoloths, masters of schemes, are most at home on Gehenna, though sages not
 ## Petitioners
 Petitioners of Gehenna are the refuse of the planes. Greedy and grasping, they care only for themselves. Expect no favors from such a petitioner unless proof of immediate recompense is at hand. Unlike on many of the other Outer Planes, petitioners on Gehenna are more willful, traveling from layer to layer on their own personal quests for power. They're looking for the ultimate exercise in free will, though they are destined to never find it.
 
-<!Gehenna's petitioners have the following special petitioner qualities:
+<!-- Gehenna's petitioners have the following special petitioner qualities:
 
 **Additional Immunities:** Poison, acid.
 
@@ -49,7 +49,7 @@ If the fall occurs in a random location, the victim comes to a stop on a natural
 ### Combat
 Combat on Gehenna is much like it is between two climbing foes on the Material Plane. Anyone on the surface of Gehenna's mountains loses his Dexterity bonus to AC and cannot use a shield. Attackers get a +2 bonus to attack climbers, even if they're climbing themselves.
 
-A climber who takes damage must immediately make a new Climb check against the DC of the slope. If the climber fails, he immediately falls, taking damage as described above.>
+A climber who takes damage must immediately make a new Climb check against the DC of the slope. If the climber fails, he immediately falls, taking damage as described above. -->
 
 ### Features
 Each layer of Gehenna (called a mount) is slightly different, but each burns with an evil will. The lava flows seem to seek out the casual traveler, and fissures open under a visitor's feet as if the ground itself hungers. As on Carceri, the sloping earth itself provides light, so shadows stretch upward.

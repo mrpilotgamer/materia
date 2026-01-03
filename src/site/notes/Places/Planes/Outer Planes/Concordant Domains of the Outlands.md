@@ -54,24 +54,24 @@ Petitioners in the Outlands are common within the various portal towns and withi
 
 Outlands petitioners encountered in the wide spaces between communities are usually wanderers seeking new lands, or shepherds happy with their lot in the afterlife.
 
-<!Outlands petitioners have the following special petitioner qualities:
+<!-- Outlands petitioners have the following special petitioner qualities:
 
 **Immunities:** Electricity, polymorph.
 
 **Resistances:** Acid 20.
 
-**Other Special Qualities:** Damage reduction 10/Magic.>
+**Other Special Qualities:** Damage reduction 10/Magic. -->
 
 In addition, petitioners that seem more native to other Outer Planes sometimes walk the Outlands—valiant warriors that should be among Ysgard's glorious dead, and half-melted lemures that belong in Hell are lost or were misdirected to the Outlands. Or maybe these petitioners were not quite good or evil enough to truly merit their inclusion on an aligned plane. Whether they're seeking or avoiding their just reward, they are exceptions to the rule that petitioners can't move between planes.
 
-## <!Movement and Combat
+## <!-- Movement and Combat
 The Outlands seems most stable close to the spire, and travelers who go beyond the ring of portal towns may discover the land mutable and continually shifting.
 
 One notable aspect of the mutable nature of distance is that once a traveler gets outside the ring of portal towns, another portal town is never more than a few weeks away. No matter where travelers are beyond the ring of portal towns, the nearest town is 4d8×10 miles away. A traveler can effectively travel two thousand miles outward from the spire, then turn around to find a portal town only 4d8×10 miles away.
 
 The reason for this distance distortion is unknown. It seems to be that once a traveler gets farther away from the spire, the Outlands is less significant. No one has found an "edge" to the plane yet.
 
-The Outlands does not present any inherent benefit or penalty to combat. Mists and fogs that provide concealment are common, however, and the terrain tends to be rugged.>
+The Outlands does not present any inherent benefit or penalty to combat. Mists and fogs that provide concealment are common, however, and the terrain tends to be rugged. -->
 
 ## Notable Locations
 

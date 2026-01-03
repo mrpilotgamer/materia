@@ -30,7 +30,7 @@ The petitioners of Arcadia are called einheriar. The einheriar appear much as th
 
 Using their abilities to discern the alignment of all they meet, einheriar make it their business to police the plane. If they catch any nonlawful or nongood creature, they have four possible courses of action. Chaotic good or neutral good visitors are tolerated so long as they follow the laws of Arcadia. Those who are truly neutral are asked to finish their business and leave. Those who are Chaotic Neutral are asked to leave immediately. Those who are tainted with evil in any aspect are immediately and remorselessly attacked. 
 
-<!The einheriar have the following special petitioner qualities:
+<!-- The einheriar have the following special petitioner qualities:
 
 **Additional Immunities:** Sonic, acid.
 
@@ -38,7 +38,7 @@ Using their abilities to discern the alignment of all they meet, einheriar make 
 
 **Other Special Qualities:** Detect chaos, detect evil, detect good, detect law.
 
-**Detect Chaos/Evil/Good/Law (Ex):** Einheriar can detect chaos, detect evil, detect good, or detect law at will (as the spells cast by a 5th-level cleric).>
+**Detect Chaos/Evil/Good/Law (Ex):** Einheriar can detect chaos, detect evil, detect good, or detect law at will (as the spells cast by a 5th-level cleric). -->
 
 ## Layers
 

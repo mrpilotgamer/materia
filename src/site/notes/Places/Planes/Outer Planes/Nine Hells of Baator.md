@@ -41,17 +41,17 @@ Besides devils, such creatures as hellcats, hell hounds, imps, kytons, nightmare
 ## Petitioners
 Several kinds of petitioners are found in the Nine Hells. Evil, proud, ambitious souls unconcerned with others and bereft of empathy find their way there. Most of those souls take the form of ghost-white shades, shells of their mortal forms, which devils cruelly mold and shape into twisted, agonized forms of horror. Only when the soul is so twisted and molded that it is truly, finally slain does its essence merge with that of the Nine Hells itself. Often, devils or deities of a particular hellish realm molds petitioners in their realm to conform to a specific, macabre aesthetic.
 
-<!These average hellish petitioners, sometimes called soul shells, have the following special petitioner qualities:
+<!-- These average hellish petitioners, sometimes called soul shells, have the following special petitioner qualities:
 
 **Additional Immunities:** None.
 
 **Resistances:** Cold 20, fire 20.
 
-**Other Special Qualities:** Powerful devils have an innate power to warp and mold soul shells, usually into shapes that are inherently painful and degrading.>
+**Other Special Qualities:** Powerful devils have an innate power to warp and mold soul shells, usually into shapes that are inherently painful and degrading. -->
 
 Particularly vile petitioners become lemures. Only the most evil of mortals can achieve status as lemures, and they usually end up here regardless of the deity they worshiped in life. Lemures, of course, are despised by all other devils, and they serve the most base duties in any devilish group they are part of. In any initial Blood War confrontation, the lemures are the shock troops that draw the enemy's fire. Lemures appear as revolting blobs of molten flesh, with vaguely humanoid torsos and heads. Hints of the petitioner's former mortal features are visible when they are not too twisted by anguish. Lemures are mindless, though they are sensitive to telepathic messages from other devils and obey their mental commands, doing the bidding of the strongest devil in the closest proximity.
 
-<!Lemures have the following special petitioner qualities:
+<!-- Lemures have the following special petitioner qualities:
 
 **Additional Immunities:** Fire, poison.
 
@@ -61,7 +61,7 @@ Particularly vile petitioners become lemures. Only the most evil of mortals can 
 
 **Mindless (Ex):** Lemures are immune to all mind-influencing effects, and unless commanded, act as if feebleminded.
 
-**No Planar Commitment (Ex):** Unlike most other petitioners, lemures can leave their home plane.>
+**No Planar Commitment (Ex):** Unlike most other petitioners, lemures can leave their home plane. -->
 
 ## Movement and Combat
 Movement in the Nine Hells is much like movement on the Material Plane. Even moving between layers is fairly straightforward.

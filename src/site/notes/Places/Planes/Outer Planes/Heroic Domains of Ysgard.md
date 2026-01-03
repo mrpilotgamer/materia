@@ -28,19 +28,19 @@ Petitioners—the slain heroes of countless ages—predominate on Ysgard. Howeve
 ## Petitioners
 The petitioners of Ysgard are mostly former soldiers whose aggressive and valiant spirits draw them to the plane where competition never dies. 
 
-<!They have the following special petitioner qualities:
+<!-- They have the following special petitioner qualities:
 
 **Additional Immunities:** Fire, acid.
 
 **Resistances:** Electricity 20, sonic 20.
 
-**Other Special Qualities:** None. Like anyone else on the plane, petitioners benefit from the minor positive-dominant trait on Ysgard.>
+**Other Special Qualities:** None. Like anyone else on the plane, petitioners benefit from the minor positive-dominant trait on Ysgard. -->
 
 ## Movement and Combat
 Getting around on Ysgard is much like travel on the Material Plane. However, movement between the floating earthbergs on the top layer of Ysgard can be quite tricky. Those who fall between the flaming cracks plummet into the second layer, Muspelheim, where the earthbergs also predominate. In Muspelheim, each mass of earth is constantly aflame, presenting an inhospitable environment for travel. The lowest layer, Nidavellir, grants easy access through rifts and tunnels, although the tunnels sometimes close up, an event dangerous to travelers and natives alike.
 
-### <!Combat
-Battles on Ysgard function much like they do on the Material Plane. Because all combatants have fast healing 2, battles tend to take longer, and every day fallen foes can rise to join the battle anew.>
+### <!-- Combat
+Battles on Ysgard function much like they do on the Material Plane. Because all combatants have fast healing 2, battles tend to take longer, and every day fallen foes can rise to join the battle anew. -->
 
 ## Layers
 

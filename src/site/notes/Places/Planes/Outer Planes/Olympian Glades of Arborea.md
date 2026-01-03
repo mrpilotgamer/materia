@@ -32,19 +32,19 @@ Arborea has two common types of petitioners. The first are the spirits of the ma
 
 These last act as scouts and wardens for the communities on the plane, serving the Mannee Court in their magic glades and great castles. 
 
-<!These petitioners have the following special petitioner qualities:
+<!-- These petitioners have the following special petitioner qualities:
 
 **Additional Immunities:** Electricity, poison.
 
 **Resistances:** Cold 20, fire 20.
 
-**Other Special Qualities:** Damage reduction 10/Magic.>
+**Other Special Qualities:** Damage reduction 10/Magic. -->
 
 Other petitioners may be found in Arborea besides the mannee souls on the plane. Called Bacchae, these petitioners are wild mobs of drunken revelers found reclining in glades or running through the forest in raving, wine-sotted celebrations.
 
 The Bacchae are satyrlike, caught in mid-transformation between man and beast. Bacchae are spirits of equal measures good and chaos, living for the moment and making it the best moment possible. The greatest danger they pose to travelers is enticing newcomers to join in their celebrations.
 
-<!Bacchae have the following special petitioner qualities:
+<!-- Bacchae have the following special petitioner qualities:
 
 **Additional Immunities:** Electricity, polymorph.
 
@@ -52,15 +52,15 @@ The Bacchae are satyrlike, caught in mid-transformation between man and beast. B
 
 **Other Special Qualities:** Entice.
 
-**Entice (Su):** A traveler within 100 feet of a mob of Bacchae must make a Will saving throw (DC 10 + the number of Bacchae within range; maximum DC 25) or else join the party. While partying among the Bacchae, those who failed their saves drink, eat, and engage in all manner of pranks and foolery. But they take no sustenance, and suffer the effects of being without food and water. The Bacchae entice ability lasts either for 101 days or until the enticed character collapses from lack of sustenance. Moving the character more than 100 feet from the Bacchae ends the entice effect, but those under its sway do not leave the Bacchae revelers willingly. Bacchae petitioners are generally nonviolent, fleeing if attacked—or more likely offering bread and mead to their assailants. In previous lives, Bacchae were the spirits of gourmands, gluttons, well-meaning drunkards, and others who relished the act of living.>
+**Entice (Su):** A traveler within 100 feet of a mob of Bacchae must make a Will saving throw (DC 10 + the number of Bacchae within range; maximum DC 25) or else join the party. While partying among the Bacchae, those who failed their saves drink, eat, and engage in all manner of pranks and foolery. But they take no sustenance, and suffer the effects of being without food and water. The Bacchae entice ability lasts either for 101 days or until the enticed character collapses from lack of sustenance. Moving the character more than 100 feet from the Bacchae ends the entice effect, but those under its sway do not leave the Bacchae revelers willingly. Bacchae petitioners are generally nonviolent, fleeing if attacked—or more likely offering bread and mead to their assailants. In previous lives, Bacchae were the spirits of gourmands, gluttons, well-meaning drunkards, and others who relished the act of living. -->
 
 ## Movement and Combat
 Arborea does not present any penalty to movement beyond what travelers from the Material Plane expect. On Arvandor, paths snake through the undergrowth and clear glades are as common as patches of briar and tangles. Creatures that can climb or brachiate (swing from branch to branch) move through the forested sections of Arborea without touching the ground.
 
 Aquallor, the second layer, is entirely aquatic, so characters have to swim from place to place.
 
-### <!Combat
-The plane does not present any inherent benefit or penalty to combat. Cover and concealment are plentiful in the forests of Arvandor, while combats in Aquallor use the same water combat rules as on the Elemental Plane of Water.>
+### <!-- Combat
+The plane does not present any inherent benefit or penalty to combat. Cover and concealment are plentiful in the forests of Arvandor, while combats in Aquallor use the same water combat rules as on the Elemental Plane of Water. -->
 
 ## Layers
 

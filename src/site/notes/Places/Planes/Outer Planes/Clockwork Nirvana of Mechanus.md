@@ -32,7 +32,7 @@ The most prevalent creatures on Mechanus are not truly living creatures at allâ€
 ## Petitioners
 The petitioners of Mechanus often adopt a stylized version of their mortal bodies. Despite the outward differences, all petitioners on Mechanus are alike in their frightening honesty and submersion of individuality. They are notoriously literal, and some take no instruction at all for fear of misinterpreting the speaker.
 
-<!Mechanus petitioners have the following special petitioner qualities:
+<!-- Mechanus petitioners have the following special petitioner qualities:
 
 **Additional Immunities:** Fire, cold.
 
@@ -43,7 +43,7 @@ The petitioners of Mechanus often adopt a stylized version of their mortal bodie
 ## Movement and Combat
 Movement in the Clockwork Nirvana of Mechanus is much like movement on the Material Plane. Walking between turning cogs seems daunting to the uninitiated, requiring an Acrobatics check (DC 10). This is a relatively easy check, but failure by 5 or more means a fall between the cogs, which deals 20d6 points of damage each round. It takes a Climb check (DC 20) to emerge from the teeth of the cogs.
 
-Travelers can move between the cogs by flying or teleporting through the void, of course.>
+Travelers can move between the cogs by flying or teleporting through the void, of course. -->
 
 ## Notable Locations
 

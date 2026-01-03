@@ -38,7 +38,7 @@ Petitioners in Hades are mostly grayish ghosts, spirits so depleted by the Waste
 
 Spirits of particularly selfish and malicious mortals that come to Hades become a special form of petitioner called a larva. Larvae appear as Medium-size worms with heads that resemble the heads on their mortal bodies. Larvae serve as the currency of the Lower Planes, especially among night hags, liches, demons, devils, and yugoloths. Most are as likely to be used as food as to power a spell. The rare "lucky" larva is sometimes promoted to a lower form of fiend.
 
-<!Normal petitioners in Hades gain only one special petitioner quality: incorporeality. But larvae have the following special petitioner qualities:
+<!-- Normal petitioners in Hades gain only one special petitioner quality: incorporeality. But larvae have the following special petitioner qualities:
 
 **Additional Immunities:** Cold, fire.
 
@@ -50,7 +50,7 @@ Spirits of particularly selfish and malicious mortals that come to Hades become 
 
 **Disease (Ex):** Following a battle with larvae during which the larvae dealt any damage, wounded characters must make a Fortitude save (DC 17) or contract devil chills (see Disease in Chapter 3 of the DUNGEON MASTER's Guide, for the effects of devil chills).
 
-**No Planar Commitment (Ex):** Unlike most other petitioners, larvae can be removed from Hades. Often, they are taken elsewhere to serve as food, barter, and basic "soulstuff" for fiendish projects, both demonic and devilish, that require such an esoteric component.>
+**No Planar Commitment (Ex):** Unlike most other petitioners, larvae can be removed from Hades. Often, they are taken elsewhere to serve as food, barter, and basic "soulstuff" for fiendish projects, both demonic and devilish, that require such an esoteric component. -->
 
 ## Movement and Combat
 Movement and combat in Hades are much like movement on the Material Plane. The hateful nature of the plane makes combatants less likely to flee, even if gravely wounded. Most fights here are to the death.
