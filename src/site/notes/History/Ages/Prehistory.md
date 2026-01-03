@@ -8,7 +8,7 @@ Precious Little is known about the time before the [[History/Great Schism War\|G
 
 ## Magic
 
-Magic in prehistory isn't well known. Some creatures are known to possess magic from such a time, but to this day, no mage has been able to recreate such spells and effects, in exactly the same way. Its believed the [[Progenitors\|Progenitors]], more specifically, [[Purple Primordial Spirit, Murasakino\|The Purple Primordial]], Redefined magic in the post-[[History/Great Schism War\|Schism War]] Era for those on [[Places/Materia\|Materia]].
+Magic in prehistory isn't well known. Some creatures are known to possess magic from such a time, but to this day, no mage has been able to recreate such spells and effects, in exactly the same way. Its believed the [[Religion and Deities/Deific Figures/Progenitors\|Progenitors]], more specifically, [[Purple Primordial Spirit, Murasakino\|The Purple Primordial]], Redefined magic in the post-[[History/Great Schism War\|Schism War]] Era for those on [[Places/Materia\|Materia]].
 
 ## Civilization
 
