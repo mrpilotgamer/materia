@@ -21,9 +21,7 @@ The multiverse is filled with many dimensions, not just [[Places/Materia\|Materi
 #### [[Places/Planes/Inner Planes\|Inner Planes]]
 
 
-
 #### [[Places/Planes/Outer Planes\|Outer Planes]]
-
 
 
 #### [[Places/Planes/Transitive Planes\|Transitive Planes]]
