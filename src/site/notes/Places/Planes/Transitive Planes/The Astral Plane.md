@@ -35,7 +35,8 @@ The Astral Plane has few native forms. It does have a lot of travelers, and some
 
 Travelers may be encountered either in physical form or in astral form. In the latter case, travelers appear as ghostly, silvery images of themselves. A silver cord trails behind each one for a few feet, then disappears into the astral haze. In general, an astral form is more dangerous than a physical one, because it takes a high level of magical proficiency to cast an astral projection spell (as opposed to just casting plane shift).
 
-## <!-- Movement and Combat
+<!-- 
+Movement and Combat
 
 ### Movement
 The Astral Plane's lack of gravity makes it a tricky place to get around in. Most of the plane's inhabitants move by merely thinking themselves in a particular direction. This is akin to flight with perfect maneuverability and a maximum speed of 10 feet per point of Intelligence. When one is maneuvering through astral space, "up" and "down" are determined solely by the traveler's orientation (down is beyond your feet, and up is above your head). Unlike normal flying, climbs and dives on the Astral plane don't change a character's speed, and there's no minimum speed to avoid a stall.
@@ -65,7 +66,8 @@ The Astral Plane has no gravity, so attackers may approach from all sides. And w
 
 The Astral Plane has the timeless trait with respect to such things as poison and disease, so a poisoned wizard on the Astral Plane would be unaffected until she moves to another plane. A traveler in astral form would not be affected at all, because damage taken by the astral form isn't transferred back to the original body on another plane. The Astral Plane is also timeless with regard to natural healing, so only magical healing works.
 
-Travelers on the Astral Plane suffer no penalties to speed for armor or encumbrance. Armor check penalties and arcane spell failure chances still apply, however. -->
+Travelers on the Astral Plane suffer no penalties to speed for armor or encumbrance. Armor check penalties and arcane spell failure chances still apply, however. 
+-->
 
 ## Notable Features
 
@@ -94,7 +96,10 @@ But occasionally, part of the Astral Plane flares up into a psychic storm that w
 
 The storm itself usually brews up without warning. The Astral Plane darkens in one direction, and the darkness quickly engulfs everything in its path. Only those who move directly away from a psychic storm at a speed of 320 feet can outrun it. Others are overtaken by the storm.
 
-Those caught within the grip of a psychic wind might be blown off course and suffer mentally from the psychic turbulence of the storm. Though they are violent, psychic storms have consistent winds, so several travelers caught in the same psychic storm are blown to the same destination. <!-- Consult the following table, rolling once per group for location effects, and once per individual for mental effect:
+Those caught within the grip of a psychic wind might be blown off course and suffer mentally from the psychic turbulence of the storm. Though they are violent, psychic storms have consistent winds, so several travelers caught in the same psychic storm are blown to the same destination. 
+
+<!-- 
+Consult the following table, rolling once per group for location effects, and once per individual for mental effect:
 
 **Location Effect, Travelers in Physical Form**
 
@@ -125,11 +130,14 @@ Those caught within the grip of a psychic wind might be blown off course and suf
 | 61-80 | Fear (Will save DC 20 negates), as spell, for 2d10 minutes |
 | 81-90 | Feebleminded (Will save DC 20 negates), as feeblemind spell, for 2d10 hours |
 | 91-95 | Pain (Fort save DC 25 negates), as symbol of pain, for 2d10 × 10 minutes |
-| 96-100 | Insanity (Will save DC 25 negates), as the spell | -->
+| 96-100 | Insanity (Will save DC 25 negates), as the spell | 
+-->
 
 ### Astral Objects
 Bits of solid matter are strewn through the Astral Plane. Most of these objects have been sucked through color pools or left behind by careless (or deceased) adventurers.
 
 It's easy for travelers to spot such items (subject to the usual maximum vision range) and maneuver toward them. Natives of the Astral Plane, in particular the githyanki, often sail the astral winds looking for bits of debris to add to their own fortresses and hoards.
 
-<!-- About 10% of found debris may be valuable (the equivalent of a 10th-level treasure; see Chapter 7 of the DUNGEON MASTER's Guide). Such treasure may be in the form of a locked chest, a dead body, or a bag of holding that met an ugly fate when it was put inside a portable hole and cast onto the Astral Plane. Valuable treasures found in this manner often have powerful owners who want their valuables back. -->
+<!-- 
+About 10% of found debris may be valuable (the equivalent of a 10th-level treasure; see Chapter 7 of the DUNGEON MASTER's Guide). Such treasure may be in the form of a locked chest, a dead body, or a bag of holding that met an ugly fate when it was put inside a portable hole and cast onto the Astral Plane. Valuable treasures found in this manner often have powerful owners who want their valuables back. 
+-->

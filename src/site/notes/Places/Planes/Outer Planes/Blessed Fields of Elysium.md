@@ -34,13 +34,15 @@ The petitioners of Elysium either venerate a particular deity of that plane, or 
 
 Only when evil actions besmirch the plane do the petitioners of Elysium take up arms, and then they are more dangerous than most other petitioners. Unlike other petitioners, those who call Elysium home retain some knowledge of their past, which usually manifests itself as wistful nostalgia. Sometimes their memories are more practical: Petitioners who had character levels before they became petitioners retain up to four character levels (multiclass characters can choose levels from any classes they held in life).
 
-<!-- Petitioners of Elysium have the following special petitioner qualities:
+<!-- 
+Petitioners of Elysium have the following special petitioner qualities:
 
 **Additional Immunities:** Electricity, cold.
 
 **Resistances:** Cold 20, fire 20.
 
-**Other Special Qualities:** Retain up to four character levels acquired prior to becoming a petitioner. -->
+**Other Special Qualities:** Retain up to four character levels acquired prior to becoming a petitioner. 
+-->
 
 Planar travelers are common on the shores of the River Oceanus, and merchants ply their wares up and down the river between towns inhabited by petitioners and half-celestials. Evil and morally neutral creatures tend to become lost along the riverbanks, unable to cope with the goodness that infuses the landscape. This makes such interlopers prime targets for avoral scouts. If the scouts face determined evil foes, they'll call on the more august leonals to join the battle; evil creatures are slain on Elysium. Morally neutral visitors are often questioned closely by the avorals, who determine their intentions and then either aid or expel them. Aid or expulsion is accompanied by a gentle (but long) lecture.
 
@@ -49,8 +51,10 @@ The Great River Oceanus and its side channels dominate much of the plane, so boa
 
 Celestial animals haul rafts and keelboats upstream, and all manner of mundane and fantastic seagoing vessels stray into deeper waters. In places, the Oceanus widens to a great, calm lake or fen with no appreciable current, while in others, the river splits and tumbles through sharp-rocked rapids, particularly on the mountainous second layer.
 
-### <!-- Combat
-Elysium does not present any inherent benefit or penalty to combat. There is very little tolerance for evil, and most of the celestial natives have the ability to smite evil. Fights tend to last longer and be less often fatal due to the positive energy that infuses the entire plane. -->
+<!-- 
+Combat
+Elysium does not present any inherent benefit or penalty to combat. There is very little tolerance for evil, and most of the celestial natives have the ability to smite evil. Fights tend to last longer and be less often fatal due to the positive energy that infuses the entire plane. 
+-->
 
 ### Features
 The top layer of Elysium is Amoria; it is more like the Material Plane than the other levels. Upstream on the Oceanus, the land becomes rougher and more mountainous until the traveler reaches the cascades of Eronia, the second layer. Here, steep valleys flank the river, which surges through narrow passages.

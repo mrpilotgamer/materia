@@ -22,7 +22,8 @@ Vision in the Abyss is normal except on layers where environmental conditions in
 ## Planar Links
 The two most well-known access points to the Abyss are a gate in the Outlands from the town of Plague-Mort, and the River Styx. Both of these links provide access to the top layer of the Abyss, the Plain of Infinite Portals.
 
-## <!-- Random Abyssal Layers
+<!-- 
+Random Abyssal Layers
 What if your characters wind up being sent to the Abyss as a result of an adventure gone wrong? Or what if they flee powerful demons on the Plain of Infinite Portals by jumping down the nearest pit?
 
 Use the following table to randomly determine the general terrain type of an unknown layer. If desired, roll twice (or more) and combine the results.
@@ -48,7 +49,8 @@ Use the following table to randomly determine the general terrain type of an unk
 | 81-85 | Sea of Magma |
 | 86-90 | Subterranean |
 | 91-95 | Undead Realm |
-| 96-100 | Water-Dominant | -->
+| 96-100 | Water-Dominant | 
+-->
 
 ## Inhabitants
 Called Demonholme by some, the Abyss harbors demons and is likely their ultimate source. Demons rule most known layers of the Abyss. Other evil creatures reside among the layers as well, including bebiliths, bodaks, retrievers, undead of every sort, renegade devils, twisted mortals, and worse.
@@ -56,7 +58,8 @@ Called Demonholme by some, the Abyss harbors demons and is likely their ultimate
 ## Petitioners
 Those souls from the Material Plane that are not simply absorbed into the structure of the Abyss become petitioners called manes. Manes have pale white skin, cruel claws, sharp teeth, sparse hair, and white eyes. Often, maggots visibly squirm through a mane's bloated flesh. Manes that survive many years are sometimes "promoted" to lesser demon types, though they retain no memory of their former lives. 
 
-<!-- Manes have the following special petitioner qualities:
+<!-- 
+Manes have the following special petitioner qualities:
 
 **Additional Immunities:** Electricity, poison.
 
@@ -69,7 +72,8 @@ Those souls from the Material Plane that are not simply absorbed into the struct
 **No Planar Commitment (Ex):** Unlike most other petitioners, manes can leave the plane they call home.
 
 ## Movement and Combat
-In general, the Abyss functions like the Material Plane with regard to movement and combat. On layers where the environment is radically strange, different rules apply. Individual layers of the Abyss could have the fire-dominant trait, for example, or have subjective directional gravity. Unless stated otherwise, those traits function the same in the Abyss as they do everywhere else. -->
+In general, the Abyss functions like the Material Plane with regard to movement and combat. On layers where the environment is radically strange, different rules apply. Individual layers of the Abyss could have the fire-dominant trait, for example, or have subjective directional gravity. Unless stated otherwise, those traits function the same in the Abyss as they do everywhere else. 
+-->
 
 ## Notable Locations
 

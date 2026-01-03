@@ -36,13 +36,15 @@ Many of the creatures that roam Bytopia are celestial versions of animals and be
 ## Petitioners
 These petitioners live on Bytopia in much the same way as they lived in life: pursuing order at a leisurely pace, satisfying curiosity, and otherwise enjoying themselves at their work. There is a marked humor among the petitioners of Bytopia, an easygoing nature that disappears as one moves onto the sterner planes of law. Conversely, they maintain a sense of community that erodes as one moves through Elysium and onto more chaotic planes.
 
-<!-- Bytopian petitioners have the following special petitioner qualities:
+<!-- 
+Bytopian petitioners have the following special petitioner qualities:
 
 **Additional Immunities:** Fire, cold.
 
 **Resistances:** Cold 20, electricity 20.
 
-**Other Special Qualities:** At will—magic circle against evil (as the spell cast by a 5th-level sorcerer). -->
+**Other Special Qualities:** At will—magic circle against evil (as the spell cast by a 5th-level sorcerer). 
+-->
 
 ## Layers
 

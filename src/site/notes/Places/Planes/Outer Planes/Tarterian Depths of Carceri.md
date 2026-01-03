@@ -34,7 +34,8 @@ Even if they wanted to, Carceri's petitioners couldn't leave, so they hold a pow
 
 Petitioners on Carceri reside on one of six layers according to their particular treachery. Orthrys holds politicians and national traitors, and Cathrys holds those who gave in to animal lusts when logic and reason would have served better. Minethys imprisons hoarders who could have helped others with their wealth but didn't, and Colothys confines liars whose untruths harmed others. Finally, Porphatys is home to the shallow and self-absorbed who refused to aid others when the opportunity presented itself. 
 
-<!-- Carceri's petitioners have the following special petitioner qualities:
+<!-- 
+Carceri's petitioners have the following special petitioner qualities:
 
 **Additional Immunities:** Cold, acid.
 
@@ -47,7 +48,8 @@ For characters on an orb of Carceri, movement functions normally. Once a charact
 
 Carceri's natives sometimes use ferrous sleds that slide through the air as if it were solid, skin balloons filled with hot air, and spinnerets whose 100-foot silk lengths catch the wind and pull a traveler off a high mountain to a random destination.
 
-Combat on Carceri functions like it does on the Material Plane. -->
+Combat on Carceri functions like it does on the Material Plane. 
+-->
 
 ## Layers
 

@@ -26,7 +26,8 @@ There are four layers on Pandemonium, and the terrible windstorms can blow throu
 ### Hearing on Pandemonium
 The constant screams of the wind make it impossible to hear anything beyond 10 feet. Likewise, spells and effects that rely on sonic energy have their range limited to 10 feet. Travelers are temporarily deafened after 1d10 rounds of exposure to the winds, and permanently deafened after 24 hours of exposure. Temporarily deafened characters regain their hearing after 1 hour spent out of the wind. Ear plugs or similar devices negate the deafening effect. Of course, wearing ear-plugs effectively mimics the normal effects of being deafened.
 
-### <!-- Windstorms on Pandemonium
+<!-- 
+Windstorms on Pandemonium
 The constant winds on Pandemonium can gust with howls so maddening and speeds so enormous that they become dangerous.
 
 Those caught without shelter when one of Pandemonium's windstorms blows up are in trouble; both mind and body are in peril. A windstorm has a 10% chance per day of blowing through a given area. Generally, a windstorm gusts through an area in 1 round.
@@ -44,7 +45,8 @@ Those caught without shelter when one of Pandemonium's windstorms blows up are i
 | 61–70 | Screaming wind causes confusion for 2d4+1 rounds | Will DC 20 negates |
 | 71–80 | Wind picks up travelers, dashing them against rock wall for 4d10 points of damage | Reflex DC 24 half |
 | 81–90 | Wind picks up travelers, dashing them against rock wall for 4d10 points of damage, then blows them into a tributary of the River Styx | Reflex DC 24 half, then Reflex DC 20 negates |
-| 91–100 | Shrieking wind causes insanity | Will DC 22 negates | -->
+| 91–100 | Shrieking wind causes insanity | Will DC 22 negates | 
+-->
 
 ## Planar Links
 Permanent portals exist between various planes and Pandemonium. Several tunnels blow in from or out to the Elemental Plane of Air. Also, the headwaters of the Styx well up from the topmost layer of Pandemonium.
@@ -57,19 +59,23 @@ Besides the occasional fiendish nest, the only other natives of note are small r
 ## Petitioners
 Of course, Pandemonium has many petitioners. Most of them are swallowed by the screaming wind immediately upon arrival. But some linger, appearing much as they did in life, though they are bonier, and the winds somehow don't affect them as much. Also, most of them are completely, utterly insane. 
 
-<!-- Pandemonium's petitioners have the following special petitioner traits:
+<!-- 
+Pandemonium's petitioners have the following special petitioner traits:
 
 **Additional Immunities:** Electricity, sonic.
 
 **Resistances:** Cold 20, acid 20.
 
-**Other Special Qualities:** None. -->
+**Other Special Qualities:** None. 
+-->
 
 ## Movement and Combat
 Locomotion on Pandemonium feels like it does on the Material Plane where tunnels are long and winds are strong. But when the winds gust up, movement can be very difficult (see the Windstorms on Pandemonium sidebar).
 
-### <!-- Combat
-Combat functions normally on Pandemonium, but in most cases takes place among strong winds. All ranged weapons suffer a –2 penalty on attacks due to the winds, and Tiny or smaller creatures must make a Fortitude save (DC 10) each round or be knocked down. -->
+<!-- 
+Combat
+Combat functions normally on Pandemonium, but in most cases takes place among strong winds. All ranged weapons suffer a –2 penalty on attacks due to the winds, and Tiny or smaller creatures must make a Fortitude save (DC 10) each round or be knocked down. 
+-->
 
 ## Layers
 

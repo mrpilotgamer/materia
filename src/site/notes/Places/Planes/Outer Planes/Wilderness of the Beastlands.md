@@ -36,13 +36,15 @@ Because not many deities make this plane their home, mortal souls drawn to the B
 
 These petitioners take on animal traits soon after they arrive. Their hair grows long in lustrous pelts, short horns sprout from their foreheads, and they develop cats' eyes or fox ears. Over the course of centuries, they become celestial beasts or animals.
 
-<!-- Beastlands petitioners have the following special petitioner qualities:
+<!-- 
+Beastlands petitioners have the following special petitioner qualities:
 
 **Additional Immunities:** Electricity, poison.
 
 **Resistances:** Cold 20, fire 20.
 
-**Other Special Qualities:** Fast healing 2. -->
+**Other Special Qualities:** Fast healing 2. 
+-->
 
 ## Movement and Combat
 The Beastlands does not present any worse penalty to movement than any Material Plane forest or woods. Creatures with the ability to climb or brachiate (swing among the branches) are able to move through the Beastlands without touching the ground. The Beastlands does not present any inherent benefit or penalty to combat, though cover and concealment are plentiful.

@@ -34,7 +34,8 @@ Finally, Acheron holds enormous flocks of birds. Ravens, vultures, gulls, bloodh
 ## Petitioners
 Deserters and petitioners make up many of the renegade armies on Acheron. If soldiers have killed others for a cause they do not believe, and killed happily, they might wind up as petitioners on Acheron. Particularly rabid revolutionaries and terrorists slain on the Material Plane also find their way to Acheron, often as leaders of the roving armies. The renegade commanders cannot rest until they are finally slain and their essence merges with the plane itself.
 
-<!-- Renegade commanders have the following special petitioner qualities:
+<!-- 
+Renegade commanders have the following special petitioner qualities:
 
 **Additional Immunities:** Electricity, sonic.
 
@@ -42,7 +43,8 @@ Deserters and petitioners make up many of the renegade armies on Acheron. If sol
 
 **Other Special Qualities:** Hearten.
 
-**Hearten (Ex):** All members of a renegade army within a 100-foot radius of a petitioner commander receive a +2 morale bonus on saving throws against charm and fear effects and a +1 morale bonus on attack and damage rolls. -->
+**Hearten (Ex):** All members of a renegade army within a 100-foot radius of a petitioner commander receive a +2 morale bonus on saving throws against charm and fear effects and a +1 morale bonus on attack and damage rolls. 
+-->
 
 ## Movement and Combat
 Movement on the Infernal Battlefield of Acheron is much like movement on the Material Plane. Walking between faces seems daunting to the uninitiated, but is relatively easy. Moving between cubes requires some sort of flying ability. Travelers in Avalas and Thuldanin must be wary of collisions between the cubes, because everything between the two cubes at impact is crushed into nothingness. Cubes bound for collision are visible a day or two in advance of impact, providing enough warning for evacuation.
@@ -64,7 +66,9 @@ Scavenging for intact weapons is an occupation for many a team of salvagers and 
 ### Tintibulus
 Unlike the other layers of Acheron, four-sided, five-sided, eight-sided, nine-sided, twelve-sided, and other odd-sided solids outnumber six-sided cubes on Tintibulus. The solids are made of gray volcanic stone, each coated with a layer of ashen dust to a depth of several inches (and in some places several feet or more). When collisions occur, the geometric solid fractures along its natural fault lines, splitting into two smaller solids. The constant collisions create a ringing, bell-like roar throughout the layer at all times. Few creatures live here, petitioners or otherwise.
 
-<!-- The constant ringing on Tintibulus causes characters to suffer a –4 circumstance penalty on Listen checks. -->
+<!-- 
+The constant ringing on Tintibulus causes characters to suffer a –4 circumstance penalty on Listen checks. 
+-->
 
 ### Ocanthus
 The fourth layer of Acheron is lightless but filled with fast-flying, razor-thin shards. Some shards are little more than needles, while others are miles wide. The largest shards have their own objective gravity like the cubes of the upper layers, as well as a breathable if icy cold atmosphere. The constant blizzard of bladelike shards makes Ocanthus inimical to creatures and objects alike.
@@ -73,4 +77,8 @@ The shards are black ice, frozen into thin layers. Their collisions break them i
 
 No one knows whether the ice sheet is a boundary or a barrier between Ocanthus and some deeper, more sinister layer. Some say that the ice is the destination of the River Styx, and that every memory stolen by the river still exists, frozen into the black ice. Whatever the truth, the ice sheet has objective directional gravity, and it is possible that it is simply a shard of black ice so large that it is mistaken for Ocanthus's boundary.
 
-**Surviving an Ocanthus Bladestorm:** Creatures that are not protected by some supremely strong artificial structure (which eventually is breached anyway) are constantly vulnerable to shards slicing through the darkness like knives. <!-- Creatures and objects are subject to the equivalent of a greatsword attack (2d6 points of damage) every round at a +10 bonus on the attack roll. Damage reduction does not apply, but hardness does. -->
+**Surviving an Ocanthus Bladestorm:** Creatures that are not protected by some supremely strong artificial structure (which eventually is breached anyway) are constantly vulnerable to shards slicing through the darkness like knives. 
+
+<!-- 
+Creatures and objects are subject to the equivalent of a greatsword attack (2d6 points of damage) every round at a +10 bonus on the attack roll. Damage reduction does not apply, but hardness does. 
+-->

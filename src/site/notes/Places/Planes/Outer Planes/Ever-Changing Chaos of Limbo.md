@@ -18,7 +18,8 @@ Limbo is filled with wonders beyond count. Random surges of elemental fire light
 ## Planar Links
 Permanent portals exist between various planes and Limbo. However, a huge ball of fire, a pile of boulders, or a terrible windstorm could surround the Limbo side of the portal. Thus, entering Limbo can be quite dangerous for visitors unprepared to deal with the plane of chaos.
 
-## <!-- Controlling Limbo
+<!-- 
+Controlling Limbo
 There are three kinds of terrain in Limbo: uncontrolled raw areas, controlled areas, and stabilized areas. Raw areas make up most of the plane, while the controlled areas (also called tended areas) and stabilized areas are tiny islands in comparison.
 
 ### Raw Limbo
@@ -71,7 +72,8 @@ Consult the table below to determine how large an area a character can control.
 Once control is achieved, it lasts as long as the controller remains in the controlled area, or until another creature succeeds in wresting control away. Controlled areas drift at 1d4×10 feet per round in a random direction. If more than one creature successfully gains control of an area at the same time, control goes to the contender with the highest Intelligence. If two controlled areas of Limbo move so they overlap, the overlap area remains under the power of the controller with the higher Intelligence. In the case of a tie, in either case, compare Charisma scores.
 
 ### Stabilized Limbo
-A section of Limbo becomes stabilized if a creature of sufficiently high Wisdom creates it within an area of control. The stabilized area in the center of the area of control retains its traits. It drifts at the whim of Limbo's chaotic currents and, if not protected, is eventually eroded by repeated immersions in the elemental surges. For instance, a 5-foot-radius ball of fire could become stable if created by a creature with a Wisdom of 20 or higher. Over the course of several dunks in water, however, it is eroded and finally dissipated. However, industrious creatures can bring bits of stabilized earth together and use them as the foundation for permanent structures, especially if tended by guardians. -->
+A section of Limbo becomes stabilized if a creature of sufficiently high Wisdom creates it within an area of control. The stabilized area in the center of the area of control retains its traits. It drifts at the whim of Limbo's chaotic currents and, if not protected, is eventually eroded by repeated immersions in the elemental surges. For instance, a 5-foot-radius ball of fire could become stable if created by a creature with a Wisdom of 20 or higher. Over the course of several dunks in water, however, it is eroded and finally dissipated. However, industrious creatures can bring bits of stabilized earth together and use them as the foundation for permanent structures, especially if tended by guardians. 
+-->
 
 ## Inhabitants
 Slaadi and githzerai are commonly associated with Limbo. Of the two, only the slaadi have been natives since time began. The githzerai arrived far later, seeing the entire plane as a challenge to their indomitable spirit. Limbo is also a harsh proving ground for their particular ethos: "Pain is weakness leaving your body."
@@ -82,14 +84,16 @@ The few githzerai who follow a monastic calling also follow the dictates of law,
 
 The petitioners of Limbo are those who revere chaos above all else. Some come to embody the plane, while others linger as insane spirits composed of shifting limbo-stuff.
 
-## <!-- Petitioners
+<!-- 
+Petitioners
 Petitioners who reach Limbo gain the following special qualities:
 
 **Additional Immunities:** Fire, cold.
 
 **Resistances:** Electricity 20, acid 20.
 
-**Other Special Qualities:** The petitioners of Limbo who are not absorbed back into the plane often appear as swirling masses of chaos-stuff, gibbering and laughing without regard to their surroundings. Like slaadi, Limbo's petitioners automatically control the chaos in their personal vicinity even if unconscious or flat-footed, rendering them immune to their tempestuous environment. -->
+**Other Special Qualities:** The petitioners of Limbo who are not absorbed back into the plane often appear as swirling masses of chaos-stuff, gibbering and laughing without regard to their surroundings. Like slaadi, Limbo's petitioners automatically control the chaos in their personal vicinity even if unconscious or flat-footed, rendering them immune to their tempestuous environment. 
+-->
 
 ## Movement and Combat
 Like everything else in Limbo, movement depends on the local conditions. Where air is dominant, a traveler can take advantage of the subjective gravity trait to fall in a desired direction at a maximum speed of 300 feet. Travelers in fire-dominant areas can also take advantage of subjective gravity, assuming the traveler can survive the trip. Swimming through water and burrowing through earth are also possibilities.
