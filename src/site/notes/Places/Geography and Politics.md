@@ -16,15 +16,15 @@ On the realm of [[Places/Materia\|Materia]], there are many realms. Realms are p
 
 ## Planes of Existence
 
-The multiverse is filled with many dimensions, not just [[Places/Materia\|Materia]]. From the sprawling metropolis of [[Seven Mounting Heavens of Celestia\|Celestia]], Or the endless horrid layers of the [[Infinite Layers of the Abyss\|Abyss]], To the endless flames of the [[Elemental Plane of Fire\|Plane of Fire]]
+The multiverse is filled with many dimensions, not just [[Places/Materia\|Materia]]. From the sprawling metropolis of [[Places/Planes/Outer Planes/Seven Mounting Heavens of Celestia\|Celestia]], Or the endless horrid layers of the [[Places/Planes/Outer Planes/Infinite Layers of the Abyss\|Abyss]], To the endless flames of the [[Elemental Plane of Fire\|Plane of Fire]]
 
-#### [[Planes (to be finished and moved to places)/Inner Planes\|Inner Planes]]
-
-
-
-#### [[Planes (to be finished and moved to places)/Outer Planes\|Outer Planes]]
+#### [[Places/Planes/Inner Planes\|Inner Planes]]
 
 
 
-#### [[Transitive Planes\|Transitive Planes]]
+#### [[Places/Planes/Outer Planes\|Outer Planes]]
+
+
+
+#### [[Places/Planes/Transitive Planes\|Transitive Planes]]
 
