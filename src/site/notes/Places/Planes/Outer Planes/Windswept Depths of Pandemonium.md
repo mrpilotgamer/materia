@@ -23,10 +23,10 @@ The name Pandemonium means "uproar and commotion." As its definition implies, th
 
 There are four layers on Pandemonium, and the terrible windstorms can blow through any one of them. Vision on Pandemonium is much like any deep underground locations on the Material Plane where there is no natural light.
 
-### Hearing on Pandemonium
+<!-- 
+Hearing on Pandemonium
 The constant screams of the wind make it impossible to hear anything beyond 10 feet. Likewise, spells and effects that rely on sonic energy have their range limited to 10 feet. Travelers are temporarily deafened after 1d10 rounds of exposure to the winds, and permanently deafened after 24 hours of exposure. Temporarily deafened characters regain their hearing after 1 hour spent out of the wind. Ear plugs or similar devices negate the deafening effect. Of course, wearing ear-plugs effectively mimics the normal effects of being deafened.
 
-<!-- 
 Windstorms on Pandemonium
 The constant winds on Pandemonium can gust with howls so maddening and speeds so enormous that they become dangerous.
 
