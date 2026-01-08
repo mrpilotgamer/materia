@@ -10,7 +10,7 @@ According to the little answers we can get from communing with the gods, and inf
 
 ## Primordials
 
-The Primordials long let the gods walk the realms, likely due to the Primordials not seeing them as a threat to the worlds balance. However, still unknown to this day, is what tipped the scales. Some hypothesize that it may have been a reason similar to what happened to cause the [[History/Ages/Age of Incursion\|Age of Incursion]], while others think is may be some other, more dangerous reason, that still no god or being has yet spoken of.
+The Primordials long let the gods walk the realms, likely due to the Primordials not seeing them as a threat to the worlds balance. However, it is still unknown to this day what tipped the scales. Some hypothesize that it may have been a reason similar to what happened to cause the [[History/Ages/Age of Incursion\|Age of Incursion]], while others think is may be some other, more dangerous reason, that still no god or being has yet spoken of.
 
 ## Gods
 

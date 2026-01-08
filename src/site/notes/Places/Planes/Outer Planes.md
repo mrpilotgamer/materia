@@ -37,3 +37,4 @@
 [[Places/Planes/Outer Planes/Clockwork Nirvana of Mechanus\|Clockwork Nirvana of Mechanus]] - Infinite interlocking cogs turning in perfect mathematical harmony, where inevitables enforce absolute law without mercy or malice.
 
 [[Places/Planes/Outer Planes/Concordant Domains of the Outlands\|Concordant Domains of the Outlands]] - The neutral hub of the multiverse where magic weakens with distance from the central Spire, topped by Sigil, the City of Doors.
+
