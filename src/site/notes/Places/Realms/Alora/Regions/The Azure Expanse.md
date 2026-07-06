@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-azure-expanse/"}
+{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-azure-expanse/","dg-note-properties":{}}
 ---
 
 # The Azure Expanse

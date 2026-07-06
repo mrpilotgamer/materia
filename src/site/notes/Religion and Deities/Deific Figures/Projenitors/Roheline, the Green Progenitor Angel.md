@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/roheline-the-green-progenitor-angel/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/roheline-the-green-progenitor-angel/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Community","Good","Healing","Plant"],"portfolio":["Charity","Generosity","Asceticism"],"worshipers":["Ascetics","Charitable orders"],"favored-weapon":"Sickle","holy-symbol":"Empty hands offering seeds in green and brown","sacred-animal":"Bee","sacred-colors":["Green","Brown"]}}
 ---
 
 # Roheline, Green Progenitor Angel

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/transitive-planes/the-astral-plane/"}
+{"dg-publish":true,"permalink":"/places/planes/transitive-planes/the-astral-plane/","dg-note-properties":{"type":"plane","category":"transitive"}}
 ---
 
 

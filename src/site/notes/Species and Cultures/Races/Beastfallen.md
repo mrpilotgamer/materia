@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/races/beastfallen/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/races/beastfallen/","dg-note-properties":{"type":"race","category":"uncommon","size":"Medium","lifespan":"unknown","origin-era":"unknown"}}
 ---
 
 # Beastfallen

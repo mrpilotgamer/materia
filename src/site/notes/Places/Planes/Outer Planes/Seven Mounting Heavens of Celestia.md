@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/seven-mounting-heavens-of-celestia/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/seven-mounting-heavens-of-celestia/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/valge-the-white-progenitor-angel/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/valge-the-white-progenitor-angel/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Death","Glory","Liberation","Repose"],"portfolio":["Fullness","Closeness","Death"],"worshipers":["Travellers","Death-or-Glory Warriors"],"favored-weapon":"Bastard Sword","holy-symbol":"A lark rising from cupped hands in white and grey","sacred-animal":"Lark","sacred-colors":["White","Grey"]}}
 ---
 
 # Valge, White Progenitor Angel

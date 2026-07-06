@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/millary-god-of-jealousy/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/millary-god-of-jealousy/","dg-note-properties":{"type":"deity","tier":"god","domain":["Artifice","Charm","Madness","Trickery","Water"],"portfolio":["Envy","Wealth","Lies"],"worshipers":["Thieves","Lowerclass Noblemen"],"favored-weapon":"Dagger","holy-symbol":"A dagger, stabbing into a coin purse","sacred-animal":"Snake","sacred-colors":["Green","Black"]}}
 ---
 
 # Millary, God of Jealousy

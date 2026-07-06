@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/materia/"}
+{"dg-publish":true,"permalink":"/places/materia/","dg-note-properties":{}}
 ---
 
 ## Materia, The Material Plane

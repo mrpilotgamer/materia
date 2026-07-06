@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/peaceable-kingdoms-of-arcadia/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/peaceable-kingdoms-of-arcadia/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

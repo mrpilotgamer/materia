@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history/ages/age-of-incursion/"}
+{"dg-publish":true,"permalink":"/history/ages/age-of-incursion/","dg-note-properties":{}}
 ---
 
 # Age of Incursion

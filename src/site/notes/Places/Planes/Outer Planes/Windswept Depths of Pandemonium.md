@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/windswept-depths-of-pandemonium/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/windswept-depths-of-pandemonium/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

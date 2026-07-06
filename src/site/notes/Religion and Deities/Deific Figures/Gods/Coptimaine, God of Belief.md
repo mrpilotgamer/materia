@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/coptimaine-god-of-belief/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/coptimaine-god-of-belief/","dg-note-properties":{"type":"deity","tier":"god","domain":["Charm","Healing","Luck","Sun","Travel"],"portfolio":["Hope","Joy","Light"],"worshipers":["Poor","Farmers","Former criminals"],"favored-weapon":"Quarterstaff","holy-symbol":"The sun, shining down on a person in need","sacred-animal":"Dove","sacred-colors":["White","Yellow"]}}
 ---
 
 # Coptimaine, God of Belief

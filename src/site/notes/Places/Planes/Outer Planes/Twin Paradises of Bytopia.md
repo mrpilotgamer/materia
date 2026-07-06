@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/twin-paradises-of-bytopia/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/twin-paradises-of-bytopia/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

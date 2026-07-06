@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/infinite-layers-of-the-abyss/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/infinite-layers-of-the-abyss/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

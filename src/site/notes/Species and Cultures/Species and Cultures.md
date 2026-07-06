@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/species-and-cultures/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/species-and-cultures/","dg-note-properties":{}}
 ---
 
 # Species and Cultures

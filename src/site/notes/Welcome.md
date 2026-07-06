@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":null}}
 ---
 
 ###### **A foreward by [[Chief Archivist Zalia Thule\|Chief Archivist Zalia Thule]]**
@@ -15,7 +15,7 @@ For your convenience, I shall direct you to our main archive sections from here
 - [[History/History and Myths\|History and Myths]] - A look at all that's ever happened
 - [[Places/Geography and Politics\|Geography and Politics]] - A look at all mapped regions, and the organizations within
 - [[Bestiary\|Bestiary]] - A look at all the non-sapient creatures identified, and catalogued
-- [[Adventures and Stories\|Adventures and Stories]] - A look at all the stories and legends that have been told
+- [[Adventures And Stories/Adventures and Stories\|Adventures and Stories]] - A look at all the stories and legends that have been told
 
 [^1]: Important to note, not everything in these texts were written by just me. I had assistance from the wonderful works of Researcher T̶̘̪̘̉̉̕͠b̸͎̾̾͋̊y̶̝͔̍̈̇́ủ̵̲̀͛̎h̶̭̪̐k̶̲̰͖̃̌̽̚l̷̨̀̇s̸̩͌
 

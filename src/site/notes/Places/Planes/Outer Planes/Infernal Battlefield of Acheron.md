@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/infernal-battlefield-of-acheron/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/infernal-battlefield-of-acheron/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

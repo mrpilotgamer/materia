@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/punane-the-red-progenitor-angel/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/punane-the-red-progenitor-angel/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Glory","Good","Liberation","War"],"portfolio":["Martyrdom","Self-Sacrifice","Redemption"],"worshipers":["Death-or-Glory Warriors","Revolutionary martyrs"],"favored-weapon":"Longsword","holy-symbol":"A burning heart pierced by a silver blade in red and silver","sacred-animal":"Phoenix","sacred-colors":["Red","Silver"]}}
 ---
 
 # Punane, Red Progenitor Angel

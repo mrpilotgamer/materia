@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/geography-and-politics/"}
+{"dg-publish":true,"permalink":"/places/geography-and-politics/","dg-note-properties":{}}
 ---
 
 # Geography and Politics

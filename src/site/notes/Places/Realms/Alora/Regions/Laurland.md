@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/regions/laurland/"}
+{"dg-publish":true,"permalink":"/places/realms/alora/regions/laurland/","dg-note-properties":{}}
 ---
 
 # Laurland

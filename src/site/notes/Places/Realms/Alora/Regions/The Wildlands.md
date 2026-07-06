@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-wildlands/"}
+{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-wildlands/","dg-note-properties":{}}
 ---
 
 # The Wildlands

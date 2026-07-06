@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/transitive-planes/"}
+{"dg-publish":true,"permalink":"/places/planes/transitive-planes/","dg-note-properties":{}}
 ---
 
 # Transitive Planes

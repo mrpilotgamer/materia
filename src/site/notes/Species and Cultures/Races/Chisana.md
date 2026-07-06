@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/races/chisana/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/races/chisana/","dg-note-properties":{"type":"race","category":"common","size":"Tiny","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
 # Chisana

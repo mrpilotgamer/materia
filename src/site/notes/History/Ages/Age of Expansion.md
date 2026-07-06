@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history/ages/age-of-expansion/"}
+{"dg-publish":true,"permalink":"/history/ages/age-of-expansion/","dg-note-properties":{}}
 ---
 
 # Age of Expansion

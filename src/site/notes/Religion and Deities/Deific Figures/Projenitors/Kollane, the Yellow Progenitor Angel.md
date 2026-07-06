@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/kollane-the-yellow-progenitor-angel/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/kollane-the-yellow-progenitor-angel/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Charm","Glory","Good","Madness"],"portfolio":["Joy","Courage","Contentment"],"worshipers":["Fearless warriors","Eternal optimists"],"favored-weapon":"Warhammer","holy-symbol":"A sun with a smiling face in yellow and gold","sacred-animal":"Songbird","sacred-colors":["Yellow","Gold"]}}
 ---
 
 # Kollane, Yellow Progenitor Angel

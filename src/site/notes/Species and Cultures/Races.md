@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/races/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/races/","dg-note-properties":{}}
 ---
 
 # Common races

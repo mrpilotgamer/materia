@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/","dg-note-properties":{}}
 ---
 
 # Outer Planes

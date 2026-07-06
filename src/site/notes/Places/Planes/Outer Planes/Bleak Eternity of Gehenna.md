@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/bleak-eternity-of-gehenna/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/bleak-eternity-of-gehenna/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

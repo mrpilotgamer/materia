@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/rouge-the-red-progenitor-demon/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/rouge-the-red-progenitor-demon/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Air","Liberation","Strength","War"],"portfolio":["Anger","Passion","Freedom"],"worshipers":["Soldiers","Slaves"],"favored-weapon":"Battleaxe","holy-symbol":"A broken link of chains covered in blood","sacred-animal":"Horse","sacred-colors":["Red","Silver"]}}
 ---
 
 # Rouge, Red Progenitor Demon

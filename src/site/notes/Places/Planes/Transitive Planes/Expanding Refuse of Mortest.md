@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/transitive-planes/expanding-refuse-of-mortest/"}
+{"dg-publish":true,"permalink":"/places/planes/transitive-planes/expanding-refuse-of-mortest/","dg-note-properties":{"type":"plane","category":"transitive"}}
 ---
 
 

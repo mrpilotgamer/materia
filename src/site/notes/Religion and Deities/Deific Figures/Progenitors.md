@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/progenitors/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/progenitors/","dg-note-properties":{}}
 ---
 
 # Progenitors

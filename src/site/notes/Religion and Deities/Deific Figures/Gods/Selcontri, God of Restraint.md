@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/selcontri-god-of-restraint/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/selcontri-god-of-restraint/","dg-note-properties":{"type":"deity","tier":"god","domain":["Community","Earth","Luck","Nobility","War"],"portfolio":["Patience","Self Control","Temperance"],"worshipers":["Soldiers","Recovering Addicts","Monks"],"favored-weapon":"Fist","holy-symbol":"A Pair of Feet Chained to a Ball Weight","sacred-animal":"Monkey","sacred-colors":["Brown","Grey"]}}
 ---
 
 # Selcontri, God of Restraint

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/jaune-the-yellow-progenitor-demon/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/jaune-the-yellow-progenitor-demon/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Evil","Fire","Madness","Plant"],"portfolio":["Madness","Fear","Flames"],"worshipers":["The Insane","Cultists"],"favored-weapon":"Handaxe","holy-symbol":"Fractured geometric patterns in yellow and orange","sacred-animal":"Hare","sacred-colors":["Yellow","Orange"]}}
 ---
 
 # Jaune, Yellow Progenitor Demon

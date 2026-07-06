@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/gray-waste-of-hades/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/gray-waste-of-hades/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

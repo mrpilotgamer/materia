@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/","dg-note-properties":{}}
 ---
 
 # Gods

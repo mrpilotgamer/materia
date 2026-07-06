@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/wilderness-of-the-beastlands/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/wilderness-of-the-beastlands/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-jotuun-nexus/"}
+{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-jotuun-nexus/","dg-note-properties":{"type":"region","realm":[["Alora"]],"hemisphere":"Equatorial to Northern","climate":"Tropical to Temperate"}}
 ---
 
 # The Jotuun Nexus

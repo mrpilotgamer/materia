@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/nine-hells-of-baator/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/nine-hells-of-baator/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

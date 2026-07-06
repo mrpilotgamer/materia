@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/races/human/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/races/human/","dg-note-properties":{"type":"race","category":"common","size":"Medium","lifespan":"70-100 years","origin-era":"Prehistory"}}
 ---
 
 # Human

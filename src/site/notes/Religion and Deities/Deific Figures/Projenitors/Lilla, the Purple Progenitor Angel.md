@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/lilla-the-purple-progenitor-angel/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/lilla-the-purple-progenitor-angel/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Community","Good","Knowledge","Nobility"],"portfolio":["Unity","Harmony","Collective Will"],"worshipers":["Communes","Collective councils"],"favored-weapon":"Morningstar","holy-symbol":"Interlocking circles forming a single crown in purple and gold","sacred-animal":"Ant","sacred-colors":["Purple","Gold"]}}
 ---
 
 # Lilla, Purple Progenitor Angel

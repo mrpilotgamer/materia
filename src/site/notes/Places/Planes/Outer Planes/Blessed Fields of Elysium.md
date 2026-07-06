@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/blessed-fields-of-elysium/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/blessed-fields-of-elysium/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

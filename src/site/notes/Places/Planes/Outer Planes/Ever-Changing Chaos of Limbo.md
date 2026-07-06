@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/ever-changing-chaos-of-limbo/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/ever-changing-chaos-of-limbo/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/races/trox/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/races/trox/","dg-note-properties":{"type":"race","category":"common","size":"Large","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
 # Trox

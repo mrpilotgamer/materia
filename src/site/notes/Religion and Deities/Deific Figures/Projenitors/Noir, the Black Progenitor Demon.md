@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/noir-the-black-progenitor-demon/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/noir-the-black-progenitor-demon/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Destruction","Magic","Rune","Strength"],"portfolio":["Power","Hierarchies","Dominance"],"worshipers":["Dictators","Warriors"],"favored-weapon":"Unarmed","holy-symbol":"A stepped pyramid in black and red","sacred-animal":"Eagle","sacred-colors":["Black","Red"]}}
 ---
 
 # Noir, Black Progenitor Demon

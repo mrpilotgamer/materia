@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-crimson-lands/"}
+{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-crimson-lands/","dg-note-properties":{}}
 ---
 
 # The Crimson Lands

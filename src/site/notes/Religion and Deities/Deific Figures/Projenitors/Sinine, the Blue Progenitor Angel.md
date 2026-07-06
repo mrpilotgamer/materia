@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/sinine-the-blue-progenitor-angel/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/sinine-the-blue-progenitor-angel/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Community","Good","Knowledge","Law"],"portfolio":["Truth","Transparency","Honesty"],"worshipers":["Judges","Confessors"],"favored-weapon":"Quarterstaff","holy-symbol":"An open book with no cover in blue and silver","sacred-animal":"Mirror Beetle","sacred-colors":["Blue","Silver"]}}
 ---
 
 # Sinine, Blue Progenitor Angel

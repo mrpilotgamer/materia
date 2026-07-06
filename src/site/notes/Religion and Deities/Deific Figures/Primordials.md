@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/","dg-note-properties":{}}
 ---
 
 # Primordials

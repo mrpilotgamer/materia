@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/dilliminner-god-of-caution/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/dilliminner-god-of-caution/","dg-note-properties":{"type":"deity","tier":"god","domain":["Artifice","Death","Rune","Strength","Time"],"portfolio":["Defense","Wars of Attrition","The Past and Future"],"worshipers":["Guards","Strategists"],"favored-weapon":"Glaive","holy-symbol":"A Shield with an Hourglass Engraved into it","sacred-animal":"Oxen","sacred-colors":["White","Gold"]}}
 ---
 
 # Dilliminner, God of Caution

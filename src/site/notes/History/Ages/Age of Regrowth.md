@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history/ages/age-of-regrowth/"}
+{"dg-publish":true,"permalink":"/history/ages/age-of-regrowth/","dg-note-properties":{}}
 ---
 
 # Age of Regrowth

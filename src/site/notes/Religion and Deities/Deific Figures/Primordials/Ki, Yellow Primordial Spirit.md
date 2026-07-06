@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/ki-yellow-primordial-spirit/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/ki-yellow-primordial-spirit/","dg-note-properties":{"type":"deity","tier":"primordial","domain":["Charm","Fire","Sun","Weather"],"portfolio":["The Sun","Warmth","Summer"],"worshipers":["Gardeners","Mannee"],"holy-symbol":"A radiant sun pattern of yellow and red","sacred-animal":"Canary","sacred-colors":["Yellow","Red"]}}
 ---
 
 # Ki, Yellow Primordial Spirit

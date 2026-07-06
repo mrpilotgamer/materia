@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/heroic-domains-of-ysgard/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/heroic-domains-of-ysgard/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

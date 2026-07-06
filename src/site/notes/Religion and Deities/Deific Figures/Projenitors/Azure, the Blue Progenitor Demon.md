@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/azure-the-blue-progenitor-demon/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/azure-the-blue-progenitor-demon/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Charm","Madness","Trickery","Water"],"portfolio":["Manipulation","Deception","Suicide"],"worshipers":["Political manipulators","Chronic liars"],"favored-weapon":"Scythe","holy-symbol":"Tangled blue strings forming a web","sacred-animal":"Coyote","sacred-colors":["Blue","Pink"]}}
 ---
 
 # Azure, Blue Progenitor Demon

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/clockwork-nirvana-of-mechanus/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/clockwork-nirvana-of-mechanus/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

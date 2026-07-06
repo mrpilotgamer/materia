@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/cultures/eldar/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/cultures/eldar/","dg-note-properties":{"type":"culture","origin-region":"The Wildlands","distribution":"Dominant in all four Wildlands nations, diaspora in coastal regions","common-races":["Daemedi","Human","Vullukk"],"language-family":"Eldaran (multiple modern dialects)"}}
 ---
 
 # Eldar

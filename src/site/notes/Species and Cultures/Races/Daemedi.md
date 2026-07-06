@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/races/daemedi/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/races/daemedi/","dg-note-properties":{"type":"race","category":"common","size":"Medium","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
 # Daemedi

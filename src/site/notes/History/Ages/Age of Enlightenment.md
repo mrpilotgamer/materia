@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history/ages/age-of-enlightenment/"}
+{"dg-publish":true,"permalink":"/history/ages/age-of-enlightenment/","dg-note-properties":{}}
 ---
 
 # Age of Enlightenment

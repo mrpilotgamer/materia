@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/yearma-god-of-desire/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/yearma-god-of-desire/","dg-note-properties":{"type":"deity","tier":"god","domain":["Charm","Destruction","Healing","Liberation","Trickery"],"portfolio":["Desire","Relationships","Yearning"],"worshipers":["Lovers","Those with taboo desires"],"favored-weapon":"Whip","holy-symbol":"A Glowing hand reaching out to something out of sight","sacred-animal":"Panther","sacred-colors":["Blue","Pink"]}}
 ---
 
 # Yearma, God of Desire

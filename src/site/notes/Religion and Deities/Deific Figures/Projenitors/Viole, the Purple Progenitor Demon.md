@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/viole-the-purple-progenitor-demon/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/viole-the-purple-progenitor-demon/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Charm","Glory","Nobility","Trickery"],"portfolio":["Nobility","Armies","Political Schemes"],"worshipers":["Nobles","Monarchs"],"favored-weapon":"Whip","holy-symbol":"A golden crown pierced by a coiled purple serpent","sacred-animal":"Snake","sacred-colors":["Purple","Gold"]}}
 ---
 
 # Viole, Purple Progenitor Demon

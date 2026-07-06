@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/must-the-black-progenitor-angel/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/must-the-black-progenitor-angel/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Community","Glory","Good","Law"],"portfolio":["Obedience","Hierarchy","Service"],"worshipers":["Devoted soldiers","Servants"],"favored-weapon":"Longsword","holy-symbol":"A crown above an open palm in black and gold","sacred-animal":"Dog","sacred-colors":["Black","Gold"]}}
 ---
 
 # Must, Black Progenitor Angel

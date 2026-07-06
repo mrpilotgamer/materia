@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/concordant-domains-of-the-outlands/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/concordant-domains-of-the-outlands/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/races/yol-mar/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/races/yol-mar/","dg-note-properties":{"type":"race","category":"common","size":"Medium","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
 # Yol-Mar

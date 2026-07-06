@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history/ages/prehistory/"}
+{"dg-publish":true,"permalink":"/history/ages/prehistory/","dg-note-properties":{}}
 ---
 
 # Prehistory

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/races/grendal/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/races/grendal/","dg-note-properties":{"type":"race","category":"common","size":"Small","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
 # Grendal

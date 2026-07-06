@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history/great-schism-war/"}
+{"dg-publish":true,"permalink":"/history/great-schism-war/","dg-note-properties":{}}
 ---
 
 # Great Schism War

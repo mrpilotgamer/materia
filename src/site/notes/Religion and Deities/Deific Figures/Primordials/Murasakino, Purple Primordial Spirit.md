@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/murasakino-purple-primordial-spirit/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/murasakino-purple-primordial-spirit/","dg-note-properties":{"type":"deity","tier":"primordial","domain":["Earth","Luck","Madness","Magic"],"portfolio":["Magic","Caves","Change"],"worshipers":["Magic Casters","Trox"],"holy-symbol":"A circle divided by a horizontal line, purple above and brown below","sacred-animal":"Raven","sacred-colors":["Purple","Brown"]}}
 ---
 
 # Murasakino, Purple Primordial Spirit

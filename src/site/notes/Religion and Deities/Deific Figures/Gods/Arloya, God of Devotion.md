@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/arloya-god-of-devotion/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/arloya-god-of-devotion/","dg-note-properties":{"type":"deity","tier":"god","domain":["Community","Healing","Protection","Sun","War"],"portfolio":["Loyalty","Oaths","Crusades"],"worshipers":["Paladins","Those looking for purpose"],"favored-weapon":"Longspear","holy-symbol":"A Golden Sword with a Sun Shining Above","sacred-animal":"Salmon","sacred-colors":["Blue","Silver"]}}
 ---
 
 # Arloya, God of Devotion

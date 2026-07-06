@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/races/araki/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/races/araki/","dg-note-properties":{"type":"race","category":"common","size":"Medium","lifespan":"functionally immortal","origin-era":"Prehistory"}}
 ---
 
 # Araki

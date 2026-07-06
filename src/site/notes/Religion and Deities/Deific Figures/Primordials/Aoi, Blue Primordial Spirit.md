@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/aoi-blue-primordial-spirit/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/aoi-blue-primordial-spirit/","dg-note-properties":{"type":"deity","tier":"primordial","domain":["Air","Healing","Water","Weather"],"portfolio":["Oceans","Rivers","Storms"],"worshipers":["Sailors","Fishers"],"holy-symbol":"A spiral of blue and yellow","sacred-animal":"Blue Whale","sacred-colors":["Blue","Yellow"]}}
 ---
 
 # Aoi, Blue Primordial Spirit

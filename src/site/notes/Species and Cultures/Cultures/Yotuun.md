@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/species-and-cultures/cultures/yotuun/"}
+{"dg-publish":true,"permalink":"/species-and-cultures/cultures/yotuun/","dg-note-properties":{"type":"culture","origin-region":"The Jotuun Nexus","distribution":"Dominant across Hovden, Kingdom of Stamvia, and Khania","common-races":["Yol-Mar","Human","Daemedi"],"language-family":"Yotuun (Old Yotuun preserved in oral tradition)"}}
 ---
 
 # Yotuun

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history/history-and-myths/"}
+{"dg-publish":true,"permalink":"/history/history-and-myths/","dg-note-properties":{}}
 ---
 
 # History and Myths

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/blanc-the-white-progenitor-demon/"}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/projenitors/blanc-the-white-progenitor-demon/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Death","Repose","Travel","Void"],"portfolio":["Emptiness","Distance","Death"],"worshipers":["Travelers","Self isolationists"],"favored-weapon":"Dagger","holy-symbol":"A doorway opening to nothing","sacred-animal":"Owl","sacred-colors":["White","Grey"]}}
 ---
 
 # Blanc, White Progenitor Demon

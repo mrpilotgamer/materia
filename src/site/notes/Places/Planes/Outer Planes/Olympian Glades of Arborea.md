@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/planes/outer-planes/olympian-glades-of-arborea/"}
+{"dg-publish":true,"permalink":"/places/planes/outer-planes/olympian-glades-of-arborea/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
 

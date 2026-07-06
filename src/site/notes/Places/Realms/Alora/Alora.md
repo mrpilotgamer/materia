@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/alora/"}
+{"dg-publish":true,"permalink":"/places/realms/alora/alora/","dg-note-properties":{}}
 ---
 
 # Alora

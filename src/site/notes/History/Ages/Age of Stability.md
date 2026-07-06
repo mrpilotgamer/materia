@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history/ages/age-of-stability/"}
+{"dg-publish":true,"permalink":"/history/ages/age-of-stability/","dg-note-properties":{}}
 ---
 
 # Age of Stability
