@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/cultures/eldar/","dg-note-properties":{"type":"culture","origin-region":"The Wildlands","distribution":"Dominant in all four Wildlands nations, diaspora in coastal regions","common-races":["Daemedi","Human","Vullukk"],"language-family":"Eldaran (multiple modern dialects)"}}
 ---
 
-# Eldar
-*"Roads, Law, and the Weight of History"*
-
 ## Overview
 
 The Eldar are builders who think in centuries rather than seasons, a people whose cultural identity rests on permanent infrastructure and civic institutions that outlast any individual or government. Where Eldar roads run, civilization follows—not through conquest but through the practical demonstration that organized communities with written law and maintained infrastructure simply work better. Though politically divided among four nations today, Eldar culture remains remarkably unified through shared language, legal traditions, and the ever-present reminder of ancient stone roads that still carry traffic centuries after construction.

@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/species-and-cultures/","dg-note-properties":{}}
 ---
 
-# Species and Cultures
-
 There are many creatures, both sapient and not, that walk these worlds. As such, there are also many lifestyles, traditions, and cultures across the realms. Here, we have a few categories for you to browse, to explore the vast amount of creatures and peoples in our world
 
 ## [[Species and Cultures/Races\|Races]]

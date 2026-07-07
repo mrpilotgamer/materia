@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/olympian-glades-of-arborea/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Olympian Glades of Arborea
 *"A plane of passion and peace"*
 *"Abundant nature in its patchwork glory"*
 *"The domain of the Mannee Lords"*

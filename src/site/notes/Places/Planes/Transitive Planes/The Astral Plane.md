@@ -3,7 +3,6 @@
 ---
 
 
-# Astral Plane
 *"The space between everything"*
 *"The road that goes everywhere"*
 *"Where you are when you aren't anywhere else"*

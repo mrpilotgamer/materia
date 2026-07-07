@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/gray-waste-of-hades/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Gray Waste of Hades
 *"Where evil springs eternal"*
 *"A plane of endless apathy and despair"*
 *"The great battlefield of the Blood War"*

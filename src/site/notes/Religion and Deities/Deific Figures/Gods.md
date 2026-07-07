@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/","dg-note-properties":{}}
 ---
 
-# Gods
-
 Gods, among the lower ranks of deific beings, are still among the most recognizable to mortals on the material plane. Gods have not always existed, and we can trace their history to sometime just before the [[History/Great Schism War\|Great Schism War]]
 
 Gods are also known to require worship, whether it be because it allows them to continue existing, or because it correlates with their power. Due to this, they are the most well known to take clergy, and have temples built in their names. [^1]

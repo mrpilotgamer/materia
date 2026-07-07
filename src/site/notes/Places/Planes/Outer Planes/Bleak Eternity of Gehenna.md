@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/bleak-eternity-of-gehenna/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Bleak Eternity of Gehenna
 *"The Oven of Perdition"*
 *"The Fourfold Furnaces"*
 *"A plane without charity, mercy, or pity"*

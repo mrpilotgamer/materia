@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/peaceable-kingdoms-of-arcadia/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Peaceable Kingdoms of Arcadia
 *"The land of perfection"*
 *"Where laws are made for the common good"*
 *"The plane where harmony is born"*

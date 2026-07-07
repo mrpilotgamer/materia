@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/alfugel-god-of-hatred/","dg-note-properties":{"type":"deity","tier":"god","domain":["Death","Destruction","Fire","Strength","War"],"portfolio":["Offense","Destruction","Anger"],"worshipers":["Warriors","Trox","Barbarians"],"favored-weapon":"Greataxe","holy-symbol":"A Cracked Skull with Flames in its Eyes","sacred-animal":"Tiger","sacred-colors":["Black","Red"]}}
 ---
 
-# Alfugel, God of Hatred
 *"The Embodiment of Rage" • "Bringer of Death"*
 
 ## Overview

@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/races/human/","dg-note-properties":{"type":"race","category":"common","size":"Medium","lifespan":"70-100 years","origin-era":"Prehistory"}}
 ---
 
-# Human
-*"The Enduring"*
-
 ## Physical Description
 
 Humans possess no remarkable physical features—no scales, thick hides, or natural armor that mark other races. They are creatures of average build and unremarkable appearance, distinguished more by their variety than any single defining trait. What they lack in natural defenses, they compensate for through adaptability and determination.

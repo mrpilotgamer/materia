@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/","dg-note-properties":{}}
 ---
 
-# Primordials
-
 The Primordials are ancient nature spirits, and lord over [[Places/Materia\|Materia]]. They each occupy core concepts of nature, from the living, to the seas, to the skies above.
 
 It is unknown at this time the origins of these beings. Its believed they may have existed forever, from the dawn of creation. Or perhaps they arrived here, and shaped our home to what it is now. Regardless, they are the arbiters of [[Places/Materia\|Materia]], and few can argue their providence on their own home grounds.

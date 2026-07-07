@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/windswept-depths-of-pandemonium/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Windswept Depths of Pandemonium
 *"A place of howling, screaming winds"*
 *"An underground realm of stygian darkness"*
 *"Where sanity is besieged by unending madness"*

@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/infernal-battlefield-of-acheron/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Infernal Battlefield of Acheron
 *"Where ignorant armies clash by night"*
 *"The refuse-plane of a million failed rebellions"*
 *"A plane of enforced order, where conformity is more important than good"*

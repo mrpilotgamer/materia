@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/races/trox/","dg-note-properties":{"type":"race","category":"common","size":"Large","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
-# Trox
-*"Children of the Deep"*
-
 ## Physical Description
 
 Powerfully built and imposing, the Trox are insect-like humanoids of large stature who tower over most other races. They walk upright on two strong, chitinous legs, possess two primary arms capable of wielding weapons and performing heavy labor, and feature four smaller vestigial arms extending from their midsection that serve mainly for manipulating small objects. Their exoskeleton provides natural protection, and their clawed hands serve as formidable natural weapons.

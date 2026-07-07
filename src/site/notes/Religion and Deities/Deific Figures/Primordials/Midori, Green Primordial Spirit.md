@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/midori-green-primordial-spirit/","dg-note-properties":{"type":"deity","tier":"primordial","domain":["Animal","Community","Plant","Weather"],"portfolio":["Forests","Plants","Animals","Spring"],"worshipers":["Druids","Hunters"],"holy-symbol":"A spiral of green and orange","sacred-animal":"Deer","sacred-colors":["Green","Orange"]}}
 ---
 
-# Midori, Green Primordial Spirit
 *"The Majesty of the Forest" • "Ruler of All That Lives"*
 
 ## Overview

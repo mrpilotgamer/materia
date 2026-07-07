@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/arlaxena-god-of-leisure/","dg-note-properties":{"type":"deity","tier":"god","domain":["Animal","Nobility","Plant","Rune","Water"],"portfolio":["Rest","Rivers","Traps"],"worshipers":["Procrastinators","Labor Workers"],"favored-weapon":"Hand Crossbow","holy-symbol":"A Hammock Hanging Between Two Trees","sacred-animal":"Sloth","sacred-colors":["Blue","Green"]}}
 ---
 
-# Arlaxena, God of Leisure
 *"Master of Well-Being" • "Savior of the Restless"*
 
 ## Overview

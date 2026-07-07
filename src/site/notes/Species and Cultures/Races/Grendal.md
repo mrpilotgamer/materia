@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/races/grendal/","dg-note-properties":{"type":"race","category":"common","size":"Small","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
-# Grendal
-*"The Silver-Tongued"*
-
 ## Physical Description
 
 Small in stature and built for speed rather than combat, Grendals possess an unassuming appearance that belies their considerable social prowess. Their slight frames and quick movements make them easily underestimated, an advantage many Grendals have learned to exploit through centuries of avoiding direct confrontation.

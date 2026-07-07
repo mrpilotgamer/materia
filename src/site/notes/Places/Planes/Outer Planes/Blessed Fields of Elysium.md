@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/blessed-fields-of-elysium/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Blessed Fields of Elysium
 *"The source of the River Oceanus"*
 *"A place of ultimate goodness"*
 *"A land so pleasant you may never want to leave"*

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/history/ages/age-of-incursion/","dg-note-properties":{}}
 ---
 
-# Age of Incursion
 *4673 PC - 4759 PC*
 
 Once nature was almost at the point of no return, The [[Religion and Deities/Deific Figures/Primordials\|Primordials]] and [[Fey\|Fey]] creatures intervenes, bringing down wrath upon Civilization unseen since the [[History/Great Schism War\|Great Schism War]].

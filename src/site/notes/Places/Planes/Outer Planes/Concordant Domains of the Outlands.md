@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/concordant-domains-of-the-outlands/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Concordant Domains of the Outlands
 *"The meeting place of opposed alignments"*
 *"The fulcrum of the Outer Planes"*
 *"The hub of the Great Wheel"*

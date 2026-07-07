@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/mendura-god-of-courage/","dg-note-properties":{"type":"deity","tier":"god","domain":["Community","Glory","Protection","Strength","Water"],"portfolio":["Defense","Fortitude","Stoicism"],"worshipers":["Knights","Bodyguards","Parents"],"favored-weapon":"Longsword","holy-symbol":"A shield, that appears to bear the scars of many fractures and shattering","sacred-animal":"Ram","sacred-colors":["Grey","Purple"]}}
 ---
 
-# Mendura, God of Courage
 *"Master of the Shield" • "Jarl of the Jotuun Nexus"*
 
 ## Overview

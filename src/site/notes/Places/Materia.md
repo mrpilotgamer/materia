@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/places/materia/","dg-note-properties":{}}
 ---
 
-## Materia, The Material Plane
+## The Material Plane
 
 Also Known as the Material Plane, Materia is best known for being the home of the [[Religion and Deities/Deific Figures/Primordials\|Primordials]] and the spawning ground of the [[Fey\|Fey]]
 

@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/clockwork-nirvana-of-mechanus/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Clockwork Nirvana of Mechanus
 *"The plane of ultimate law"*
 *"Where premeditated plans are born"*
 *"The gear works for the multiverse"*

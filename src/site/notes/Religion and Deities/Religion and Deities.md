@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/religion-and-deities/","dg-note-properties":{}}
 ---
 
-# Religion and Deities
-
 In the multiverse, there are many beings that can make claim to being of a deific level. Some, like the [[Religion and Deities/Deific Figures/Primordials\|Primordials]], have no contesters to their power and authority. Some, like Empyreal lords and Demon Lords, are in constant flux, due to competition and contests of power [^1]
 
 #### [[Religion and Deities/Deific Figures/Gods\|Gods]]

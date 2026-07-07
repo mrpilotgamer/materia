@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/ever-changing-chaos-of-limbo/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Ever-Changing Chaos of Limbo
 *"Where everything, and nothing, is possible"*
 *"Where raw chaos seethes"*
 *"Where the elements come to die"*

@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/history/ages/prehistory/","dg-note-properties":{}}
 ---
 
-# Prehistory
-
 Precious Little is known about the time before the [[History/Great Schism War\|Great Schism War]]. Here, we outline what little we can postulate so far
 
 ## Magic

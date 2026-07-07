@@ -3,7 +3,6 @@
 ---
 
 
-# Mortest
 *"An endless expanse of nothing"*
 *"Where one battles for the fate of their existence"*
 *"Where the dead go, to fight for their afterlife"*

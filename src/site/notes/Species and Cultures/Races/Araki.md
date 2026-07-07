@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/races/araki/","dg-note-properties":{"type":"race","category":"common","size":"Medium","lifespan":"functionally immortal","origin-era":"Prehistory"}}
 ---
 
-# Araki
-*"The Undying"*
-
 ## Physical Description
 
 Tall and powerfully built with fierce, muscular appearances that belie their true nature, the Araki possess an unexpected grace and precision in their movements. Despite their imposing physiques, they demonstrate exceptional dexterity and aptitude for tasks requiring finesse rather than brute strength.

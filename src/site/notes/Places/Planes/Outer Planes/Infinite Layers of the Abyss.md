@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/infinite-layers-of-the-abyss/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Infinite Layers of the Abyss
 *"An infinity of clutching horror"*
 *"Home to demons"*
 *"Where morality crumbles and ethics perish"*

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/shiroi-white-primordial-spirit/","dg-note-properties":{"type":"deity","tier":"primordial","domain":["Air","Travel","Water","Weather"],"portfolio":["Winter","Winds","Ice"],"worshipers":["Travelers","Explorers"],"holy-symbol":"A snowflake pattern of white and blue","sacred-animal":"Polar Bear","sacred-colors":["White","Blue"]}}
 ---
 
-# Shiroi, White Primordial Spirit
 *"The Winter Guardian" • "Bringer of Winds"*
 
 ## Overview

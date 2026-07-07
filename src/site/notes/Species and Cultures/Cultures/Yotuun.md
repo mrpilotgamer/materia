@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/cultures/yotuun/","dg-note-properties":{"type":"culture","origin-region":"The Jotuun Nexus","distribution":"Dominant across Hovden, Kingdom of Stamvia, and Khania","common-races":["Yol-Mar","Human","Daemedi"],"language-family":"Yotuun (Old Yotuun preserved in oral tradition)"}}
 ---
 
-# Yotuun
-*"Forged in Fire, Tempered by Fate"*
-
 ## Overview
 
 The Yotuun are a people defined by harsh environments and the conviction that strength proves worth—not cruelty for its own sake, but the undeniable truth that those who cannot endure do not survive. Born in [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]' merciless central desert where fire giant legends run deepest, Yotuun culture values personal prowess, oral tradition, and the bonds of kinship that make survival possible when the land itself offers no mercy. Where they settle, they bring structured assemblies, elaborate oral histories, and the expectation that each person will prove their value to the community.

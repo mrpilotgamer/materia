@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/wathoria-god-of-equity/","dg-note-properties":{"type":"deity","tier":"god","domain":["Darkness","Death","Liberation","Repose","War"],"portfolio":["Death","Judgement","Souls"],"worshipers":["Elderly","Grave diggers","Morticians"],"favored-weapon":"Heavy mace","holy-symbol":"A tombstone with a door carved on it","sacred-animal":"Lion","sacred-colors":["Black","White"]}}
 ---
 
-# Wathoria, God of Equity
 *"Judge of Souls" • "Protector of Life"*
 
 ## Overview

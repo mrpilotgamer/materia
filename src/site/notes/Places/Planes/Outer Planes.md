@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/","dg-note-properties":{}}
 ---
 
-# Outer Planes
-
 [[Places/Planes/Outer Planes/Peaceable Kingdoms of Arcadia\|Peaceable Kingdoms of Arcadia]] - Two layers of geometric perfection where einheriar enforce harmony so rigidly that the third layer already transmigrated to Mechanus.
 
 [[Places/Planes/Outer Planes/Seven Mounting Heavens of Celestia\|Seven Mounting Heavens of Celestia]] - A sacred mountain ascending through seven layers of trials, where archons guide souls toward ultimate union with law and good.

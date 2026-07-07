@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/maltrunity-god-of-benevolence/","dg-note-properties":{"type":"deity","tier":"god","domain":["Air","Healing","Magic","Plant","Weather"],"portfolio":["Charity","Compassion","Healing"],"worshipers":["Altruists","Travelers","Healers"],"favored-weapon":"Sap","holy-symbol":"Two hands, outstretched, holding food and a water jug in a basket","sacred-animal":"Sheep","sacred-colors":["Green","Yellow"]}}
 ---
 
-# Maltrunity, God of Benevolence
 *"Earl of Giving" • "Exalted of the Bounty"*
 
 ## Overview

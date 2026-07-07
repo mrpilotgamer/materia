@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/nine-hells-of-baator/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Nine Hells of Baator
 *"Hell, where sympathy withers and malice blooms"*
 *"Home to devils"*
 *"The plane where the rule of law reveals evil's heart"*

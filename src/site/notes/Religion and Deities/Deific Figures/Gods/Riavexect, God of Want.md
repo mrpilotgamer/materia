@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/riavexect-god-of-want/","dg-note-properties":{"type":"deity","tier":"god","domain":["Earth","Knowledge","Magic","Scalykind","Travel"],"portfolio":["Greed","Knowledge","Dragons"],"worshipers":["Dragons","Scholars","Merchants"],"favored-weapon":"Dual Blade","holy-symbol":"A Dragon head, Looking down upon a hoard of gems, gold, iron, books, and other assorted materials and items","sacred-animal":"Fox","sacred-colors":["Dark blue","Orange"]}}
 ---
 
-# Riavexect, God of Want
 *"Dragon of the Crimson Lands" • "Lord of all Things Owned"*
 
 ## Overview

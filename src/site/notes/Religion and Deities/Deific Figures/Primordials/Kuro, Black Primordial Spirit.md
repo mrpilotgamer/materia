@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/kuro-black-primordial-spirit/","dg-note-properties":{"type":"deity","tier":"primordial","domain":["Erosion","Plant","Repose","Void"],"portfolio":["The Night Sky","The Undergrowth","Decaying Nature"],"worshipers":["Gravekeepers","Stargazers"],"holy-symbol":"A circle half black, half green","sacred-animal":"Maggot","sacred-colors":["Black","Green"]}}
 ---
 
-# Kuro, Black Primordial Spirit
 *"Lord of the Night" • "The Balancer"*
 
 ## Overview

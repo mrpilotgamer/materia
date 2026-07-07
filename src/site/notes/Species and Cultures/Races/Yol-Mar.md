@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/races/yol-mar/","dg-note-properties":{"type":"race","category":"common","size":"Medium","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
-# Yol-Mar
-*"Heirs of Flame"*
-
 ## Physical Description
 
 The Yol-Mar are powerfully built humanoids bearing clear marks of their fire giant ancestry—taller and broader than typical humans, with skin that seems to shimmer with inner heat. Their passionate nature manifests not just in temperament but in physical presence, as they carry themselves with the confidence of those descended from titans. Despite their giant heritage, they stand at humanoid rather than true giant scale.

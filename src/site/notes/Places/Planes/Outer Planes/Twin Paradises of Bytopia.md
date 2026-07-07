@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/twin-paradises-of-bytopia/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Twin Paradises of Bytopia
 *"The plane that faces itself"*
 *"The home of the sincere"*
 *"Two sides of the same coin"*

@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/races/daemedi/","dg-note-properties":{"type":"race","category":"common","size":"Medium","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
-# Daemedi
-*"The Planar-Touched"*
-
 ## Physical Description
 
 Daemedi display remarkable variation in appearance, ranging from individuals nearly indistinguishable from humans to those bearing obvious marks of their infernal or abyssal heritage—horns, unusual skin tones, vestigial wings, or other demonic features. This spectrum reflects the varying strength and nature of their planar bloodlines, with no two Daemedi necessarily resembling one another beyond their humanoid form.

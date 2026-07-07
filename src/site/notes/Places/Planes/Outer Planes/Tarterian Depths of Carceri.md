@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/tarterian-depths-of-carceri/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Tarterian Depths of Carceri
 *"A plane of exile"*
 *"The prison plane of the multiverse"*
 *"Where the overthrown plot their return"*

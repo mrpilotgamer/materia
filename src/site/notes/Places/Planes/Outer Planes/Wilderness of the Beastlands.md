@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/wilderness-of-the-beastlands/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Wilderness of the Beastlands
 *"A domain of natural savagery and plenty"*
 *"The forest eternal"*
 *"Where the most loyal animal companions go when they die"*

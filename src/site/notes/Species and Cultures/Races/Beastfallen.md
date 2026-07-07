@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/races/beastfallen/","dg-note-properties":{"type":"race","category":"uncommon","size":"Medium","lifespan":"unknown","origin-era":"unknown"}}
 ---
 
-# Beastfallen
-*"The Animal-Touched"*
-
 ## Physical Description
 
 Bearing features of both humanoid and beast, the Beastfallen display extraordinary variety in their forms—from lupine ears and keen golden eyes to avian plumage and taloned hands, or reptilian scales and forked tongues. Though fundamentally humanoid in shape, each individual carries unmistakable marks of their particular animal heritage, making no two Beastfallen precisely alike.

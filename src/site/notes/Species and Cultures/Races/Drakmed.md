@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/races/drakmed/","dg-note-properties":{"type":"race","category":"common","size":"Medium","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
-# Drakmed
-*"Dragon-Blooded"*
-
 ## Physical Description
 
 Hardy and resilient in build, the Drakmed bear visible traces of their draconic ancestry—scales on parts of their bodies, reptilian eyes, or other dragon-like features that mark them as something between humanoid and dragon. Their physical constitution reflects their legendary heritage, capable of enduring punishment that would fell lesser races.

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/meregoma-god-of-the-ego/","dg-note-properties":{"type":"deity","tier":"god","domain":["Air","Glory","Nobility","Sun","Weather"],"portfolio":["The Mind","Confidence","Royalty"],"worshipers":["The Downtrodden","Rulers","Self-perfecters"],"favored-weapon":"Butterfly Sword","holy-symbol":"A Face Adorned with a Golden Laurel Wreath","sacred-animal":"Butterfly","sacred-colors":["Gold","Purple"]}}
 ---
 
-# Meregoma, God of the Ego
 *"The Great Ego" • "Savior of the Lacking"*
 
 ## Overview

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/malbing-god-of-consumption/","dg-note-properties":{"type":"deity","tier":"god","domain":["Animal","Fire","Knowledge","Repose","Void"],"portfolio":["Gluttony","Harvest","Fire"],"worshipers":["Pyromancers","Farmers"],"favored-weapon":"Longbow","holy-symbol":"A wolf snout, with teeth bared, all made of fire","sacred-animal":"Vulture","sacred-colors":["Black","Green"]}}
 ---
 
-# Malbing, God of Consumption
 *"Beast of the Wildlands" • "Exalted of the Beasts" • "The Great Beast of the South"*
 
 ## Overview

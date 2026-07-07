@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/races/vullukk/","dg-note-properties":{"type":"race","category":"common","size":"Medium","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
-# Vullukk
-*"The Seekers"*
-
 ## Physical Description
 
 The Vullukk are nimble humanoids built for climbing and exploration, with lithe frames and exceptional agility. Their bodies are naturally adapted for vertical movement and high-altitude environments, allowing them to scale surfaces and navigate treacherous mountain paths with ease that would challenge other races.

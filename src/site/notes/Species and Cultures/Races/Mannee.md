@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/races/mannee/","dg-note-properties":{"type":"race","category":"common","size":"Small","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
-# Mannee
-*"The Shapeshifters"*
-
 ## Physical Description
 
 Small and meek in stature, the Mannee are avian-like humanoids covered entirely in feathers from head to toe. In their natural form, they resemble small, feathered humans with delicate builds and keen, bird-like eyes. Their lightweight frames and wing-like appendages allow them to glide gracefully through the air, though they lack true sustained flight.

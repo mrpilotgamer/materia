@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/races/chisana/","dg-note-properties":{"type":"race","category":"common","size":"Tiny","lifespan":"unknown","origin-era":"Prehistory"}}
 ---
 
-# Chisana
-*"Children of the Fey"*
-
 ## Physical Description
 
 Quick and nimble creatures of tiny stature, the Chisana rarely exceed two and a half feet in height. Their diminutive frames lack physical strength but move with remarkable grace and agility, capable of natural flight up to fifteen feet above the ground.

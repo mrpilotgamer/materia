@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/heroic-domains-of-ysgard/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Heroic Domains of Ysgard
 *"A place of heroes and glories"*
 *"Where wars rage and valor is proved"*
 *"The battleground of eternity"*

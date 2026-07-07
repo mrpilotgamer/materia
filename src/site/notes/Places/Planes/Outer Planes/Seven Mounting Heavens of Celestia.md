@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/places/planes/outer-planes/seven-mounting-heavens-of-celestia/","dg-note-properties":{"type":"plane","category":"outer"}}
 ---
 
-
-# Seven Mounting Heavens of Celestia
 *"The land of splendor"*
 *"Where ultimate goodness is idealized"*
 *"Law and good, understanding and mercy"*

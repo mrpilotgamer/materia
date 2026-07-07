@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/aka-red-primordial-spirit/","dg-note-properties":{"type":"deity","tier":"primordial","domain":["Destruction","Fire","Strength","Weather"],"portfolio":["Volcanoes","Natural Disasters","Autumn"],"worshipers":["Islanders","Disaster survivors"],"holy-symbol":"A spiral of red and black","sacred-animal":"Scorpion","sacred-colors":["Red","Black"]}}
 ---
 
-# Aka, Red Primordial Spirit
 *"Bringer of Destruction" • "Lord of New Life"*
 
 ## Overview
