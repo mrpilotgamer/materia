@@ -46,6 +46,20 @@ Shiroi's followers pledge:
 
 5. **Ice creates paths where water blocks passage.** I shall recognize that what appears hostile often enables what seemed impossible.
 
+## The White Druid Circle
+
+### Overview
+
+The White Circle covers more ground than any of the others, because Shiroi rules travel as well as cold. They keep to harsh open country, windswept tundra, high passes, frozen flats where winter runs longest, and they are forever pushing past the edge of the mapped world into places that have no names yet.
+
+### Ways and Practices
+
+They read the wind for navigation, call up a fair breeze for a struggling caravan, and freeze a bridge across water that would otherwise stop a journey cold. Theirs is the patience of the polar bear: long stillness, then one sudden burst of force. They are the hardest and most self-denying of the druids, and prize self-reliance the way the Yellow Circle prizes a warm welcome.
+
+### Standing
+
+Travelers and explorers hold them in high regard and seek a blessing before any hard crossing, because a White druid's guidance can be the difference between reaching port with food to spare and losing a caravan to a blizzard. They give the guidance freely and stay distant all the same, slow to attach and quick to move on. The same wind, they will tell you, carries both death and safe passage.
+
 ## Holy Days and Festivals
 
 ### The Longest Night

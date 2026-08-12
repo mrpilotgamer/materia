@@ -46,6 +46,20 @@ To follow Murasakino requires adherence to these beliefs:
 
 5. **Reality can be altered by those wise enough to attempt it.** I shall not accept the world as unchangeable, for magic itself proves otherwise.
 
+## The Purple Druid Circle
+
+### Overview
+
+The Purple keep to the world's hidden structure: down in deep caves where the surface gives out, and along the Leylines, the unseen rivers of magic that run through Alora. They move toward whatever they have not figured out yet, so to anyone who cannot feel the currents they track, their wandering looks aimless.
+
+### Ways and Practices
+
+They are half scholars, and the gap between a Purple elder and a working wizard gets thin. Murasakino grants magic itself, and madness with it, and the circle treats magic as a test: the Lord of Dusk and Dawn's standing question of whether mortals still deserve the gift. They answer by discovering things. A new spell, a charted cave, a solved mystery, each one is an offering, and rank in the circle comes from what you have found, not from how long you have lasted. 
+
+### Standing
+
+Almost everyone mistrusts them, and the ambitious seek them out, because a mage who wants to learn what no temple will teach has to go looking for the Purple Druids eventually. The raven is their companion and their watcher, at home in daylight and dark alike, which is what a Purple druid has to become.
+
 ## Holy Days and Festivals
 
 ### The Day of Two Transitions

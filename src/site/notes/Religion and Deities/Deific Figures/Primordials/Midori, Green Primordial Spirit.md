@@ -44,6 +44,20 @@ Priests of Midori live primarily in wild places, maintaining relationships with 
 
 5. **Even the smallest plant serves the forest's balance.** I shall not judge nature's worth by mortal standards of beauty or utility.
 
+## The Green Druid Circle
+
+### Overview
+
+Ask anyone to picture a druid, and they will picture the Green. The oldest-feeling and most numerous circle, the Wardens keep to deep forest, broad plains, and any country thick with life, shifting on a slow rhythm of decades as a wood's needs change.
+
+### Ways and Practices
+
+Their first law is Midori's first tenet: take only what you need, use all of what you take. They hold themselves to it harder than outsiders expect from people who look so gentle. Their magic moves through animals, plants, and the turning year, letting them speak with beasts, coax growth, and close a wound with the forest's own medicine. Midori grants community, and they take it seriously, governing by council instead of by a single elder and carrying that same care out to the people they deal with.
+
+### Standing
+
+They are the circle the outside world actually meets, because the Green have set themselves up as go-betweens. They bargain with villages whose fields are creeping into the trees, warn settlements when their growth is about to tip the balance, and work out the compromises that let farms and forest share an edge without bloodshed. By old understanding they and the Black Circle are two sides of one job, life and death minding the same wheel.
+
 ## Holy Days and Festivals
 
 ### The Spring Awakening

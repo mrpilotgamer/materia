@@ -46,6 +46,20 @@ Ki's worshipers vow:
 
 5. **Cities that forget the sun's importance will learn through its absence.** I shall maintain respect and gratitude lest Ki's attention turn elsewhere and leave my works to wither in shadow.
 
+## The Yellow Druid Circle
+
+### Overview
+
+The Yellow Circle follows the warmth. They migrate with the seasons and the strength of the sun, wintering in the south or the lowlands and working north into open, sunlit countryside as summer returns. Ki's power cannot be honored in the shade, so they stay where the light falls clear. Of the seven, they wander on the most regular schedule, because the sun is the steadiest gift any Primordial gives.
+
+### Ways and Practices
+
+Every member rises before dawn to greet the sunrise. They keep canaries, whose song calls up the morning and whose health tells them whether the air is good. They run a real hierarchy, which is unusual for druids, ranking elders by how many summers they have seen.
+
+### Standing
+
+They are the most orderly of the circles and the easiest to get along with. Of all druids, they are the likeliest to stroll into a village and the likeliest to be welcomed when they do. Wherever they pass, they teach planting times and crop care, working alongside farmers the way Ki works alongside the field, and they take care to repay a season's welcome with a season's labor
+
 ## Holy Days and Festivals
 
 ### The Day of Greatest Light

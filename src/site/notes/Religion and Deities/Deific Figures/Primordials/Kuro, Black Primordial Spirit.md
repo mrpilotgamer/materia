@@ -46,6 +46,22 @@ Followers of Kuro pledge themselves to these tenets:
 
 5. **The maggot teaches truth the beautiful flower cannot.** All parts of nature serve their purpose, regardless of mortal preference or comfort.
 
+## The Black Druid Circle
+
+### Overview
+
+The Black Circle keeps to places where you cannot easily tell death from life: fens, fungal forests where the dead are visibly turning into the living, the deep shade under an old canopy. They move rarely and slowly, because rot keeps its own pace and cannot be hurried. A Black camp can sit in one mire for a generation, tending it like a garden.
+
+### Ways and Practices
+
+They look after endings. Where they pass, the wild dead are returned to the cycle, and where people allow it, the Lantern-Bearers sit with the dying and compost the fallen into soil for the next generation of greenery. Their magic is an odd braid of fungal growth, slow decay, and true rest. They work and worship at night, and they read the stars better than anyone in Alora, charting constellations and conjunctions the rest of the world only blunders into. 
+
+But they draw one unyielding line: rot must be allowed its course. They tolerate the slow dead, like a shambling corpse that still sheds flesh to the beetles, a ghost that fades by inches. Because those are still turning, still feeding the earth, still part of the wheel. Their cold contempt is saved for the preserved: vampires who freeze their flesh, liches who cage their souls, mummies who refuse to molder. To halt decay is to halt the cycle, and that is blasphemy. The slow dead are met with quiet indifference; the preserved dead are met with their inevitable end.
+
+### Standing
+
+People find them eerie and come to them anyway, because no one is better suited to sit with a dying parent or to talk a wrecked household through its grief. They feel that grief only faintly themselves, having spent too long beside the maggot to be frightened of its work. The Black and the Green Circle are two sides of one job, life and death, keeping the same wheel turning.
+
 ## Holy Days and Festivals
 
 ### The Night of Balance

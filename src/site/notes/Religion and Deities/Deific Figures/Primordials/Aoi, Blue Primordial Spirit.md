@@ -46,6 +46,22 @@ The devoted of Aoi commit to these principles:
 
 5. **Even the mightiest whale cannot command the currents.** Power means nothing before the primordial chaos that shaped the world.
 
+## The Blue Druid Circle
+
+### Overview
+
+The Blue Circle does not live on land. They swap between drifting in the open sea in weathered boats, settle where rivers meet salt water, and, through the deepest of Aoi's gifts, build homes on the seabed itself, breathing water as easily as air in halls of coral far below any ship's keel. A Blue Druid can go years without touching dry ground. 
+
+Their whole creed is surrender. Aoi cannot be predicted, steered, or argued with, so the Blue make no plan they would not be willing to abandon.
+
+### Ways and Practices
+
+Inside the circle, choices often come down to chance, the tide, or whichever way the current happens to be setting, because picking a fixed course would betray what Aoi stands for. Nobody leads in any formal sense. The circle organizes the way water does, by flow.
+
+### Standing
+
+Aoi grants healing among her gifts, and the Blue are prized as menders when anyone can find them. Finding them is the trouble. They will not come when called. Sailors swap stories about a figure who walks out of the surf, sets a broken bone without a word, and walks back in.
+
 ## Holy Days and Festivals
 
 ### The First Storm

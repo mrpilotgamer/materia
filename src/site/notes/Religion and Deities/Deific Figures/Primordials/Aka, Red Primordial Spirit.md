@@ -46,6 +46,23 @@ Aka's faithful vow to uphold these sacred truths:
 
 5. **The scorpion kills to survive, not from malice.** I shall understand that destruction is function, not judgment, and that Aka's violence serves balance rather than cruelty.
 
+## The Red Druid Circle
+
+### Overview
+
+The Red never stays in one place. They follow catastrophe across Alora, camping under active volcanoes, on fault lines, in floodplains, on ground still warm from a wildfire. The moment a place calms down and stops threatening to kill them, they pack up. Most circles move every few years. The Red sometimes moves with the season, and a Cinder walker can sleep in a dozen wrecked landscapes between one winter and the next.
+
+They own almost nothing, and they treat attachment itself as a failing. A Red Druid who cannot bear to leave a place, or a person, has already broken faith with Aka's first truth: everything built gets swept away in the end.
+
+### Ways and Practices
+
+Each autumn, they keep the First Clearing in small, burning something they made during the year so the lesson stays in the mind. The roster is never stable. People wander in after living through a flood or an eruption, stay a while, then wander out, and the circle marks neither coming nor going with much ceremony.
+
+### Standing
+
+Outsiders treat them as omens. When the Red Druids walk into a valley, nobody can say whether they came because a disaster is on the way or whether the disaster will arrive because they did. 
+
+
 ## Holy Days and Festivals
 
 ### The First Clearing
