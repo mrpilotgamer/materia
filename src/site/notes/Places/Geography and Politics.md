@@ -10,7 +10,7 @@ On the realm of [[Places/Materia\|Materia]], there are many realms. Realms are p
 
 #### List of realms
 
-[[Places/Realms/Alora/Alora\|Alora]] - A large realm, with 4 main continents, with some islands between. Its known for its Unique [[Dragon\|Dragon]] culture and civilization, and for its events with [[Rouge, Red Progenitor Demon\|Rouge, Red Progenitor Demon]], and his attempted incursion of [[Places/Materia\|The Material Plane]] 
+[[Places/Realms/Alora/Alora\|Alora]] - A large realm, with 4 main continents, with some islands between. Its known for its Unique [[Dragon\|Dragon]] culture and civilization, and for its events with [[Religion and Deities/Deific Figures/Progenitors/Demons/Rouge, the Red Progenitor Demon\|Rouge, the Red Progenitor Demon]], and his attempted incursion of [[Places/Materia\|The Material Plane]] 
 
 ## Planes of Existence
 
