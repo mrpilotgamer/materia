@@ -20,6 +20,7 @@ Tangled blue strings forming a web
 
 ### Sacred Elements
 **Sacred Animal:** Coyote
+
 **Sacred Colors:** Blue and Pink
 
 ### Worshipers
