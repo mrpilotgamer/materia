@@ -7,30 +7,28 @@
 *"Where the overthrown plot their return"*
 
 ## Overview
-Carceri seems the least overtly dangerous of the lower planes, but that first impression quickly disappears. Acid seas and sulfurous atmospheres may be rare on this plane, and there are no areas of biting cold or infernos of raging heat. The danger of Carceri is a subtler thing.
+Carceri seems the least overtly dangerous of the lower planes, and the impression does not survive contact. Acid seas and sulfurous atmospheres are rare here. There are no fields of biting cold and no infernos of raging heat. The danger of Carceri is subtler than any of that.
 
-The plane is a place of darkness and despair, of passions and poisons, and of kingdom-shattering betrayals. On Carceri, hatreds run like a deep, slow-moving river. And there's no telling what the flood of treachery is going to consume next. It is said that a prisoner on Carceri may only escape when she has become stronger than whatever imprisoned her there. That's a difficult task on a plane whose very nature breeds despair, betrayal, and self-hatred.
+It is a place of darkness and despair, of passions and poisons, and of kingdom-shattering betrayals. Hatred runs through Carceri like a deep and slow-moving river, and nothing indicates what the flood of treachery will consume next. It is said a prisoner may leave Carceri only once she has become stronger than whatever imprisoned her here, which is a difficult thing on a plane whose nature breeds despair, betrayal, and self-hatred in equal measure.
 
-Carceri consists of six layers. Each layer has a series of orbs like tiny planets, in a row. A gulf of air separates each orb from the next. On a particular layer, little distinguishes one orb from the next, and it's possible that the number of orblike planets on each layer is infinite.
+The plane has six layers, and each holds a series of orbs like small planets arranged in a row, separated one from the next by a gulf of air. Within any given layer little distinguishes one orb from another, and the count of them may well be infinite. Carceri is called the sixfold realm because its layers nest inside one another like wooden dolls, and on each layer the strand of small planets runs toward infinity in both directions.
 
-Carceri is called the sixfold realm because it has six layers nested within each other like little wooden dolls. On each layer, a strand of small planets stretches in two directions toward infinity.
+Many layers are battle-scarred and wasted, the legacy of the Blood War. Much of Carceri remains oblivious to the war raging across the lower planes, while portions of it serve as staging grounds and occasionally as battlefields.
 
-Many of Carceri's layers are battle-scarred and wasted, the legacy of the Blood War. While much of Carceri remains oblivious to the war raging across the lower planes, portions of Carceri are used as staging grounds and even battlefields.
-
-Vision is normal on Carceri. Unlike on the Material Plane, natural light seems to seep upward from each orb, bathing everything in a reddish light. Hearing is normal on Carceri.
+Sight functions normally. Unlike the material world, natural light seeps upward out of each orb, bathing everything in a reddish glow. Hearing is likewise unaffected.
 
 ## Planar Links
-Portals on many planes allow travel onto Carceri. But almost none allow access in the other direction. One exception is the River Styx, which runs through the first layer of Carceri, mixing with the bogs and canals that crisscross the orbs of this layer, on its way to the Gray Waste of Hades.
+Portals on many planes permit travel onto Carceri. Almost none permit travel in the other direction. The River Styx is one exception, running through the first layer and mixing with the bogs and canals that crisscross its orbs on its way to the Gray Waste of Hades.
 
-Certain channels of the Styx and well-hidden proper portals allow movement between Carceri's layers.
+Certain channels of the Styx, along with well-hidden portals, allow movement between Carceri's own layers.
 
 ## Inhabitants
-Almost no creatures live on Carceri voluntarily. The exiled, the shunned, and the defeated are sent here, as are traitors, backstabbers, and the souls of those with underhanded ambition. It's the prison plane, pure and simple. Carceri's residents are thus a mixed bag, racially and culturally. Most continually plot and scheme to leave Carceri and find their way back to their homes and former positions. Besides prisoners and petitioners, Carceri hosts fiends that partake in the endless Blood War. Demons, devils, and Daemons all roam Carceri, as do madly galloping nightmares and other evil outsiders.
+Almost nothing lives on Carceri by choice. The exiled, the shunned, and the defeated are sent here, along with traitors, backstabbers, and the souls of the underhandedly ambitious. It is the prison plane, plainly and simply, and its residents are correspondingly mixed in race and culture. Most of them plot and scheme without pause to leave Carceri and regain their homes and former positions. Beyond the prisoners and petitioners, the plane hosts fiends engaged in the endless Blood War. Demons, devils, and daemons all roam here, alongside madly galloping nightmares and other evil outsiders.
 
 ## Petitioners
-Even if they wanted to, Carceri's petitioners couldn't leave, so they hold a powerful resentment for visitors merely passing through. Most petitioners on Carceri are souls who abused trust and betrayed friends or family. Like all petitioners, they have no memory of their past lives, but they remain treacherous. They lie—constantly, compulsively, and with great cunning.
+Carceri's petitioners could not leave even if they wished to, which leaves them powerfully resentful of visitors merely passing through. Most were souls who abused trust and betrayed friends or family. Like all petitioners they retain no memory of their past lives, and they remain treacherous regardless. They lie constantly, compulsively, and with considerable cunning.
 
-Petitioners on Carceri reside on one of six layers according to their particular treachery. Orthrys holds politicians and national traitors, and Cathrys holds those who gave in to animal lusts when logic and reason would have served better. Minethys imprisons hoarders who could have helped others with their wealth but didn't, and Colothys confines liars whose untruths harmed others. Finally, Porphatys is home to the shallow and self-absorbed who refused to aid others when the opportunity presented itself. 
+Petitioners are assigned among the layers according to the particular character of their treachery. Orthrys holds politicians and national traitors. Cathrys holds those who gave in to animal lusts where logic and reason would have served better. Minethys imprisons hoarders who could have helped others with their wealth and did not, and Colothys confines liars whose untruths did harm. Porphatys is home to the shallow and self-absorbed who refused aid when the opportunity was in front of them.
 
 <!-- 
 Carceri's petitioners have the following special petitioner qualities:
@@ -40,7 +38,16 @@ Carceri's petitioners have the following special petitioner qualities:
 **Resistances:** Electricity 20, fire 20.
 
 **Other Special Qualities:** Petitioners on Carceri lie often and well, receiving a +10 competence bonus on Bluff checks.
+-->
 
+## Travel and Conflict
+On the surface of an orb, movement functions normally. Rise more than a hundred feet above it and gravity simply ceases, and unlike other planes without gravity, Carceri offers no purchase to force of will. Crossing to another orb requires flight or some comparable means, and a traveler without one does not cross at all.
+
+The natives have devised their own answers. Ferrous sleds slide through the open air as though it were solid ground. Skin balloons are filled with hot air. Spinnerets pay out hundred-foot lengths of silk that catch the wind and pull a traveler off a high mountain toward a destination nobody chooses in advance.
+
+Fighting on Carceri proceeds much as it would in the material world.
+
+<!-- 
 ## Movement and Combat
 For characters on an orb of Carceri, movement functions normally. Once a character gets more than 100 feet off the surface of an orb, gravity disappears. But unlike other planes with the no gravity trait, force of will doesn't provide a means of locomotion. Characters need a fly spell or another means of movement to reach a different orb.
 
@@ -52,45 +59,59 @@ Combat on Carceri functions like it does on the Material Plane.
 ## Layers
 
 ### Orthrys
-Orthrys, the first layer of Carceri, is a realm of vast bogs and quicksand. The River Styx runs freely through the layer, saturating the ground with its magic. Channels carved into the soft ground through eons of erosion are wide and deep. Where there is no river, there are swamps. Though patches of dry ground exist, they are rare and usually climb swiftly to rugged mountains where enraged titans dwell.
+The first layer is a realm of vast bogs and quicksand. The River Styx runs freely through it, saturating the ground with its magic, and eons of erosion have carved wide, deep channels into the soft earth. Where there is no river there is swamp. Patches of dry ground exist but are rare, and they generally climb quickly into rugged mountains where enraged titans live.
 
-Mosquitoes swarm the air above the bogs, annoying travelers. Even more annoying are the smooth-talking petitioners that populate this dreary realm.
+Mosquitoes swarm above the bogs and trouble travelers. The smooth-talking petitioners of the layer trouble them more.
 
-**Bastion of Last Hope:** A fortress made of black igneous rock squats in a mountain range of Orthrys. The ambient, reddish light of the plane lends the Bastion of Last Hope a brooding air of menace. Only one entrance offers itself, and those entering can't help but notice that the entrance strongly resembles the maw of some massive demonic toad. No one person rules the Bastion. Instead, it serves as a sort of outpost for anarchists. Here a traveler can obtain all manner of forged documents, surgical alterations to aid a permanent disguise, and various other nefarious goods and services. It is a good place to find assassins, spies, and others of ill repute. But cunning travelers remember that they're on a plane full of traitors, so they trust no one within the Bastion's walls.
+**Bastion of Last Hope:** A fortress of black igneous rock squatting in a mountain range of Orthrys. The plane's ambient reddish light lends it a brooding air of menace. It offers a single entrance, and no one passing through fails to notice that the entrance strongly resembles the maw of some massive demonic toad. No individual rules the Bastion. It works instead as an outpost for anarchists, where a traveler can obtain forged documents of every kind, surgical alterations to support a permanent disguise, and a range of other nefarious goods and services. Assassins, spies, and others of ill repute are readily found. Cunning travelers keep in mind that they are on a plane full of traitors and trust nobody inside the walls.
 
-**Mount Orthrys:** The highest peaks of the mountain ranges on two of this layer's orbs reach ridiculously high, just bridging the planetary gulf between them. At their intersection is a titanic palace of white marble columns, amphitheaters, and galleries. Here lives a race of titans, banished from the Material Plane long ago. The titan lord of Mount Orthrys, Cronus, resides at the center of his palace in a throne room a mile wide. Visitors may seek audiences with Cronus to hear his wisdom, but those who seek such counsel must be always aware that the titan's eons-long anger at his confinement may lash out unexpectedly at those who can come and go at their leisure. Cronus has the power of a lesser deity for the purposes of altering Mount Orthrys.
+**Mount Orthrys:** On two of this layer's orbs the highest peaks reach absurdly high, just bridging the planetary gulf between them. A titanic palace of white marble columns, amphitheaters, and galleries stands at their intersection, home to a race of titans banished from the material world long ago. Their lord, Cronus, keeps a throne room a mile wide at the palace's center. Visitors may seek audience to hear his wisdom, though anyone who does should remember that the titan's ages-long anger at his confinement can lash out without warning at those free to come and go. Within the bounds of Mount Orthrys, Cronus wields something close to the power of a lesser deity.
 
 ### Cathrys
-The orbs in the second layer of Carceri are covered with fetid jungles and scarlet plains. The stench of decay fills the air, a rot fueled by acidic secretions of jungle plants. Those without immunity to acid are soon rendered down to their component materials if they stay too long amid the swaying trees. The jungle air deals 1d4 points of acid damage per minute, and some plants secrete more potent acids.
+The orbs of the second layer are covered in fetid jungles and scarlet plains. The stench of decay fills the air, fed by the acidic secretions of the jungle plants. Anyone without resistance to acid is reduced to their component materials before long if they linger among the swaying trees, since the jungle air itself corrodes, and certain plants secrete something considerably worse.
 
-The plains of Cathrys are more habitable. Vast, windswept grasslands cover the planes. Some patches possess razor-sharp leaves, which can cut a traveler not mindful of them. Those who hustle (double move) or run on the plains must make a Reflex save (DC 20) each round or cut themselves for 1d4 points of damage.
+The plains are more habitable, vast windswept grasslands covering much of the orbs. Some patches grow leaves sharp enough to cut, and a traveler who moves through them at any pace faster than a walk will pay for the haste in blood.
 
-**Apothecary of Sin:** Located deep in the fetid jungles of an orb of Cathrys is the Apothecary of Sin. The Apothecary is built from cunningly woven scrap wood atop the trunk of large tree, raising the one-story structure high above the waving branches of the acid-laden leaves below. Rope-suspended catwalks provide access above the treetops, though random sections are missing, possibly victims of caustic storms. Mundane and exotic poisons and acids are bought and sold in the Apothecary. A demon called Sinmaker runs the Apothecary. Sinmaker is a glabrezu of average abilities, except for his special affinity for acids, poisons, and venoms. He delights in all things poisonous—the more diabolical, the better. All poisons are available in the Apothecary, as well as many special, unique concoctions bought by Sinmaker from travelers or synthesized in Sinmaker's own laboratory. Acid is also sold here, by the one-dose vial or by the thousand-dose keg. Neither the size of the purchase nor the nature of the buyer matters to Sinmaker.
+**Apothecary of Sin:** Deep in the fetid jungles of one Cathrys orb stands the Apothecary of Sin, built from cunningly woven scrap wood atop the trunk of a large tree, which raises the one-story structure well above the acid-laden leaves below. Rope catwalks provide access above the treetops, with random sections missing, most likely lost to caustic storms.
+
+Mundane and exotic poisons and acids are bought and sold here. A demon called Sinmaker runs the place, a glabrezu of otherwise average abilities with a particular affinity for acids, poisons, and venoms, and a delight in anything poisonous that increases with how diabolical it is. Every poison is available, along with unique concoctions Sinmaker has bought from travelers or synthesized personally. Acid is sold by the single-dose vial and by the thousand-dose keg. Neither the size of the purchase nor the nature of the buyer concerns him.
 
 ### Minethys
-The third layer of Carceri is filled with sand. Stinging grit is driven so hard by the wind that it can strip an exposed being to the bone in a matter of hours, should one of the place's terrible windstorms spring up. Sandstorms are 10% likely in any given area per 24 hours. All who dwell in this layer, mortal and fiend alike, cover themselves in cloth garments to block out the stinging sand.
+The third layer is filled with sand. Wind drives the stinging grit hard enough to strip an exposed being to the bone within hours when one of the layer's terrible windstorms rises, and such storms are frequent enough that no area goes long without one. Everyone who dwells here, mortal and fiend alike, wraps themselves in cloth garments to keep the sand out.
 
-Tornadoes are common on Minethys. To avoid these hazards, petitioners live in miserable sand-filled pits, dug by hand. Their crude pits must be constantly dug out to provide even the slightest shelter.
+Tornadoes are common. To escape them, petitioners live in miserable sand-filled pits dug by hand, and those crude shelters must be dug out again continually to provide even minimal cover.
 
-**Sand Tombs of Payratheon:** Payratheon is the name of a vanished city built on an orb of Minethys eons ago. That city is long-buried, but its sand-drowned avenues, crumbled towers, and silted porticos still remain far below the shifting surface of the layer. Sometimes the shifting sands reveal Payratheon for an hour or a longer, but it is always engulfed again by the sands, smothering most creatures who were tempted by its appearance and entered the sand-blasted city. Particularly resourceful adventurers have burrowed down to find outlying suburbs of the city during its phases of submersion. Tales of terror walk hand in hand with these accounts, which tell of dragonlike "sand gorgons" that swim through the sand as if water. Also mentioned are the remnants of former inhabitants that force their way through the streets as petrified undead, so weathered and eroded that little can be discerned of their race or original size.
+**Sand Tombs of Payratheon:** Payratheon was a city built on an orb of Minethys ages ago and has long since vanished. Its sand-drowned avenues, crumbled towers, and silted porticos remain far beneath the shifting surface. The sands occasionally uncover it for an hour or longer before swallowing it again, smothering most of those tempted into the sand-blasted streets. Particularly resourceful adventurers have burrowed down to outlying suburbs during periods of submersion, and tales of terror accompany every such account: dragonlike sand gorgons that swim through sand as though it were water, and the remnants of former inhabitants forcing their way through the streets as petrified undead, so weathered and eroded that neither their race nor their original size can be determined.
 
 ### Colothys
-The fourth layer of Carceri is a realm of mountains so tall, rough, and cruel as to stagger the imagination of a traveler from the Material Plane. Travel on foot here is almost impossible, because the land is divided by canyons miles deep where it is not lifted to absurd heights by mighty tectonics. A few trading routes do exist, usually in the form of rickety bridges and cliff-face trails barely wide enough for one.
+The fourth layer is a realm of mountains tall, rough, and cruel beyond what a traveler from the material world is prepared to imagine. Travel on foot is nearly impossible, the land divided by canyons miles deep where it has not been lifted to absurd heights by tectonic force. A few trading routes exist as rickety bridges and cliff-face trails barely wide enough for one. Leaving those routes means climbing, and climbing here is slow and dangerous work.
 
-It's impossible to move normally away from the areas along the trading routes. Characters must make Climb checks (DC 15) to move one-half their speed as a miscellaneous full-round action.
+**Garden of Malice:** The hanging gardens of Colothys occupy a single orb that travelers would do well to avoid. To an inexperienced eye, many of the cliff faces and sheer slopes appear home to thick vines and tubers sprouting a riot of beautiful flowers. Anyone attempting to collect samples learns quickly that the vines are animate and determined to wring the life from any creature that uses them as climbing aids, strips their flowers, or simply comes too near. The animate vines may well constitute a single large organism that has grown across the ages to cover the whole orb.
 
-**Garden of Malice:** The hanging gardens of Colothys are found on a single orb of the layer that travelers would do well to avoid. To the inexperienced eye, many of the cliff faces and sheer slopes of this orb are home to thick vines and tubers that sprout a riot of beautiful flowers. Characters who attempt to collect samples for their botanical collections quickly learn that the vines are animate and determined to wring the life from any creature that would dare to use them as climbing aids, defoliate the flowers, or even move too close. It may be that the animate vines represent one large organism that has grown through the eons to cover one whole orb. Once every six hundred days, the vines release tiny seeds into the air that look like dandelion fluff. The winds of the layer often send the seeds blowing across several hundred other orbs of the mountainous realm. Though many are eaten by vermin, many other seeds have also found nourishing soil, and have sprouted tubers in small nooks and forgotten cliff-faces on other orbs.
+Once every six hundred days the vines release tiny seeds into the air resembling dandelion fluff. The layer's winds carry them across several hundred other orbs of the mountainous realm. Vermin eat many of them. Many others have found nourishing soil and sprouted tubers in small nooks and forgotten cliff faces elsewhere.
 
 ### Porphatys
-The fifth layer of Carceri is a realm where each orb is coated in a cold, shallow ocean fed by constant black snow. The snow and water are mildly acidic, automatically dealing 1d6 points of acid damage per 10 minutes of direct exposure.
+On the fifth layer each orb is coated in a cold, shallow ocean fed by a constant fall of black snow. Snow and water alike are mildly acidic, and prolonged direct exposure eats at anything unprotected.
 
-Artificial structures do not last long in Porphatys. Small islands barely taller than sandbars rise above the waves. Most petitioners crow from atop the small sandbar islands, promising anything to those who can take them away. Despite their entreaties, they reward any charity with betrayal at the first opportunity.
+Artificial structures do not last long here. Small islands barely taller than sandbars rise above the waves, and most petitioners crow from atop them, promising anything at all to whoever might carry them away. Whatever charity they receive, they repay with betrayal at the first opportunity.
 
-Another exiled titan lives here, but even his palace is half sunken and slowly crumbling before the acidic waves.
+Another exiled titan lives on this layer, though even his palace is half sunken and crumbling slowly before the acidic waves.
 
-**Ship of One Hundred:** A ship rides the cold swells of Porphatys's seas, called the Ship of One Hundred, though in some accounts it is referred to as the White Caravel. It appears as a ghost-white caravel unmanned by any visible crew. It wends between the islets of many orbs (somehow disappearing on one orb and appearing on another), picking up stranded souls and other travelers who are brave (or foolish) enough to brave passage. Passengers soon discover that apparently no one moves on board the craft. The lower deck and hold are stuffed with exactly one hundred unadorned stone sarcophagi. No one has ever successfully opened a sarcophagus and lived to tell the tale. Any time this has been tried, some unrecorded calamity devours all creatures currently on board, and the next time the ship puts in at a new port it is utterly empty of life. Stories have it that the ship seeks to deliver its terrible cargo, but it waits for the end times to do so. Between the "cleansings" that occur when the curious try to open a sarcophagus, travelers (mostly petitioners, demons, or other creatures) infest the ship. Some make it their temporary home, happy to move from place to place by whatever mysterious force steers the ship. These denizens take a very dim view of visitors who want to open a sarcophagus.
+**Ship of One Hundred:** A ship rides the cold swells of Porphatys, called the Ship of One Hundred and referred to in some accounts as the White Caravel. It appears as a ghost-white caravel with no visible crew, wending between the islets of many orbs and somehow vanishing from one orb to appear at another. It takes aboard stranded souls and any traveler brave or foolish enough to risk passage.
+
+Passengers discover soon enough that nothing aboard moves. The lower deck and hold are packed with exactly one hundred unadorned stone sarcophagi. Nobody has opened one and survived to describe it. Each time it has been attempted, some unrecorded calamity has devoured every creature aboard, and the ship has arrived at its next port empty of life. Stories hold that it means to deliver its terrible cargo and is waiting for the end times to do so. Between these cleansings, travelers infest the ship, mostly petitioners, demons, and similar creatures, some making it a temporary home and content to be carried from place to place by whatever force steers it. They take a very dim view of any visitor who wants to open a sarcophagus.
 
 ### Agathys
-The coldest layer of Carceri is also the lowest—or innermost, given the nested nature of this plane. Unlike the other layers, Agathys has only a single orb: a sphere of black ice streaked with red.
+The coldest layer is also the lowest, or the innermost, given how the plane nests. Unlike the others, Agathys holds a single orb: a sphere of black ice streaked with red. The air is bitterly cold and wears down anything exposed to it, and the layer lies under a faint but constant draining influence that saps vitality from the living. Its petitioners are half embedded in the ice, their lies frozen on their lips.
 
-The air is bitterly cold and deals 1d2 points of cold damage each round. This layer has the minor negative-dominant trait. Petitioners here are half embedded in the ice, their lies frozen on their lips.
+<!-- 
+Cathrys: The jungle air deals 1d4 points of acid damage per minute, and some plants secrete more potent acids. Those who hustle (double move) or run on the plains must make a Reflex save (DC 20) each round or cut themselves for 1d4 points of damage.
+
+Minethys: Sandstorms are 10% likely in any given area per 24 hours.
+
+Colothys: Characters must make Climb checks (DC 15) to move one-half their speed as a miscellaneous full-round action.
+
+Porphatys: The snow and water are mildly acidic, automatically dealing 1d6 points of acid damage per 10 minutes of direct exposure.
+
+Agathys: The air is bitterly cold and deals 1d2 points of cold damage each round. This layer has the minor negative-dominant trait. 
+-->
