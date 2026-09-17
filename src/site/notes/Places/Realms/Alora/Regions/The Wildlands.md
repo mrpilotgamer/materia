@@ -14,4 +14,4 @@ The Wildlands, also known as the Land of Many Origins, is known for being the re
 
 [[Empire of Nox\|Empire of Nox]] - 
 
-[[Republic of Saventiaria\|Republic of Saventiaria]] - 
+[[Republic of Korthak\|Republic of Korthak]] - 

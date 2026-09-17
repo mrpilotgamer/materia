@@ -4,11 +4,11 @@
 
 ## Physical Description
 
-Hardy and resilient in build, the Drakmed bear visible traces of their draconic ancestry—scales on parts of their bodies, reptilian eyes, or other dragon-like features that mark them as something between humanoid and dragon. Their physical constitution reflects their legendary heritage, capable of enduring punishment that would fell lesser races.
+Hardy and resilient in build, the Drakmed bear visible traces of their draconic ancestry: scales on parts of their bodies, reptilian eyes, or other dragon-like features that mark them as something between humanoid and dragon. Their physical constitution reflects their legendary heritage, and they endure punishment that would fell lesser races.
 
 ## Biology
 
-The most distinctive biological feature of the Drakmed is their *Draconis Fundamentum*, a diminutive version of the breath weapon gland possessed by true dragons. While significantly smaller than their ancestors' organs, this gland allows Drakmed to exhale destructive energy—acid, cold, electricity, or fire—in a cone-shaped burst, though the strain limits this ability to once per day. Their biology straddles the line between humanoid and dragon, with their bodies recognized by magic and nature as partaking in both types. This draconic physiology grants them exceptional hardiness and resistance to injury.
+The most distinctive biological feature of the Drakmed is their *Draconis Fundamentum*, a diminutive version of the breath weapon gland possessed by true dragons. Though significantly smaller than their ancestors' organs, this gland allows Drakmed to exhale destructive energy, whether acid, cold, electricity, or fire, in a cone-shaped burst. The strain limits the ability to once per day. Their biology straddles the line between humanoid and dragon, with their bodies recognized by magic and nature as partaking in both types. This draconic physiology grants them exceptional hardiness and resistance to injury.
 
 ## Origins
 
