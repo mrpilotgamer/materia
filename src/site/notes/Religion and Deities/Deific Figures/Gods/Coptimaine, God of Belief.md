@@ -35,6 +35,8 @@ The faith departs from those that focus on the powerful or prosperous. Coptimain
 
 Clerics of Coptimaine are known for their unwavering optimism in the face of terrible circumstances. They believe that showing despair to those already suffering only deepens their anguish, and so maintain cheerful faces and encouraging words regardless of their own struggles. They work with particular energy in prisons and among criminal populations, offering paths to redemption and teaching that past mistakes need not define one's future. Those who purposefully spread despair through cruelty, mockery of the suffering, or the crushing of others' hopes face the clergy's rare but fierce opposition.
 
+That opposition extends to the undead. Coptimainian doctrine holds that a corpse walking is despair given a body: proof offered to the living that there is nothing ahead worth carrying on toward, and that the dark is where a person ends. The clergy will not permit the argument to stand. Temples in afflicted regions train their own to hunt, and a Coptimainian sent against the undead abandons the cheerful face kept for every other occasion. Clerics who have done the work speak of it as the one duty the faith asks of them that brings no comfort to anyone, least of all themselves.
+
 ### Tenets of Faith
 
 Those who follow Coptimaine swear to live by these principles:
