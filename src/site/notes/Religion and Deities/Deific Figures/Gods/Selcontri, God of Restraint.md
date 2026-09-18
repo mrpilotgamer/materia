@@ -6,7 +6,7 @@
 
 ## Overview
 
-Selcontri (Sell-CON-tree), Lord of Patience, has guided many down a path that requires no more of them than what is necessary. Doctrine holds that acting for the sake of appearance or excessive pleasure is unnecessary and wholly distasteful. A worshiper of Selcontri understands every action to be deliberate and treats excess in any form as a failure of control. The most efficient path is often the most difficult to walk, since it demands constant vigilance against one's own impulses.
+Selcontri (Sell-CON-tree), Lord of Patience, has guided many down a path that requires no more of them than what is necessary. Doctrine holds that acting for the sake of appearance or excessive pleasure is unnecessary and wholly untasteful. A worshiper of Selcontri understands every action to be deliberate and treats excess in any form as a failure of control. The most efficient path is often the most difficult to walk, since it demands constant vigilance against one's own impulses.
 
 Those who hold themselves back under Selcontri do so from neither pride nor pleasure. They believe it the best path available to them. The god makes clear that restraint is not equivalent to mercy or weakness: if the path one walks requires wrath to be brought down upon foes, then that is the path to walk. Such wrath must be deliberate, calculated, and necessary, and never excessive, wasteful, or performed for show. One who follows the God of Restraint takes a difficult road. For many it brings a peace of mind, and it spares them the unnecessary actions that plague those who cannot control themselves.
 
