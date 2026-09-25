@@ -9,17 +9,17 @@ to do -
 
 [[Species and Cultures/Cultures/Yotuun\|Yotuun]] - the dominant culture across [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]] - Nordic inspired
 
-[[Anor\|Anor]] - The dominant culture in [[The Rayhostian Theocracy\|The Rayhostian Theocracy]], primarily naval - General european feudal
+[[Species and Cultures/Cultures/Anor\|Anor]] - The dominant culture in [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]], primarily naval - General european feudal
 
 [[Portizian\|Portizian]] - The dominant culture in [[Imestalia\|Imestalia]] and [[Pimestalia\|Pimestalia]] - Castillian inspired
 
 [[Dulandi\|Dulandi]] - The dominant culture in [[Imnas\|Imnas]] - Elven inspired
 
-[[Trow\|Trow]] - A mix of Drako and Anor, heavily changed by the emerging [[Species and Cultures/Races/Trox\|Trox]] race - Hunting origin, Inuit inspired
+[[Species and Cultures/Cultures/Trow\|Trow]] - A mix of Drako and Anor, heavily changed by the emerging [[Species and Cultures/Races/Trox\|Trox]] race - Hunting origin, Inuit inspired
 
 [[Aj'Snaga\|Aj'Snaga]] - The dominant culture of [[Yoichizu\|Yoichizu]], heavily naval - Japanese inspired
 
-[[Drako\|Drako]] - The dominant culture of [[Narathatath\|Narathatath]] - Highland based, Draconic inspired
+[[Species and Cultures/Cultures/Drako\|Drako]] - The dominant culture of [[Places/Realms/Alora/Nations/Narathatath\|Narathatath]] - Highland based, Draconic inspired
 
 [[Dali\|Dali]] - a minor culture in [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]], set in [[Khania\|Khania]] - Iranian inspired
 
