@@ -12,7 +12,7 @@ Khania is a federal republic holding the east and south of [[Places/Realms/Alora
 
 ## Geography
 
-Khania is the largest nation in the Nexus. Its lands wrap around the eastern and southern sides of the central desert, and the desert reaches into the country around the capital. A long grassland arm stretches to the northeast, rolling savanna runs down the eastern coast, and warm, wet rainforest covers the southern shore. Rivers cross the east and water the country around Srauga. Khania borders [[Places/Realms/Alora/Nations/Hovden\|Hovden]] to the north and the [[Places/Realms/Alora/Nations/Kingdom of Stamvia\|Kingdom of Stamvia]] to the west, and [[Places/Realms/Alora/Regions/Laurland\|Laurland]] lies across the sea to the east.
+Khania is the largest nation in the Nexus. Its lands wrap around the eastern and southern sides of the central desert, and the desert reaches into the country around the capital. A long grassland arm stretches to the northeast, rolling savanna runs down the eastern coast, and warm, wet rainforest covers the southern shore. Rivers cross the east and water the country around Srauga. Khania borders [[Places/Realms/Alora/Nations/Hovden\|Hovden]] to the north and the [[Places/Realms/Alora/Nations/Kingdom of Stamvia\|Kingdom of Stamvia]] to the west, and [[Places/Realms/Alora/Nations/Laurland\|Laurland]] lies across the sea to the east.
 
 ## Government
 

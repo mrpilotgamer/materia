@@ -16,4 +16,4 @@ One of the Largest Realms on [[Places/Materia\|Materia]], Alora is full of many 
 
 [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]] - the Land of Many Origins, known for being the region with the thinnest barrier between the material world and the outer planes
 
-[[Places/Realms/Alora/Regions/Laurland\|Laurland]] - An island nation between [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]] and [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]].
+[[Places/Realms/Alora/Nations/Laurland\|Laurland]] - An island nation between [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]] and [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]].

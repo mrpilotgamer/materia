@@ -56,7 +56,7 @@ Narathatath is rich in metal and stone, with mines yielding diamonds, rubies, an
 
 The nation exports masterwork weapons and armor made under dragon supervision, along with high-grade steel, refined ores and precious metals, and cut gems and jewelry. Military equipment, siege engines, and military consulting are sold abroad as well, and dragon-guarded vaults offer storage and security for high-value goods.
 
-Food is among Narathatath's most pressing needs. Scarce farmland and the dragons' demand for variety leave it dependent on imports, and [[Places/Realms/Alora/Regions/Laurland\|Laurland]] has long been its main supplier. Recent trade deals have added imports from the Theocracy. It also imports exotic spices, fine textiles and silk, rare books, precision instruments, and wooden goods.
+Food is among Narathatath's most pressing needs. Scarce farmland and the dragons' demand for variety leave it dependent on imports, and [[Places/Realms/Alora/Nations/Laurland\|Laurland]] has long been its main supplier. Recent trade deals have added imports from the Theocracy. It also imports exotic spices, fine textiles and silk, rare books, precision instruments, and wooden goods.
 
 ## Peoples and Culture
 

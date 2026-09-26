@@ -38,7 +38,7 @@ A line of forts watches the southern border against raiders and desert clans. Th
 
 Timber is Hovden's greatest export. The northern forests supply lumber and construction timber, and the kingdom also sells pitch, tar, and resin to shipbuilders across Alora. Furs remain a major trade, and Hovden exports preserved meats and foods, medicinal herbs found nowhere else on the continent, and iron from moderate but accessible deposits.
 
-[[Places/Realms/Alora/Regions/Laurland\|Laurland]] is Hovden's largest customer. Its merchants buy far more timber and fur than the island could ever use and resell the surplus across the world's trade routes. Hovden imports grain, salt, metal tools, manufactured goods, and textiles, along with weapons for its army and luxury goods for its growing wealth.
+[[Places/Realms/Alora/Nations/Laurland\|Laurland]] is Hovden's largest customer. Its merchants buy far more timber and fur than the island could ever use and resell the surplus across the world's trade routes. Hovden imports grain, salt, metal tools, manufactured goods, and textiles, along with weapons for its army and luxury goods for its growing wealth.
 
 The Northern Passage is the kingdom's main overland trade route. It runs north through the forests of the mainland, crosses the neck of land to Stokjahver, and links the southwest of the kingdom and the Stamvian border with the capital. A second branch runs southeast along the coast into [[Places/Realms/Alora/Nations/Khania\|Khania]].
 

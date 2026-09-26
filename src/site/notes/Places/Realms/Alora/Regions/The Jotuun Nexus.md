@@ -13,7 +13,7 @@ Three nations ring the continent's coasts, and a harsh desert fills its heart. T
 
 Helano fell in 5287, when a widespread disease brought famine and internal collapse. Its former subjects regained their independence, and the survivors of the plague scattered across the Nexus, though a few stubborn clans stayed on in the desert. The plague struck in the same year that Rouge's incursion brought down Adriacium and Presium, and the archivists record the timing as coincidence.
 
-[[Places/Realms/Alora/Regions/Laurland\|Laurland]] lies to the east, with [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]] farther east beyond it, and [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]] lie across the water to the south.
+[[Places/Realms/Alora/Nations/Laurland\|Laurland]] lies to the east, with [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]] farther east beyond it, and [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]] lie across the water to the south.
 
 ## Climate & Terrain
 
