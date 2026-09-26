@@ -21,6 +21,6 @@ to do -
 
 [[Species and Cultures/Cultures/Drako\|Drako]] - The dominant culture of [[Places/Realms/Alora/Nations/Narathatath\|Narathatath]] - Highland based, Draconic inspired
 
-[[Dali\|Dali]] - a minor culture in [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]], set in [[Khania\|Khania]] - Iranian inspired
+[[Species and Cultures/Cultures/Dali\|Dali]] - a minor culture in [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]], set in [[Places/Realms/Alora/Nations/Khania\|Khania]] - Iranian inspired
 
 [[Valekai\|Valekai]] - a minor culture in [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]] - goblin inspired
