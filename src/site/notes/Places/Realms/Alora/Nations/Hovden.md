@@ -8,7 +8,7 @@
 
 ## Overview
 
-Hovden is a forest kingdom holding the north of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It spent 270 years as a vassal of Helano, sending lumber and ice south to the Khan, and won its freedom in 5287 when plague brought Helano down. It has thrived in the century and a half since. Its timber, furs, and forest goods travel across [[Places/Realms/Alora/Alora\|Alora]], and its capital sits far from the desert that once ruled it.
+Hovden is a forest kingdom holding the north of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It spent 250 years as a vassal of Helano, sending lumber and ice south to the Khan, and won its freedom in 5267 when plague brought Helano down. It has thrived in the approximately century and a half since. Its timber, furs, and forest goods travel across [[Places/Realms/Alora/Alora\|Alora]], and its capital sits far from the desert that once ruled it.
 
 ## Geography
 
@@ -46,13 +46,13 @@ The Northern Passage is the kingdom's main overland trade route. It runs north t
 
 Hovden is [[Species and Cultures/Cultures/Yotuun\|Yotuun]] in culture. Its people adapted to forests and timber long ago, building timber halls with steep roofs and honoring spirits their desert kin pay less attention to. [[Religion and Deities/Deific Figures/Primordials/Shiroi, White Primordial Spirit\|Shiroi]] is honored for the winds and the winters, and [[Religion and Deities/Deific Figures/Primordials/Midori, Green Primordial Spirit\|Midori]] for the forests that sustain the kingdom, though desert traditionalists disapprove of both.
 
-The [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] have long been common in Hovden, alongside many [[Species and Cultures/Races/Human\|Humans]] and [[Species and Cultures/Races/Daemedi\|Daemedi]]. When Helano fell, its people fled north as refugees, most of them Yol-Mar, into the land their Khan had ruled for 270 years. Hovden resented them at first, but the generations since have absorbed them into its kynnar and its towns.
+The [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] have long been common in Hovden, alongside many [[Species and Cultures/Races/Human\|Humans]] and [[Species and Cultures/Races/Daemedi\|Daemedi]]. When Helano fell, its people fled north as refugees, most of them Yol-Mar, into the land their Khan had ruled for 250 years. Hovden resented them at first, but the generations since have absorbed them into its kynnar and its towns.
 
 ## History
 
-Hovden was an independent kingdom until Helano subjugated it in 5017. For the next 270 years it ruled itself as a vassal of the Khan, sending lumber and ice south to feed Helano's desert heartland.
+Hovden was an independent kingdom until Helano subjugated it in 5017. For the next 250 years it ruled itself as a vassal of the Khan, sending lumber and ice south to feed [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano's]] desert heartland.
 
-In 5287 a plague swept through the Nexus. It reached Hovden as well, and by the time anyone understood what was happening, there was no Helano left to send supplies to. Hovden emerged from the plague years independent, and it has thrived since, building direct trade across Alora in place of the old tribute.
+In 5267 a plague swept through the Nexus. It reached Hovden as well, and by the time anyone understood what was happening, there was no Helano left to send supplies to. Hovden emerged from the plague years independent, and it has thrived since, building direct trade across Alora in place of the old tribute.
 
 Raids out of the desert have grown more common since Helano's fall, and they are the reason the army trains for desert fighting. Stamvia's civil war, which broke out this year across the kingdom's southwestern border, has become a new source of concern.
 

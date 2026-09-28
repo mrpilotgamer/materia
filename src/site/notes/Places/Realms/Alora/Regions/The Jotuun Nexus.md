@@ -11,7 +11,7 @@ The Jotuun Nexus is a vast continent straddling the equator, named for the ancie
 
 Three nations ring the continent's coasts, and a harsh desert fills its heart. That desert was once the heartland of Helano, a khanate of the desert [[Species and Cultures/Cultures/Yotuun\|Yotuun]] and the homeland of the [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]]. Helano was ruled by the Khan, a title held by one of the strongest Yol-Mar in the land, and its rule was militaristic. It subjugated [[Places/Realms/Alora/Nations/Hovden\|Hovden]] in 5017 and the [[Places/Realms/Alora/Nations/Kingdom of Stamvia\|Kingdom of Stamvia]] in 5067, drawing lumber from the one and stonemasons and ships from the other.
 
-Helano fell in 5287, when a widespread disease brought famine and internal collapse. Its former subjects regained their independence, and the survivors of the plague scattered across the Nexus, though a few stubborn clans stayed on in the desert. The plague struck in the same year that Rouge's incursion brought down Adriacium and Presium, and the archivists record the timing as coincidence.
+Helano fell in 5267, when a widespread disease brought famine and internal collapse. Its former subjects regained their independence, and the survivors of the plague scattered across the Nexus, though a few stubborn clans stayed on in the desert. The plague struck in the same year that Rouge's incursion brought down Adriacium and Presium, and the archivists record the timing as coincidence.
 
 [[Places/Realms/Alora/Nations/Laurland\|Laurland]] lies to the east, with [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]] farther east beyond it, and [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]] lie across the water to the south.
 
@@ -39,7 +39,7 @@ Tradition holds that the Nexus was once a forested land home to many races of gi
 
 The [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] are the only living evidence either way. Their fire is real, and their weapons and blows burn with a heat anyone can witness. Their descent from giants has never been proven, and skeptics note that claims of descent from mythical beings are common across many cultures.
 
-The abandoned heart of the continent still holds the ruins of Helano, emptied by plague and famine after 5287. Bandits and independent desert clans shelter among them, scavengers pick through what remains, and few travelers go near them willingly.
+The abandoned heart of the continent still holds the ruins of Helano, emptied by plague and famine after 5267. Bandits and independent desert clans shelter among them, scavengers pick through what remains, and few travelers go near them willingly.
 
 [[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura]] bears the epithet Jarl of the Jotuun Nexus, and his worship is strongest here. [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel]] holds particular force in a land that prizes combat prowess, and [[Religion and Deities/Deific Figures/Primordials/Aka, Red Primordial Spirit\|Aka]] receives regular offerings for the destructive renewal that shapes the land.
 

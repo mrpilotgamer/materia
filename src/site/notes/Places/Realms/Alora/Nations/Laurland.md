@@ -58,13 +58,13 @@ Laurland is wholly [[Species and Cultures/Cultures/Dali\|Dali]] in culture. Most
 
 ## Relations
 
-Laurland keeps a formal alliance with [[Places/Realms/Alora/Nations/Khania\|Khania]] that dates from Khania's founding in 5117, and its navy kept Helano's armies away from the Dali coast. It has long fed [[Places/Realms/Alora/Nations/Narathatath\|Narathatath]] and is [[Places/Realms/Alora/Nations/Hovden\|Hovden]]'s largest customer. The closing of the [[Places/Realms/Alora/Nations/Kingdom of Stamvia\|Kingdom of Stamvia]] in 5436 cost Laurland a market, and its ships no longer call at Stamvian harbors.
+Laurland keeps a formal alliance with [[Places/Realms/Alora/Nations/Khania\|Khania]] that dates from Khania's founding in 5117, and its navy kept [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]]'s armies away from the Dali coast. It has long fed [[Places/Realms/Alora/Nations/Narathatath\|Narathatath]] and is [[Places/Realms/Alora/Nations/Hovden\|Hovden]]'s largest customer. The closing of the [[Places/Realms/Alora/Nations/Kingdom of Stamvia\|Kingdom of Stamvia]] in 5436 cost Laurland a market, and its ships no longer call at Stamvian harbors.
 
 ## History
 
 Laurland was once [[Species and Cultures/Cultures/Yotuun\|Yotuun]] in culture, its harbors founded by seafarers from the Nexus. As its trade with the Khanian coast grew over the generations, Dali customs took hold, and the island gradually became Dali. Many of its towns and harbors still bear Yotuun names, the capital among them.
 
-When the city-states of the east united as Khania in 5117, Laurland allied with the new republic. Its fleet held the coast while Helano pressed from the west, and Helano never reached the Dali shore. Laurland came through the upheavals of 5287 untouched, and it has prospered on trade in the century and a half since.
+When the city-states of the east united as Khania in 5117, Laurland allied with the new republic. Its fleet held the coast while [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]] pressed from the west, and Helano never reached the Dali shore. Laurland came through the upheavals of 5267 untouched, and it has prospered on trade in the roughly century and a half since.
 
 ## Capital
 

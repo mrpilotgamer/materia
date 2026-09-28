@@ -16,7 +16,7 @@ Khania is the largest nation in the Nexus. Its lands wrap around the eastern and
 
 ## Government
 
-Khania was founded by four city-states: Hafushian, Hamanak, Vazveh, and Srauga. It began as a loose federation in which each city kept its own government and sent its own representatives to a common council. Over the century and a half since Helano's fall, the republic has grown more centralized, and the federal government now holds far more power than the founders gave it.
+Khania was founded by four city-states: Hafushian, Hamanak, Vazveh, and Srauga. It began as a loose federation in which each city kept its own government and sent its own representatives to a common council. Over the approximately century and a half since Helano's fall, the republic has grown more centralized, and the federal government now holds far more power than the founders gave it.
 
 Power is divided among three bodies. The Majlis is the assembly of representatives, where every province of the republic holds seats and makes the laws. Dali provinces choose their representatives through their anjomans, and Yotuun provinces choose theirs at their þings. The Majlis elects the Vazir, who leads the Divan, the council of ministers that governs the country day to day. The Dadgah is the high court, whose judges, the dadvars, rule on the law and settle disputes between provinces.
 
@@ -52,7 +52,7 @@ Before unification, the eastern coast was a patchwork of Dali city-states, each 
 
 Helano took Hovden in 5017 and Stamvia in 5067, and by the next century its ambitions had turned east. In 5117 the four cities met at Srauga and bound themselves into a single republic. They took the name Helano had given them, in defiance of the Khan and the envoys who had mocked them. Other towns and provinces joined in the decades that followed, and the alliance with Laurland kept Helano's armies away from the coast.
 
-When Helano fell in 5287, Khania had nothing left to fear from the west. The loose federation of its founding grew steadily more centralized in the century and a half since, and the republic prospered on trade and diplomacy.
+When Helano fell in 5267, Khania had nothing left to fear from the west. The loose federation of its founding grew steadily more centralized in the approximately century and a half since, and the republic prospered on trade and diplomacy.
 
 ## Capital
 

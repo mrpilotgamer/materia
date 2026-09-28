@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Kingdom of Stamvia holds the western grasslands of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It was once a republic with a fleet strong enough that Helano conquered it to take the ships. Since winning independence in 5287, it has become a feudal kingdom under the Valor family. In 5436 King Gerrick Valor killed his brother and seized the throne, and this year the kingdom fell into civil war. Gerrick has closed the kingdom to all foreign trade, and few outside its borders can say how the war stands.
+The Kingdom of Stamvia holds the western grasslands of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It was once a republic with a fleet strong enough that Helano conquered it to take the ships. Since winning independence in 5267, it has become a feudal kingdom under the Valor family. In 5436 King Gerrick Valor killed his brother and seized the throne, and this year the kingdom fell into civil war. Gerrick has closed the kingdom to all foreign trade, and few outside its borders can say how the war stands.
 
 ## Geography
 
@@ -38,7 +38,7 @@ After seizing the throne, Gerrick closed the kingdom to foreign trade entirely, 
 
 ## Peoples and Culture
 
-Stamvia is [[Species and Cultures/Cultures/Yotuun\|Yotuun]] in culture. Its grassland Yotuun are more mobile and trade-focused than their desert kin, which traditionalists criticize as softening. The population is roughly half [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]], about two-fifths [[Species and Cultures/Races/Human\|Human]], and a tenth other races. The Yol-Mar were common here long before Helano fell, and many of Helano's refugees joined them after 5287.
+Stamvia is [[Species and Cultures/Cultures/Yotuun\|Yotuun]] in culture. Its grassland Yotuun are more mobile and trade-focused than their desert kin, which traditionalists criticize as softening. The population is roughly half [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]], about two-fifths [[Species and Cultures/Races/Human\|Human]], and a tenth other races. The Yol-Mar were common here long before Helano fell, and many of Helano's refugees joined them after 5267.
 
 Many Stamvian kynnar move with their herds through the year, shifting between the western grasslands and the eastern savanna as the rains come and go. They live in portable halls of hide and timber that can be packed onto carts, and each kynnar keeps a permanent höll in a home village where it gathers for the winter þing. Seasonal cattle fairs bring the wandering kynnar together to trade, settle disputes, and arrange marriages. Since the coup, martial law and the fighting have stifled the migrations, and many herds now stay close to home.
 
@@ -48,7 +48,7 @@ Before Helano, Stamvia was a republic governed by an assembly of the kynnar, a n
 
 Helano subjugated Stamvia in 5067, seeking both its stonemasons and its navy. The republic kept its internal government as a protectorate, while the Khan took ships, craftsmen, and horses. The fleet began its long decline in the protectorate's later years and never recovered.
 
-Stamvia regained its independence in 5287, but the republic began to crumble almost at once. The Valor family took power, established the kingdom, and brought the country through the worst of the turmoil. It struggled in the generations that followed, and corruption and mismanagement hollowed out the navy.
+Stamvia regained its independence in 5267, but the republic began to crumble almost at once. The Valor family took power, established the kingdom, and brought the country through the worst of the turmoil. It struggled in the generations that followed, and corruption and mismanagement hollowed out the navy.
 
 In 5436 Gerrick Valor killed his brother, King Adenia Valor, and seized the throne. The coup came suddenly, with no known warning signs. Gerrick claimed that his brother was too weak and merciful to rule, and his supporters say Adenia was too soft militarily, inviting provocation from desert raiders and neighboring nations. Gerrick then turned on the nobility and destroyed most of its houses.
 
