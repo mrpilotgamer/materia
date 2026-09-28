@@ -66,7 +66,7 @@ The Theocracy was born in the Human Uprising of 4287, which split the dragon-rul
 
 The centuries that followed were marked by tension with Narathatath, though open conflict between the two nations was rare. Most events of note in that period were internal to the Theocracy.
 
-The two nations have kept an extended peace for the past 150 years. In that time they have established multiple trade treaties through the diplomatic efforts of Slyrsomyr the Bridgemaker, Narathatath's chief diplomat to the Theocracy. Relations have improved over the past century, though the two nations remain wary of each other.
+The two nations have kept an extended peace for the past 170 years. In that time they have established multiple trade treaties through the diplomatic efforts of Slyrsomyr the Bridgemaker, Narathatath's chief diplomat to the Theocracy. Relations have improved over the past century, though the two nations remain wary of each other.
 
 ## Capital
 

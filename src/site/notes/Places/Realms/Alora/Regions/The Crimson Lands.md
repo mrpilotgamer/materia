@@ -11,7 +11,7 @@ The Crimson Lands, also known as the Land of Dragons, spans two continents and i
 
 The region holds a good portion of the world's major trade centers, and a heavily defended route known as the Crimson Circuit connects all of its major cities. [[Places/Realms/Alora/Nations/Laurland\|Laurland]], an island nation, lies to the west, between the Crimson Lands and [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]].
 
-Each continent belongs to one nation. Narathatath holds the western continent and [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]] the eastern, and a narrow strait separates them. Both were once a single dragon-ruled territory, until the Human Uprising of 4287 divided it. The two have kept the peace for the past 150 years. In that time they have established multiple trade treaties through the diplomatic efforts of Slyrsomyr the Bridgemaker, a young adult black dragon and Narathatath's chief diplomat to the Theocracy.
+Each continent belongs to one nation. Narathatath holds the western continent and [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]] the eastern, and a narrow strait separates them. Both were once a single dragon-ruled territory, until the Human Uprising of 4287 divided it. The two have kept the peace for the past 170 years. In that time they have established multiple trade treaties through the diplomatic efforts of Slyrsomyr the Bridgemaker, a young adult black dragon and Narathatath's chief diplomat to the Theocracy.
 
 ## Climate & Terrain
 

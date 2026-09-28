@@ -70,7 +70,7 @@ Myth holds that Riavexect founded the nation before the Great Schism War. The co
 
 In 4287 the Human Uprising broke dragon rule on the eastern continent and founded the Rayhostian Theocracy. Narathatath remembers the uprising as a betrayal. The centuries that followed were marked by tension with the Theocracy, though open conflict between the two nations was rare.
 
-The two nations have kept an extended peace for the past 150 years. In that time they have established multiple trade treaties through the diplomatic efforts of Slyrsomyr the Bridgemaker, a young adult black dragon and Narathatath's chief diplomat to the Theocracy. Relations have improved over the past century, though the two nations remain wary of each other.
+The two nations have kept an extended peace for the past 170 years. In that time they have established multiple trade treaties through the diplomatic efforts of Slyrsomyr the Bridgemaker, a young adult black dragon and Narathatath's chief diplomat to the Theocracy. Relations have improved over the past century, though the two nations remain wary of each other.
 
 ## Capital
 
