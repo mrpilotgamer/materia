@@ -55,6 +55,8 @@ The [[History/Ages/Age of Incursion\|Age of Incursion]] vindicated the philosoph
 
 Worship has grown in the current [[History/Ages/Age of Stability\|Age of Stability]] as societies recognize that maintaining stability requires restraint from excess, and many military commanders have adopted Selcontrian tactical principles that emphasize efficiency over spectacle. The faith stands in philosophical opposition to [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]], whose followers embrace unleashed emotion. The clergy of the two gods clash often in theological debate over whether control or expression serves humanity better.
 
+The [[Species and Cultures/Cultures/Barbois\|Barbois]] honor Selcontri for self-command, and their principle of public magnificence and private restraint holds that no citizen's house should outshine the buildings of the commune.
+
 ## Related Entities
 
 **Allies:** [[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner, God of Caution]] shares Selcontri's philosophy of measured action and avoidance of excess, and both faiths hold that careful preparation and restraint work together to prevent waste and disaster. [[Religion and Deities/Deific Figures/Gods/Arlaxena, God of Leisure\|Arlaxena, God of Leisure]] aligns with doing only what is necessary and avoiding unnecessary effort, though Arlaxena applies this specifically to rest while Selcontri applies it to all actions.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/empire-of-nox/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Wildlands"]],"government":"Council beneath a Chaos Lord","capital":"Lincugus","ruler":"Vera, Chaos Lord of Nox","dominant-culture":[["Algar"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/empire-of-nox/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Wildlands","government":"Council beneath a Chaos Lord","capital":"Lincugus","ruler":"Vera, Chaos Lord of Nox","dominant-culture":"Algar"}}
 ---
 
 # Empire of Nox

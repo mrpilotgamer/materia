@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/hovden/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Jotuun Nexus"]],"government":"Kingdom","capital":"Stokjahver","ruler":null,"dominant-culture":[["Yotuun"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/hovden/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Jotuun Nexus","government":"Kingdom","capital":"Stokjahver","ruler":null,"dominant-culture":"Yotuun"}}
 ---
 
 # Hovden
@@ -8,7 +8,7 @@
 
 ## Overview
 
-Hovden is a forest kingdom holding the north of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It spent 250 years as a vassal of Helano, sending lumber and ice south to the Khan, and won its freedom in 5267 when plague brought Helano down. It has thrived in the approximately century and a half since. Its timber, furs, and forest goods travel across [[Places/Realms/Alora/Alora\|Alora]], and its capital sits far from the desert that once ruled it.
+Hovden is a forest kingdom holding the north of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It spent 250 years as a vassal of [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]], sending timber and forest goods south to the Khan, and won its freedom in 5267 when plague brought Helano down. It has thrived in the 170 years since. Its timber, furs, and forest goods travel across [[Places/Realms/Alora/Alora\|Alora]], and its capital sits far from the desert that once ruled it.
 
 ## Geography
 
@@ -50,7 +50,7 @@ The [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] have long been common in Hov
 
 ## History
 
-Hovden was an independent kingdom until Helano subjugated it in 5017. For the next 250 years it ruled itself as a vassal of the Khan, sending lumber and ice south to feed [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano's]] desert heartland.
+Hovden was an independent kingdom until Helano subjugated it in 5017. For the next 250 years it ruled itself as a vassal of the Khan, sending timber and forest goods south to feed [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano's]] desert heartland.
 
 In 5267 a plague swept through the Nexus. It reached Hovden as well, and by the time anyone understood what was happening, there was no Helano left to send supplies to. Hovden emerged from the plague years independent, and it has thrived since, building direct trade across Alora in place of the old tribute.
 

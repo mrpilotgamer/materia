@@ -51,7 +51,7 @@ Dilliminner has been worshiped since before the [[History/Great Schism War\|Grea
 
 The [[History/Ages/Age of Expansion\|Age of Expansion]] proved challenging for the faithful, as the dominant philosophy favored bold conquest over cautious preparation. When expanding empires overextended themselves and drained resources unsustainably, Dilliminner's warnings proved prophetic.
 
-The [[History/Ages/Age of Incursion\|Age of Incursion]] vindicated the god's philosophy entirely. Those who had prepared for disaster, maintained emergency supplies, and built sustainably weathered the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]' wrath far better than unprepared populations. In the current [[History/Ages/Age of Stability\|Age of Stability]], worship remains strong among guards, strategists, and those who have seen the cost of recklessness.
+The [[History/Ages/Age of Incursion\|Age of Incursion]] vindicated the god's philosophy entirely. Those who had prepared for disaster, maintained emergency supplies, and built sustainably weathered the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]' wrath far better than unprepared populations. In the current [[History/Ages/Age of Stability\|Age of Stability]], worship remains strong among guards, strategists, and those who have seen the cost of recklessness. In the cities of the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]], many of the [[Species and Cultures/Cultures/Sonta\|Sonta]] watch honor Dilliminner alongside the gods of their city.
 
 ## Related Entities
 

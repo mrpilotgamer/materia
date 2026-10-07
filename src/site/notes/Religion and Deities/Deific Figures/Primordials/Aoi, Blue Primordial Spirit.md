@@ -33,6 +33,8 @@ The blue whale exemplifies everything Aoi teaches. Even the mightiest creatures 
 
 The faith teaches that attempting to control or predict nature is futile hubris, that calm and storm are equally natural expressions of Aoi's being, and that survival depends on accepting nature's chaos in place of fighting it. Aoi provides both life-giving rain and destructive floods without malice or favor, since such is simply water's nature. Preparation acknowledges chaos; claiming control denies it. The clergy counsels respect for water's power, readiness for the worst possibilities, and gratitude when nature shows mercy.
 
+The [[Species and Cultures/Cultures/Sonta\|Sonta]] hold Aoi in special regard as the power of the sea that carries their trade, and each year their cities wed themselves to the sea by casting a ring into the water. The [[Species and Cultures/Cultures/Aj'Snaga\|Aj'Snaga]] honor Aoi for the sea that carries their fleets.
+
 ### Tenets of Faith
 
 The devoted of Aoi commit to these principles:

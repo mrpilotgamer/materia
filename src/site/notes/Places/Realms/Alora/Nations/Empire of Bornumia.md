@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/empire-of-bornumia/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Wildlands"]],"government":"Imperial autocracy","capital":"Conatagus","ruler":"Emperor Lucius Valerius Corvus","dominant-culture":[["Eldar"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/empire-of-bornumia/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Wildlands","government":"Imperial autocracy","capital":"Conatagus","ruler":"Emperor Lucius Valerius Corvus","dominant-culture":"Eldar"}}
 ---
 
 # Empire of Bornumia

@@ -33,6 +33,8 @@ Kuro's followers are predominantly gravekeepers who tend to the dead and ensure 
 
 Priests of Kuro maintain gardens specifically designed to demonstrate decay's role in growth, composting the dead to nourish living plants and showing followers how death directly enables life. They study astronomy, tracking stellar patterns and predicting celestial events, and teach that the night sky holds knowledge unavailable in daylight. The maggot transforms death into the nutrients that feed new life, a living embodiment of Kuro's principle that opposing forces complete each other and never contradict. During rituals, clergy often work at night, teaching that darkness reveals for those willing to embrace it where mortals expect it to conceal.
 
+The [[Species and Cultures/Cultures/Dulandi\|Dulandi]] honor Kuro at every death, laying their dead among the forest roots to be given back to the spirit.
+
 ### Tenets of Faith
 
 Followers of Kuro pledge themselves to these tenets:
@@ -58,6 +60,8 @@ The Black Circle keeps to places where you cannot easily tell death from life: f
 They look after endings. Where they pass, the wild dead are returned to the cycle, and where people allow it, the Lantern-Bearers sit with the dying and compost the fallen into soil for the next generation of greenery. Their magic is an odd braid of fungal growth, slow decay, and true rest. They work and worship at night, and they read the stars better than anyone in Alora, charting constellations and conjunctions the rest of the world only blunders into.
 
 But they draw one unyielding line: rot must be allowed its course. They tolerate the slow dead, like a shambling corpse that still sheds flesh to the beetles, a ghost that fades by inches. Because those are still turning, still feeding the earth, still part of the wheel. Their cold contempt is saved for the preserved: vampires who freeze their flesh, liches who cage their souls, mummies who refuse to molder. To halt decay is to halt the cycle, and that is blasphemy. The slow dead are met with quiet indifference; the preserved dead are met with their inevitable end.
+
+Many of Kuro's followers see the [[Species and Cultures/Races/Araki\|Araki]]'s return from death as unnatural, and a few rank them with liches and the other dead that refuse their end. The [[Species and Cultures/Cultures/Aj'Snaga\|Aj'Snaga]] resent the comparison bitterly and do not worship Kuro.
 
 ### Standing
 

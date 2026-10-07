@@ -55,6 +55,8 @@ The [[History/Ages/Age of Incursion\|Age of Incursion]] created new forms of res
 
 In the current [[History/Ages/Age of Stability\|Age of Stability]], worship persists wherever wealth disparities create resentment. It holds in cities where lower nobility watches greater houses enjoy privilege, and in poor districts where thieves view merchants' wealth as rightfully belonging to whoever can claim it.
 
+Among the [[Species and Cultures/Cultures/Casta\|Casta]] of southern [[Places/Realms/Alora/Nations/Republic of Korthak\|Korthak]], Millary is honored for the ambition that drives a familia to outdo its rivals, and a Casta feast is a contest as much as a celebration.
+
 ## Related Entities
 
 **Allies:** [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] shares Millary's focus on acquisition and the drive to possess what others have. Riavexect emphasizes specialized collecting while Millary emphasizes taking through envy, and both gods honor the urge to claim and accumulate.

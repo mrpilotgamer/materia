@@ -14,6 +14,8 @@ Despite their apparent physical vulnerability, humans demonstrate survival capab
 
 The origins of humanity remain one of [[Places/Materia\|Materia]]'s great mysteries. Unlike races with clear draconic, fey, or planar ancestry, humans appear to have emerged naturally during [[History/Ages/Prehistory\|Prehistory]] without obvious magical or divine intervention. Some scholars theorize humans evolved alongside or shortly after the [[Religion and Deities/Deific Figures/Primordials\|Primordials]] shaped the world, developing intelligence and cunning as survival mechanisms in a world populated by more physically formidable races. Others suggest their adaptability itself may be their true origin, and that humans are what emerges when a mortal race faces sufficient pressure to either adapt or perish. Their prevalence across nearly every region of [[Places/Materia\|Materia]] and their ability to integrate into virtually any culture suggests humans have been present since the earliest ages.
 
+Some historians believe the [[Species and Cultures/Cultures/Portizian\|Portizian]] culture began among humans on the coast around Quichollow, in what is now [[Places/Realms/Alora/Nations/Imestalia\|Imestalia]], and that those humans came from [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]], though no one has proven it.
+
 ## Pronunciation
 
 Human (HEW-man)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/fallen-nations/oligarchy-of-presium/","dg-note-properties":{"type":"nation","status":"Fallen (5267)","realm":[["Alora"]],"region":[["The Wildlands"]],"government":"Oligarchy","capital":null,"ruler":null,"dominant-culture":[["Eldar"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/fallen-nations/oligarchy-of-presium/","dg-note-properties":{"type":"nation","status":"Fallen (5267)","realm":"Alora","region":"The Wildlands","government":"Oligarchy","capital":null,"ruler":null,"dominant-culture":"Eldar"}}
 ---
 
 # Oligarchy of Presium

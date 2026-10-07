@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/fallen-nations/empire-of-adriacium/","dg-note-properties":{"type":"nation","status":"Fallen (5267)","realm":[["Alora"]],"region":[["The Wildlands"]],"government":"Imperial autocracy","capital":"Lincugus","ruler":null,"dominant-culture":[["Eldar"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/fallen-nations/empire-of-adriacium/","dg-note-properties":{"type":"nation","status":"Fallen (5267)","realm":"Alora","region":"The Wildlands","government":"Imperial autocracy","capital":"Lincugus","ruler":null,"dominant-culture":"Eldar"}}
 ---
 
 # Empire of Adriacium

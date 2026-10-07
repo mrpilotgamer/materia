@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/imnas/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Azure Expanse"]],"government":"Mageocracy","capital":"Sireth","ruler":"Unknown (secret council)","dominant-culture":[["Dulandi"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/imnas/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Azure Expanse","government":"Mageocracy","capital":"Sireth","ruler":"Unknown (secret council)","dominant-culture":"Dulandi"}}
 ---
 
 # Imnas

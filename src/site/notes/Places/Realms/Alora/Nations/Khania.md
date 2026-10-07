@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/khania/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Jotuun Nexus"]],"government":"Federal republic","capital":"Srauga","ruler":null,"dominant-culture":[["Dali"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/khania/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Jotuun Nexus","government":"Federal republic","capital":"Srauga","ruler":null,"dominant-culture":"Dali"}}
 ---
 
 # Khania
@@ -8,7 +8,7 @@
 
 ## Overview
 
-Khania is a federal republic holding the east and south of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It was born in 5117, when four city-states united against the threat of Helano, and it took its name from the Khan who meant to conquer it. Most of its people are [[Species and Cultures/Races/Grendal\|Grendals]], and its government runs on [[Species and Cultures/Cultures/Dali\|Dali]] custom, though the nation as a whole is a mix of Dali and [[Species and Cultures/Cultures/Yotuun\|Yotuun]]. Khania is known across [[Places/Realms/Alora/Alora\|Alora]] for its diplomats, whose skill at mediation is unmatched on the continent.
+Khania is a federal republic holding the east and south of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It was born in 5117, when four city-states united against the threat of [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]], and it took its name from the Khan who meant to conquer it. Most of its people are [[Species and Cultures/Races/Grendal\|Grendals]], and its government runs on [[Species and Cultures/Cultures/Dali\|Dali]] custom, though the nation as a whole is a mix of Dali and [[Species and Cultures/Cultures/Yotuun\|Yotuun]]. Khania is known across [[Places/Realms/Alora/Alora\|Alora]] for its diplomats, whose skill at mediation is unmatched on the continent.
 
 ## Geography
 
@@ -16,7 +16,7 @@ Khania is the largest nation in the Nexus. Its lands wrap around the eastern and
 
 ## Government
 
-Khania was founded by four city-states: Hafushian, Hamanak, Vazveh, and Srauga. It began as a loose federation in which each city kept its own government and sent its own representatives to a common council. Over the approximately century and a half since Helano's fall, the republic has grown more centralized, and the federal government now holds far more power than the founders gave it.
+Khania was founded by four city-states: Hafushian, Hamanak, Vazveh, and Srauga. It began as a loose federation in which each city kept its own government and sent its own representatives to a common council. Over the 170 years since Helano's fall, the republic has grown more centralized, and the federal government now holds far more power than the founders gave it.
 
 Power is divided among three bodies. The Majlis is the assembly of representatives, where every province of the republic holds seats and makes the laws. Dali provinces choose their representatives through their anjomans, and Yotuun provinces choose theirs at their þings. The Majlis elects the Vazir, who leads the Divan, the council of ministers that governs the country day to day. The Dadgah is the high court, whose judges, the dadvars, rule on the law and settle disputes between provinces.
 
@@ -52,7 +52,7 @@ Before unification, the eastern coast was a patchwork of Dali city-states, each 
 
 Helano took Hovden in 5017 and Stamvia in 5067, and by the next century its ambitions had turned east. In 5117 the four cities met at Srauga and bound themselves into a single republic. They took the name Helano had given them, in defiance of the Khan and the envoys who had mocked them. Other towns and provinces joined in the decades that followed, and the alliance with Laurland kept Helano's armies away from the coast.
 
-When Helano fell in 5267, Khania had nothing left to fear from the west. The loose federation of its founding grew steadily more centralized in the approximately century and a half since, and the republic prospered on trade and diplomacy.
+When Helano fell in 5267, Khania had nothing left to fear from the west. The loose federation of its founding grew steadily more centralized in the 170 years since, and the republic prospered on trade and diplomacy.
 
 ## Capital
 

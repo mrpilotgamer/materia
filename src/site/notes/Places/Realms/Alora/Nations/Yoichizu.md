@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/yoichizu/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Azure Expanse"]],"government":"Shogunate","capital":"Killow","ruler":null,"dominant-culture":[["Aj'Snaga"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/yoichizu/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Azure Expanse","government":"Shogunate","capital":"Killow","ruler":null,"dominant-culture":"Aj'Snaga"}}
 ---
 
 # Yoichizu

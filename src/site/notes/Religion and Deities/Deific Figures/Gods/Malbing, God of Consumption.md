@@ -55,6 +55,8 @@ During the [[History/Ages/Age of Regrowth\|Age of Regrowth]], Malbing's clergy h
 
 The [[History/Ages/Age of Incursion\|Age of Incursion]] proved them correct. Communities that had followed Malbing's teachings of moderate consumption, and had allowed the earth to reclaim what it needed, suffered less than those who had taken without thought of return. In the current [[History/Ages/Age of Stability\|Age of Stability]], worship remains strong in agricultural regions and [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], and the faith's message of abundance through balance resonates with communities seeking to maintain stability.
 
+The [[Species and Cultures/Cultures/Eldar\|Eldar]] of [[Places/Realms/Alora/Nations/Empire of Bornumia\|Bornumia]] give him particular reverence in their funeral rites of consumption and return, and the western cultures keep his place at harvests and funerals.
+
 ## Related Entities
 
 **Allies:** [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] shares Malbing's understanding of natural cycles, consumption in life and the earth consuming the dead in return, and both deities teach that what is taken must eventually be given back. [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]] aligns with Malbing's philosophy of embracing natural urges without shame, as both hunger and rage are primal forces. [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] shares the belief that taking and consuming what one desires is natural and should be honored.

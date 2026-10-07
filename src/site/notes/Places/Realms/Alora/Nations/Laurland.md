@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/laurland/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"hemisphere":"Northern","climate":"Mild to warm temperate","government":"Merchant oligarchy","capital":"Felavik","ruler":"The Tojjar","dominant-culture":[["Dali"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/laurland/","dg-note-properties":{"type":"nation","realm":"Alora","hemisphere":"Northern","climate":"Mild to warm temperate","government":"Merchant oligarchy","capital":"Felavik","ruler":"The Tojjar","dominant-culture":"Dali"}}
 ---
 
 # Laurland
@@ -64,7 +64,7 @@ Laurland keeps a formal alliance with [[Places/Realms/Alora/Nations/Khania\|Khan
 
 Laurland was once [[Species and Cultures/Cultures/Yotuun\|Yotuun]] in culture, its harbors founded by seafarers from the Nexus. As its trade with the Khanian coast grew over the generations, Dali customs took hold, and the island gradually became Dali. Many of its towns and harbors still bear Yotuun names, the capital among them.
 
-When the city-states of the east united as Khania in 5117, Laurland allied with the new republic. Its fleet held the coast while [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]] pressed from the west, and Helano never reached the Dali shore. Laurland came through the upheavals of 5267 untouched, and it has prospered on trade in the roughly century and a half since.
+When the city-states of the east united as Khania in 5117, Laurland allied with the new republic. Its fleet held the coast while [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]] pressed from the west, and Helano never reached the Dali shore. Laurland came through the upheavals of 5267 untouched, and it has prospered on trade in the 170 years since.
 
 ## Capital
 

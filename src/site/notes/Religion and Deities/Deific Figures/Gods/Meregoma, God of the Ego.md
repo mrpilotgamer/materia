@@ -57,6 +57,8 @@ The [[History/Ages/Age of Expansion\|Age of Expansion]] saw rulers increasingly 
 
 In the current [[History/Ages/Age of Stability\|Age of Stability]], worship has found particular resonance among those seeking personal growth and self-improvement. The god's emphasis on honest self-assessment while maintaining confidence has proven valuable for continuous development.
 
+The [[Species and Cultures/Cultures/Sonta\|Sonta]] honor Meregoma as patron of the mask, of the true self beneath it, and of the honest face shown when it counts.
+
 ## Related Entities
 
 **Allies:** [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma, God of Desire]] shares Meregoma's emphasis on self-realization and authentic living, as both teach that discovering and honoring your true self is sacred. [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya, God of Devotion]] aligns with Meregoma's teaching about conviction in one's chosen path, and both gods demand unwavering commitment to what you have determined is right.

@@ -57,6 +57,8 @@ Throughout the subsequent ages, worship has remained remarkably consistent, as d
 
 In the current [[History/Ages/Age of Stability\|Age of Stability]], Wathoria's clergy continues to maintain the soul cycle, destroy undead who have evaded their proper end, and provide comfort to mortals facing the one certainty that unites all living things. The god's alliance with the Primordials gives Wathorian doctrine unique authority on matters of death and the afterlife.
 
+The [[Species and Cultures/Cultures/Algar\|Algar]] of the [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox]] give Wathoria first place in their devotion, and no Algar body is left unburied.
+
 ## Related Entities
 
 **Allies:** Through the deal struck during the Great Schism War, Wathoria maintains a unique understanding with the [[Religion and Deities/Deific Figures/Primordials\|Primordials]], aligned in purpose regarding natural cycles and the proper flow of souls. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing, God of Consumption]] shares Wathoria's philosophy of natural cycles, holding that what is consumed in life must be returned to the earth in death. [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity, God of Benevolence]] aligns with Wathoria's emphasis on equity and justice for all regardless of station. [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya, God of Devotion]] connects through the understanding that devoted service in life affects one's judgment after death. [[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner, God of Caution]] shares the teaching that preparing for death's inevitability is wisdom and no kind of morbidity.

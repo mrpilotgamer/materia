@@ -8,7 +8,7 @@
 
 Mendura (mehn-DOO-rah), Master of the Shield, teaches that true courage lies not in victory but in refusing to yield. The concept of "fight or flight" is held to be a false choice. There is no flight, for to flee is to be a disgrace. To Mendura's followers, the body itself is the shield, and one's duty is to stand firm regardless of pain, fear, or overwhelming odds. When you believe you can go no further, take another step. When you believe you cannot take another hit, endure one more blow.
 
-As the Jarl of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]], Mendura is particularly revered in that harsh northern region where survival demands unyielding fortitude. The god attracts knights who defend the weak, bodyguards who place themselves between danger and their charges, and parents who shield their children from harm at any cost. The philosophy concerns absolute defense and leaves aggression to other faiths. A Mendurian is an immovable barrier protecting what lies behind it, no matter how many blows shatter against it.
+As the Jarl of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]], Mendura is particularly revered across that harsh continent, where survival demands unyielding fortitude. The god attracts knights who defend the weak, bodyguards who place themselves between danger and their charges, and parents who shield their children from harm at any cost. The philosophy concerns absolute defense and leaves aggression to other faiths. A Mendurian is an immovable barrier protecting what lies behind it, no matter how many blows shatter against it.
 
 ## Worship and Clergy
 

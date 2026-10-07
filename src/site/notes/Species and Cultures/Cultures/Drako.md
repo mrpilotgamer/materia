@@ -13,7 +13,7 @@ Drako is the dominant culture of Narathatath, where dragons fly through the majo
 
 Drako culture is believed to be as old as dragons themselves, which would make it one of the oldest cultures in [[Places/Realms/Alora/Alora\|Alora]]. It began in the mountains of Narathatath, on the western continent of [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]], and it remains a highland culture today.
 
-Before 4287, dragons ruled both continents of the Crimson Lands, and humans lived under Drako rule. The Human Uprising of that year broke dragon rule on the eastern continent and founded [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]], and few humans remained in Narathatath afterward. Along the coasts of the strait between the two nations, Drako blends with [[Species and Cultures/Cultures/Anor\|Anor]] into the [[Species and Cultures/Cultures/Trow\|Trow]] culture.
+Before 4287, dragons ruled both continents of the Crimson Lands, and humans lived under Drako rule. The Human Uprising of that year broke dragon rule on the eastern continent and founded [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]], and few humans remained in Narathatath afterward. Along the coasts of the strait between the two nations live the [[Species and Cultures/Cultures/Trow\|Trow]], a [[Species and Cultures/Races/Trox\|Trox]] culture from the caverns below that Drako and [[Species and Cultures/Cultures/Anor\|Anor]] have both shaped since it reached the surface.
 
 ## Social Structure
 

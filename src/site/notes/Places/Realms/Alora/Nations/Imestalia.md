@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/imestalia/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Azure Expanse"]],"government":"Monarchy with a Cortes","capital":"Quichollow","ruler":null,"dominant-culture":[["Portizian"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/imestalia/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Azure Expanse","government":"Monarchy with a Cortes","capital":"Quichollow","ruler":null,"dominant-culture":"Portizian"}}
 ---
 
 # Imestalia

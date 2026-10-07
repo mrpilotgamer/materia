@@ -55,6 +55,8 @@ During the [[History/Ages/Age of Regrowth\|Age of Regrowth]], the clergy's empha
 
 The [[History/Ages/Age of Expansion\|Age of Expansion]] brought tension between Maltrunity's philosophy and the accumulation-focused mentality of expanding empires, and many rulers viewed the clergy's insistence on resource redistribution as a threat. The [[History/Ages/Age of Incursion\|Age of Incursion]] saw a dramatic surge in worship, as the clergy's established distribution networks and experience with triage proved invaluable during humanitarian crises, and many credit them with preventing starvation and disease. In the current [[History/Ages/Age of Stability\|Age of Stability]], Maltrunity's temples continue matching abundance with need. They remain particularly strong in areas with heavy travel, where the principle of helping strangers ensures passing travelers receive assistance equal to local residents.
 
+Among the [[Species and Cultures/Cultures/Portizian\|Portizian]] people, brotherhoods sworn to Maltrunity keep his alms and feed the poor of every town, and [[Species and Cultures/Cultures/Barbois\|Barbois]] communes keep public granaries and almshouses in his name.
+
 ## Related Entities
 
 **Allies:** [[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine, God of Belief]] shares Maltrunity's mission of helping the poor and downtrodden, as both bring hope and material aid to those society has forgotten. [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] aligns with Maltrunity's emphasis on justice and ensuring resources reach those most in need regardless of social standing.

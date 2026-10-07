@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-jotuun-nexus/","dg-note-properties":{"type":"region","realm":[["Alora"]],"hemisphere":"Equatorial","climate":"Tropical to Temperate"}}
+{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-jotuun-nexus/","dg-note-properties":{"type":"region","realm":"Alora","hemisphere":"Equatorial","climate":"Tropical to Temperate"}}
 ---
 
 # The Jotuun Nexus
@@ -9,7 +9,7 @@
 
 The Jotuun Nexus is a vast continent straddling the equator, named for the ancient giants said to have been born and to have died here during [[History/Ages/Prehistory\|Prehistory]]. No physical trace of these giants has ever been found. There are no bones, no ruins, and no artifacts, only the stories told across countless generations and the [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]], who claim descent from them.
 
-Three nations ring the continent's coasts, and a harsh desert fills its heart. That desert was once the heartland of Helano, a khanate of the desert [[Species and Cultures/Cultures/Yotuun\|Yotuun]] and the homeland of the [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]]. Helano was ruled by the Khan, a title held by one of the strongest Yol-Mar in the land, and its rule was militaristic. It subjugated [[Places/Realms/Alora/Nations/Hovden\|Hovden]] in 5017 and the [[Places/Realms/Alora/Nations/Kingdom of Stamvia\|Kingdom of Stamvia]] in 5067, drawing lumber from the one and stonemasons and ships from the other.
+Three nations ring the continent's coasts, and a harsh desert fills its heart. That desert was once the heartland of [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]], a khanate of the desert [[Species and Cultures/Cultures/Yotuun\|Yotuun]] and the homeland of the [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]]. Helano was ruled by the Khan, a title held by one of the strongest Yol-Mar in the land, and its rule was militaristic. It subjugated [[Places/Realms/Alora/Nations/Hovden\|Hovden]] in 5017 and the [[Places/Realms/Alora/Nations/Kingdom of Stamvia\|Kingdom of Stamvia]] in 5067, drawing lumber from the one and stonemasons and ships from the other.
 
 Helano fell in 5267, when a widespread disease brought famine and internal collapse. Its former subjects regained their independence, and the survivors of the plague scattered across the Nexus, though a few stubborn clans stayed on in the desert. The plague struck in the same year that Rouge's incursion brought down Adriacium and Presium, and the archivists record the timing as coincidence.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/pimestalia/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Azure Expanse"]],"government":"Federal republic","capital":"Freygbutumn","ruler":null,"dominant-culture":[["Portizian"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/pimestalia/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Azure Expanse","government":"Federal republic","capital":"Freygbutumn","ruler":null,"dominant-culture":"Portizian"}}
 ---
 
 # Pimestalia

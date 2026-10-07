@@ -14,6 +14,8 @@ The Daemedi possess several abilities inherited from their lower planar ancestry
 
 The Daemedi arose from unions between mortals and denizens of the lower planes, whether infernal, abyssal, or other malevolent outer realms. Scholars debate whether these bloodlines originated from deliberate pacts during [[History/Ages/Prehistory\|Prehistory]], from planar breaches that allowed such beings to walk [[Places/Materia\|Materia]], or from the aftermath of the [[History/Great Schism War\|Great Schism War]] when the barriers between planes were weakened. The term "Daemedi" is a collective designation and never a unified ancestry, encompassing any bloodline touched by the lower planes. Some theorize the Daemedi may have increased in number during the [[History/Ages/Age of Expansion\|Age of Expansion]], when ambitious mortals frequently sought power through questionable bargains.
 
+Daemedi are most numerous in [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]]. The [[Places/Realms/Alora/Nations/Empire of Bornumia\|Empire of Bornumia]] holds the highest Daemedi density in Alora, and Daemedi make up the largest share of the [[Species and Cultures/Cultures/Algar\|Algar]] of the [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox]].
+
 ## Pronunciation
 
 Daemedi (DIE-meh-dee)

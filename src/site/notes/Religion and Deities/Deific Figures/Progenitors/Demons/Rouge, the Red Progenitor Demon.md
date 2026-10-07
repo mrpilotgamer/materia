@@ -6,7 +6,9 @@
 
 ## Overview
 
-Rouge (roozh), Breaker of Chains, once ruled over the [[Places/Planes/Outer Planes/Infinite Layers of the Abyss\|Abyssal]] realm known as the Crimson Battlefields. He is now in an unknown location, to the frustration of the other Progenitor Demons. He embodies the ideals of passion, and fighting for what you are passionate for.
+Rouge (roozh), Breaker of Chains, once ruled over the [[Places/Planes/Outer Planes/Infinite Layers of the Abyss\|Abyssal]] realm known as the Crimson Battlefields. After the party [[Adventures And Stories/Parties/Retribution\|Retribution]] banished him from [[Places/Materia\|Materia]] in 5267, he returned to the Crimson Battlefields, and he rules there once more. He embodies the ideals of passion, and fighting for what you are passionate for.
+
+A legend holds that for the century before his banishment, Rouge ruled the [[Places/Realms/Alora/Nations/Fallen Nations/Empire of Adriacium\|Empire of Adriacium]] as its faceless emperor, under a single law that no one may infringe on the freedom of another. The claim surfaced after the war of 5267, and many refused to believe it. After 170 years, most treat it as myth and remember the war as a demon incursion gone wrong.
 
 ## Worship and Clergy
 

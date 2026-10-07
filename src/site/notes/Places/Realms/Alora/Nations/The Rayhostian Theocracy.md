@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/the-rayhostian-theocracy/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Crimson Lands"]],"government":"Feudal theocratic monarchy","capital":"Hearhand","ruler":null,"dominant-culture":[["Anor"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/the-rayhostian-theocracy/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Crimson Lands","government":"Feudal theocratic monarchy","capital":"Hearhand","ruler":null,"dominant-culture":"Anor"}}
 ---
 
 # The Rayhostian Theocracy
@@ -65,6 +65,8 @@ Children attend temple schools, and higher learning continues in seminaries for 
 The Theocracy was born in the Human Uprising of 4287, which split the dragon-ruled territory of the Crimson Lands into two nations. Anor tradition holds that the three gods aided the rebels in their victory.
 
 The centuries that followed were marked by tension with Narathatath, though open conflict between the two nations was rare. Most events of note in that period were internal to the Theocracy.
+
+In 5267 the party [[Adventures And Stories/Parties/Retribution\|Retribution]] crossed the ocean to warn of the faceless emperor ruling Adriacium, and the Theocracy sent reinforcements to [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]]. Alongside mages from [[Places/Realms/Alora/Nations/Imnas\|Imnas]], its soldiers helped halt an army of demons and devils inside the [[Places/Realms/Alora/Nations/Empire of Bornumia\|Empire of Bornumia]], and the army broke apart when Retribution banished [[Religion and Deities/Deific Figures/Progenitors/Demons/Rouge, the Red Progenitor Demon\|Rouge]].
 
 The two nations have kept an extended peace for the past 170 years. In that time they have established multiple trade treaties through the diplomatic efforts of Slyrsomyr the Bridgemaker, Narathatath's chief diplomat to the Theocracy. Relations have improved over the past century, though the two nations remain wary of each other.
 

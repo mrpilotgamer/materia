@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/narathatath/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Crimson Lands"]],"government":"Draconic council, ruling as a collective monarch","capital":"Kisondarket","ruler":"Council of Ten","dominant-culture":[["Drako"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/narathatath/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Crimson Lands","government":"Draconic council, ruling as a collective monarch","capital":"Kisondarket","ruler":"Council of Ten","dominant-culture":"Drako"}}
 ---
 
 # Narathatath

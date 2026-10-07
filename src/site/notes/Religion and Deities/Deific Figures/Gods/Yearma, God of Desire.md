@@ -55,6 +55,8 @@ The relationship between Yearma's faithful and other religions has been complex 
 
 In the current [[History/Ages/Age of Stability\|Age of Stability]], Yearma's temples have become more openly accepted in cosmopolitan areas, though rural or conservative regions still view the faith with suspicion. The clergy continues to emphasize that desire and consent together create freedom, while desire without consent creates harm. The distinction separates Yearma's philosophy from simple hedonism or exploitation.
 
+The [[Species and Cultures/Cultures/Casta\|Casta]] honor Yearma for the conviction that life should be lived fully, and Yearma's followers among them are known for choosing their own matches and defending them with the sword.
+
 ## Related Entities
 
 **Allies:** [[Religion and Deities/Deific Figures/Gods/Meregoma, God of the Ego\|Meregoma, God of the Ego]] shares Yearma's emphasis on self-realization and living authentically according to your true nature, and both gods reject the suppression of self to meet others' expectations. [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] aligns with Yearma's philosophy of pursuing what you desire. Riavexect desires possessions and Yearma desires experiences, and both honor the sacred act of wanting and claiming what you crave.

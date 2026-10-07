@@ -33,6 +33,8 @@ Ravens thrive in both day and night, appear equally comfortable in multiple envi
 
 Priests conduct rituals at transitional times: dawn, dusk, equinoxes, and solstices, when the world itself demonstrates change's inevitability. They teach magic to those with aptitude, and treat education as a sacred duty since magic is Murasakino's direct legacy to mortals. The clergy studies magic as communion with Murasakino's gift and never as a mere tool, each spell a small echo of the primordial's power to reshape reality. They maintain extensive records of magical discoveries, believing that each new spell or technique represents mortals proving themselves worthy. The faith teaches that change is sacred, that thresholds and transitions hold power stable states cannot match, and that magic was granted as a test, proof that mortals could be trusted with the ability to alter reality itself. Murasakino appears at moments of transformation, watching to see whether mortals will embrace change or cling desperately to what was.
 
+The [[Species and Cultures/Cultures/Dulandi\|Dulandi]] of [[Places/Realms/Alora/Nations/Imnas\|Imnas]] honor Murasakino above all the Primordials, holding magic as the birthright the spirit gave them and the leylines as that gift flowing through the land. The [[Species and Cultures/Cultures/Valekai\|Valekai]] honor Murasakino in every tunnel they cut, and before a clan digs into new rock its elders make offerings and ask leave.
+
 ### Tenets of Faith
 
 To follow Murasakino requires adherence to these beliefs:

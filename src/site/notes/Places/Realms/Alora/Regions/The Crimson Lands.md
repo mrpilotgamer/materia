@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-crimson-lands/","dg-note-properties":{"type":"region","realm":[["Alora"]],"hemisphere":"Equatorial to Northern","climate":"Tropical to Polar"}}
+{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-crimson-lands/","dg-note-properties":{"type":"region","realm":"Alora","hemisphere":"Equatorial to Northern","climate":"Tropical to Polar"}}
 ---
 
 # The Crimson Lands

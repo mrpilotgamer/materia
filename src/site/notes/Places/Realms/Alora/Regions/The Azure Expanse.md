@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-azure-expanse/","dg-note-properties":{"type":"region","realm":[["Alora"]],"hemisphere":"Equatorial","climate":"Temperate to Tropical"}}
+{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-azure-expanse/","dg-note-properties":{"type":"region","realm":"Alora","hemisphere":"Equatorial","climate":"Temperate to Tropical"}}
 ---
 
 # The Azure Expanse

@@ -33,6 +33,8 @@ Worship often occurs outdoors in winter conditions, with followers deliberately 
 
 Priests live in northern regions or high altitudes where winter dominates, maintaining deep knowledge of ice formations, wind behavior, and the adaptations necessary for survival in extreme cold. They teach navigation by wind and stars, demonstrate proper cold-weather preparation, and counsel acceptance in place of complaint. During prayers, clergy often invoke favorable winds for travelers, acknowledging Shiroi's dual nature as both the lethal blizzard and the gentle breeze that guides ships safely home. The faith teaches that winter preserves what warmth destroys, that the cold serves protection and represents no hardship, that wind carries both death and deliverance, and that balance requires restraint as much as growth. Winter's pause in the cycle must be accepted, since rest enables renewal.
 
+The [[Species and Cultures/Cultures/Valekai\|Valekai]] honor Shiroi on every cliff face and high pass, and a climber who sets out in bad weather without asking the spirit's leave is called a fool. In [[Places/Realms/Alora/Nations/Hovden\|Hovden]], the [[Species and Cultures/Cultures/Yotuun\|Yotuun]] honor Shiroi for the winds and winters.
+
 ### Tenets of Faith
 
 Shiroi's followers pledge:

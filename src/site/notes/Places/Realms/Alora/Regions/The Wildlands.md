@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-wildlands/","dg-note-properties":{"type":"region","realm":[["Alora"]],"hemisphere":"Southern","climate":"Temperate to Polar"}}
+{"dg-publish":true,"permalink":"/places/realms/alora/regions/the-wildlands/","dg-note-properties":{"type":"region","realm":"Alora","hemisphere":"Southern","climate":"Temperate to Polar"}}
 ---
 
 # The Wildlands

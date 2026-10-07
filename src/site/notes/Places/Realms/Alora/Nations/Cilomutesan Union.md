@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/cilomutesan-union/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Wildlands"]],"government":"Federation of city republics","capital":"Diaquingis","ruler":"Council of Ten","dominant-culture":[["Sonta"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/cilomutesan-union/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Wildlands","government":"Federation of city republics","capital":"Diaquingis","ruler":"Council of Ten","dominant-culture":"Sonta"}}
 ---
 
 # Cilomutesan Union

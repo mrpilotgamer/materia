@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/republic-of-korthak/","dg-note-properties":{"type":"nation","realm":[["Alora"]],"region":[["The Wildlands"]],"government":"Republic","capital":"Saventiaria","ruler":null,"dominant-culture":[["Barbois"],["Casta"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/republic-of-korthak/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Wildlands","government":"Republic","capital":"Saventiaria","ruler":null,"dominant-culture":["Barbois","Casta"]}}
 ---
 
 # Republic of Korthak

@@ -14,6 +14,8 @@ Vullukk possess pronounced physical adaptations for their climbing lifestyle. Th
 
 The Vullukk's adaptations for climbing and high-altitude survival strongly suggest they originated in mountainous regions during [[History/Ages/Prehistory\|Prehistory]], though precisely where remains debated. Their insatiable curiosity and knowledge-gathering instincts may have developed as survival mechanisms, since races that understood their environment, remembered useful information, and learned from observation would thrive in harsh mountain conditions. Some scholars propose the Vullukk's intelligence and curiosity are the defining traits of their species and no mere adaptation, which would suggest they may have been intentionally created or uplifted by entities who valued knowledge and exploration. Their long tradition of collecting factoids and trivia "one at a time" hints at a cultural practice so ancient it may predate written history, passed down through countless generations as each Vullukk adds their discoveries to a vast collective understanding of [[Places/Materia\|Materia]].
 
+Some [[Species and Cultures/Cultures/Valekai\|Valekai]] claim the mountain range of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]] as the place the Vullukk first climbed into the world, and the clans there are almost pure Vullukk. Vullukk are also common among the peoples of [[Places/Realms/Alora/Nations/Republic of Korthak\|Korthak]] and the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]].
+
 ## Pronunciation
 
 Vullukk (VUOL-luke)

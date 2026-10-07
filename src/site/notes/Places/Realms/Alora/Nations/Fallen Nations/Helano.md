@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/fallen-nations/helano/","dg-note-properties":{"type":"nation","status":"Fallen (5267)","realm":[["Alora"]],"region":[["The Jotuun Nexus"]],"government":"Khanate","capital":null,"ruler":null,"dominant-culture":[["Yotuun"]]}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/fallen-nations/helano/","dg-note-properties":{"type":"nation","status":"Fallen (5267)","realm":"Alora","region":"The Jotuun Nexus","government":"Khanate","capital":null,"ruler":null,"dominant-culture":"Yotuun"}}
 ---
 
 # Helano
