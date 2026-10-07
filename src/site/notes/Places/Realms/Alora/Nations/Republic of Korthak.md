@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Republic of Korthak holds the west-centre of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], on land that was once divided between the Empire of Adriacium and the Oligarchy of Presium. It was born from the city-state wars that followed their fall in 5267, and it took its present form about ninety years ago, when every power within its borders signed a founding treaty.
+The Republic of Korthak holds the west-centre of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], on land that was once divided between the Empire of Adriacium and the Oligarchy of Presium. It was born from the city-state wars that followed their fall in 5267, and it took its present form around 5347, when every power within its borders signed a founding treaty.
 
 Korthak is a republic of two cultures. The [[Species and Cultures/Cultures/Barbois\|Barbois]] hold the north and the [[Species and Cultures/Cultures/Casta\|Casta]] the south, and each governs its own provinces in its own way beneath a national government deliberately built so that no single person rules it. The two cultures quarrel often, but they sit between powerful neighbors and cannot afford to let their quarrels break the republic.
 
@@ -72,7 +72,7 @@ Before 5267 the land that is now Korthak was split between the Empire of Adriaci
 
 Both Adriacium and Presium fell in the [[History/Timeline\|war of 5267]]. Their people were killed or scattered, and the survivors rebuilt from the ruins. Captains and warlords seized the cities, and for decades the city-states fought one another for power. In the north, the cities rose against their captains and declared their people free and equal citizens, and those risings gave birth to the Barbois. In the south the captains held on, turned their conquests into counties, and became the Casta lords.
 
-The wars wore both sides down. About ninety years ago, every power within Korthak's present borders met at Saventiaria and signed the Treaty of Saventiaria, founding the republic. The treaty guaranteed each culture its own way of governing, divided the national government into three branches, and made the Eldar codes the common law of all, and Korthak has held together under it ever since.
+The wars wore both sides down. Around 5347, every power within Korthak's present borders met at Saventiaria and signed the Treaty of Saventiaria, founding the republic. The treaty guaranteed each culture its own way of governing, divided the national government into three branches, and made the Eldar codes the common law of all, and Korthak has held together under it ever since.
 
 The republic's politics have never been quiet. The Barbois and the Casta clash over the army, the silver, the duel, and the reach of the national government, and every election to the Assembly is fought along that line. Neither side has ever pushed the other far enough to break the treaty, since both know how little stands between Korthak and its neighbors.
 

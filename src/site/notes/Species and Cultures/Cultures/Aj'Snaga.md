@@ -13,7 +13,7 @@ Aj'Snaga culture began on the eastern side of what is now [[Places/Realms/Alora/
 
 The Araki are the great majority of the Aj'Snaga by a wide margin. Members of other races live among them in small numbers, and their deaths are mourned with a weight the Araki reserve for no one else, since they will not return.
 
-The culture also holds the easternmost island of [[Places/Realms/Alora/Nations/Imnas\|Imnas]], which Imnas took from Yoichizu in a conflict about four hundred years ago. The islanders are loyal to the culture and keep its customs, but after four centuries, and with so few of them, they are mostly indifferent to who rules them.
+The culture also holds the easternmost island of [[Places/Realms/Alora/Nations/Imnas\|Imnas]], which Imnas took from Yoichizu in a conflict around 5037. The islanders are loyal to the culture and keep its customs, but after four centuries, and with so few of them, they are mostly indifferent to who rules them.
 
 ## Rebirth
 

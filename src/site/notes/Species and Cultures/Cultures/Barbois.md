@@ -82,7 +82,7 @@ The Barbois and the Casta share Korthak and disagree about almost everything. Ba
 
 Within Barbois lands, debate never stops. Some argue that the Grands Ouvrages have grown too costly and that a commune's money belongs in its granaries and almshouses first. Others answer that a people who stop building have begun to decline, a lesson they learned from the Eldar. Radicals press to spread the Barbois model to the Casta provinces, while moderates warn that pushing too hard would break the partnership that keeps Korthak whole.
 
-The Barbois view the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]] and its [[Species and Cultures/Cultures/Sonta\|Sonta]] with friendly rivalry, as fellow republicans who disagree about masks and much else. They regard the Empire of Nox with unease. Its council does most of the governing, but no assembly chose the Chaos Lord who has stood above it for 170 years, and Barbois philosophers find that arrangement hard to forgive.
+The Barbois view the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]] and its [[Species and Cultures/Cultures/Sonta\|Sonta]] with friendly rivalry, as fellow republicans who disagree about masks and much else. They regard the Empire of Nox with unease. Its council does most of the governing, but no assembly chose the Chaos Lord who has stood above it since 5267, and Barbois philosophers find that arrangement hard to forgive.
 
 ## Distinctive Traits
 

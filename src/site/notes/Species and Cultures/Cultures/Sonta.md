@@ -105,7 +105,7 @@ The old families of Presium never vanished. Some of their descendants still hold
 
 Masks invite abuse. Thieves, smugglers, and conspirators find them as useful as honest citizens do, and every few years a scandal breaks when an officeholder is found to have acted masked. The Lords of the Night argue for more power to unmask, and the Consegio guards the right of citizens to keep their faces hidden.
 
-The Sonta share Korthak's eastern edge with its peoples and trade with them daily, though the rivalries of the city-state wars have not wholly faded. They watch the [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox]] with wary respect. Nox's council governs, but the same Chaos Lord has stood above it for 170 years, and that sits uneasily with every Sonta instinct about power. The mines of the northern peaks bring the Sonta into regular contact with the Valekai, whose passes they rely on and whose ways they understand poorly.
+The Sonta share Korthak's eastern edge with its peoples and trade with them daily, though the rivalries of the city-state wars have not wholly faded. They watch the [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox]] with wary respect. Nox's council governs, but the same Chaos Lord has stood above it since 5267, and that sits uneasily with every Sonta instinct about power. The mines of the northern peaks bring the Sonta into regular contact with the Valekai, whose passes they rely on and whose ways they understand poorly.
 
 ## Distinctive Traits
 

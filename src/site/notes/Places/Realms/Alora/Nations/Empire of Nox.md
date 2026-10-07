@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Empire of Nox holds the west of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], on the lands of the fallen Empire of Adriacium. It was raised from Adriacium's ruins in 5267 by [[Vera\|Vera]], one of the adventurers of [[Adventures And Stories/Parties/Retribution\|Retribution]], who has stood at its head for 170 years. Her title, Chaos Lord, belongs to no other ruler in Alora, and the world has no better word for what she has become.
+The Empire of Nox holds the west of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], on the lands of the fallen Empire of Adriacium. It was raised from Adriacium's ruins in 5267 by [[Vera\|Vera]], one of the adventurers of [[Adventures And Stories/Parties/Retribution\|Retribution]], who has stood at its head ever since. Her title, Chaos Lord, belongs to no other ruler in Alora, and the world has no better word for what she has become.
 
 Nox is an empire in name and a council in practice. Vera holds almost no formal power and leaves the governing of the empire to a council of seven, while her presence and her reputation give Nox a weight among its neighbors that no other Wildlands nation can match. For half of every year she is not in the empire at all.
 
@@ -16,7 +16,7 @@ Nox stretches from the western coast of the continent to its border with the [[P
 
 A great bay reaches deep into Nox from the south. The Algar call it the *Adriac Gulf*, a name kept from the days of Adriacium, and its sheltered waters carry much of the empire's coastal trade.
 
-Ruins of Adriacium remain across the empire, though many of its cities have been rebuilt over the past 170 years. A few demons from 5267 still roam the wilder country, keeping to the shadows and causing trouble whenever they surface.
+Ruins of Adriacium remain across the empire, though many of its cities have been rebuilt since 5267. A few demons from 5267 still roam the wilder country, keeping to the shadows and causing trouble whenever they surface.
 
 ## Government
 
@@ -38,7 +38,7 @@ The council governs through the service, the body of officials who carry out the
 
 ### The Chaos Lord
 
-Vera's authority is almost entirely informal. She holds no veto written into law, no command of the army, and no seat on the council. What she has is the weight of 170 years, the loyalty of the empire she built, and a reputation no one in Nox would care to test. The council governs, and it does so knowing she is there.
+Vera's authority is almost entirely informal. She holds no veto written into law, no command of the army, and no seat on the council. What she has is the weight of every year since 5267, the loyalty of the empire she built, and a reputation no one in Nox would care to test. The council governs, and it does so knowing she is there.
 
 Vera is present in Nox for the first seven months of each year, and absent for the last seven. Where she goes is not publicly known. It is known only that she leaves the Material Plane, and that she has never failed to return. The council governs the same way whether she is present or not, and the Algar mark neither her departures nor her returns.
 
@@ -90,7 +90,7 @@ Before 5267 these lands were the heart of the Empire of Adriacium. In 5167 Adria
 
 Vera and her companions of Retribution fought that army, brought reinforcements from across the ocean, and banished [[Religion and Deities/Deific Figures/Progenitors/Demons/Rouge, the Red Progenitor Demon\|Rouge]]. Adriacium did not survive the war. Its people were killed or scattered, and other powers rose in the ruins to claim its lands. Vera already commanded troops and influence from the war, and she was the strongest force in the region from the start. Within a few years her rivals had been absorbed or defeated, and the Empire of Nox had taken shape on Adriacium's western lands.
 
-Over the following decades Nox rebuilt Adriacium's cities, roads, and mines and won full recognition from the powers of Alora. It has been stable for most of its 170 years, under the same Chaos Lord and the council she set beneath her.
+Over the following decades Nox rebuilt Adriacium's cities, roads, and mines and won full recognition from the powers of Alora. It has been stable for most of its history, under the same Chaos Lord and the council she set beneath her.
 
 ## Capital
 

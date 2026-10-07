@@ -58,9 +58,9 @@ Relations with Imnas remain tense four centuries after the war over Morlas Bay, 
 
 ## History
 
-Aj'Snaga culture began in the wetlands of the northeastern peninsula and spread along the coasts and forests from there. About six hundred and thirty years ago the clans were unified under the first shōgun, and Yoichizu has been a shogunate ever since. 
+Aj'Snaga culture began in the wetlands of the northeastern peninsula and spread along the coasts and forests from there. Around 4807 the clans were unified under the first shōgun, and Yoichizu has been a shogunate ever since. 
 
-About four hundred years ago, Yoichizu laid claim to the whole of Morlas Bay, meaning to keep its navy strong and the bay under its control. Imnas retaliated and took the easternmost island. The war ended in an agreement that the bay would be neutral waters, and the island stayed with Imnas.
+Around 5037, Yoichizu laid claim to the whole of Morlas Bay, meaning to keep its navy strong and the bay under its control. Imnas retaliated and took the easternmost island. The war ended in an agreement that the bay would be neutral waters, and the island stayed with Imnas.
 
 ## Capital
 

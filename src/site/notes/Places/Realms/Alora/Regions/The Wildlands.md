@@ -19,7 +19,7 @@ In 5267 an army of demons and devils marched out of Adriacium and ravaged the co
 
 The party [[Adventures And Stories/Parties/Retribution\|Retribution]] brought reinforcements from [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|the Rayhostian Theocracy]] and [[Places/Realms/Alora/Nations/Imnas\|Imnas]] to halt the army inside Bornumia, and it broke apart when they banished Rouge that same year. Adriacium and Presium did not survive the war. [[Vera\|Vera]] of Retribution raised the Empire of Nox from Adriacium's ruins, and the city-states that emerged across the rest of Adriacium and Presium fought over what remained until Korthak and the Union took shape.
 
-After the war it was revealed that the faceless emperor had been [[Religion and Deities/Deific Figures/Progenitors/Demons/Rouge, the Red Progenitor Demon\|Rouge]] himself, but many refused to believe it. In the 170 years since, the claim has passed into myth and legend, and most now believe the war was a demon incursion gone wrong.
+After the war it was revealed that the faceless emperor had been [[Religion and Deities/Deific Figures/Progenitors/Demons/Rouge, the Red Progenitor Demon\|Rouge]] himself, but many refused to believe it. In the years since, the claim has passed into myth and legend, and most now believe the war was a demon incursion gone wrong.
 
 ## Climate & Terrain
 

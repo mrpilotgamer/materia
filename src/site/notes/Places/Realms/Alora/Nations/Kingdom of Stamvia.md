@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Kingdom of Stamvia holds the western grasslands of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It was once a republic with a fleet strong enough that [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]] conquered it to take the ships. Since winning independence in 5267, it has become a feudal kingdom under the Valor family. In 5436 King Gerrick Valor killed his brother and seized the throne, and this year the kingdom fell into civil war. Gerrick has closed the kingdom to all foreign trade, and few outside its borders can say how the war stands.
+The Kingdom of Stamvia holds the western grasslands of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It was once a republic with a fleet strong enough that [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]] conquered it to take the ships. Since winning independence in 5267, it has become a feudal kingdom under the Valor family. In 5436 King Gerrick Valor killed his brother and seized the throne, and in 5437 the kingdom fell into civil war. Gerrick has closed the kingdom to all foreign trade, and few outside its borders can say how the war stands.
 
 ## Geography
 

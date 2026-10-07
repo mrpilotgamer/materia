@@ -98,7 +98,7 @@ The gap between Sireth and the forests is the oldest tension in the culture. The
 
 A second gap runs between mages and non-mages. Those who cannot work magic are not scorned, but they have little say, and some argue that a culture which prizes crefft should judge them by other crafts as well. Traditionalists answer that dúchas is the heart of the Dulandi, and a culture that forgot it would no longer be Dulandi at all.
 
-The Dulandi regard their [[Species and Cultures/Cultures/Portizian\|Portizian]] neighbors as a young people, lively and ambitious but short of memory. Relations with the [[Species and Cultures/Cultures/Aj'Snaga\|Aj'Snaga]] are cooler. About four hundred years ago Imnas took the easternmost island from [[Places/Realms/Alora/Nations/Yoichizu\|Yoichizu]] in a conflict, and the island is still Aj'Snaga in culture. The Dulandi count it an old matter long settled, and the Aj'Snaga do not.
+The Dulandi regard their [[Species and Cultures/Cultures/Portizian\|Portizian]] neighbors as a young people, lively and ambitious but short of memory. Relations with the [[Species and Cultures/Cultures/Aj'Snaga\|Aj'Snaga]] are cooler. Around 5037 Imnas took the easternmost island from [[Places/Realms/Alora/Nations/Yoichizu\|Yoichizu]] in a conflict, and the island is still Aj'Snaga in culture. The Dulandi count it an old matter long settled, and the Aj'Snaga do not.
 
 ## Distinctive Traits
 

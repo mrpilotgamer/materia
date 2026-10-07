@@ -64,7 +64,7 @@ Laurland keeps a formal alliance with [[Places/Realms/Alora/Nations/Khania\|Khan
 
 Laurland was once [[Species and Cultures/Cultures/Jotuun\|Jotuun]] in culture, its harbors founded by seafarers from the Nexus. As its trade with the Khanian coast grew over the generations, Dali customs took hold, and the island gradually became Dali. Many of its towns and harbors still bear Jotuun names, the capital among them.
 
-When the city-states of the east united as Khania in 5117, Laurland allied with the new republic. Its fleet held the coast while [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]] pressed from the west, and Helano never reached the Dali shore. Laurland came through the upheavals of 5267 untouched, and it has prospered on trade in the 170 years since.
+When the city-states of the east united as Khania in 5117, Laurland allied with the new republic. Its fleet held the coast while [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]] pressed from the west, and Helano never reached the Dali shore. Laurland came through the upheavals of 5267 untouched, and it has prospered on trade ever since.
 
 ## Capital
 

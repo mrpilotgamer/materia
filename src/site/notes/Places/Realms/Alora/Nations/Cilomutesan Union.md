@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Cilomutesan Union is a federation of ten [[Species and Cultures/Cultures/Sonta\|Sonta]] cities in the centre of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], on land that once belonged to the Oligarchy of Presium. Each city is a merchant republic that governs itself, and together they send their representatives to a federal council that meets at Diaquingis. The Union was founded 107 years ago, and it is the oldest of the republics that rose from Presium's ruins.
+The Cilomutesan Union is a federation of ten [[Species and Cultures/Cultures/Sonta\|Sonta]] cities in the centre of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], on land that once belonged to the Oligarchy of Presium. Each city is a merchant republic that governs itself, and together they send their representatives to a federal council that meets at Diaquingis. The Union was founded in 5330, and it is the oldest of the republics that rose from Presium's ruins.
 
 The Union is a nation of shipwrights, glassmakers, and traders, built for defense. Its cities guard their own walls in peace and join their strength under the council in war. Their watchmen, the Lords of the Night, hunt demons within the walls with a seriousness born of 5267.
 
@@ -72,7 +72,7 @@ In the eastern half of the old oligarchy, the harbor cities that came through th
 
 In 5330, ten cities met at Diaquingis, at the mouth of the river Cilomutes, and swore the Oath of the Ten, binding themselves into a union for their common defense. Each city's dose cast a ring into the river, wedding their cities to one another and to the sea. The Union takes its name from that river, and the ten rings are remembered at every Marriage of the Sea.
 
-The Union has held together for 107 years. It is older than the Republic of Korthak by seventeen years, and the Sonta never let their Korthak neighbors forget it.
+The Union has held together since 5330. It is older than the Republic of Korthak by seventeen years, and the Sonta never let their Korthak neighbors forget it.
 
 ## Capital
 

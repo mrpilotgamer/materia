@@ -53,7 +53,7 @@ The abandoned heart of the continent still holds the ruins of Helano, emptied by
 
 The desert heart is the continent's greatest obstacle. Since Helano's fall it has been left to independent peoples and bandits, and raiders and monsters have grown more common there. The Great Desert Road now keeps to claimed land along the desert's edges, and much trade goes by coastal shipping instead.
 
-Relations between the three nations mix tension with trade. Stamvia has been unstable since King Gerrick Valor seized power in 5436, and this year the unrest broke into civil war. The war remains Stamvia's own problem, but it has complicated relations with its neighbors. Gerrick has closed the kingdom to all foreign trade, and the Great Desert Road has fallen silent at its western end.
+Relations between the three nations mix tension with trade. Stamvia has been unstable since King Gerrick Valor seized power in 5436, and in 5437 the unrest broke into civil war. The war remains Stamvia's own problem, but it has complicated relations with its neighbors. Gerrick has closed the kingdom to all foreign trade, and the Great Desert Road has fallen silent at its western end.
 
 Seasonal monsoons bring destructive floods to the coasts while leaving the interior in drought. Southern communities contend with tropical disease and aggressive wildlife in the rainforests. Harsh conditions and scarce water limit settlement in the interior, so the population gathers along the coasts and in the greener north and south. Divisions between the north, the coasts, and the desert give each its own identity, and these sometimes clash over resources and trade routes.
 

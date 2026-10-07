@@ -12,7 +12,7 @@ Imnas is a mageocracy holding the northern half of [[Places/Realms/Alora/Regions
 
 Imnas holds the north of the continent: a broad northeastern lobe, a northern peninsula, a western arm reaching south toward the mountains, and a southern peninsula that pushes into Morlas Bay. Hills rise across the centre, and rivers run down to every coast. Temperate deciduous forest covers the north and west, temperate rainforest fills the centre and east, and the southern peninsula is wetland.
 
-Imnas borders [[Places/Realms/Alora/Nations/Imestalia\|Imestalia]] and [[Places/Realms/Alora/Nations/Pimestalia\|Pimestalia]] to the south, where its western arm meets the strip of tropical forest along the northern foot of the mountains. Its eastern and southern shores face Morlas Bay and the open sea, and the [[Places/Realms/Alora/Regions/The Crimson Lands\|Crimson Lands]] lie across a narrow strait to the northwest. Imnas also holds the small islands off its northern and eastern coasts, the farthest of them the easternmost island, taken from [[Places/Realms/Alora/Nations/Yoichizu\|Yoichizu]] about four hundred years ago.
+Imnas borders [[Places/Realms/Alora/Nations/Imestalia\|Imestalia]] and [[Places/Realms/Alora/Nations/Pimestalia\|Pimestalia]] to the south, where its western arm meets the strip of tropical forest along the northern foot of the mountains. Its eastern and southern shores face Morlas Bay and the open sea, and the [[Places/Realms/Alora/Regions/The Crimson Lands\|Crimson Lands]] lie across a narrow strait to the northwest. Imnas also holds the small islands off its northern and eastern coasts, the farthest of them the easternmost island, taken from [[Places/Realms/Alora/Nations/Yoichizu\|Yoichizu]] around 5037.
 
 ## Government
 
@@ -54,9 +54,9 @@ Imnas keeps largely to itself beyond the business of trade. Its relations with Y
 
 The Dulandi have lived in the forests of Imnas longer than any record they keep, and the founding of the nation is lost to memory. 
 
-Sireth was raised into the sky more than five hundred years ago. Who raised it, and how long the work took, is known only to the council. The rest of Imnas knows only that one generation lived without a floating city and the next lived beneath it.
+Sireth was raised into the sky sometime before 4937. Who raised it, and how long the work took, is known only to the council. The rest of Imnas knows only that one generation lived without a floating city and the next lived beneath it.
 
-About four hundred years ago, Yoichizu laid claim to the whole of Morlas Bay, meaning to keep its navy strong and its waters closed. Imnas retaliated and took the easternmost island from Yoichizu. The war ended in an agreement that Morlas Bay would be neutral waters, open to all three nations that border it, and the island stayed with Imnas.
+Around 5037, Yoichizu laid claim to the whole of Morlas Bay, meaning to keep its navy strong and its waters closed. Imnas retaliated and took the easternmost island from Yoichizu. The war ended in an agreement that Morlas Bay would be neutral waters, open to all three nations that border it, and the island stayed with Imnas.
 
 In 5267 [[Adventures And Stories/Parties/Retribution\|Retribution]] pressed the danger of Adriacium's army on Imnas, and the council sent battle mages across the ocean to the Wildlands, where they helped halt the army inside Bornumia.
 

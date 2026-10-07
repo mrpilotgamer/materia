@@ -23,7 +23,7 @@ Forest covers nearly the whole continent, broken only around the mountains. Temp
 
 The continent's only mountain range runs north to south through the west-centre, and the border between Imestalia and Pimestalia runs along it. Grassland surrounds the range, and a small patch of taiga lies at its southern foot. Along its northern foot, near the Imnas border, runs a strip of tropical rainforest and seasonal forest. Imnas has hills at its centre, and Yoichizu has no mountains at all.
 
-All four capitals stand on the coast. Morlas Bay is enclosed by Imnas, Pimestalia, and Yoichizu, and Pimestalia's only coastline faces it. The bay has been neutral waters since a war between Imnas and Yoichizu about four hundred years ago. Its name is Dulandi, from the words for sea and blue, and some say the region takes its own name from the bay's blue waters.
+All four capitals stand on the coast. Morlas Bay is enclosed by Imnas, Pimestalia, and Yoichizu, and Pimestalia's only coastline faces it. The bay has been neutral waters since a war between Imnas and Yoichizu around 5037. Its name is Dulandi, from the words for sea and blue, and some say the region takes its own name from the bay's blue waters.
 
 ## Natural Resources
 

@@ -6,9 +6,9 @@
 
 ## Overview
 
-The Empire of Bornumia holds the eastern half of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], well over half the continent, and it is the heartland of [[Species and Cultures/Cultures/Eldar\|Eldar]] culture. It has been an empire for about five hundred years, and its emperors rule from Conatagus, one of the most populous cities in [[Places/Realms/Alora/Alora\|Alora]]. Its legions and forts are among the strongest military forces on the continent.
+The Empire of Bornumia holds the eastern half of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], well over half the continent, and it is the heartland of [[Species and Cultures/Cultures/Eldar\|Eldar]] culture. It has been an empire since around 4937, and its emperors rule from Conatagus, one of the most populous cities in [[Places/Realms/Alora/Alora\|Alora]]. Its legions and forts are among the strongest military forces on the continent.
 
-In 5267 an army of demons and devils broke through Bornumia's western border and pushed deep into the empire before it was stopped. Bornumia survived where Adriacium and Presium did not, though it lost its mountain lands in the war. It has spent the 170 years since rebuilding its strength and learning to rely on itself.
+In 5267 an army of demons and devils broke through Bornumia's western border and pushed deep into the empire before it was stopped. Bornumia survived where Adriacium and Presium did not, though it lost its mountain lands in the war. It has spent the years since rebuilding its strength and learning to rely on itself.
 
 ## Geography
 
@@ -22,7 +22,7 @@ The barrier between the planes is thin everywhere in Bornumia, and it shifts. A 
 
 ## Government
 
-Bornumia is an imperial autocracy. The emperor holds supreme authority over law, the legions, and the provinces, and the throne passes by dynasty. The present emperor is Lucius Valerius Corvus, a Daemedi of the Valerian dynasty who has reigned for about twenty years.
+Bornumia is an imperial autocracy. The emperor holds supreme authority over law, the legions, and the provinces, and the throne passes by dynasty. The present emperor is Lucius Valerius Corvus, a Daemedi of the Valerian dynasty who has reigned since around 5417.
 
 
 
@@ -64,7 +64,7 @@ Its closest and most delicate relationship is with the [[Places/Realms/Alora/Nat
 
 ## History
 
-Eldar culture was born in the eastern foothills, and it spread west across the continent during the Age of Expansion. The empires of that age rotted from within, and the Eldar still point to that decay as the great lesson of their history. The Empire of Bornumia rose from the Eldar heartland about five hundred years ago and claims to be the heir of those older realms, and a succession of dynasties has ruled it ever since.
+Eldar culture was born in the eastern foothills, and it spread west across the continent during the Age of Expansion. The empires of that age rotted from within, and the Eldar still point to that decay as the great lesson of their history. The Empire of Bornumia rose from the Eldar heartland around 4937 and claims to be the heir of those older realms, and a succession of dynasties has ruled it ever since.
 
 For a century before 5267, Bornumia shared the continent with Adriacium under its faceless emperor. The empire held its western border closed as far as it could, and it watched the lawlessness beyond with alarm.
 
@@ -72,7 +72,7 @@ In 5267 the army that marched out of Adriacium broke through Bornumia's western 
 
 Bornumia survived, but it lost its hold on the mountainous lands around the range. With its legions spent and its western provinces ravaged, it could not reclaim them, and the Union's frontier came to rest there in the decades after. The empire spent those decades rebuilding its towns, its legions, and its granaries, and it has emerged as strong as it has been in centuries.
 
-The present emperor, Lucius Valerius Corvus, took the throne about twenty years ago.
+The present emperor, Lucius Valerius Corvus, took the throne around 5417.
 
 ## Capital
 

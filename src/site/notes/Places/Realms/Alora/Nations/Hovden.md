@@ -8,7 +8,7 @@
 
 ## Overview
 
-Hovden is a forest kingdom holding the north of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It spent 250 years as a vassal of [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]], sending timber and forest goods south to the Khan, and won its freedom in 5267 when plague brought Helano down. It has thrived in the 170 years since. Its timber, furs, and forest goods travel across [[Places/Realms/Alora/Alora\|Alora]], and its capital sits far from the desert that once ruled it.
+Hovden is a forest kingdom holding the north of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It spent 250 years as a vassal of [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]], sending timber and forest goods south to the Khan, and won its freedom in 5267 when plague brought Helano down. It has thrived ever since. Its timber, furs, and forest goods travel across [[Places/Realms/Alora/Alora\|Alora]], and its capital sits far from the desert that once ruled it.
 
 ## Geography
 
@@ -54,7 +54,7 @@ Hovden was an independent kingdom until Helano subjugated it in 5017. For the ne
 
 In 5267 a plague swept through the Nexus. It reached Hovden as well, and by the time anyone understood what was happening, there was no Helano left to send supplies to. Hovden emerged from the plague years independent, and it has thrived since, building direct trade across Alora instead of paying the old tribute.
 
-Raids out of the desert have grown more common since Helano's fall, and they are the reason the army trains for desert fighting. Stamvia's civil war, which broke out this year across the kingdom's southwestern border, has become a new source of concern.
+Raids out of the desert have grown more common since Helano's fall, and they are the reason the army trains for desert fighting. Stamvia's civil war, which broke out in 5437 across the kingdom's southwestern border, has become a new source of concern.
 
 ## Capital
 

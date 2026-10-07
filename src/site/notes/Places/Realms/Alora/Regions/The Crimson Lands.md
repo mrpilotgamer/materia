@@ -11,7 +11,7 @@ The Crimson Lands, also known as the Land of Dragons, spans two continents and i
 
 The region holds a good portion of the world's major trade centers, and a heavily defended route known as the Crimson Circuit connects all of its major cities. [[Places/Realms/Alora/Nations/Laurland\|Laurland]], an island nation, lies to the west, between the Crimson Lands and [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]].
 
-Each continent belongs to one nation. Narathatath holds the western continent and [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]] the eastern, and a narrow strait separates them. Both were once a single dragon-ruled territory, until the Human Uprising of 4287 divided it. The two have kept the peace for the past 170 years.
+Each continent belongs to one nation. Narathatath holds the western continent and [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]] the eastern, and a narrow strait separates them. Both were once a single dragon-ruled territory, until the Human Uprising of 4287 divided it. The two have kept the peace since 5267.
 
 ## Climate & Terrain
 
@@ -31,7 +31,7 @@ Each nation's exports appear on the other's import lists. Narathatath imports ag
 
 ## Unique Features
 
-Narathatath is governed by a council of ten dragons, by tradition five chromatic and five metallic, each of a different kind. Solanneth the Wise, a gold dragon more than 3,000 years old, is the most respected of the ten. Dragon-guarded vaults in the territory offer storage and security for high-value goods.
+Narathatath is governed by a council of ten dragons, by tradition five chromatic and five metallic, each of a different kind. Solanneth the Wise, a gold dragon who hatched before 2437 PC, is the most respected of the ten. Dragon-guarded vaults in the territory offer storage and security for high-value goods.
 
 [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]], called the Dragon of the Crimson Lands, is the patron of the region. Worship of the god was particularly strong here, where dragons are believed to have first emerged, and dragons carried the faith outward as they spread across [[Places/Materia\|Materia]]. [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]] is also widely worshiped in a region that celebrates draconic might and strength.
 
