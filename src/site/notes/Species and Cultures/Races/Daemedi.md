@@ -4,7 +4,7 @@
 
 ## Physical Description
 
-Daemedi display wide variation in appearance. Some individuals are nearly indistinguishable from humans, while others bear obvious marks of their infernal or abyssal heritage: horns, unusual skin tones, vestigial wings, or other demonic features. This spectrum reflects the varying strength and nature of their planar bloodlines, and no two Daemedi necessarily resemble one another beyond their humanoid form.
+Daemedi vary a great deal. Some could pass for human. Others plainly show their infernal or abyssal blood, with horns, odd skin, small useless wings or other fiendish marks. It depends on how strong the old bloodline runs and what kind it was, so two Daemedi may have nothing in common but their basic shape.
 
 ## Biology
 
@@ -12,9 +12,11 @@ The Daemedi possess several abilities inherited from their lower planar ancestry
 
 ## Origins
 
-The Daemedi arose from unions between mortals and denizens of the lower planes, whether infernal, abyssal, or other malevolent outer realms. Scholars debate whether these bloodlines originated from deliberate pacts during [[History/Ages/Prehistory\|Prehistory]], from planar breaches that allowed such beings to walk [[Places/Materia\|Materia]], or from the aftermath of the [[History/Great Schism War\|Great Schism War]] when the barriers between planes were weakened. The term "Daemedi" is a collective designation and never a unified ancestry, encompassing any bloodline touched by the lower planes. Some theorize the Daemedi may have increased in number during the [[History/Ages/Age of Expansion\|Age of Expansion]], when ambitious mortals frequently sought power through questionable bargains.
+Daemedi descend from mortals and creatures of the lower planes, devils, demons and worse. Nobody agrees on how those bloodlines began. They may go back to pacts made in [[History/Ages/Prehistory\|Prehistory]], to rifts that let fiends walk [[Places/Materia\|Materia]], or to the years after the [[History/Great Schism War\|Great Schism War]], when the walls between the planes were weak. "Daemedi" is a catch-all name for anyone with lower-planar blood, whatever kind it is. There were probably more of them after the [[History/Ages/Age of Expansion\|Age of Expansion]], when plenty of ambitious people made deals they shouldn't have.
 
-Daemedi are most numerous in [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]]. The [[Places/Realms/Alora/Nations/Empire of Bornumia\|Empire of Bornumia]] holds the highest Daemedi density in Alora, and Daemedi make up the largest share of the [[Species and Cultures/Cultures/Algar\|Algar]] of the [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox]].
+## Where They Live
+
+Daemedi live across [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]]. They are the most common people of the [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox]] and the [[Places/Realms/Alora/Nations/Republic of Korthak\|Republic of Korthak]], and the [[Places/Realms/Alora/Nations/Empire of Bornumia\|Empire of Bornumia]] has the highest density of Daemedi anywhere in [[Places/Realms/Alora/Alora\|Alora]]. They are also common in the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]] and in [[Places/Realms/Alora/Nations/Hovden\|Hovden]], and they live by [[Species and Cultures/Cultures/Algar\|Algar]], [[Species and Cultures/Cultures/Barbois\|Barbois]], [[Species and Cultures/Cultures/Casta\|Casta]], [[Species and Cultures/Cultures/Eldar\|Eldar]], [[Species and Cultures/Cultures/Sonta\|Sonta]], [[Species and Cultures/Cultures/Portizian\|Portizian]] and [[Species and Cultures/Cultures/Jotuun\|Jotuun]] culture.
 
 ## Pronunciation
 

@@ -4,7 +4,7 @@
 
 ## Overview
 
-Casta culture is built around the familia, the tower, and the blade. Its people live under counts and barons, gather in great family houses, and settle their quarrels of honor in formal duels fought by rules every Casta knows by heart. They compete in everything: in the height of their towers, the splendor of their feasts, the artists they patronize, and the skill of their swordsmen.
+For the Casta, everything comes back to the family, its tower, and its swords. Its people live under counts and barons, gather in great family houses, and settle their quarrels of honor in formal duels fought by rules every Casta knows by heart. They compete in everything: in the height of their towers, the splendor of their feasts, the artists they patronize, and the skill of their swordsmen.
 
 The Casta kept more of the old [[Species and Cultures/Cultures/Eldar\|Eldar]] household than any of their neighbors, and they built on it a society of lords, vassals, and rival houses that the Eldar would hardly recognize.
 
@@ -32,7 +32,7 @@ Common people belong to a familia as members or clients. A client familia owes s
 
 The Casta measure life by *onore*, honor. A familia's honor rests on the courage of its members, the loyalty it shows its clients and allies, the grandeur of its house and table, and the skill of its blades. Honor is gained in public and lost in public, and every Casta knows where their familia stands against its neighbors.
 
-Two gods shape the Casta spirit. [[Religion and Deities/Deific Figures/Gods/Millary, God of Jealousy\|Millary]] is honored for the ambition that drives a familia to outdo its rivals. The Casta hold no shame in envy, and a familia that inspires envy in its neighbors counts it proof of success. [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma]] is honored for the conviction that life should be lived fully, in love, feasting, art, and the pursuit of one's own ambitions. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] keeps his place at harvests and funerals, as he does across [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]].
+Two gods shape the Casta spirit. [[Religion and Deities/Deific Figures/Gods/Millary, God of Jealousy\|Millary]] is honored for the ambition that drives a familia to outdo its rivals. The Casta hold no shame in envy, and a familia that inspires envy in its neighbors counts it proof of success. [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma]] is honored for the conviction that life should be lived fully, in love, feasting, art, and the pursuit of one's own ambitions. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] keeps their place at harvests and funerals, as they do across [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]].
 
 The greatest Casta taboo is killing outside the code. A Casta may challenge an enemy to a duel and kill them in it with honor. To ambush them, poison them, or strike them unwarned is murder, and it shames the killer's entire familia. The duel exists to channel the feuds of rival houses into fights with rules, and those who break its rules are treated as enemies by every familia.
 
@@ -78,7 +78,7 @@ The greatest Casta festival is the *Palio*, a horse race held each summer in the
 
 ## Cultural Identity
 
-A Casta is known first by their familia, then by its tower and its lord. They measure themselves by the honor of their name, the height of their tower, the artists at their table, and the courage of their blades. To be Casta is to belong to a house and to fight for its place in the world.
+A Casta is known first by their familia, then by its tower and its lord. A Casta's pride rides on the honor of their name and the height of their tower, and they will fight to keep both.
 
 ## Adaptation & Tensions
 
@@ -105,7 +105,7 @@ The Casta regard the [[Species and Cultures/Cultures/Sonta\|Sonta]] of the [[Pla
 **Neutral:** Fiore, Pace, Diamante
 
 **Family Names:** della Torre, Rocca, Spadaro, Guerrieri, Montefalco, Lupi, Aldobrandi
-<!-- della Torre "of the tower", Rocca "fortress", Spadaro "swordsmith", Guerrieri "warriors", Montefalco "falcon mountain", Lupi "wolves", Aldobrandi "old sword" -->
+
 
 *Note: Casta use a given name followed by the name of their familia (e.g., Ginevra della Torre). Nobles add their title before the given name (e.g., Conte Lorenzo Rocca). Formal address uses Messer for men and Madonna for women.*
 

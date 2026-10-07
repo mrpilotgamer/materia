@@ -10,7 +10,7 @@ Dali culture is built around the house, the garden, and the guest. Its people ho
 
 Dali culture is native to the southeastern coast of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]], where warm rains and rich soil supported a string of coastal cities. Each grew around its bazaar and its gardens, and each learned early to manage its water with care. When [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano's]] expansion threatened the city-states of the east, the coastal Dali cities led their unification into [[Places/Realms/Alora/Nations/Khania\|Khania]] in 5117. Khania's alliance with [[Places/Realms/Alora/Nations/Laurland\|Laurland]] kept Helano away from the Dali coast in the years that followed.
 
-Laurland adopted Dali culture slowly over the generations, as its ties to the coast grew closer through trade and alliance. Today Dali is dominant across eastern and southeastern Khania and throughout Laurland. It is also the culture of Khania's government, though the nation as a whole is a mix of Dali and [[Species and Cultures/Cultures/Yotuun\|Yotuun]]. Because Laurland trades with nearly every nation, Dali sailors and merchants are a common sight aboard trading ships across [[Places/Realms/Alora/Alora\|Alora]].
+Laurland adopted Dali culture slowly over the generations, as its ties to the coast grew closer through trade and alliance. Today Dali is dominant across eastern and southeastern Khania and throughout Laurland. It is also the culture of Khania's government, though the nation as a whole is a mix of Dali and [[Species and Cultures/Cultures/Jotuun\|Jotuun]]. Because Laurland trades with nearly every nation, Dali sailors and merchants are a common sight aboard trading ships across [[Places/Realms/Alora/Alora\|Alora]].
 
 Most Dali are [[Species and Cultures/Races/Grendal\|Grendals]], and most of Khania's Grendals are Dali. [[Species and Cultures/Races/Chisana\|Chisana]] form a sizable minority, and their devotion to the Primordials sits comfortably beside Dali reverence for light.
 
@@ -84,7 +84,7 @@ Dali houses face inward. Blank walls meet the street, and the rooms open onto a 
 
 ### Festivals
 
-The most beloved Dali festival is Yalda, the longest night of the year. Families gather by lamplight and stay awake together until dawn, eating fruit, telling stories, and reading verse aloud. At sunrise they go out into the garden to greet the returning sun, honoring Ki for bringing the light back.
+The most beloved Dali festival is Yalda, the longest night of the year, the winter solstice on the 21st of Mergar. Families gather by lamplight and stay awake together until dawn, eating fruit, telling stories, and reading verse aloud. At sunrise they go out into the garden to greet the returning sun, honoring Ki for bringing the light back.
 
 ## Cultural Identity
 
@@ -92,9 +92,9 @@ A Dali is known first by their house. The name of one's khaneh, the state of its
 
 ## Adaptation & Tensions
 
-Dali and Yotuun live side by side in Khania without real hostility, but their customs clash often enough to cause misunderstandings. A Yotuun takes a refusal at its word and so walks away from offers a Dali host meant in earnest. A Yotuun's blunt acceptance of a first offer, meanwhile, strikes the Dali as greedy.
+Dali and Jotuun live side by side in Khania without real hostility, but their customs clash often enough to cause misunderstandings. A Jotuun takes a refusal at its word and so walks away from offers a Dali host meant in earnest. A Jotuun's blunt acceptance of a first offer, meanwhile, strikes the Dali as greedy.
 
-The Yotuun bind themselves with plain oaths before witnesses, while the Dali trust aberu and ornate courtesy, and each finds the other's way of making promises a little hard to read. In Srauga, where the two cultures meet, many families have learned both habits and switch between them as the company requires.
+The Jotuun bind themselves with plain oaths before witnesses, while the Dali trust aberu and ornate courtesy, and each finds the other's way of making promises a little hard to read. In Srauga, where the two cultures meet, many families have learned both habits and switch between them as the company requires.
 
 The homeland and Laurland remain one culture with different emphases. Khanian Dali keep more of the life of the house, its gardens, and its hospitality, while Laurland Dali lean toward the sea, the ship, and the trading voyage. Neither branch considers itself the truer one, though each teases the other for its habits.
 
@@ -109,16 +109,16 @@ The homeland and Laurland remain one culture with different emphases. Khanian Da
 ## Example Names
 
 **Male:** Dariush, Kourosh, Bahram, Farhad, Arash, Kaveh, Siavash
-<!-- Dariush "holding firm the good", Kourosh "sun", Bahram "victorious", Farhad "helpful", Arash "bright", Kaveh "king", Siavash "black stallion" -->
+
 
 **Female:** Shirin, Parisa, Laleh, Mahtab, Soraya, Nasrin, Golnar
-<!-- Shirin "sweet", Parisa "like a fairy", Laleh "tulip", Mahtab "moonlight", Soraya "the Pleiades", Nasrin "wild rose", Golnar "pomegranate blossom" -->
+
 
 **Neutral:** Roshan, Mehr, Nur, Sahar
-<!-- Roshan "light", Mehr "sun, kindness", Nur "light", Sahar "dawn" -->
+
 
 **House Names:** Bagheri, Roshani, Abyari, Daryani, Golestani, Bazargani, Mirabzadeh
-<!-- Bagheri "of the garden", Roshani "of light", Abyari "irrigator", Daryani "of the sea", Golestani "of the rose garden", Bazargani "merchant", Mirabzadeh "born of the water master" -->
+
 
 *Note: Dali use a given name followed by the name of their khaneh (e.g., Laleh Golestani). House names often end in -i or -zadeh and frequently recall the house's founding trade or garden. Among themselves, the Dali often address a respected person by given name with an honorific attached.*
 

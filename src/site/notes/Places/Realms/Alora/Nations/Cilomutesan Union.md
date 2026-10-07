@@ -26,7 +26,7 @@ These shared matters belong to the *Consegio dei Diese*, the Council of Ten. Eac
 
 Sonta custom holds that those who govern may not wear masks, and the Council of Ten follows it strictly. Its councillors sit barefaced, debate in the open, and cast their votes aloud, even though citizens voting in their own city's Consegio do so masked. Most decisions pass by a simple majority, and a declaration of war requires seven votes.
 
-<!-- GAP: The name of this year's Primo and the current councillors are open. -->
+
 
 ## Law
 
@@ -66,7 +66,7 @@ The Union watches the [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox
 
 ## History
 
-Before 5267 the Union's lands belonged to the Oligarchy of Presium, a maritime power ruled by a closed circle of great merchant families. In 5267 an army of demons and devils swept across the continent, and Presium fell. The cities that survived fought one another for power in the decades that followed.
+Before 5267 the Union's lands belonged to the Oligarchy of Presium, a maritime power ruled by a closed circle of great merchant families. Presium fell in the [[History/Timeline\|war of 5267]]. The cities that survived fought one another for power in the decades that followed.
 
 In the eastern half of the old oligarchy, the harbor cities that came through those wars turned away from rule by a few great families and built merchant republics in its place. Their shared ways became Sonta culture, and their shared enemies pushed them together.
 

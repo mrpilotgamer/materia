@@ -4,7 +4,7 @@
 
 ## Overview
 
-Barbois culture is built on the citizen, the assembly, and the great public work. Its people hold that every citizen stands equal before the law, that a free people governs itself through open debate, and that a republic should build on a scale worthy of the people it serves. They raise domed halls, broad squares, and long straight avenues, and they live their private lives with a plainness that surprises visitors who have seen their cities.
+The Barbois are citizens first, and proud of it. Its people hold that every citizen stands equal before the law, that a free people governs itself through open debate, and that a republic should build on a scale worthy of the people it serves. They raise domed halls, broad squares, and long straight avenues, and they live their private lives with a plainness that surprises visitors who have seen their cities.
 
 Their architecture inherits the old [[Species and Cultures/Cultures/Eldar\|Eldar]] love of permanence and turns it toward a single purpose, since what the Barbois build, they build for everyone.
 
@@ -34,7 +34,7 @@ The Barbois hold three virtues above all others. *Franchise* is freedom under la
 
 The Barbois insist that freedom without law is no freedom at all. They point to the century of the faceless emperor in Adriacium, who gave his people a single law and let every other restraint fall away, as proof of what unbounded liberty becomes. Barbois philosophers argue this point at length, and it sets their idea of freedom apart from the older creeds of liberation.
 
-Their faith follows from their civic life. [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity]] is honored for the principle that the goods of a community belong first to those in need, and Barbois communes keep public granaries and almshouses in his name. [[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri]] is honored for self-command. The Barbois hold that a citizen should live plainly, spend within their means, and never act merely for show. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] keeps his place in the harvest and the funeral rites, as he does across [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]].
+Their faith follows from their civic life. [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity]] is honored for the principle that the goods of a community belong first to those in need, and Barbois communes keep public granaries and almshouses in their name. [[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri]] is honored for self-command. The Barbois hold that a citizen should live plainly, spend within their means, and never act merely for show. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] keeps their place in the harvest and the funeral rites, as they do across [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]].
 
 Selcontri's restraint and the grandeur of Barbois building meet in a principle every citizen knows: public magnificence, private restraint. A republic may build as grandly as it can afford, because what it builds belongs to all and is made to last. A citizen who builds their own house grander than the public buildings around it commits the gravest breach of Barbois custom, a claim to stand above their fellows set in stone for all to see.
 
@@ -74,7 +74,7 @@ The greatest Barbois festival is the *Fête de la Concorde*, held each year on t
 
 ## Cultural Identity
 
-A Barbois is a citizen first, of a commune, a province, and the republic. They measure themselves by the laws they helped to make, the works their commune has built, and the arguments they can win in assembly or salon. To be Barbois is to believe that free and equal people, governing themselves in the open, can build anything.
+A Barbois is a citizen first, of a commune, a province, and the republic. A Barbois will tell you which laws they voted for and which arguments they won, and point out the dome their commune raised, and they believe free and equal people arguing in the open can build anything.
 
 ## Adaptation & Tensions
 
@@ -101,7 +101,7 @@ The Barbois view the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesa
 **Neutral:** Claude, Dominique, Céleste, Laurence
 
 **Family Names:** Charpentier, Maçon, Vitrier, Couvreur, Lefèvre, Tailleur, Marchand
-<!-- Charpentier "carpenter", Maçon "mason", Vitrier "glazier", Couvreur "roofer", Lefèvre "smith", Tailleur "cutter, often of stone", Marchand "merchant" -->
+
 
 *Note: The Barbois use a given name followed by a family name (e.g., Élise Vitrier). Many family names recall a building trade, and families descended from famous architects are proud of it. Formal address uses citoyen or citoyenne before the family name.*
 

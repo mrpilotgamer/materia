@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/progenitors/demons/vert-the-green-progenitor-demon/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Animal","Knowledge","Luck","Trickery"],"portfolio":["Luck","Envy","Greed"],"worshipers":["Businessmen","Dragons"],"favored-weapon":"Sap","holy-symbol":"An outstretched hand clutching overflowing coins in green and brown","sacred-animal":"Cat","sacred-colors":["Green","Brown"]}}
 ---
 
-*"Master of Luck" • "Lady of Envy"*
+*"Mistress of Luck" • "Lady of Envy"*
 
 ## Overview
 

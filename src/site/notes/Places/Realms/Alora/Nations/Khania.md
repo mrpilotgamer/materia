@@ -4,11 +4,11 @@
 
 # Khania
 
-<!-- GAP: The current head of the Divan is unnamed. -->
+
 
 ## Overview
 
-Khania is a federal republic holding the east and south of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It was born in 5117, when four city-states united against the threat of [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]], and it took its name from the Khan who meant to conquer it. Most of its people are [[Species and Cultures/Races/Grendal\|Grendals]], and its government runs on [[Species and Cultures/Cultures/Dali\|Dali]] custom, though the nation as a whole is a mix of Dali and [[Species and Cultures/Cultures/Yotuun\|Yotuun]]. Khania is known across [[Places/Realms/Alora/Alora\|Alora]] for its diplomats, whose skill at mediation is unmatched on the continent.
+Khania is a federal republic holding the east and south of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It was born in 5117, when four city-states united against the threat of [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]], and it took its name from the Khan who meant to conquer it. Most of its people are [[Species and Cultures/Races/Grendal\|Grendals]], and its government runs on [[Species and Cultures/Cultures/Dali\|Dali]] custom, though the nation as a whole is a mix of Dali and [[Species and Cultures/Cultures/Jotuun\|Jotuun]]. Khania is known across [[Places/Realms/Alora/Alora\|Alora]] for its diplomats, whose skill at mediation is unmatched on the continent.
 
 ## Geography
 
@@ -18,15 +18,15 @@ Khania is the largest nation in the Nexus. Its lands wrap around the eastern and
 
 Khania was founded by four city-states: Hafushian, Hamanak, Vazveh, and Srauga. It began as a loose federation in which each city kept its own government and sent its own representatives to a common council. Over the 170 years since Helano's fall, the republic has grown more centralized, and the federal government now holds far more power than the founders gave it.
 
-Power is divided among three bodies. The Majlis is the assembly of representatives, where every province of the republic holds seats and makes the laws. Dali provinces choose their representatives through their anjomans, and Yotuun provinces choose theirs at their þings. The Majlis elects the Vazir, who leads the Divan, the council of ministers that governs the country day to day. The Dadgah is the high court, whose judges, the dadvars, rule on the law and settle disputes between provinces.
+Power is divided among three bodies. The Majlis is the assembly of representatives, where every province of the republic holds seats and makes the laws. Dali provinces choose their representatives through their anjomans, and Jotuun provinces choose theirs at their þings. The Majlis elects the Vazir, who leads the Divan, the council of ministers that governs the country day to day. The Dadgah is the high court, whose judges, the dadvars, rule on the law and settle disputes between provinces.
 
 ## Law
 
-The Majlis makes national law, and the dadvars of the Dadgah interpret it. Everyday disputes are settled locally, by anjomans in Dali provinces and by þings in Yotuun ones. Khanian law is best known for its handling of contracts, and a written agreement witnessed before a dadvar is honored in every province. Arbitration comes before any trial, and many disputes that would reach a court elsewhere are resolved in Khania over tea.
+The Majlis makes national law, and the dadvars of the Dadgah interpret it. Everyday disputes are settled locally, by anjomans in Dali provinces and by þings in Jotuun ones. Khanian law is best known for its handling of contracts, and a written agreement witnessed before a dadvar is honored in every province. Arbitration comes before any trial, and many disputes that would reach a court elsewhere are resolved in Khania over tea.
 
 ## Military
 
-Khania keeps a modest army and a capable coastal navy. It prefers negotiation to war, and its diplomats have turned away more threats than its soldiers have. The army's main work is guarding the long desert border against raiders and desert clans, and Yotuun Khanians, who know the desert best, fill many of its ranks. At sea, the alliance with Laurland covers much of what Khania's own fleet cannot.
+Khania keeps a modest army and a capable coastal navy. It prefers negotiation to war, and its diplomats have turned away more threats than its soldiers have. The army's main work is guarding the long desert border against raiders and desert clans, and Jotuun Khanians, who know the desert best, fill many of its ranks. At sea, the alliance with Laurland covers much of what Khania's own fleet cannot.
 
 ## Economy
 
@@ -38,9 +38,9 @@ The Great Desert Road once carried Khanian trade west to Stamvia, but it has fal
 
 ## Peoples and Culture
 
-Khania is a mixed nation. [[Species and Cultures/Cultures/Dali\|Dali]] culture dominates the east and southeast and shapes the government, while [[Species and Cultures/Cultures/Yotuun\|Yotuun]] culture holds the west and the lands along the desert. Most Khanians are Grendals, and most Grendals are Dali. Srauga stands where the two cultures meet and belongs fully to neither.
+Khania is a mixed nation. [[Species and Cultures/Cultures/Dali\|Dali]] culture dominates the east and southeast and shapes the government, while [[Species and Cultures/Cultures/Jotuun\|Jotuun]] culture holds the west and the lands along the desert. Most Khanians are Grendals, and most Grendals are Dali. Srauga stands where the two cultures meet and belongs fully to neither.
 
-The Yotuun of Khania keep their þings, their kynnar, and their oaths, and their þings send representatives to the Majlis like any anjoman. Generations of living beside the Dali have made them the most courteous Yotuun on the continent. Their kin in Hovden and Stamvia sometimes find them strangely polite, and they are the Yotuun most at ease with taarof.
+The Jotuun of Khania keep their þings, their kynnar, and their oaths, and their þings send representatives to the Majlis like any anjoman. Generations of living beside the Dali have made them the most courteous Jotuun on the continent. Their kin in Hovden and Stamvia sometimes find them strangely polite, and they are the Jotuun most at ease with taarof.
 
 ## Relations
 
@@ -56,7 +56,7 @@ When Helano fell in 5267, Khania had nothing left to fear from the west. The loo
 
 ## Capital
 
-Srauga, population 14,979, stands almost exactly on the equator, near the northern edge of the desert where Khania's rivers run. It is one of the four founding cities and the meeting place of the Majlis, the Divan, and the Dadgah. Srauga is a seam city, where Dali and Yotuun Khanians live side by side and many families move between the customs of both.
+Srauga, population 14,979, stands almost exactly on the equator, near the northern edge of the desert where Khania's rivers run. It is one of the four founding cities and the meeting place of the Majlis, the Divan, and the Dadgah. Srauga is a seam city, where Dali and Jotuun Khanians live side by side and many families move between the customs of both.
 
 ## Pronunciation
 

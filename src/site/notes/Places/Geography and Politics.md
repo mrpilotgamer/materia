@@ -6,7 +6,7 @@ The world is vast, with many realms and places to explore. Here, we will discuss
 
 ## Realms
 
-On the realm of [[Places/Materia\|Materia]], there are many realms. Realms are places generally defined as cohabitating continents, islands, and countries. Realms can be as small as an isolated island chain, to as large as multiple continents
+On the world of [[Places/Materia\|Materia]], there are many realms. Realms are places generally defined as cohabitating continents, islands, and countries. Realms can be as small as an isolated island chain, to as large as multiple continents
 
 #### List of realms
 
@@ -18,9 +18,13 @@ The multiverse is filled with many dimensions, not just [[Places/Materia\|Materi
 
 #### [[Places/Planes/Inner Planes\|Inner Planes]]
 
+The four elemental planes of water, earth, fire and air.
 
 #### [[Places/Planes/Outer Planes\|Outer Planes]]
 
+The seventeen planes of the Great Wheel, where the Progenitors and the gods keep their realms and souls find their afterlives.
 
 #### [[Places/Planes/Transitive Planes\|Transitive Planes]]
+
+The planes between the others: the Astral Plane, and Mortest, where the dead travel to their afterlives.
 

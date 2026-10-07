@@ -4,7 +4,7 @@
 
 ## Overview
 
-Algar culture is built on a hard-won lesson: freedom matters as much as doing good, and neither survives without the other. Its people descend from those who lived through the century of Adriacium's faceless emperor, when a single law let every freedom run unchecked. They came out of that century with a love of ceremony, rank, and written procedure, and with a stubborn refusal to give up the freedoms their ancestors knew.
+The Algar learned the hard way that freedom and goodness need each other. Its people descend from those who lived through the century of Adriacium's faceless emperor, when a single law let every freedom run unchecked. They came out of that century with a love of ceremony, rank, and written procedure, and with a stubborn refusal to give up the freedoms their ancestors knew.
 
 The Algar are the most varied people in [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], and they live under the [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox]], a state raised from Adriacium's ruins by the [[Vera\|Chaos Lord Vera]].
 
@@ -12,7 +12,7 @@ The Algar are the most varied people in [[Places/Realms/Alora/Regions/The Wildla
 
 The Algar descend from the people of the Empire of Adriacium, one of the great realms of the [[Species and Cultures/Cultures/Eldar\|Eldar]] world. In 5167 Adriacium's emperor was murdered, and a faceless emperor took his place. For a century he ruled by a single law, that no one may infringe on the freedom of another, and enforced nothing else. People of every race lived in Adriacium beside monsters and outsiders of every kind, demons, devils, and undead among them.
 
-In 5267 an army of demons and devils marched out of Adriacium and ravaged the continent, and Adriacium did not survive it. Vera, one of the adventurers who fought that army, raised the Empire of Nox from its ruins in the same year. The people who rebuilt their lives under her became the Algar.
+Adriacium did not survive the [[History/Timeline\|war of 5267]], which its own army began. Vera, one of the adventurers who fought that army, raised the Empire of Nox from its ruins in the same year. The people who rebuilt their lives under her became the Algar.
 
 The Algar have distanced themselves from everything the faceless emperor did. They honor the long history of Adriacium before 5167, its roads, its law, and its learning, and they remember the century that followed as a warning. They call it the Faceless Century, and they do not speak of it lightly. What they kept from it, through Vera's influence, is a conviction that freedom is precious. What they rejected is the belief that freedom alone is enough.
 
@@ -37,7 +37,7 @@ The Algar believe the Faceless Century proved what freedom becomes without the o
 
 Algar custom protects freedoms that neighboring peoples do not always grant. Any person may worship as they choose, leave their oikos, travel, or petition the council. No Algar may be bound to another's service, and the Algar treat bonded labor with horror. The greatest Algar taboo is taking another person's freedom for one's own ends, whether by chains, by threat, or by magic that bends the will.
 
-[[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria]], the Judge of Souls, holds first place in Algar devotion. For a century the dead walked freely in Adriacium, and the Algar honor the god who sends every soul to its rightful place and stands against those who refuse their passing. Algar funerals are careful and solemn, and the Algar see to it that no one is left unburied. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] keeps his place at harvests, as he does across the Wildlands.
+[[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria]], the Judge of Souls, holds first place in Algar devotion. For a century the dead walked freely in Adriacium, and the Algar honor the god who sends every soul to its rightful place and stands against those who refuse their passing. Algar funerals are careful and solemn, and the Algar see to it that no one is left unburied. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] keeps their place at harvests, as they do across the Wildlands.
 
 Magic is respected and closely recorded. The service keeps registers of mages and their specialties, and magic that binds a will, calls on outsiders, or raises the dead falls under strict law. The Algar keep the Eldar Wards of Binding as a working office, the *Phylakes*, whose members guard the borders between the planes and answer to the council.
 
@@ -78,7 +78,7 @@ The Algar table draws on the vineyards, orchards, and river valleys of Nox. Wine
 
 ### Festivals
 
-The greatest celebration in Nox is the *Eleutheria*, the festival of freedom, held in Lincugus at the turn of each new year. As the old year ends in the depths of winter, the streets are hung with lamps and lit with bonfires, and for three days and three nights the whole capital gives itself over to celebrating the freedom the Algar have kept and the good they have built with it. Every household opens its doors, and food and drink are shared freely with anyone who comes, neighbor or stranger.
+The greatest celebration in Nox is the *Eleutheria*, the festival of freedom, held in Lincugus at the turn of each new year. As the old year ends and winter begins, the streets are hung with lamps and lit with bonfires, and for three days and three nights the whole capital gives itself over to celebrating the freedom the Algar have kept and the good they have built with it. Every household opens its doors, and food and drink are shared freely with anyone who comes, neighbor or stranger.
 
 Each district of the city celebrates in its own way, and people drift between them to find the music, food, and company they like best. One district fills its streets with dancing, another with long tables of Algar wine and cooking, another with the work of the empire's craftsmen, mosaic-makers, coppersmiths, vintners, and cooks, set out for all to see and taste. The Algar take pride in the things their empire does well, and the Eleutheria is when they show them off.
 
@@ -88,7 +88,7 @@ For the length of the festival the forms of rank are set aside. Dignitaries go w
 
 ## Cultural Identity
 
-An Algar is known by their oikos, their dignity or trade, and their faction at the races. They measure themselves by how well they have used their freedom and whether they have done good with it. To be Algar is to be free, to choose goodness, and to keep the order that protects both.
+An Algar is known by their oikos, their dignity or trade, and their faction at the races. The question an Algar asks of a life, their own or anyone's, is what they did with their freedom, and whether any good came of it.
 
 The Algar regard Vera as both a founding emperor and a distant one. She raised Nox from the ruins, and few Algar alive remember a time without her. Yet she leaves the governing to her council and is seldom seen, and most Algar know her as a presence behind the council more than as a ruler they might meet. They mark her comings and goings with no ceremony, knowing she would not want it.
 
@@ -118,7 +118,7 @@ The Algar regard the [[Species and Cultures/Cultures/Barbois\|Barbois]] as kindr
 **Neutral:** Eleutheris, Agathon, Photis
 
 **Family Names:** Zographos, Notaras, Chalkeus, Ampelas, Lithourgos, Grammatikos, Nautes
-<!-- Zographos "painter", Notaras "notary", Chalkeus "coppersmith", Ampelas "vine-dresser", Lithourgos "stoneworker", Grammatikos "scribe", Nautes "sailor" -->
+
 
 *Note: The Algar use a given name followed by a family name (e.g., Eirene Notaras). A person who holds a dignity adds its title before their name. Formal address uses Kyrios for men and Kyria for women.*
 

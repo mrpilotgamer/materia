@@ -6,11 +6,11 @@
 
 ## Overview
 
-Riavexect (REE-ahv-ex-ekt) holds accumulation to be purpose in itself. Every disciple is required to collect, whether gems, materials, currency, or knowledge, and the act of gathering and possessing is held sacred on its own terms. Wanting a thing counts as recognition of its worth. Acquiring it discharges a duty. What followers gather they gather for themselves, though everything owned belongs finally to Riavexect, the Lord of all Things Owned.
+Riavexect (REE-ahv-ex-ekt), Lord of all Things Owned, says that collecting is a reason to live. Every follower has to collect something, whether gems, materials, coin or knowledge, and the gathering and keeping are holy in themselves. Wanting a thing is a way of honoring what it's worth, and getting it is a duty done. What you gather is yours, though in the end everything owned belongs to Riavexect.
 
-The god is patron of [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]], believed to be the birthplace of dragons, and embodies the draconic urge to hoard.
+Riavexect is the patron of [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]], believed to be where dragons were born, and the god of the dragon's urge to hoard.
 
-A second teaching limits the first, and dragons are recorded as resenting it. Mortals cannot collect everything, and those who try possess nothing well. The faithful therefore choose a specialty, whether animate or inanimate, material or aetherial, physical or mental, and pursue that one collection with single-minded focus. A hoard of everything amounts to clutter. A hoard specialized and curated earns the name of treasure.
+There is a second rule, and dragons have never much liked it. Nobody can collect everything, and anyone who tries ends up owning nothing worth having. So each of the faithful picks a specialty, living or not, solid or ethereal, things or ideas, and pursues that one collection single-mindedly. A pile of everything is just clutter. A collection chosen and cared for is a treasure.
 
 ## Worship and Clergy
 
@@ -31,15 +31,13 @@ A Dragon head, looking down upon a hoard of gems, gold, iron, books, and other a
 
 ### Worshipers
 
-Three groups fill Riavexian temples. Dragons treat their hoarding nature as a divine calling. Scholars accumulate knowledge in vast libraries and count that accumulation as worship. Merchants build commercial empires through strategic acquisition, and the faith blesses the work.
+Riavexian temples draw dragons, who see their hoarding as a holy calling, scholars, who count their libraries as worship, and merchants, who build trading houses by buying smart and get the faith's blessing for it.
 
-The clergy names the practice devotion. Other faiths call it greed, and Riavexian teaching rejects such a label. What a follower amasses serves the follower and the god together. The clergy also holds that mortals must specialize, since the instinct to collect everything ends in collecting nothing of value.
+Other faiths call it greed. The clergy call it devotion. What you gather serves you and the god at once, and the clergy insist on specializing, since trying to collect everything means collecting nothing of value. Riavexians also don't share. What you gathered is yours, because you did the gathering, and helping someone else build their collection isn't your job.
 
-On one point the faith differs from those that preach sharing or redistribution. What a follower has gathered is theirs alone. You did the gathering, and helping another build their collection forms no part of your obligations.
+Riavexian temples are vaults, archives and treasure houses where the faithful keep their collections. Each temple drifts toward whatever its congregation collects, one toward rare stones, another toward old books or magic items, and over the generations each becomes the place to go for expertise in its subject.
 
-Riavexian temples work as vaults, archives, and treasure houses where followers store their specialized hoards. Each house drifts toward whatever its congregation collects. Some hold rare minerals, some ancient texts, some magical artifacts, and over generations each becomes a center of expertise in its chosen subject.
-
-Clerics serve as archivists, appraisers, and acquisition specialists. They teach methods for identifying valuable additions to a collection, preserving what has been gathered, and defending a hoard against theft. Much of their counsel concerns the choice of specialization, and they warn followers who cannot focus the collecting instinct that the effort will scatter uselessly. The fox is the faith's sacred animal for a practical reason: the creature knows precisely where it has buried each treasure and retrieves them as needed, and clergy cite the animal when teaching memory and organization to novices.
+Priests are archivists, appraisers and buyers. They teach how to spot a worthy addition, how to keep what you have from spoiling, and how to stop thieves. Much of their advice is about choosing a specialty, and they warn anyone who can't settle on one that they'll waste their lives. The fox is the faith's sacred animal because it remembers exactly where it buried every treasure, and priests hold it up to novices as the model for memory and order.
 
 ### Tenets of Faith
 
@@ -55,29 +53,31 @@ Those who follow Riavexect swear to live by these principles:
 
 ## History
 
-Worship predates the [[History/Great Schism War\|Great Schism War]], and reverence ran particularly strong in [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]] where dragons first emerged. Dragons carried the faith outward as they spread across [[Places/Materia\|Materia]], and the following expanded beyond them to take in anyone who felt the urge to accumulate.
+Riavexect was worshiped before the [[History/Great Schism War\|Great Schism War]], most of all in [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]], where dragons first appeared. Dragons carried the faith with them as they spread, and in time it took in anyone with the urge to collect.
 
-The [[History/Ages/Age of Enlightenment\|Age of Enlightenment]] brought scholars into the faith in numbers. A generation of them looked at their libraries and laboratories and recognized a form of hoarding, one that gathered knowledge where dragons gathered gold, driven by the same instinct the god represents.
+In the [[History/Ages/Age of Enlightenment\|Age of Enlightenment]] scholars joined in numbers, when a generation of them looked at their libraries and workshops and saw hoards of knowledge built on the same urge that drives a dragon to gather gold.
 
-The [[History/Ages/Age of Expansion\|Age of Expansion]] was the god's golden age. Empires competed to accumulate territory, resources, and power. Merchants built trading networks for the specific purpose of acquiring rare goods, and collectors traveled vast distances for a single addition to a specialized hoard. The [[History/Ages/Age of Incursion\|Age of Incursion]] taught the faithful a harsh lesson. The [[Religion and Deities/Deific Figures/Primordials\|Primordials]] destroyed many great hoards and reminded mortals that all accumulation is temporary, and that even the Lord of all Things Owned could not protect a collection from nature's reclamation.
-
-Worship remains strong in [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]] and among the merchant classes in the present [[History/Ages/Age of Stability\|Age of Stability]]. Followers have learned to balance accumulation against the work of maintaining and defending a hoard, and doctrine now cautions against endless expansion.
+The [[History/Ages/Age of Expansion\|Age of Expansion]] was the faith's golden age. Empires competed for land and power, merchants built whole trade networks to bring in rare goods, and collectors crossed half the world for a single piece. Then the [[History/Ages/Age of Incursion\|Age of Incursion]] taught the faithful a hard lesson. The [[Religion and Deities/Deific Figures/Primordials\|Primordials]] destroyed many great hoards, and not even the Lord of all Things Owned could keep a collection safe from nature. Since then the clergy have warned against growing a collection forever and teach that keeping and guarding a hoard matters as much as adding to it.
 
 ## Related Entities
 
-**Allies:** [[Religion and Deities/Deific Figures/Gods/Millary, God of Jealousy\|Millary, God of Jealousy]] shares the drive to acquire what others hold, though Millary acts from envy and Riavexect from the pleasure of accumulation itself. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing, God of Consumption]] agrees that taking what you desire is natural and honorable. [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma, God of Desire]] places the same emphasis on pursuit. Yearma's followers chase experiences and Riavexect's chase possessions, and both faiths honor the chase.
+**Allies:** [[Religion and Deities/Deific Figures/Gods/Millary, God of Jealousy\|Millary, God of Jealousy]] also wants what others have, though Millary's faithful want it out of envy and Riavexect's for the joy of having it. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing, God of Consumption]] shares Riavexect's reverence for appetite. [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma, God of Desire]] honors wanting too. Yearma's faithful chase experiences and Riavexect's chase possessions.
 
-**Rivals:** [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity, God of Benevolence]] demands that excess possessions go to those in need, which Riavexian clergy classify as theft. [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] poses the harder problem. Wathoria teaches that all souls arrive at judgment equal and that no hoard follows its owner past death, a truth that undermines the entire purpose of accumulation in Riavexian eyes.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity, God of Benevolence]] says spare possessions should go to the needy, which Riavexian priests call theft. [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] is a harder problem. Wathoria teaches that every soul is judged equal and no hoard follows its owner past death, which makes the whole point of collecting look shaky. [[Religion and Deities/Deific Figures/Gods/Arlaxena, God of Leisure\|Arlaxena, God of Leisure]] preaches rest, and Riavexians see that as time wasted that should have been spent gathering.
 
 ## Holy Days and Festivals
 
 ### Day of Archival
 
-Held in autumn, when the harvests come in and the year's accumulation is complete, the Day of Archival is spent on inventory. Followers look over what they have collected, categorize and analyze the hoard, recall what they hold, and identify what they still need to find. Doctrine treats an unorganized collection as mere hoarding, and holds that a true follower knows their collection intimately.
+Held on the 28th of Riaviam, as the first harvests of late summer come in, the Day of Archival is for taking stock. The faithful go through their collections, sort and study them, remind themselves of everything they own, and work out what they're still missing. A collection you haven't organized is only a heap, and a true follower knows theirs by heart.
 
-Scholars catalogue their libraries. Merchants assess their warehouses. Dragons count their treasures, and collectors examine each piece of their assemblages. The work serves four purposes: fixing the collection in memory, identifying gaps, recognizing items that no longer serve the collection's focus, and reaffirming the satisfaction of possession. Riavexian clergy circulate through the day offering classification systems and preservation techniques suited to each specialization.
+Scholars catalogue their libraries, merchants check their warehouses, dragons count their gold, and collectors go over every piece. Priests make the rounds, offering ways to sort and preserve whatever each person collects.
 
-The evening brings Hoard Displays, where followers present their collections to one another with no intention of trading or lending. The purpose is to demonstrate what accumulation yields and to send onlookers home wanting collections of their own. Some temples run judged contests for the most complete collection, the most valuable, and the most unusual. The fox governs the occasion, since a collection its owner cannot recall or locate does the owner no good, and clergy rank memory and organization equal to acquisition itself.
+In the evening come the Hoard Displays, where the faithful show their collections off to each other. Nothing is traded or lent. The point is to show what collecting gets you, and to send everyone home wanting more. Some temples hold contests for the most complete collection, the most valuable, and the strangest.
+
+## Home Plane
+
+Riavexect makes a home on [[Places/Planes/Outer Planes/Nine Hells of Baator\|Baator]].
 
 ## Areas of Concern
 

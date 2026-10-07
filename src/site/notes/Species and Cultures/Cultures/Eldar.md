@@ -4,9 +4,9 @@
 
 ## Overview
 
-The Eldar are builders who think in centuries, a people whose cultural identity rests on permanent infrastructure and civic institutions that outlast any individual or government. Where Eldar roads run, civilization follows. Conquest is no part of how this happens. It comes instead from the practical demonstration that organized communities with written law and maintained infrastructure simply work better.
+The Eldar build roads, aqueducts and law courts, and they build them to last longer than whoever ordered them. Where an Eldar road goes, towns grow up along it. The Eldar rarely had to force anyone. Their neighbors watched towns with written law and well-kept roads do better than their own, and copied them.
 
-Eldar culture once spread across the whole of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]]. Since the war of 5267 it has held only the [[Places/Realms/Alora/Nations/Empire of Bornumia\|Empire of Bornumia]], the heartland where it was born. The peoples of the west have become cultures of their own, and the Eldar regard them with a mix of kinship and regret. They are proud of what they kept, conscious of what they lost, and certain that their way remains the foundation of Wildlands civilization.
+Eldar culture once spread across the whole of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]]. Since the war of 5267 it has held only the [[Places/Realms/Alora/Nations/Empire of Bornumia\|Empire of Bornumia]], the heartland where it was born. The peoples of the west have become cultures of their own, and the Eldar look at them with fondness and some regret. They still believe the Eldar way is the bedrock the whole Wildlands is built on.
 
 ## Origins & Distribution
 
@@ -14,7 +14,7 @@ Eldar culture originated in the eastern Wildlands, in the modern-day Empire of B
 
 This infrastructural focus, combined with practical literacy for recording land claims and contracts, allowed Eldar culture to spread westward during the [[History/Ages/Age of Expansion\|Age of Expansion]]. Eldar cultural identity proved highly assimilative. Those who adopted Eldaran language, legal frameworks, and civic participation were welcomed as equals regardless of ancestry. In time the culture covered the continent, from Bornumia in the east through the Oligarchy of Presium in the centre to the Empire of Adriacium in the west.
 
-In 5267 an army of demons and devils marched out of Adriacium and ravaged the continent. Within months the western lands fell to ruin. Their people were killed or scattered, and there was no longer a culture left to hold together. The survivors built again from the ruins, and while Bornumia recovered from the attacks that had reached into its own lands, the peoples of the west grew into the [[Species and Cultures/Cultures/Algar\|Algar]], the [[Species and Cultures/Cultures/Barbois\|Barbois]], the [[Species and Cultures/Cultures/Casta\|Casta]], and the [[Species and Cultures/Cultures/Sonta\|Sonta]]. Each kept something of the Eldar and each became its own people.
+When the [[History/Timeline\|war of 5267]] came, within months the western lands fell to ruin. Their people were killed or scattered, and there was no longer a culture left to hold together. The survivors built again from the ruins, and while Bornumia recovered from the attacks that had reached into its own lands, the peoples of the west grew into the [[Species and Cultures/Cultures/Algar\|Algar]], the [[Species and Cultures/Cultures/Barbois\|Barbois]], the [[Species and Cultures/Cultures/Casta\|Casta]], and the [[Species and Cultures/Cultures/Sonta\|Sonta]]. Each kept something of the Eldar and each became its own people.
 
 Eldar culture today is dominant across the Empire of Bornumia. Its people are mostly [[Species and Cultures/Races/Daemedi\|Daemedi]] and [[Species and Cultures/Races/Human\|Humans]], in roughly equal numbers, with few members of other races among them.
 
@@ -30,7 +30,7 @@ The Empire of Bornumia is ruled by its emperor, and imperial law stands above ev
 
 The Eldar hold three virtues above all others: *Disciplina* (self-control and order), *Pietas* (duty to family, community, and gods), and *Virtus* (excellence and capability, originally martial but now broader).
 
-They practice pragmatic polytheism, worshiping whichever gods prove effective for specific needs. Farmers honor [[Religion and Deities/Deific Figures/Primordials/Midori, Green Primordial Spirit\|Midori]] during planting, soldiers make offerings to [[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura]] before battle, and merchants invoke [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect]] when negotiating. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] receives particular reverence in Eldar culture for reasons of practical history and never theological devotion: imperial expansion required consuming resources efficiently, and Eldar funeral rites emphasize the cycle of consumption and return that Malbing represents.
+They practice pragmatic polytheism, worshiping whichever gods prove effective for specific needs. Farmers honor [[Religion and Deities/Deific Figures/Primordials/Midori, Green Primordial Spirit\|Midori]] during planting, soldiers make offerings to [[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura]] before battle, and merchants invoke [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect]] when negotiating. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] gets particular respect, more out of habit than deep devotion. The old empire ran on using its resources well, and Eldar funerals are built around Malbing's cycle of consumption and return.
 
 The greatest Eldar taboo is *infamia*, bringing public shame upon one's *familia* through cowardice, broken oaths, or flagrant dishonesty in official proceedings. Private lies matter far less than public honor. Magic is viewed as a tool like any other, neither inherently good nor evil, though hedge magic and divine casting are more respected than arcane study, which the Eldar associate with elitism and impracticality.
 
@@ -52,7 +52,7 @@ Eldar identity centers on language, legal tradition, and the concept of *civilit
 
 Bornumian Eldar are mostly Daemedi and Human, each bringing distinct perspectives. Daemedi emphasize the spiritual aspects of *pietas*, and Humans drive commercial pragmatism.
 
-The Eldar take particular pride in their roads, aqueducts, and bridges, many still functioning centuries after construction, and see infrastructure as physical proof of cultural superiority. They distinguish themselves from neighboring cultures through their written legal codes, set against the oral traditions of many other peoples, through their multi-generational thinking that builds for grandchildren's grandchildren, and through their conviction that civilization is something built by deliberate effort, generation after generation.
+The Eldar take particular pride in their roads, aqueducts, and bridges, many still functioning centuries after construction, and see infrastructure as physical proof of cultural superiority. What sets them apart from their neighbors, in their own eyes, is written law and the habit of building for their grandchildren's grandchildren.
 
 ## Adaptation & Tensions
 

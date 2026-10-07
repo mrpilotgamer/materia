@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/laurland/","dg-note-properties":{"type":"nation","realm":"Alora","hemisphere":"Northern","climate":"Mild to warm temperate","government":"Merchant oligarchy","capital":"Felavik","ruler":"The Tojjar","dominant-culture":"Dali"}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/laurland/","dg-note-properties":{"type":"nation","realm":"Alora","region":"Independent (island between The Crimson Lands and The Jotuun Nexus)","climate":"Mild to warm temperate","government":"Merchant oligarchy","capital":"Felavik","ruler":"The Tojjar","dominant-culture":"Dali"}}
 ---
 
 # Laurland
@@ -62,13 +62,13 @@ Laurland keeps a formal alliance with [[Places/Realms/Alora/Nations/Khania\|Khan
 
 ## History
 
-Laurland was once [[Species and Cultures/Cultures/Yotuun\|Yotuun]] in culture, its harbors founded by seafarers from the Nexus. As its trade with the Khanian coast grew over the generations, Dali customs took hold, and the island gradually became Dali. Many of its towns and harbors still bear Yotuun names, the capital among them.
+Laurland was once [[Species and Cultures/Cultures/Jotuun\|Jotuun]] in culture, its harbors founded by seafarers from the Nexus. As its trade with the Khanian coast grew over the generations, Dali customs took hold, and the island gradually became Dali. Many of its towns and harbors still bear Jotuun names, the capital among them.
 
 When the city-states of the east united as Khania in 5117, Laurland allied with the new republic. Its fleet held the coast while [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]] pressed from the west, and Helano never reached the Dali shore. Laurland came through the upheavals of 5267 untouched, and it has prospered on trade in the 170 years since.
 
 ## Capital
 
-Felavik, population 31,640, stands on the northern coast at the head of a bay, where the island's main river meets the sea. It is the seat of the Tojjar and Laurland's greatest harbor, and ships from across Alora crowd its docks. Its name is Yotuun, kept from the island's earlier days.
+Felavik, population 31,640, stands on the northern coast at the head of a bay, where the island's main river meets the sea. It is the seat of the Tojjar and Laurland's greatest harbor, and ships from across Alora crowd its docks. Its name is Jotuun, kept from the island's earlier days.
 
 ## Pronunciation
 

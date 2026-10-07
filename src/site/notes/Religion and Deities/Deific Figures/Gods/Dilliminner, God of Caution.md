@@ -6,9 +6,9 @@
 
 ## Overview
 
-Dilliminner (DILL-i-MIN-ner), Lord of Preparations, draws those facing difficult decisions with unclear outcomes. They teach that wisdom lies not in bold action but in careful consideration, that defense must be established before offense is contemplated, and that time taken to understand risks is never time wasted. Those who stand under Dilliminner's banner shore up their defenses first, plan for contingencies, and move forward once prepared.
+Dilliminner (DILL-i-MIN-ner), Lord of Preparations, is the god people turn to when they have a hard choice and no idea how it will turn out. The advice is always the same: build your defenses before you plan an attack, and take whatever time you need to understand the risks. Those who follow Dilliminner shore up, plan for what could go wrong, and only then move.
 
-As a god of caution, Dilliminner attracts followers who naturally avoid unnecessary risks. Military commanders and adventurers revere the god equally, understanding that preparation prevents early graves. Legends say that Dilliminner's essence can be sensed in every shield forged, a subtle divine presence reminding wielders that protection comes before aggression. Some claim to feel the god's touch in those split-second decisions that save lives, when instinct whispers "stop" or "wait" and disaster is narrowly avoided.
+Soldiers and adventurers both pray to Dilliminner, since both have seen what rushing in gets you. Some say the god can be felt in every shield that's forged. Others say they've felt Dilliminner in the moment their gut told them to stop, just before something went badly wrong.
 
 ## Worship and Clergy
 
@@ -29,11 +29,11 @@ A Shield with an Hourglass Engraved into it
 
 ### Worshipers
 
-Dilliminner's followers include guards who defend where others attack, military strategists who win through superior preparation, and anyone who has learned the hard way that haste leads to disaster. The clergy teaches that one should take whatever time is available to learn the best course of action, and that when time runs short, the path with the least risk is preferable to the one with the greatest potential reward.
+Dilliminner's followers include guards, strategists who win by being better prepared, and anyone who learned the hard way that haste gets people killed. The clergy's rule is to take whatever time you have to find the best course. When time runs out, take the safest road over the most promising one.
 
-The faith departs from war gods that glorify bold charges and decisive strikes. Dilliminnian teaching holds to prepared defense, and to the principle that battles are won long before combat begins, through proper fortification, adequate supplies, contingency planning, and understanding one's enemy. Their temples often double as strategic planning centers, where commanders consult with clergy to identify risks and prepare countermeasures.
+To a Dilliminnian, a battle is won before it starts, with walls, stores, backup plans and knowing your enemy. Their temples often serve as war rooms, where commanders sit down with priests and go through everything that could go wrong.
 
-Clerics of Dilliminner work as advisors to leaders, counselors to the impulsive, and teachers of strategic thinking. They help petitioners identify potential risks they may have overlooked, develop backup plans for when things go wrong, and cultivate the patience necessary for thorough preparation. Sieges and defensive campaigns place particular value on their expertise in wars of attrition. The clergy also maintains extensive records of past events, on the belief that understanding history reveals patterns that inform future decisions.
+Priests advise leaders, talk sense into the impulsive, and teach planning to anyone who'll listen. They are especially valued in sieges and long wars of attrition. The clergy also keep thorough records of the past, since the same mistakes tend to come around again.
 
 ### Tenets of Faith
 
@@ -43,31 +43,35 @@ Those who follow Dilliminner swear to live by these principles:
 
 2. **When time is limited, and I cannot know what the best decision is, I shall take the path with the least risk.** Better to proceed safely than gamble recklessly.
 
-3. **My god guides my path.** For he knows the risks and rewards, and knows the best decisions to make.
+3. **My god guides my path.** For they know the risks and rewards, and know the best decisions to make.
 
 ## History
 
-Dilliminner has been worshiped since before the [[History/Great Schism War\|Great Schism War]], and legends suggest the god's guidance helped many communities survive that devastating conflict through careful preparation and the avoidance of reckless confrontation with divine powers. During the [[History/Ages/Age of Regrowth\|Age of Regrowth]], worship grew significantly as recovering civilizations learned that communities which rebuilt slowly and sustainably prospered more than those that rushed reconstruction.
+Dilliminner was worshiped before the [[History/Great Schism War\|Great Schism War]], and stories say the god's caution kept some communities alive through it by keeping them out of the gods' fight. In the [[History/Ages/Age of Regrowth\|Age of Regrowth]] the faith grew as people noticed that towns which rebuilt slowly and carefully did better than the ones that rushed.
 
-The [[History/Ages/Age of Expansion\|Age of Expansion]] proved challenging for the faithful, as the dominant philosophy favored bold conquest over cautious preparation. When expanding empires overextended themselves and drained resources unsustainably, Dilliminner's warnings proved prophetic.
+The [[History/Ages/Age of Expansion\|Age of Expansion]] was a lean time for the faith, when bold conquest was in fashion. When the empires overreached and ran through their land and water, the clergy's old warnings started to look like prophecy, and in the [[History/Ages/Age of Incursion\|Age of Incursion]] the towns that had kept stores and built carefully came through the disasters far better than the rest.
 
-The [[History/Ages/Age of Incursion\|Age of Incursion]] vindicated the god's philosophy entirely. Those who had prepared for disaster, maintained emergency supplies, and built sustainably weathered the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]' wrath far better than unprepared populations. In the current [[History/Ages/Age of Stability\|Age of Stability]], worship remains strong among guards, strategists, and those who have seen the cost of recklessness. In the cities of the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]], many of the [[Species and Cultures/Cultures/Sonta\|Sonta]] watch honor Dilliminner alongside the gods of their city.
+In the cities of the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]], many of the [[Species and Cultures/Cultures/Sonta\|Sonta]] watch honor Dilliminner alongside the gods of their city.
 
 ## Related Entities
 
-**Allies:** [[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura, God of Courage]] shares Dilliminner's defensive philosophy, as both gods teach their followers to hold positions and endure in place of charging recklessly forward. [[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri, God of Restraint]] aligns perfectly with careful planning and measured action, as restraint and preparation work hand-in-hand. [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] connects through the understanding that preparing for death's inevitability is the ultimate form of caution and planning.
+**Allies:** [[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura, God of Courage]] would also rather dig in and hold than charge. [[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri, God of Restraint]] fits naturally, since restraint and preparation go together. [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] is an ally because getting ready for your own death is the last and most important bit of planning.
 
-**Rivals:** [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]] represents everything Dilliminner opposes. Unleashed fury without consideration of consequences stands against careful risk assessment and preparation. [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma, God of Desire]] encourages indulgence and the pursuit of what one craves, which conflicts with Dilliminner's teaching to restrain impulses and act only when properly prepared.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]] is everything Dilliminner isn't: fury with no thought for what comes after. [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma, God of Desire]] tells people to chase what they want now, where Dilliminner says wait until you're ready.
 
 ## Holy Days and Festivals
 
 ### Day of Due Diligence
 
-Celebrated during the autumn equinox when farmers assess their harvest and prepare for winter, the Day of Due Diligence is spent ensuring you have enough prepared for possible emergencies and shoring up your plans for the future. Followers inventory their resources, identify potential risks, and take steps to mitigate vulnerabilities before problems arise.
+Held on the 1st of Dillimar, the first day of winter and of the year, when every household checks that its stores will last until spring, the Day of Due Diligence is for getting ready for whatever might go wrong. People count their supplies, look for weak spots, and fix them before they become problems.
 
-The day involves both individual and community preparation. Households check food stores, repair defenses, and update emergency plans. Communities inspect fortifications, review strategic reserves, and conduct exercises to test response to various disasters. Military units use this day for defensive drills and equipment maintenance. The clergy leads assessments of potential threats and guides communities in developing comprehensive contingency plans.
+Households check their food and repair what needs repairing. Towns inspect their walls and reserves and hold drills for fire, flood and raid. Soldiers drill too and see to their gear, and priests go round helping each town work out its plans.
 
-The oxen features prominently in the day's symbolism, a creature that moves deliberately, pulls steadily, and accomplishes great tasks through patient persistence where others would apply frantic effort. Some communities hold ox-drawing competitions where teams demonstrate the strength that comes from coordinated, methodical work. The day concludes with communal meals of preserved foods, a reminder that today's preparation ensures tomorrow's survival.
+Oxen are the day's animal, since an ox gets great things done by pulling slowly and steadily. Some towns hold ox-pulling contests between teams. The evening meal is made from last year's preserved food.
+
+## Home Plane
+
+Dilliminner makes a home on [[Places/Planes/Outer Planes/Clockwork Nirvana of Mechanus\|Mechanus]].
 
 ## Areas of Concern
 

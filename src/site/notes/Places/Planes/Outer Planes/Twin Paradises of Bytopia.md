@@ -7,57 +7,54 @@
 *"Two sides of the same coin"*
 
 ## Overview
-Bytopia is unique among the Outer Planes in that the surfaces of its two layers face one another like the covers of a closed book. Looking up from Dothion, the upper layer, a traveler sees Shurrock. Standing on Shurrock, one looks up at the towns and farms of Dothion.
+Bytopia's two layers face each other like the two halves of a shut book. Stand on Dothion, the upper layer, and look up, and Shurrock hangs overhead. Stand on Shurrock and look up, and the farms and towns of Dothion are in the sky.
 
-Each layer is an idealized world. Dothion is a tamed pastoral landscape and Shurrock an untamed wilderness, and the philosophy of the plane, personal achievement working alongside social interdependence, runs through both.
+Each layer is a paradise of its own kind. Dothion is farmland, settled and gentle. Shurrock is wilderness. Both are built on the same idea: people do their best work on their own, and they still need each other.
 
-Roughly a mile separates the two layers, though sharp mountains rise from either side and sometimes meet in the middle. Travel between them is common, whether by flight or by climbing those mountains.
+About a mile of open air lies between the two layers. Sharp mountains rise from both sides, and in places they meet in the middle. People cross often, by flying or by climbing the mountains.
 
-Sight functions here as it would in the material world at any given hour. Both layers share a day and night cycle, with the radiance coming from the border between them, brightening to the brilliance of noon and then subsiding until the border itself becomes invisible and night falls.
+The light on Bytopia comes from the gap between the layers. It brightens to full noon, then fades until the gap goes dark and it is night on both layers at once. Otherwise sight works as it does on Materia.
 
-Bytopia has no moon, and its stars are the campfires and town-lights of the layer directly overhead. Dothion's half of the plane accordingly shows few stars, while wild Shurrock shows a great many.
+There is no moon. The stars are the campfires and town lights of the layer above. Since Shurrock is wild and thinly settled, Dothion's sky has few stars. Shurrock's sky, full of Dothion's towns, has a great many.
 
 ## Planar Links
-Bytopia borders the neighboring Outer Planes of Elysium and Celestia. Caverns inscribed with glowing, repeating patterns mark the natural portals along those boundaries. Caverns patterned with concentric circles lead to Celestia, those with radiating lines lead to Elysium, and those with spiderweb patterns lead to the Outlands.
+Bytopia borders Elysium and Celestia. The natural portals along those borders are caves carved with glowing, repeating patterns. Caves marked with rings inside rings lead to Celestia, caves marked with lines spreading from a center lead to Elysium, and caves marked like spiderwebs lead to the Outlands.
 
-The one-mile gap between Dothion and Shurrock narrows in mountainous country, and in places the mountains push through the barrier entirely. A traveler can climb to the top of a Shurrock mountain and fall from its summit toward Dothion. In some spots mountains on both layers meet in the middle, so a climber must reorient at the point where gravity reverses and begin climbing down what they had been climbing up. The disorientation catches out anyone who does not know exactly where the change occurs, and a climber taken by surprise there generally falls. Those flying or levitating through the barrier experience mild confusion and nothing worse.
+The mile-wide gap between the layers narrows in the mountains, and some peaks poke right through it. A climber can reach the top of a Shurrock mountain and fall off it, down toward Dothion. Where mountains from both layers meet, a climber has to turn around at the point where gravity flips and climb down what they were just climbing up. Anyone who doesn't know exactly where that point is will be thrown by it, and most who are caught by surprise fall. Flying or floating through the gap only leaves a traveler a little dizzy.
 
-A few portals connect Shurrock and Dothion directly, though these have either been bricked up on the Dothion side or are guarded to protect Dothion from the creatures of Shurrock. Most communication between the two happens across the border overhead.
+A few portals link Shurrock and Dothion directly. The Dothion ends of these have been bricked up or put under guard, to keep Shurrock's beasts out. Most traffic between the layers goes through the open sky.
+
+
+
+## Divine Realms
+**[[Religion and Deities/Deific Figures/Progenitors/Angels/Sinine, the Blue Progenitor Angel\|Sinine]]**, Speaker of All Truths, holds the Hall of Unveiled Words. It is the strongest domain on Bytopia. In Sinine's hall nothing may be kept secret.
+
+**[[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine]]**, God of Belief, also makes a home on Bytopia.
+
+
 
 ## Inhabitants
-Bytopia is home to a large number of celestials, including guardinals and archons alongside planetars, solars, and the occasional eladrin.
+Many celestials live on Bytopia: guardinals and archons, planetars and solars, and now and then an eladrin.
 
-Many creatures roaming the plane are celestial versions of animals and beasts found in the material world. Resolute creatures are less common and present. In general the gentler creatures live on Dothion, while wilder beasts and more savage creatures live across the gap on Shurrock.
+Many of the animals here are celestial versions of material-world beasts. Resolute creatures are rarer but still around. The gentler animals tend to live on Dothion, and the wilder and more dangerous ones on Shurrock.
 
 ## Petitioners
-The petitioners of Bytopia live much as they lived before: pursuing order at a leisurely pace, satisfying curiosity, and otherwise enjoying themselves at their work. A marked humor runs through them, an easygoing quality that disappears as one moves toward the sterner planes of law. They also keep a sense of community that erodes as one moves through Elysium and on toward the more chaotic planes.
+Bytopia's petitioners live much as they did in life. They work hard, at their own pace, on things they enjoy, and they follow their curiosity. They have an easy sense of humor, which fades the closer a plane sits to strict law. They also care about their communities, a trait that fades the further a plane leans toward chaos.
 
-<!-- 
-Bytopian petitioners have the following special petitioner qualities:
 
-**Additional Immunities:** Fire, cold.
-
-**Resistances:** Cold 20, electricity 20.
-
-**Other Special Qualities:** At will—magic circle against evil (as the spell cast by a 5th-level sorcerer).
--->
-
-<!-- 
-Planar Links: Characters who climb one of these mountains through the barrier are entitled to make a Reflex save (DC 20) to avoid falling as a result of being disoriented. If they know exactly where the gravity change occurs and can brace themselves accordingly, no save is needed. 
--->
 
 ## Layers
 
 ### Dothion
-Dothion is the more populated of the two facing layers, a realm of pastoral activity and individual industry. Its rolling hills cluster around spikes of volcanic rock jutting toward its more savage companion. The land combines open settled manor farms with well-tamed woods and forests.
+Dothion has more people than Shurrock. It is farm country, and its folk take pride in their own work. Rolling hills gather around spikes of volcanic rock that point up at the wild layer overhead. The land is a mix of open manor farms and woods that have long since been tamed.
 
-It is a thoroughly domestic place. Its petitioners raise silver-wooled sheep and golden-flecked lambs, and the open spaces are huge manor fields of wheat, barley, and corn. The residents have dammed many gentle streams and harnessed them to waterwheels that grind grain into excellent flour and meal. Towns have no protective walls, and paved roads link them in well-ordered lines. This is a land of barns and beekeeping, of wool and milk, of small shops and smithies. Most of the workshops huddled along the roadside are privately owned, and their owners swear no allegiance beyond the common good.
+Life here is homely. Petitioners keep silver-wooled sheep and lambs flecked with gold, and the fields are great stretches of wheat, barley and corn. Many of the slow streams have been dammed to turn waterwheels, and the mills grind fine flour. Towns have no walls, and paved roads run between them in straight lines. It is a place of barns and beehives, wool and milk, small shops and smithies. Most of the roadside workshops are privately owned, and their owners answer to nobody except the good of the community.
 
-Dothion's weather is mild, with regular and mostly benign seasons. A heavy storm from Shurrock occasionally breaks through the border between the layers and wreaks havoc. For anyone who prefers the quiet life, the layer is an ideal paradise.
+The weather is mild and the seasons are regular. Now and then a storm from Shurrock breaks through the gap and does real damage. Anyone who wants a quiet life could hardly ask for better.
 
 ### Shurrock
-Shurrock is Dothion's wild counterpart. Where Dothion is well mannered, Shurrock is savage. Where Dothion is calm, Shurrock is extreme. It is rough country under harsh weather, divided between deep snow-filled winters and dry parching summers.
+Shurrock is Dothion's opposite. Dothion is polite and calm, and Shurrock is savage and extreme. It is rough land with harsh weather, swinging between winters buried in snow and summers that bake the ground dry.
 
-The land is filled with raw materials. Seams of gold and gems run just beneath the surface, the tangled woodlands are rich in timber, and wild game of every kind thrives across the layer. Quarries and mills are common, usually with small communities crowded around them. Those towns are often walled and guarded, because the more powerful creatures of Bytopia walk on Shurrock, including celestial versions of animals and magical beasts.
+The land is rich. Gold and gems lie just under the surface, the thick woods are full of timber, and game of every kind is everywhere. Quarries and mills are common, usually with a small town packed in around them. Those towns are usually walled and guarded, because the strongest creatures on Bytopia, celestial animals and magical beasts among them, roam Shurrock.
 
-Shurrock offers continual challenge. For anyone who seeks to prove themselves and their ability to survive, it is a very different sort of paradise from its tame sibling. Some foul beast occasionally breaks loose and reaches Dothion, though in general the challenges of this layer stay on their own side of the border.
+Shurrock tests anyone who lives there. For someone who wants to prove they can survive, it is a paradise of a different kind from Dothion. Now and then something terrible gets loose and reaches Dothion, but mostly Shurrock's dangers stay on Shurrock's side.

@@ -6,8 +6,8 @@ Precious Little is known about the time before the [[History/Great Schism War\|G
 
 ## Magic
 
-Magic in prehistory isn't well known. Some creatures are known to possess magic from such a time, but to this day, no mage has been able to recreate such spells and effects, in exactly the same way. Its believed the [[Religion and Deities/Deific Figures/Progenitors\|Progenitors]], more specifically, [[Religion and Deities/Deific Figures/Primordials/Murasakino, Purple Primordial Spirit\|The Purple Primordial]], Redefined magic in the post-[[History/Great Schism War\|Schism War]] Era for those on [[Places/Materia\|Materia]].
+Magic in prehistory isn't well known. Some creatures are known to possess magic from such a time, but to this day, no mage has been able to recreate such spells and effects, in exactly the same way. Its believed the [[Religion and Deities/Deific Figures/Primordials\|Primordials]], more specifically, [[Religion and Deities/Deific Figures/Primordials/Murasakino, Purple Primordial Spirit\|The Purple Primordial]], Redefined magic in the post-[[History/Great Schism War\|Schism War]] Era for those on [[Places/Materia\|Materia]].
 
 ## Civilization
 
-It is unknown if there was civilizations like ours in prehistory. Some fantastical thinkers wish to believe that Civilization in prehistory was some golden age utopia, but the most likely answer is the simplest. That it was similar to our current age, except different magic, and possible more advanced technology, thought how far ahead is a subject of debate
+It is unknown if there was civilizations like ours in prehistory. Some fantastical thinkers wish to believe that Civilization in prehistory was some golden age utopia, but the most likely answer is the simplest. That it was similar to our current age, except different magic, and possibly more advanced technology, though how far ahead is a subject of debate

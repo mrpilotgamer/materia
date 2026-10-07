@@ -12,7 +12,7 @@ Masks run through every part of Sonta life, and the rules for when to wear one a
 
 Sonta culture descends from the people of the Oligarchy of Presium, which held the centre of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]] before 5267. Presium was Eldar, but its coastal cities had long been a thing apart from the rest of the Eldar world. Shortly before the Faceless Century they were bound together into a maritime oligarchy, ruled by a closed circle of great merchant families who held its councils and its wealth among themselves and passed both down through their lines.
 
-When the army of demons and devils swept across the continent in 5267, Presium fell with Adriacium. The city-states that rose from its ruins fought one another for power in the years that followed. In the eastern half of the old oligarchy, the harbor cities that came through those wars turned away from rule by a few great families and built merchant republics in its place. Over the following decades they joined together as the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]], and their shared ways became Sonta culture.
+Presium fell with Adriacium in the [[History/Timeline\|war of 5267]]. The city-states that rose from its ruins fought one another for power in the years that followed. In the eastern half of the old oligarchy, the harbor cities that came through those wars turned away from rule by a few great families and built merchant republics in its place. Over the following decades they joined together as the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]], and their shared ways became Sonta culture.
 
 Sonta is dominant across the Union from coast to coast and along the eastern edge of the [[Places/Realms/Alora/Nations/Republic of Korthak\|Republic of Korthak]]. The Union's territory takes in the northern end of the continent's mountain range, but the Sonta are a people of the coasts and river valleys who work the peaks for ore and stone and leave the high passes to the [[Species and Cultures/Cultures/Valekai\|Valekai]]. Those northern peaks were abandoned by the Valekai during the war of 5267, and Sonta miners moved into them in the years that followed.
 
@@ -39,7 +39,7 @@ Presium's fall taught the Sonta to distrust power held by a few. Their republics
 
 The Sonta teach that the governed may hide their faces but those who govern may not. Every Sontan knows the history of Adriacium's faceless emperor, who ruled for a century without ever showing his face, whatever they believe about who he truly was. A dose, a judge, or a captain of the watch goes barefaced for as long as they hold office. Anyone who exercises power over another in a mask commits the gravest breach of Sonta custom.
 
-[[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] is honored across the Wildlands, and the Sonta give him his due at harvest and at funerals. [[Religion and Deities/Deific Figures/Primordials/Aoi, Blue Primordial Spirit\|Aoi]] holds a special place as the power of the sea that carries their trade. [[Religion and Deities/Deific Figures/Gods/Meregoma, God of the Ego\|Meregoma]], whose holy symbol is a face crowned with a golden laurel, is the patron of the mask, of the true self beneath it, and of the honest face shown when it counts.
+[[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] is honored across the Wildlands, and the Sonta give them their due at harvest and at funerals. [[Religion and Deities/Deific Figures/Primordials/Aoi, Blue Primordial Spirit\|Aoi]] holds a special place as the power of the sea that carries their trade. [[Religion and Deities/Deific Figures/Gods/Meregoma, God of the Ego\|Meregoma]], whose holy symbol is a face crowned with a golden laurel, is the patron of the mask, of the true self beneath it, and of the honest face shown when it counts.
 
 Magic is a craft to the Sonta, respected most in shipwrights, glassmakers, and the watch. Magic that alters a face or disguises a voice is treated as a kind of mask and falls under the same rules. Any official caught wearing an illusion of a face is held to have broken the gravest rule of all.
 
@@ -63,7 +63,7 @@ The watch may order any person to unmask when there is cause, since a mask is al
 
 Sonta military strength is built for defense. City walls, harbor chains, and a strong coastal fleet guard against raiders, and the cities keep no army for foreign campaigns. The most respected force in any Sonta city is the *Signori de Note*, the Lords of the Night, who keep the peace after dark and hunt demons and demonic influence within the walls.
 
-The Lords of the Night carry on the Eldar tradition of the Wards of Binding, the magistrates who keep knowledge of planar entities. Elsewhere that tradition has faded into ceremony. In the Sonta cities it is a working office, and its captains answer to the Consegio. Many of the watch honor [[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner]], Lord of Preparations, alongside the gods of the city.
+The Lords of the Night carry on the Eldar tradition of the Wards of Binding, the magistrates who keep knowledge of planar entities. [[Places/Realms/Alora/Nations/Empire of Bornumia\|Bornumia]] keeps the Wards and [[Places/Realms/Alora/Nations/Empire of Nox\|Nox]] the Phylakes. In the Sonta cities the office became the Lords of the Night, a working office and its captains answer to the Consegio. Many of the watch honor [[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner]], Lord of Preparations, alongside the gods of the city.
 
 ### Craft and Trade
 
@@ -118,14 +118,14 @@ The Sonta share Korthak's eastern edge with its peoples and trade with them dail
 ## Example Names
 
 **Male:** Marco, Zuane, Alvise, Piero, Zorzi, Nicolò, Bortolo
-<!-- Venetian forms: Zuane (Giovanni), Alvise (Luigi), Zorzi (Giorgio), Bortolo (Bartolomeo) -->
+
 
 **Female:** Marina, Isabeta, Orsola, Caterina, Lucrezia, Chiara, Marieta
 
 **Neutral:** Celeste, Mare, Nadal, Sole
 
 **House Names:** Marangon, Calafà, Remer, Verier, Tagiapiera, Squerarol, Barcaro
-<!-- Venetian trade words: marangon "carpenter, shipwright", calafà "caulker", remer "oar-maker", verier "glassmaker", tagiapiera "stonecutter", squerarol "boatyard worker", barcaro "boatman" -->
+
 
 *Note: Sontans use a given name followed by the name of their ca' (e.g., Isabeta Verier). Many house names recall the trade the house was founded on. Formal address places Ser or Dona before the given name.*
 

@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/gods/arloya-god-of-devotion/","dg-note-properties":{"type":"deity","tier":"god","domain":["Community","Healing","Protection","Sun","War"],"portfolio":["Loyalty","Oaths","Crusades"],"worshipers":["Paladins","Those looking for purpose"],"favored-weapon":"Longspear","holy-symbol":"A Golden Sword with a Sun Shining Above","sacred-animal":"Salmon","sacred-colors":["Blue","Silver"]}}
 ---
 
-*"General of the Faithful" • "Angel of the Azure Expanse"*
+*"General of the Faithful" • "Herald of the Azure Expanse"*
 
 ## Overview
 
-Arloya (ar-LOY-ah), General of the Faithful, draws the worship of knights and retainers who believe they will be rewarded for faithful service to a cause they hold dear. Many who take to the battlefield in service of their country make a prayer to Arloya and hope she will reward their devotion. Some take her for a benevolent force. Her actual emphasis falls on deciding for yourself what is right and wrong, and she teaches that true devotion comes from conscious choice and never from blind obedience.
+Arloya (ar-LOY-ah), General of the Faithful, is the god of knights and retainers who trust that loyal service will be rewarded. Soldiers going to war for their country pray to Arloya for that reward. Many assume Arloya is simply a kind god. The faith itself is stricter than that. Arloya asks you to decide for yourself what is right, and only then give your loyalty. Devotion you never chose doesn't count. [^1]
 
-As a god of loyalty, Arloya is respected across many walks of life, whether devotion is given to good or evil purposes. She does not judge the worthiness of one's cause, only the strength and authenticity of one's commitment to it. Her followers understand that devotion without personal conviction is empty, and that the greatest service comes from those who have carefully chosen their path and walk it with unwavering dedication.
+Arloya is respected by good and wicked alike, because the god doesn't judge the cause, only how truly you've given yourself to it. A follower who serves without believing has nothing to offer. The best servant is the one who chose carefully and then never wavered.
 
 ## Worship and Clergy
 
@@ -29,11 +29,11 @@ A Golden Sword with a Sun Shining Above
 
 ### Worshipers
 
-Arloya's followers include paladins, knights, retainers, and anyone seeking purpose in their lives. The clergy teaches that devotion is a deliberate choice and never a passive state. One must first judge for themselves what is right and wrong, then commit fully to the path they have chosen. Followers are counseled to examine their loyalties carefully, since devotion once given should be absolute until circumstances prove it misplaced.
+Arloya's followers include paladins, knights and retainers, and anyone looking for something worth serving. The clergy teach that devotion is a choice you make on purpose. First you work out for yourself what's right. Then you commit fully, and you stay committed unless the cause proves itself unworthy.
 
-The faith departs from gods who dictate specific moral codes, holding to the primacy of individual judgment. Her temples welcome those who serve righteous causes and those devoted to darker purposes alike, so long as the commitment is genuine. This neutrality regarding the object of devotion sometimes troubles other faiths. Arloya's clergy maintains that forcing devotion to predetermined causes produces hollow followers where true believers were wanted.
+Arloya's temples take in anyone sincere, whatever they've sworn to, including people serving dark causes. That troubles some other faiths. The clergy's answer is that a god who told people what to be loyal to would end up with followers who didn't mean it.
 
-Clerics of Arloya often work as counselors to those struggling with questions of loyalty and purpose. They help petitioners examine their beliefs, test their convictions, and commit to causes worthy of their devotion. Many also serve as oath-witnesses, blessing promises and pacts made between individuals or groups. They teach that breaking faith with one's chosen cause is a grave transgression, and hold it equally important to recognize when a cause has fallen beyond redemption and to withdraw devotion accordingly.
+Priests counsel people torn between loyalties, helping them test what they believe and decide what deserves their service. Many also act as oath-witnesses and bless promises and pacts. Breaking faith with your chosen cause is a serious sin in the faith. Knowing when a cause has gone too far wrong to save, and walking away from it, is held just as important.
 
 ### Tenets of Faith
 
@@ -49,25 +49,29 @@ Those who follow Arloya swear to live by these principles:
 
 ## History
 
-Arloya has been worshiped since before the [[History/Great Schism War\|Great Schism War]], serving as a beacon for those seeking purpose and direction. Her worship spread widely during the [[History/Ages/Age of Expansion\|Age of Expansion]] as nations formed and knights pledged service to emerging kingdoms. Many of those same clerics would later counsel followers to break those oaths, as expansionist ambitions led rulers to betray the ideals their servants had believed they served.
+Arloya was worshiped before the [[History/Great Schism War\|Great Schism War]]. The faith spread widely in the [[History/Ages/Age of Expansion\|Age of Expansion]], as new kingdoms rose and knights swore themselves to them. Later, many of the same priests told those knights to break their oaths, once their kings had betrayed everything the knights thought they were serving.
 
-The [[History/Ages/Age of Incursion\|Age of Incursion]] brought a crisis of faith to Arloya's followers. As the [[Religion and Deities/Deific Figures/Primordials\|Primordials]] punished civilizations for their excess, many faced a difficult question. Should they remain devoted to causes that had brought disaster, or recognize that those causes had fallen beyond redemption? The clergy's response emphasized the third tenet, that devotion to a cause does not mean blindness to its failures.
+The [[History/Ages/Age of Incursion\|Age of Incursion]] shook the faith. With the [[Religion and Deities/Deific Figures/Primordials\|Primordials]] punishing the kingdoms for their greed, Arloya's faithful had to decide whether to stand by causes that had brought ruin down on everyone. The clergy pointed them to the third tenet: being loyal to a cause doesn't mean being blind to what it has done.
 
-In the current [[History/Ages/Age of Stability\|Age of Stability]], Arloya's worship remains strong, particularly in [[Places/Realms/Alora/Regions/The Azure Expanse\|The Azure Expanse]] where she is honored as the Angel of that region.
+Arloya's worship is strongest in [[Places/Realms/Alora/Regions/The Azure Expanse\|The Azure Expanse]], where they are honored as the Herald of that region.
 
 ## Related Entities
 
-**Allies:** Arloya forms a divine triumvirate with [[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine, God of Belief]] and [[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura, God of Courage]], the three gods worshiped together by the Rayhostian Theocracy, representing devotion, hope, and steadfast defense. [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] shares Arloya's concern for justice, as devotion to worthy causes in life connects to proper judgment in death. [[Religion and Deities/Deific Figures/Gods/Meregoma, God of the Ego\|Meregoma, God of the Ego]] aligns with Arloya's teaching about conviction in one's chosen path and refusing to waver once devoted.
+**Allies:** Arloya is one of the three gods of [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]], with [[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine, God of Belief]] and [[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura, God of Courage]]. [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] is a friend to the faith, since loyal service in life is weighed when the soul is judged. [[Religion and Deities/Deific Figures/Gods/Meregoma, God of the Ego\|Meregoma, God of the Ego]] shares Arloya's belief that once you've chosen your path you hold to it.
 
-**Rivals:** [[Religion and Deities/Deific Figures/Gods/Millary, God of Jealousy\|Millary, God of Jealousy]] represents everything Arloya opposes. Millary's followers undermine and tear down those above them, where Arloya's devote themselves to worthy service and build others up through loyal support.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Millary, God of Jealousy\|Millary, God of Jealousy]] teaches tearing down whoever is above you, and Arloya teaches serving them and lifting them up.
 
 ## Holy Days and Festivals
 
 ### Day of Devoted Aid
 
-Celebrated during the spring when salmon begin their devoted journey upstream, the Day of Devoted Aid is spent going to those you feel loyal to and assisting them to be in a better position than they were before. Followers identify individuals, groups, or causes they have pledged themselves to and perform acts of service without expectation of reward or recognition. This might involve helping a lord with governance, aiding comrades in completing difficult tasks, or strengthening an organization through volunteer labor.
+Held on the 14th of Arlaya, in spring, when the salmon start their run upstream, the Day of Devoted Aid is for helping whoever you've pledged yourself to, and leaving them better off than you found them. You might help your lord with the business of their lands, help your comrades finish a hard job, or put in a day's work for an order you belong to. Nobody expects thanks for it.
 
-The day emphasizes that devotion is demonstrated through action and not through words. Temples of Arloya often organize collective efforts, sending groups of faithful to aid communities, repair infrastructure, or support struggling organizations. The salmon is the day's symbol, a creature that shows absolute devotion by traveling impossible distances and overcoming tremendous obstacles to fulfill its purpose.
+Arloya's temples often send out groups of the faithful to help a town, mend a bridge, or prop up an order that's struggling. The salmon is the day's symbol, because it swims hundreds of miles against the current to get where it is going.
+
+## Home Plane
+
+Arloya makes a home on [[Places/Planes/Outer Planes/Seven Mounting Heavens of Celestia\|Celestia]].
 
 ## Areas of Concern
 
@@ -76,3 +80,5 @@ Loyalty, Oaths, Crusades
 ## Adjective
 
 Arloyan (ar-LOY-an) - "The Arloyan knight remained faithful to her cause even as others wavered."
+
+[^1]: I find it uncomfortable that Arloya will bless an oath to a wicked cause as readily as a good one. The clergy found my discomfort very interesting and asked me what I was devoted to. I changed the subject.

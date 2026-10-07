@@ -7,101 +7,91 @@
 *"Law and good, understanding and mercy"*
 
 ## Overview
-The single sacred mountain of Celestia rises from an infinite sea of holy water to incomprehensible heights. Justice, kindness, order, celestial grace, and mercy are the rules here. Watchful eyes hold the ramparts against evil in all its forms. All things are beautiful.
+Celestia is one holy mountain rising out of an endless sea of holy water, so high that nobody can take in its full height. Its rules are justice, kindness, order, grace and mercy. Guards watch its walls for evil of every kind. Everything here is beautiful.
 
-The Seven Mounting Heavens are the planar home of mortal souls who showed kindness and empathy toward their fellow creatures, and they are a paradise the fiends of the lower planes would conquer if they could. Mount Celestia promises betterment and ultimate union with the powers of good and law to those found worthy. Supplicants of every stripe accordingly ascend the layers one after another to the ultimate height of the Heavenly City, and from there into the Illuminated Heaven.
+The Seven Mounting Heavens are where the souls of kind and caring mortals go after death. The fiends of the lower planes would take it if they could. The mountain promises that the worthy can become better, and in the end become one with the powers of good and law. So pilgrims of every kind climb it, one layer at a time, toward the Heavenly City at the top and the Illuminated Heaven beyond it.
 
-Bahamut, lord of kindly dragons, resides on Celestia.
+Aurelthion, the Platinum Wyrm, lives on Celestia. Some dragons honor Aurelthion as the first child of [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect]].
 
-From the seashore at the base of the first layer to the heights of the seventh, paths wind up the many peaks, ridges, canyons, and passes of the mountain. Every incline somehow looks up toward the next layer, which shines like the sun on the layer below. Each rift leads eventually down past arching waterfalls and rushing brooks to the Silver Sea. Even from many layers above, the ringing chimes of each wave breaking on the shore of Lunia remain faintly and reassuringly audible.
+From the beach at the foot of the first layer to the heights of the seventh, paths wind up the mountain's peaks, ridges, canyons and passes. Every slope looks up toward the next layer, which shines over the one below it like a sun. Every valley leads down, past high waterfalls and fast streams, to the Silver Sea. Even several layers up, you can still faintly hear the waves chiming as they break on the shore of Lunia.
 
 ## Planar Links
-The only way to reach Celestia is by entering Lunia, its first and lowest layer, also called the Silver Sea. Visitors always arrive in the surf of the ocean surrounding Mount Celestia. Very few portals from other planes lead anywhere else on the plane.
+The only way into Celestia is through Lunia, the first and lowest layer, also called the Silver Sea. Visitors always arrive in the surf of the sea around the mountain. Very few portals from other planes lead anywhere else.
 
-A sequence of portals connects the seven layers. Each portal to a higher layer sits at the highest physical point of the layer below it, so moving through the layers and ascending the mountain are one and the same act.
+A chain of portals links the seven layers. Each portal up sits at the highest point of the layer below it, so climbing the mountain and passing through the layers are the same thing.
 
-What makes that ascent more than a matter of climbing is that the path to each layer reveals itself only to those who have found some truth about law and goodness. Attaining the pinnacle therefore involves a series of trials, through which the supplicant is slowly washed of ideals that do not conform to the plane. Nonspiritual shortcuts are rumored to exist for the traveler who knows where to look, or whom to ask.
+The climb takes more than strong legs. The path to each layer only shows itself to someone who has learned something true about law and goodness. Reaching the top means passing a series of trials, and each one slowly washes away beliefs that don't fit the plane. People say there are shortcuts that skip the spiritual part, for travelers who know where to look or whom to ask.
+
+## Divine Realms
+**[[Religion and Deities/Deific Figures/Progenitors/Angels/Must, the Black Progenitor Angel\|Must]]**, Servant of Order, holds the Hall of Eternal Vigil. It is the strongest domain on Celestia. Must's followers seek to become perfect, obedient instruments of rightful authority.
+
+**[[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]]**, God of Devotion, also makes a home on Celestia.
+
+
 
 ## Inhabitants
-Celestia is home to many creatures of good, including aasimars, devas, planetars, and solars. Several groups of good natives of the material world have also established themselves on the lowest slope, along the beach of the Silver Sea.
+Celestia is home to many good beings, including aasimars, devas, planetars and solars. Several groups of good folk from material worlds have also settled on the lowest slope, along the beach of the Silver Sea.
 
-The plane's primary residents are the archons, who are to Celestia what the devils are to the Nine Hells: natives of the plane and purveyors of its ideals. Archons come in many types, the most common being lantern archons, hound archons, and trumpet archons.
+Most of the plane's people are archons. Archons are to Celestia what devils are to the Nine Hells: born of the plane and carriers of its ideals. There are many kinds, and the most common are lantern archons, hound archons and trumpet archons.
 
 ## Petitioners
-Most petitioners of Celestia are lantern archons, and they are graced with more knowledge and power than petitioners of most other planes. Every one of them aims to ascend through the layers and evolve into a more glorious form of archon. Other archons treat lantern archons as children, forgiving their errors and guiding them onto paths of virtue. They appear as floating balls of light that glow like a torch.
+Most of Celestia's petitioners are lantern archons, and they have more knowledge and power than petitioners on most planes. Each one hopes to climb the layers and grow into a greater kind of archon. Older archons treat them like children, forgiving their mistakes and steering them toward virtue. They look like floating balls of light, about as bright as a torch.
 
-<!-- 
-Lantern archon petitioners have the following special petitioner qualities:
 
-**Additional Immunities:** Electricity, petrification.
-
-**Resistances:** None.
-
-**Special:** Hit Die d8, Improved Initiative feat.
-
-**Other Special Qualities:** Damage reduction 20/+1; light ray; spell-like abilities, celestial qualities, no planar commitment.
-
-**Light Ray (Ex):** A lantern archon can attack with two light rays as +2 ranged touch attacks that deal 1d6 points of damage each, with a range of 30 feet.
-
-**Spell-like Abilities:** At will—aid, continual flame, detect evil. These abilities are as the spells cast by a 3rd-level sorcerer.
-
-**Celestial Qualities:** Aura of menace (save DC 11), magic circle against evil, teleport, tongues, +4 racial bonus on saves against poison.
-
-**No Planar Commitment (Ex):** Unlike most other petitioners, lantern archons can leave their home plane. 
--->
 
 ## The Trials of Ascent
-Each layer sets a trial on those who would climb to the next, and each trial leaves its mark on whoever passes it. Lunia tests patience, and rewards the patient with sight that pierces darkness. Mercuria tests discipline, and the disciplined are afterward untouched by lightning or by the magic that turns flesh to stone. Venya tests courage, and the courageous acquire a bearing that gives pause to anything that would face them. Solania tests kindness, and the kind find afterward that they are understood in any tongue and understand every tongue in turn. Mertion tests generosity, and the generous are thereafter proof against most poisons. Jovar tests pacifism, and what it grants is passage itself, since beyond Jovar lies only Chronias.
+Each layer tests anyone who wants to climb to the next, and each test leaves a mark on those who pass it.
 
-<!-- 
-Trial rewards by layer:
-Lunia (patience): darkvision 60 ft and low-light vision; if the subject already has darkvision, increase it by 60 ft instead.
-Mercuria (discipline): immunity to electricity and petrification.
-Venya (courage): aura of menace, as per the archon trait (DC 20).
-Solania (kindness): truespeech as an extraordinary ability.
-Mertion (generosity): +4 racial bonus on saves against poison.
-Jovar (pacifism): no listed mechanical benefit; passage to Chronias.
--->
+- **Lunia** tests patience. Those who pass can see in the dark.
+- **Mercuria** tests discipline. Those who pass can no longer be hurt by lightning or turned to stone.
+- **Venya** tests courage. Those who pass carry themselves in a way that makes enemies hesitate.
+- **Solania** tests kindness. Those who pass are understood in every language and understand every language in turn.
+- **Mertion** tests generosity. Those who pass can shrug off most poisons.
+- **Jovar** tests peacefulness. Its only reward is the way forward, because past Jovar there is only Chronias.
+
+
 
 ## Layers
 
 ### Lunia (The Silver Heaven)
-The first and lowest layer, also called the Silver Heaven. Portals from other planes connect to it at the edge of the wine-dark Silver Sea, a vast gulf of holy water. That sea is free of salt and contains all manner of aquatic life, from tiny schools of silvery fish to leviathans moving in the depths.
+The first and lowest layer. Portals from other planes come out at the edge of the Silver Sea, a huge, wine-dark gulf of holy water. The sea isn't salty, and it is full of life, from small schools of silver fish to leviathans in the deep.
 
-Lunia's sky is dark and filled with silvery stars bright enough to illuminate the shore where the sea runs up against the base of the mountain. Citadels and redoubts of polished white stone dot that shore, varied in architecture and in occupants, and many are open to trade with sea elves out of the material world.
+Lunia's sky is dark and full of silver stars, bright enough to light the shore where the sea meets the mountain. Castles and forts of polished white stone stand along that shore, each built in its own style and home to its own people.
 
-**Castle Mahlhevik:** Lunia offers much even to a wizard of thoroughly evil history committed to learning the paths of goodness. Calling in favors from various demideities and demonstrating his sincerity to highly placed archons, the wizard Mahlhevik built his castle on the shore of the Silver Sea in peace. He is sincerely attempting to reform and has a long way still to go, retaining many instincts and notions from his former life. Mahlhevik welcomes visitors and permits travelers of any disposition to stay with him.
+**Castle Mahlhevik:** Lunia has something to offer even a wizard with a thoroughly evil past, as long as he truly wants to learn to be good. The wizard Mahlhevik called in favors from several demigods, proved to high-ranking archons that he meant it, and was allowed to build his castle on the shore of the Silver Sea in peace. He really is trying to reform. He still has a long way to go, and many of his old instincts and ideas have stuck with him. Mahlhevik welcomes visitors and lets travelers of any kind stay with him.
 
-Some of Mahlhevik's old friends visit from time to time, among them Sytris, once called the Soul Reaver, and Japheth, formerly known as Lifeleech. Arriving on the plane waist-deep in the holy water of the Silver Sea has a way of scarring and frightening off such company, so the visits are not frequent. Interesting trades and more interesting stories can be had at the castle, and travelers who would rather not deal directly with archons consider it a good place to stay.
+Some of his old friends drop by now and then, including Sytris, once called the Soul Reaver, and Japheth, once called Lifeleech. Arriving waist-deep in the holy water of the Silver Sea tends to burn and frighten company like that, so the visits are rare. The castle is a good place for an interesting trade or a better story, and travelers who'd rather not deal with archons directly like to stay there.
 
 ### Mercuria (The Golden Heaven)
-The second layer, also called the Golden Heaven, a place of thin air and high hopes where golden light suffuses everything. The slopes are tame, the valleys lush, the streams fast-running. Plateaus and passes provide space for small settlements of archons and other goodly beings.
+The second layer, where the air is thin, hopes are high, and everything is bathed in gold light. The slopes are gentle, the valleys green and the streams fast. Small settlements of archons and other good beings sit on the plateaus and in the passes.
 
-Great tombs and wondrous mausoleums grant eternal rest to the noblest of fighters, and the inhabitants of Celestia honor their deeds at an annual Day of Memory.
+Great tombs and fine mausoleums give eternal rest to the noblest warriors, and every year the people of Celestia honor them on the Day of Memory.
 
-**Bahamut's Palace:** A glittering wonder built entirely from the treasure hoard of Bahamut the Platinum Dragon, ruler of good dragons and a paragon of wisdom, knowledge, prophecy, and song. Its windows are gemstones set in gold and silver, its walls inlaid with copper and jade, its floors beaten mithral. Within, seven great wyrms attend Bahamut amid treasure gathered over ages, and the bones of a thousand failed thieves. The palace moves among the first four layers at Bahamut's will, carried aloft by a whirlwind, and for travelers friendly to the Platinum Dragon it offers a way of crossing Celestia without using the paths.
+**Aurelthion's Palace:** A shining palace built entirely out of Aurelthion's hoard. Aurelthion is wise and learned, and known for prophecy and song, and many good dragons look to Aurelthion for guidance. The windows are gemstones set in gold and silver, the walls are inlaid with copper and jade, and the floors are hammered mithral. Inside, seven great wyrms wait on Aurelthion among treasure gathered over ages and the bones of a thousand thieves who failed. A whirlwind carries the palace between the first four layers wherever Aurelthion wishes. Travelers on good terms with the Platinum Wyrm can ride it across Celestia without taking the paths.
 
 ### Venya (The Pearly Heaven)
-The third layer, also called the Pearly Heaven. Venya's slopes are old, rounded, and occasionally laced with snow. Its brooks run warm and clear, though ice often forms along the banks in winter. Terraced fields and carefully tended woodlands are common on the slopes.
+The third layer. Venya's slopes are old and rounded, with patches of snow. Its streams run warm and clear, though in winter ice often forms along the banks. Terraced fields and well-kept woods cover the slopes.
 
-**The Glass Tarn:** A mountain lake of icy water nestled in a bowl-shaped valley between three peaks, fed by runoff from a glacier of blue ice high above. When a believer throws something truly important and valuable into the tarn as an offering, a light rushes up from its incomprehensible depths. Reaching the surface, that light takes the form of a prophecy featuring the supplicant. Where the offering was insincere, it takes the form of a powerful archon come to deal with the intruder.
+**The Glass Tarn:** An ice-cold mountain lake in a bowl between three peaks, fed by meltwater from a blue glacier above. When a believer throws something truly precious into the tarn as an offering, a light rises from the bottom. When it reaches the surface it becomes a prophecy about the person who made the offering. If the offering wasn't sincere, the light becomes a powerful archon who comes to deal with them instead.
 
-**Green Fields:** Crops never fail here, the weather stays mild, and plentiful harvests are a blessing. The realm combines burrowed households, small rustic buildings, and endless fields. No large predators live in the Green Fields. Moles, rabbits, and badgers are common.
+**Green Fields:** Crops never fail here, the weather is always mild and the harvests are always big. People live in burrow homes, small cottages and endless fields. There are no large predators in the Green Fields. Moles, rabbits and badgers are everywhere.
 
 ### Solania (The Crystal Heaven)
-The fourth layer, also called the Crystal Heaven. A sky shining with the glow of burnished silver hangs above its quiet slopes. Luminescent fogs and invigorating scents shroud the valleys. Many slopes hold mighty glaciers above and remain rich in ore and precious minerals below. Solania's peaks are home to monasteries, cathedrals, and other holy shrines, and these are often the destination of interplanar pilgrims seeking answers to questions of creation, toil, and love.
+The fourth layer. The sky glows like polished silver over quiet slopes. Bright fogs and fresh, sharp scents fill the valleys. Many slopes have great glaciers above and rich veins of ore and gems below. Solania's peaks hold monasteries, cathedrals and other shrines, and pilgrims from many planes come to them looking for answers about creation, work and love.
 
 ### Mertion (The Platinum Heaven)
-The fifth layer, also called the Platinum Heaven. Mertion's slopes are gentle and level off into great sweeping plains dominated by citadels and domes. Those citadels are marshaling grounds for paladins, celestials, and other creatures of good and law.
+The fifth layer. Mertion's slopes are gentle and flatten into wide plains covered with citadels and domes. The citadels are where paladins, celestials and other beings of good and law gather and prepare.
 
-**Empyrea:** Also called the City of Tempered Souls, sitting on the edge of a cold, clear mountain lake. Its many healing fountains and curative waters can restore withered limbs, lost speech, derangement, and life energy itself, provided the ailing find the right fountain. Empyrea is known also for its healers and hospitals, and many a pilgrim aims to reach this legendary site of perfect health.
+**Empyrea:** Also called the City of Tempered Souls, it sits on the shore of a cold, clear mountain lake. Its many fountains and healing waters can restore withered limbs, lost speech, broken minds and even drained life, as long as the sick person finds the right fountain. Empyrea is also known for its healers and hospitals, and many pilgrims hope to reach this legendary place of perfect health.
 
 ### Jovar (The Glittering Heaven)
-The sixth layer, also called the Glittering Heaven. Its slopes are strewn with great rubies and garnets twinkling with a light beautiful enough to steal the breath at first sight. Hosts of archons wander the gem fields, lost in contemplation of the glory of their previous lives.
+The sixth layer. Its slopes are scattered with huge rubies and garnets that glitter beautifully enough to take your breath away the first time you see them. Crowds of archons wander the gem fields, lost in memories of the glory of their past lives.
 
-**Yetsira, the Heavenly City:** Visible from everywhere on Jovar and from vantage points on lower layers, the Heavenly City is a seven-layered ziggurat with an enormous staircase on each of its four faces connecting the terraces. Gemstones of profound value make up every step and every stone, all of them glowing with an inner light. Hosts of archons move up and down the stairs, and the structure is so massive that the steps never grow crowded.
+**Yetsira, the Heavenly City:** The Heavenly City can be seen from anywhere on Jovar and from high points on the layers below. It is a ziggurat of seven terraces, with a huge staircase on each of its four sides. Every step and every stone is a priceless gem glowing with its own light. Hosts of archons climb up and down the stairs, and the city is so big the stairs are never crowded.
 
-On the lowest terrace sits the Exchequer of Souls, a black marble building of graceful arches and onion domes laced with threads of gold and silver, where powerful archons weigh the virtues of lesser archons and elevate the worthy to higher forms. The Radiant Arsenal on the fourth terrace is a long, narrow building with a vaulted ceiling and extensive cellars, holding weapons magical and mundane against the need to arm the archon hosts. The most important of those weapons are said to contain the essence of powerful archons, and they rest in pearl-lined vaults sealed by deity-scribed glyphs. The Bridge of al-Sihal on the seventh and highest terrace is a beam of blinding light, the portal to Chronias, guarded by a solar named Xerona who turns aside the unworthy.
+On the lowest terrace is the Exchequer of Souls, a black marble building of graceful arches and onion domes threaded with gold and silver. There, powerful archons weigh the virtues of lesser archons and raise the worthy to greater forms. On the fourth terrace is the Radiant Arsenal, a long, narrow hall with a vaulted roof and deep cellars, full of weapons, magic and plain, kept ready to arm the archon hosts. The most important of these are said to hold the essence of powerful archons, and they lie in vaults lined with pearl and sealed with glyphs written by gods. On the seventh and highest terrace is the Bridge of al-Sihal, a beam of blinding light that leads to Chronias. A solar named Xerona guards it and turns away the unworthy.
 
 ### Chronias (The Illuminated Heaven)
-The seventh layer, also called the Illuminated Heaven. Chronias is a mystery, and some hold that it is the mystery. The few who achieve it never return, so no account records its true aspect. Tales say that those who enter have their inherent goodness magnified until their essence joins with Celestia itself, and that those who harbor evil have their souls extinguished and their existence erased permanently from the multiverse.
+The seventh layer. Nobody knows what Chronias is like, and some say it is the great mystery of all. The few who reach it never come back, so there are no accounts of it. Stories say that anyone who enters has their goodness magnified until they become part of Celestia itself, and that anyone carrying evil inside them is snuffed out and erased from existence forever.
+
+

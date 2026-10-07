@@ -4,7 +4,7 @@
 
 # The Rayhostian Theocracy
 
-<!-- GAP: The current monarch is a descendant of Queen Seraphina. Name and title are left open. -->
+
 
 ## Overview
 
@@ -68,7 +68,7 @@ The centuries that followed were marked by tension with Narathatath, though open
 
 In 5267 the party [[Adventures And Stories/Parties/Retribution\|Retribution]] crossed the ocean to warn of the faceless emperor ruling Adriacium, and the Theocracy sent reinforcements to [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]]. Alongside mages from [[Places/Realms/Alora/Nations/Imnas\|Imnas]], its soldiers helped halt an army of demons and devils inside the [[Places/Realms/Alora/Nations/Empire of Bornumia\|Empire of Bornumia]], and the army broke apart when Retribution banished [[Religion and Deities/Deific Figures/Progenitors/Demons/Rouge, the Red Progenitor Demon\|Rouge]].
 
-The two nations have kept an extended peace for the past 170 years. In that time they have established multiple trade treaties through the diplomatic efforts of Slyrsomyr the Bridgemaker, Narathatath's chief diplomat to the Theocracy. Relations have improved over the past century, though the two nations remain wary of each other.
+Peace with [[Places/Realms/Alora/Nations/Narathatath\|Narathatath]] has held for 170 years, and the trade treaties negotiated by Slyrsomyr the Bridgemaker, the dragons' envoy, have warmed relations over the past century. The Theocracy has not forgotten who ruled it before 4287, and it still watches its neighbor warily.
 
 ## Capital
 

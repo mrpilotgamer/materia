@@ -6,7 +6,7 @@
 
 ## Overview
 
-Punane (POO-nah-neh), The Eternal Martyr, resides over a section of [[Places/Planes/Outer Planes/Olympian Glades of Arborea\|Arborea]] known as the Fields of Glorious Sacrifice. He embodies the principle that true passion means burning oneself completely for others' causes, that individual survival is selfishness when others need champions, and that the highest calling is to die gloriously for freedoms and battles that are not your own.
+Punane (POO-nah-neh), The Eternal Martyr, resides over a section of [[Places/Planes/Outer Planes/Olympian Glades of Arborea\|Arborea]] known as the Fields of Glorious Sacrifice. Punane teaches that passion means burning yourself up for other people's causes. To him, staying alive while someone needs a champion is selfish, and the finest death is a glorious one fighting for a freedom that was never yours.
 
 ## Worship and Clergy
 
@@ -32,7 +32,7 @@ Death-or-Glory Warriors and revolutionary martyrs form Punane's following.
 
 2. **To survive when others need a champion is selfish cowardice.** I shall embrace death gladly when my sacrifice might serve the collective good.
 
-3. **Individual preservation weakens the greater struggle.** I shall give everything—my life, my blood, my future—so that others may be free.
+3. **Individual preservation weakens the greater struggle.** I shall give everything, my life, my blood and my future, so that others may be free.
 
 ## Areas of Concern
 

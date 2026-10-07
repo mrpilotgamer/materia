@@ -8,7 +8,7 @@
 
 Narathatath holds the western continent of [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]], and it is ruled by dragons. A council of ten dragons governs as a collective monarch, and dragons commonly fly through its major cities. Its people are mostly [[Species and Cultures/Races/Drakmed\|Drakmed]], who are believed to be the humanoid descendants of dragons, and its dominant culture is [[Species and Cultures/Cultures/Drako\|Drako]].
 
-Myth holds that the nation was founded by [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]], before the Great Schism War. The council has ruled for thousands of years, and some of its present members were alive when the Human Uprising of 4287 broke dragon rule over the eastern continent.
+Myth holds that the nation was founded by [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]], before the Great Schism War. The archive doubts it. No record of Narathatath survives from before the [[History/Ages/Age of Regrowth\|Age of Regrowth]], and the dragons' claim of an unbroken line rests on their word alone. The council has ruled for thousands of years, and some of its present members were alive when the Human Uprising of 4287 broke dragon rule over the eastern continent.
 
 ## Geography
 

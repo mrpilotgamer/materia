@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/species-and-cultures/cultures/","dg-note-properties":{}}
 ---
 
-
-to do - 
+Each culture below lists the races most common within it. For the other direction, see the table at the bottom of [[Species and Cultures/Races\|Races]].
 
 [[Species and Cultures/Cultures/Eldar\|Eldar]] - the dominant culture of the [[Places/Realms/Alora/Nations/Empire of Bornumia\|Empire of Bornumia]], once dominant across [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]]
 
@@ -15,17 +14,17 @@ to do -
 
 [[Species and Cultures/Cultures/Sonta\|Sonta]] - the dominant culture of the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]]
 
-[[Species and Cultures/Cultures/Yotuun\|Yotuun]] - the dominant culture across [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]
+[[Species and Cultures/Cultures/Jotuun\|Jotuun]] - the dominant culture across [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]
 
 [[Species and Cultures/Cultures/Anor\|Anor]] - the dominant culture of [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]], feudal and built around the triad faith
 
-[[Species and Cultures/Cultures/Portizian\|Portizian]] - the dominant culture of [[Places/Realms/Alora/Nations/Imestalia\|Imestalia]] and [[Places/Realms/Alora/Nations/Pimestalia\|Pimestalia]], a culture of many peoples with no majority race - Castilian inspired
+[[Species and Cultures/Cultures/Portizian\|Portizian]] - the dominant culture of [[Places/Realms/Alora/Nations/Imestalia\|Imestalia]] and [[Places/Realms/Alora/Nations/Pimestalia\|Pimestalia]], a culture of many peoples with no majority race 
 
-[[Species and Cultures/Cultures/Dulandi\|Dulandi]] - the dominant culture of [[Places/Realms/Alora/Nations/Imnas\|Imnas]] and the culture of the [[Species and Cultures/Races/Mannee\|Mannee]], with magic at its heart - elvish inspired, with Welsh and Irish customs
+[[Species and Cultures/Cultures/Dulandi\|Dulandi]] - the dominant culture of [[Places/Realms/Alora/Nations/Imnas\|Imnas]] and the culture of the [[Species and Cultures/Races/Mannee\|Mannee]], with magic at its heart 
 
 [[Species and Cultures/Cultures/Trow\|Trow]] - the culture of the [[Species and Cultures/Races/Trox\|Trox]], begun underground and shaped on the surface by Drako and Anor, living on both shores of the strait in [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]]
 
-[[Species and Cultures/Cultures/Aj'Snaga\|Aj'Snaga]] - the dominant culture of [[Places/Realms/Alora/Nations/Yoichizu\|Yoichizu]], built around [[Species and Cultures/Races/Araki\|Araki]] rebirth - Japanese inspired
+[[Species and Cultures/Cultures/Aj'Snaga\|Aj'Snaga]] - the dominant culture of [[Places/Realms/Alora/Nations/Yoichizu\|Yoichizu]], built around [[Species and Cultures/Races/Araki\|Araki]] rebirth 
 
 [[Species and Cultures/Cultures/Drako\|Drako]] - The dominant culture of [[Places/Realms/Alora/Nations/Narathatath\|Narathatath]]
 

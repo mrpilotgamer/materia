@@ -6,9 +6,9 @@
 
 ## Overview
 
-Wathoria (Wæth-OR-iah), Judge of Souls, is a god everyone will face at least once. They guard souls and oversee the afterlife, sending those who have died to their proper destinations beyond mortal existence. They also stop those who would avoid their proper passing: liches, vampires, and any other creatures who resist the natural cycle through undeath or immortality. To Wathoria, all are equal in death regardless of their station in life, and maintaining this fundamental equity is their sacred duty.
+Wathoria (Wæth-OR-iah), Judge of Souls, is the one god everybody meets at least once. Wathoria keeps watch over the dead and sees each soul to where it belongs. A soul's alignment pulls it toward its afterlife, and Wathoria checks that the pull is true to how the soul lived. The god's psychopomps then escort it across the [[Places/Planes/Transitive Planes/Expanding Refuse of Mortest\|Expanding Refuse of Mortest]]. Wathoria also stops anyone trying to dodge their death: liches, vampires and anything else that clings on through undeath. In death everyone is equal, whatever they were in life, and keeping it that way is Wathoria's charge. [^1]
 
-Many who worship Wathoria respect death and see it as natural, with no cause for fear. The god teaches that as in life, so in death, and that actions shall go neither unpunished nor unrewarded. Followers understand they may judge the living, while only Wathoria judges where souls travel after death. The god's worshipers include undead hunters who enforce the natural cycle, those with innate abilities to interact with souls, and the elderly who have made peace with their mortality and wish to ensure their passage is handled with proper respect.
+Most of Wathoria's faithful see death as natural and nothing to fear. As in life, so in death: nothing you do goes unpunished or unrewarded. The faithful may judge the living, but only Wathoria judges where the dead go. Undead hunters worship Wathoria, as do people born with a gift for sensing souls, and old folk who have made their peace and want their passing handled properly.
 
 ## Worship and Clergy
 
@@ -29,11 +29,11 @@ A tombstone with a door carved on it
 
 ### Worshipers
 
-Wathoria's followers include the elderly who approach their own deaths with acceptance, grave diggers who tend to the bodies of the deceased, and morticians who prepare the dead for their final journey. The clergy teaches that death is the great equalizer. In the afterlife no mortal's position matters, and all face judgment on their deeds where their titles count for nothing. They emphasize that evading death through undeath is a violation of the natural order that Wathoria will not tolerate.
+Wathoria's followers include the elderly, gravediggers and morticians. The clergy say that in the afterlife nobody's title counts. Everyone is judged on what they did. Escaping death through undeath is the one thing Wathoria will not tolerate.
 
-The faith departs from gods who focus solely on life's concerns, maintaining a balanced view that honors existence and its ending alike. Their temples work as funeral homes, counseling centers for the grieving, and training grounds for undead hunters. The clergy teaches that fearing death is natural, and that allowing that fear to drive you toward undeath or immortality is unacceptable. They provide comfort to the dying, ensure proper burial rites, and track down those who have cheated death to bring them to their rightful end.
+Wathorian temples serve as funeral houses, as places for the grieving to come and talk, and as training halls for undead hunters. Being afraid of death is natural, the priests say. Letting that fear push you toward undeath is not allowed. The clergy sit with the dying, see the dead buried properly, and hunt down anyone who has cheated their end.
 
-Clerics of Wathoria are often called upon to deal with undead threats, wielding both divine magic and heavy maces to destroy those who refuse their proper passage. They counsel the living about making peace with mortality, teach that justice in life affects one's afterlife destination, and remind followers that while they may bring justice to the living, only Wathoria judges souls after death. The lion is the faith's sacred animal, a creature that kills when necessary to maintain natural balance, represents strength and inevitability together, and shows that even the mightiest predator eventually falls to time's passage.
+Priests are often called in when the dead start walking, and they go armed with prayer and heavy maces. The lion is the faith's sacred animal, a strong hunter that kills when it has to, and that will itself die in time like everything else.
 
 ### Tenets of Faith
 
@@ -51,29 +51,31 @@ Those who follow Wathoria swear to live by these principles:
 
 ## History
 
-Wathoria's most defining moment came during the [[History/Great Schism War\|Great Schism War]], when most gods fought against the [[Religion and Deities/Deific Figures/Primordials\|Primordials]] and Wathoria alone struck a different path. Recognizing that the war threatened the very cycle of souls, Wathoria negotiated with the Primordials, staking a claim on the [[Places/Planes/Transitive Planes/Expanding Refuse of Mortest\|Expanding Refuse of Mortest]] as the realm of the dead and promising to watch over the cycle of souls. The deal ensured that immortals and undead would eventually reach their rightful destination, aligning Wathoria's divine purpose with the Primordials' concern for natural cycles. The arrangement allowed Wathoria to remain active on [[Places/Materia\|Materia]] when many other gods were forced to withdraw, cementing the god's role as the guardian between life and death.
+Wathoria's defining moment came in the [[History/Great Schism War\|Great Schism War]]. While the other gods fought the [[Religion and Deities/Deific Figures/Primordials\|Primordials]], Wathoria saw that the war threatened the cycle of souls and made a deal instead. Wathoria claimed the [[Places/Planes/Transitive Planes/Expanding Refuse of Mortest\|Expanding Refuse of Mortest]] as the realm of the dead and promised to watch over the cycle, making sure the undead and the deathless would reach their proper end in time. That suited the Primordials, who care about natural cycles too. The other gods were cut off from [[Places/Materia\|Materia]], but the arrangement left Wathoria one exception: the god can still act directly within Mortest and at the moment of death. It also sets the limit of the god's reach. Undead who escape Materia to other planes, such as the liches of Hopelorn in Gehenna, are beyond Wathoria, and the maruts of Mechanus who hunt death-cheaters act on their own.
 
-Throughout the subsequent ages, worship has remained remarkably consistent, as death transcends historical periods and cultural changes. The [[History/Ages/Age of Incursion\|Age of Incursion]] reinforced the god's teachings when mortality rates spiked and many sought to avoid death through necromancy or transformation into undead, only to face Wathorian clerics who hunted them relentlessly.
-
-In the current [[History/Ages/Age of Stability\|Age of Stability]], Wathoria's clergy continues to maintain the soul cycle, destroy undead who have evaded their proper end, and provide comfort to mortals facing the one certainty that unites all living things. The god's alliance with the Primordials gives Wathorian doctrine unique authority on matters of death and the afterlife.
+Death doesn't change from age to age, and neither has Wathoria's worship. In the [[History/Ages/Age of Incursion\|Age of Incursion]], when people were dying in great numbers, many turned to necromancy to save themselves, and Wathorian hunters went after every one of them. Because of the pact, Wathorian teaching carries real weight on anything to do with death.
 
 The [[Species and Cultures/Cultures/Algar\|Algar]] of the [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox]] give Wathoria first place in their devotion, and no Algar body is left unburied.
 
 ## Related Entities
 
-**Allies:** Through the deal struck during the Great Schism War, Wathoria maintains a unique understanding with the [[Religion and Deities/Deific Figures/Primordials\|Primordials]], aligned in purpose regarding natural cycles and the proper flow of souls. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing, God of Consumption]] shares Wathoria's philosophy of natural cycles, holding that what is consumed in life must be returned to the earth in death. [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity, God of Benevolence]] aligns with Wathoria's emphasis on equity and justice for all regardless of station. [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya, God of Devotion]] connects through the understanding that devoted service in life affects one's judgment after death. [[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner, God of Caution]] shares the teaching that preparing for death's inevitability is wisdom and no kind of morbidity.
+**Allies:** The pact from the Great Schism War keeps Wathoria on good terms with the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing, God of Consumption]] agrees that what is eaten in life goes back to the earth in death. [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity, God of Benevolence]] shares Wathoria's belief that rank shouldn't decide what anyone gets. [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya, God of Devotion]] teaches that loyal service in life counts at judgment. [[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner, God of Caution]] holds that preparing for your own death is plain good sense.
 
-**Rivals:** [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] teaches endless accumulation and collection, while Wathoria reminds all followers that death makes everyone equal. You cannot take your hoard with you, and no amount of accumulated wealth changes where souls are judged to go.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] teaches collecting without end, and Wathoria reminds everyone that you can't take your hoard with you. Nothing you own changes where your soul is sent.
 
 ## Holy Days and Festivals
 
 ### Day of Death
 
-Celebrated during the autumn equinox when the year begins its decline into winter's death, the Day of Death is a quiet day spent pondering and reflecting on those who have died. Followers visit graves of the deceased, tend to burial sites, and share memories of those who have passed. The day also involves considering the path you are taking in life, contemplating where you will go after death based on your actions and choices.
+Held on the 1st of Wathriam, the first day of summer, when life is at its height, the Day of Death is a quiet day for remembering the dead. People visit graves, tidy them, and talk about the people buried there. They also think about the lives they're leading, and where those lives will send them.
 
-Solemn introspection marks the day, and celebration has no place in it. Wathorian clergy lead meditations on mortality, guide followers through ethical examinations of their recent deeds, and offer counsel on how to live in ways that will lead to favorable judgment. Many followers write letters to the deceased, which are then ceremonially burned so the smoke can carry messages to the afterlife. The practice works as remembrance and as a reminder that all communication with the dead must eventually end. The living have their realm, and the dead have theirs.
+It is a solemn day with no celebrating. Priests lead quiet meditations on dying and help people look honestly at what they've done lately. Many write letters to their dead and burn them, so the smoke can carry the words over. Some towns hold vigils in the graveyard, where undead hunters tell stories of what they've put down.
 
-Some communities hold vigils at cemeteries where undead hunters share tales of creatures they have destroyed, reinforcing that those who evade death will face Wathoria's wrath through mortal agents. The lion's role as both protector and inevitable killer is the day's symbol. All things die, including lions, and accepting this truth with dignity is preferable to fleeing from it in fear. The day concludes with participants acknowledging their own mortality aloud, a practice meant to strip death of its terror through honest acceptance.
+At the end of the day each person says out loud that they too will die.
+
+## Home Plane
+
+Wathoria makes a home on [[Places/Planes/Transitive Planes/Expanding Refuse of Mortest\|Mortest]].
 
 ## Areas of Concern
 
@@ -82,3 +84,5 @@ Death, Judgement, Souls
 ## Adjective
 
 Wathorian (wæth-OR-ee-an) - "The Wathorian cleric showed no mercy to the lich, for those who evade death deserve none when their time comes."
+
+[^1]: Everyone meets Wathoria once. I would like it on record that I am in no hurry.

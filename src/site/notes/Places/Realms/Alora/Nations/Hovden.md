@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/hovden/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Jotuun Nexus","government":"Kingdom","capital":"Stokjahver","ruler":null,"dominant-culture":"Yotuun"}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/hovden/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Jotuun Nexus","government":"Kingdom","capital":"Stokjahver","ruler":null,"dominant-culture":"Jotuun"}}
 ---
 
 # Hovden
 
-<!-- GAP: The current ruler is a High Jarl of the royal line. Name left open. -->
+
 
 ## Overview
 
@@ -22,7 +22,7 @@ Deep caves run beneath the northern forests, and legend calls them the burial ch
 
 Hovden is a kingdom ruled by a High Jarl of the royal line. The line has held the throne since before Helano's conquest, or so its supporters claim. Others argue that the present house is not the true line from before the protectorate, and the question has never been settled to everyone's satisfaction.
 
-The High Jarl governs with the High Þing, a national assembly of the kingdom's jarlar that meets at Stokjahver. The throne passes within the royal line, but Yotuun custom holds that no jarl rules through inheritance alone, so the High Þing must confirm each new High Jarl before they take power. Under Helano, the Khan approved the vassal kings instead, and some claim he passed over the rightful heirs for more pliant cousins. That charge lies at the root of the dispute over the line.
+The High Jarl governs with the High Þing, a national assembly of the kingdom's jarlar that meets at Stokjahver. The throne passes within the royal line, but Jotuun custom holds that no jarl rules through inheritance alone, so the High Þing must confirm each new High Jarl before they take power. Under Helano, the Khan approved the vassal kings instead, and some claim he passed over the rightful heirs for more pliant cousins. That charge lies at the root of the dispute over the line.
 
 ## Law
 
@@ -44,7 +44,7 @@ The Northern Passage is the kingdom's main overland trade route. It runs north t
 
 ## Peoples and Culture
 
-Hovden is [[Species and Cultures/Cultures/Yotuun\|Yotuun]] in culture. Its people adapted to forests and timber long ago, building timber halls with steep roofs and honoring spirits their desert kin pay less attention to. [[Religion and Deities/Deific Figures/Primordials/Shiroi, White Primordial Spirit\|Shiroi]] is honored for the winds and the winters, and [[Religion and Deities/Deific Figures/Primordials/Midori, Green Primordial Spirit\|Midori]] for the forests that sustain the kingdom, though desert traditionalists disapprove of both.
+Hovden is [[Species and Cultures/Cultures/Jotuun\|Jotuun]] in culture. Its people adapted to forests and timber long ago, building timber halls with steep roofs and honoring spirits their desert kin pay less attention to. [[Religion and Deities/Deific Figures/Primordials/Shiroi, White Primordial Spirit\|Shiroi]] is honored for the winds and the winters, and [[Religion and Deities/Deific Figures/Primordials/Midori, Green Primordial Spirit\|Midori]] for the forests that sustain the kingdom, though desert traditionalists disapprove of both.
 
 The [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] have long been common in Hovden, alongside many [[Species and Cultures/Races/Human\|Humans]] and [[Species and Cultures/Races/Daemedi\|Daemedi]]. When Helano fell, its people fled north as refugees, most of them Yol-Mar, into the land their Khan had ruled for 250 years. Hovden resented them at first, but the generations since have absorbed them into its kynnar and its towns.
 
@@ -52,7 +52,7 @@ The [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] have long been common in Hov
 
 Hovden was an independent kingdom until Helano subjugated it in 5017. For the next 250 years it ruled itself as a vassal of the Khan, sending timber and forest goods south to feed [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano's]] desert heartland.
 
-In 5267 a plague swept through the Nexus. It reached Hovden as well, and by the time anyone understood what was happening, there was no Helano left to send supplies to. Hovden emerged from the plague years independent, and it has thrived since, building direct trade across Alora in place of the old tribute.
+In 5267 a plague swept through the Nexus. It reached Hovden as well, and by the time anyone understood what was happening, there was no Helano left to send supplies to. Hovden emerged from the plague years independent, and it has thrived since, building direct trade across Alora instead of paying the old tribute.
 
 Raids out of the desert have grown more common since Helano's fall, and they are the reason the army trains for desert fighting. Stamvia's civil war, which broke out this year across the kingdom's southwestern border, has become a new source of concern.
 

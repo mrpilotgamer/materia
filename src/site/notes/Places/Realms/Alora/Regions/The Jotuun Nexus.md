@@ -9,7 +9,7 @@
 
 The Jotuun Nexus is a vast continent straddling the equator, named for the ancient giants said to have been born and to have died here during [[History/Ages/Prehistory\|Prehistory]]. No physical trace of these giants has ever been found. There are no bones, no ruins, and no artifacts, only the stories told across countless generations and the [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]], who claim descent from them.
 
-Three nations ring the continent's coasts, and a harsh desert fills its heart. That desert was once the heartland of [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]], a khanate of the desert [[Species and Cultures/Cultures/Yotuun\|Yotuun]] and the homeland of the [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]]. Helano was ruled by the Khan, a title held by one of the strongest Yol-Mar in the land, and its rule was militaristic. It subjugated [[Places/Realms/Alora/Nations/Hovden\|Hovden]] in 5017 and the [[Places/Realms/Alora/Nations/Kingdom of Stamvia\|Kingdom of Stamvia]] in 5067, drawing lumber from the one and stonemasons and ships from the other.
+Three nations ring the continent's coasts, and a harsh desert fills its heart. That desert was once the heartland of [[Places/Realms/Alora/Nations/Fallen Nations/Helano\|Helano]], a khanate of the desert [[Species and Cultures/Cultures/Jotuun\|Jotuun]] and the homeland of the [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]]. Helano was ruled by the Khan, a title held by one of the strongest Yol-Mar in the land, and its rule was militaristic. It subjugated [[Places/Realms/Alora/Nations/Hovden\|Hovden]] in 5017 and the [[Places/Realms/Alora/Nations/Kingdom of Stamvia\|Kingdom of Stamvia]] in 5067, drawing lumber from the one and stonemasons and ships from the other.
 
 Helano fell in 5267, when a widespread disease brought famine and internal collapse. Its former subjects regained their independence, and the survivors of the plague scattered across the Nexus, though a few stubborn clans stayed on in the desert. The plague struck in the same year that Rouge's incursion brought down Adriacium and Presium, and the archivists record the timing as coincidence.
 
@@ -41,7 +41,7 @@ The [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] are the only living evidence
 
 The abandoned heart of the continent still holds the ruins of Helano, emptied by plague and famine after 5267. Bandits and independent desert clans shelter among them, scavengers pick through what remains, and few travelers go near them willingly.
 
-[[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura]] bears the epithet Jarl of the Jotuun Nexus, and his worship is strongest here. [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel]] holds particular force in a land that prizes combat prowess, and [[Religion and Deities/Deific Figures/Primordials/Aka, Red Primordial Spirit\|Aka]] receives regular offerings for the destructive renewal that shapes the land.
+[[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura]] bears the epithet Jarl of the Jotuun Nexus, and their worship is strongest here. [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel]] holds particular force in a land that prizes combat prowess, and [[Religion and Deities/Deific Figures/Primordials/Aka, Red Primordial Spirit\|Aka]] receives regular offerings for the destructive renewal that shapes the land.
 
 ## Nations
 
@@ -61,9 +61,9 @@ Seasonal monsoons bring destructive floods to the coasts while leaving the inter
 
 Hovden governs the north from Stokjahver, population 15,987. The Kingdom of Stamvia governs the west from Sannes, whose population has gone uncounted since the coup, and Khania governs the east and south from Srauga, population 14,979.
 
-[[Species and Cultures/Cultures/Yotuun\|Yotuun]] culture is dominant across most of the continent, including the abandoned desert where it was born. [[Species and Cultures/Cultures/Dali\|Dali]] culture is native to the southeastern coast and dominant in Khania's east and southeast. It is also the culture of Khania's government, though the nation as a whole is a mix of the two. Srauga stands where the two cultures meet and belongs fully to neither.
+[[Species and Cultures/Cultures/Jotuun\|Jotuun]] culture is dominant across most of the continent, including the abandoned desert where it was born. [[Species and Cultures/Cultures/Dali\|Dali]] culture is native to the southeastern coast and dominant in Khania's east and southeast. It is also the culture of Khania's government, though the nation as a whole is a mix of the two. Srauga stands where the two cultures meet and belongs fully to neither.
 
-The [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] are concentrated in Stamvia and Hovden, where many of Helano's survivors joined them after its fall, and [[Species and Cultures/Races/Human\|Humans]] and [[Species and Cultures/Races/Daemedi\|Daemedi]] are common in Yotuun communities. Khania's population is primarily [[Species and Cultures/Races/Grendal\|Grendal]]. Other races are present across the continent in small numbers.
+The [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] are concentrated in Stamvia and Hovden, where many of Helano's survivors joined them after its fall, and [[Species and Cultures/Races/Human\|Humans]] and [[Species and Cultures/Races/Daemedi\|Daemedi]] are common in Jotuun communities. Khania's population is primarily [[Species and Cultures/Races/Grendal\|Grendal]]. Other races are present across the continent in small numbers.
 
 ## Pronunciation
 

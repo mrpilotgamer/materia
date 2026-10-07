@@ -6,9 +6,9 @@
 
 ## Overview
 
-Millary (MIL-ah-ree), The Resentful One, acknowledges what many deny. Seeing others possess what you lack breeds resentment, and that resentment is natural and carries no shame. The teaching holds that what others have can be yours, so long as you want it badly enough and are willing to take the necessary steps to claim it. To Millary's followers, jealousy is not a vice to suppress but a powerful motivator that drives ambition and action.
+Millary (MIL-ah-ree), The Resentful One, says out loud what most people won't. When someone else has what you want, you resent them, and there is nothing shameful in it. What they have could be yours, if you want it enough and are willing to do what it takes. Millarians treat jealousy as fuel.
 
-As a deity of envy and covetousness, Millary offers followers two paths when confronted with those who have more: ascend higher than them through your own efforts, or tear them down to lower lows so they possess less than you. The god does not judge which path is chosen, only that the jealousy is acknowledged and acted upon. Millary teaches that wealth or status means nothing if others do not see and want what you possess. Envy from others is the truest measure of success, and inspiring jealousy in those around you proves you have achieved something worth having.
+Millary gives the faithful two ways to deal with someone who has more: climb higher than them, or drag them down below you. The god doesn't care which. The only sin is feeling the envy and doing nothing about it. Millary also teaches that wealth no one envies is worth nothing. The surest sign you've made it is that people around you want what you have.
 
 ## Worship and Clergy
 
@@ -29,11 +29,11 @@ A dagger, stabbing into a coin purse
 
 ### Worshipers
 
-Millary's followers include thieves who take what others have, lower-class noblemen who resent those born to greater privilege, and anyone consumed by the gap between what they possess and what others flaunt. The clergy teaches that jealousy, when honestly acknowledged, becomes a tool for advancement, whether by motivating oneself to acquire more or by undermining those who stand above you until their position becomes yours.
+Millary's followers include thieves, minor nobles who resent the families born above them, and anyone eaten up by the gap between what they have and what others show off. The clergy teach that envy, once you admit to it, is a tool. You can use it to push yourself, or to work on whoever is above you until their place is yours.
 
-The faith departs from gods who preach contentment with one's lot. Millarian teaching holds that envy reveals what one truly desires and should therefore be embraced. Their temples work as planning grounds for ambitious schemes, where followers share information about wealthy targets, discuss strategies for social climbing, and celebrate successful acquisitions won through legitimate business, cunning manipulation, or outright theft. The clergy teaches that pride in one's possessions is not vanity but validation, since if others do not want what you have, then you have not acquired enough.
+Millarian temples are where schemes get planned. The faithful trade word of rich marks, plot their next step up, and celebrate their gains, whether those came from honest trade, clever manipulation or plain theft. Showing off what you have is encouraged. If nobody wants your things, you don't have enough yet.
 
-Clerics of Millary work as advisors to the ambitious and the resentful, teaching methods for rising above rivals or engineering their downfall. They provide counsel on identifying weaknesses in social competitors, planning thefts, crafting convincing lies, and displaying wealth in ways that maximize others' envy. The snake is the faith's sacred animal, a creature that moves silently, strikes when opportunity presents itself, and sheds its skin to emerge renewed, as followers shed their current status to claim something greater.
+Priests advise the ambitious and the bitter. They teach how to find a rival's weak spot, plan a theft, tell a convincing lie, and show off wealth so it stings the most. The snake is the faith's animal: it moves quietly, strikes when it sees a chance, and sheds its old skin for a new one, the way the faithful mean to shed the station they were born to.
 
 ### Tenets of Faith
 
@@ -49,29 +49,33 @@ Those who follow Millary swear to live by these principles:
 
 ## History
 
-Millary has been worshiped since before the [[History/Great Schism War\|Great Schism War]], though the god's following has always been strongest during periods of stark wealth inequality. The [[History/Ages/Age of Expansion\|Age of Expansion]] saw worship surge as empires concentrated wealth in the hands of ruling classes while common folk labored in poverty. The god's temples became centers for thieves' guilds and ambitious social climbers, and the clergy taught that the wealthy had simply taken what they wanted, and that others could do the same.
+Millary was worshiped before the [[History/Great Schism War\|Great Schism War]], and the faith has always done best when the gap between rich and poor is widest. It boomed in the [[History/Ages/Age of Expansion\|Age of Expansion]], when the empires piled wealth into a few hands. Millary's temples became meeting places for thieves' guilds and social climbers, and the clergy told them the rich had simply taken what they wanted and they could do the same.
 
-The [[History/Ages/Age of Incursion\|Age of Incursion]] created new forms of resentment as the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]' disasters affected different communities unequally. Those whose homes survived felt envy from those who lost everything, while survivors who lost more than others felt bitter resentment. Millary's clergy counseled followers that in times of universal suffering, those who recovered fastest or suffered least became legitimate targets for envy and action.
+The [[History/Ages/Age of Incursion\|Age of Incursion]] gave the faith new grievances. The disasters hit some towns harder than others, and those who lost everything envied those who didn't. The clergy told them the lucky were fair game.
 
-In the current [[History/Ages/Age of Stability\|Age of Stability]], worship persists wherever wealth disparities create resentment. It holds in cities where lower nobility watches greater houses enjoy privilege, and in poor districts where thieves view merchants' wealth as rightfully belonging to whoever can claim it.
+Today the faith lives wherever some people have much more than others: among lesser nobles watching the great houses, and in poor quarters where thieves see a merchant's purse as belonging to whoever can take it.
 
 Among the [[Species and Cultures/Cultures/Casta\|Casta]] of southern [[Places/Realms/Alora/Nations/Republic of Korthak\|Korthak]], Millary is honored for the ambition that drives a familia to outdo its rivals, and a Casta feast is a contest as much as a celebration.
 
 ## Related Entities
 
-**Allies:** [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] shares Millary's focus on acquisition and the drive to possess what others have. Riavexect emphasizes specialized collecting while Millary emphasizes taking through envy, and both gods honor the urge to claim and accumulate.
+**Allies:** [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] also loves getting things. Riavexect's faithful collect and Millary's take out of envy, but both honor the urge to have more.
 
-**Rivals:** [[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine, God of Belief]] brings hope and light to dispel the despair and envy that Millary cultivates. [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya, God of Devotion]] teaches devoted service and building others up, directly opposing Millary's philosophy of tearing down those above you. [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity, God of Benevolence]] gives freely to help others, standing opposed to Millary's teaching that what you want should be taken for yourself and kept.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine, God of Belief]] brings hope to the same people Millary feeds with envy. [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya, God of Devotion]] teaches serving others and building them up, and Millary teaches tearing down whoever is above you. [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity, God of Benevolence]] gives away what Millary would take and keep.
 
 ## Holy Days and Festivals
 
 ### Day of Comparison
 
-Celebrated during the winter months when wealth disparities are most visible, with the wealthy warm and well-fed while the poor struggle, the Day of Comparison is spent assessing who is above you and who is below you in social standing or in wealth. The day works toward two ends: seeing how far you have come since the last observation, and determining how far you have left to go to reach your desired position.
+Held on the 28th of Millia, the last day of the year, on the eve of winter, when the rich are laying in food and firewood and the poor are wondering how they'll get through, the Day of Comparison is for working out who is above you and who is below you. Followers look at how far they've climbed since last year, and how far they still have to go.
 
-Followers create detailed inventories of their status and possessions, then compare these lists to both those above them, as targets for emulation or undermining, and those below them, as markers of progress already achieved. Millarian clergy guide followers in identifying specific individuals to envy productively, choosing targets whose position is attainable and setting aside the impossibly distant, and recognizing rivals who pose threats to one's current status.
+The faithful make careful lists of what they own and where they stand. They compare themselves with those above, as people to copy or undermine, and with those below, as proof of how far they've come. Priests help each follower pick someone specific to envy, a rival within reach, and point out who might be coming for their own place.
 
-The day concludes with "Display Walks" where followers parade their finest possessions through public spaces, deliberately inspiring envy in those who possess less. Some communities hold auctions where stolen or acquired goods are sold openly, with successful thieves celebrated for their cunning in claiming what others once possessed. The snake features prominently in the day's imagery. Followers shed metaphorical skins, leaving behind their previous status to claim something greater, as the serpent emerges renewed from its discarded scales.
+In the evening come the Display Walks, when followers parade their best things through the streets to make the poorer folk jealous. In some towns there are open auctions of stolen goods, and the cleverest thieves are cheered.
+
+## Home Plane
+
+Millary makes a home on [[Places/Planes/Outer Planes/Bleak Eternity of Gehenna\|Gehenna]].
 
 ## Areas of Concern
 

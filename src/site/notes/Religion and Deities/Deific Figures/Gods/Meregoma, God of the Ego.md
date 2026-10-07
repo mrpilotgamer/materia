@@ -6,9 +6,9 @@
 
 ## Overview
 
-Meregoma (MARE-e-GO-mah), Savior of the Lacking, receives the prayers of those who lack confidence. The god guides petitioners toward becoming the best version of themselves, and toward believing in that transformation once it has occurred. Many seek Meregoma's wisdom while struggling with self-doubt, hoping to build the internal strength necessary to face life's challenges without wavering. The teaching holds that protecting one's mind and ego matters as much as protecting one's body, since without confidence and self-belief even the strongest warrior is defeated before the battle begins.
+Meregoma (MARE-e-GO-mah), Savior of the Lacking, is the god people pray to when they've stopped believing in themselves. The faith teaches that your mind needs guarding as much as your body does. A warrior who is sure they will lose has already lost.
 
-As a god of the metaphorical ego, the sense of self, Meregoma is often misunderstood by opponents who claim the faith attracts the arrogant and narcissistic. The clergy rejects this reading. Meregoma demands that followers criticize themselves honestly, not out of regret or shame, but out of a sincere desire to be better than they once were. The god teaches that being wrong is not failure but part of the path to being right, and that true confidence comes from acknowledging mistakes while refusing to let them diminish one's self-worth. To doubt oneself is to betray the only person one must love above all others.
+Outsiders tend to assume Meregoma's temples are full of the vain and the arrogant. Mostly they are full of people working on their faults. Meregoma asks the faithful to look hard at their mistakes, own them, and then get back up. Being wrong is part of the road to being right, and doubting yourself is a betrayal of the one person you are sworn to love.
 
 ## Worship and Clergy
 
@@ -29,11 +29,11 @@ A Face Adorned with a Golden Laurel Wreath
 
 ### Worshipers
 
-Meregoma's followers include the downtrodden seeking confidence to rise from their circumstances, rulers who require unshakable self-belief to lead effectively, and self-perfecters dedicated to continuous improvement. The clergy teaches that confidence is not arrogance. Arrogance believes it has already achieved perfection, while true confidence knows there is always room to grow and embraces that journey.
+Meregoma's followers fall into three camps: the downtrodden looking for the nerve to climb out of where they are, rulers who need to look certain whether they are or not, and people who simply want to keep getting better. The clergy draw the line between confidence and arrogance like this: arrogance thinks it's finished, and confidence knows it isn't.
 
-The faith departs from gods who preach humility or self-abnegation, holding to the sacred nature of the self. Their temples work as spaces for celebration and honest self-assessment alike, where followers learn to acknowledge their achievements without pride and recognize their flaws without shame. The clergy counsels that loving oneself is not narcissism but necessity, since one cannot pour from an empty cup, and those who do not value themselves cannot truly value others.
+Temples hold celebrations and hard conversations under the same roof. Priests spend much of their time with people who have been broken down, by cruelty or by a childhood that taught them they were worth nothing. The work is slow. It means learning to hear an insult without believing it. The faith takes this very seriously, to the point that its tenets hold death preferable to letting someone destroy your sense of self.
 
-Clerics of Meregoma work extensively with those whose confidence has been shattered, including victims of abuse, people who have experienced devastating failures, and those born into circumstances that taught them they were worthless. The clergy teaches techniques for rebuilding self-worth, developing genuine confidence, and distinguishing between healthy self-regard and toxic arrogance. They emphasize that protecting one's ego means refusing to internalize others' attempts to diminish you, and that suffering death is preferable to allowing someone to destroy your sense of self. The butterfly is the faith's symbol of transformation, emerging from darkness into beauty through metamorphosis.
+The butterfly is the faith's symbol, since it comes out of the dark changed.
 
 ### Tenets of Faith
 
@@ -43,7 +43,7 @@ Those who follow Meregoma swear to live by these principles:
 
 2. **When I am wrong, I shall not waver.** Being wrong is part of the path to being right, for the path we walk is guided by the great ego.
 
-3. **I will have faith in my god.** For he is the great ego, the unshakable mind, and the unbreakable body.
+3. **I will have faith in my god.** For they are the great ego, the unshakable mind, and the unbreakable body.
 
 4. **I never surrender, never waver.** For if I doubt myself, I betray the only person I must love.
 
@@ -51,29 +51,29 @@ Those who follow Meregoma swear to live by these principles:
 
 ## History
 
-Meregoma has been worshiped since before the [[History/Great Schism War\|Great Schism War]], though the faith has historically faced opposition from those who mistake confidence for arrogance. During the [[History/Ages/Age of Regrowth\|Age of Regrowth]], worship grew significantly as people recovering from the devastation of the Great Schism War needed to rebuild their shattered sense of self alongside their cities. The clergy's message that being broken did not mean being worthless helped countless individuals find the confidence to start again.
+Meregoma was worshiped before the [[History/Great Schism War\|Great Schism War]], and the faith has been accused of breeding pride for about as long. It grew quickly in the [[History/Ages/Age of Regrowth\|Age of Regrowth]], when whole peoples had to rebuild their nerve along with their homes. In the [[History/Ages/Age of Expansion\|Age of Expansion]] kings and generals took it up, and the charge of pride got louder.
 
-The [[History/Ages/Age of Expansion\|Age of Expansion]] saw rulers increasingly turn to Meregoma's teachings, understanding that effective leadership requires unshakable self-belief. The age also brought the faith into conflict with philosophies that preached humility and self-sacrifice, and critics claimed Meregoma encouraged dangerous pride.
-
-In the current [[History/Ages/Age of Stability\|Age of Stability]], worship has found particular resonance among those seeking personal growth and self-improvement. The god's emphasis on honest self-assessment while maintaining confidence has proven valuable for continuous development.
-
-The [[Species and Cultures/Cultures/Sonta\|Sonta]] honor Meregoma as patron of the mask, of the true self beneath it, and of the honest face shown when it counts.
+The [[Species and Cultures/Cultures/Sonta\|Sonta]] honor Meregoma as the patron of the mask, of the face beneath it, and of the honest face shown when it counts.
 
 ## Related Entities
 
-**Allies:** [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma, God of Desire]] shares Meregoma's emphasis on self-realization and authentic living, as both teach that discovering and honoring your true self is sacred. [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya, God of Devotion]] aligns with Meregoma's teaching about conviction in one's chosen path, and both gods demand unwavering commitment to what you have determined is right.
+**Allies:** [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma, God of Desire]] agrees with Meregoma that knowing yourself, and living as yourself, is holy. [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya, God of Devotion]] shares the belief that once you've chosen your path you hold to it.
 
-**Rivals:** [[Religion and Deities/Deific Figures/Gods/Arlaxena, God of Leisure\|Arlaxena, God of Leisure]] opposes Meregoma's philosophy of constant self-improvement and striving to become better. Why exhaust yourself improving when you could do the minimum and rest? This fundamental disagreement about effort and growth creates ongoing tension between the faiths.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Arlaxena, God of Leisure\|Arlaxena, God of Leisure]] asks why anyone would wear themselves out improving when they could do the minimum and rest. The two faiths have never found an answer that satisfies both.
 
 ## Holy Days and Festivals
 
 ### Day of the Self
 
-Celebrated during the summer solstice when the sun, symbol of the ego's radiant confidence, stands at its highest point, the Day of the Self is spent reflecting on mistakes made in the past and determining what can be done to better oneself in the future. Doctrine frames the occasion as honest assessment and renewed commitment to growth, and forbids treating it as a day of shame or regret.
+Held on the 22nd of Mergar, the day after the longest night, when the sun begins to return, the Day of the Self is for looking back at your mistakes and deciding how to do better. Shame is not allowed. Priests are strict about that.
 
-Followers spend the day in structured self-reflection, often guided by Meregoman clergy trained in separating productive self-criticism from destructive self-hatred. They write down mistakes they have made, and extract lessons that will prevent repetition instead of dwelling on the failures themselves. Each identified mistake is paired with a concrete plan for improvement, transforming past failures into future growth. The clergy teaches that acknowledging error while maintaining confidence in one's ability to improve is the essence of Meregoma's philosophy.
+The faithful write their mistakes down, and next to each one they write what they will do differently. Meregoman priests walk people through it, and they are good at stopping someone who has slid from honest criticism into hating themselves.
 
-The day features butterfly releases at sunset, symbolizing transformation and emergence into a better self. Communities gather to share their commitments to self-improvement in an atmosphere of mutual support, since Meregoma teaches that another person's growth does not diminish your own. The celebrations emphasize that admitting fault leaves confidence intact, and that the willingness to honestly assess oneself and commit to improvement is the ultimate expression of self-love and confidence.
+Since no butterfly lives through the winter, the faithful make their own. Each person folds a butterfly from paper and writes on its wings the one change they mean to make in the coming year. At sunset they climb to a high place and let the wind take them. Afterward people share their plans with each other. Nobody gains by someone else's failure on this day, and the gathering is meant to be encouraging.
+
+## Home Plane
+
+Meregoma makes a home on [[Places/Planes/Outer Planes/Heroic Domains of Ysgard\|Ysgard]].
 
 ## Areas of Concern
 

@@ -30,7 +30,7 @@ The **Tribunal** is the high court. Its seven judges are named by the Consuls an
 
 Below the national government, each province governs itself according to its culture. Barbois provinces are run by elected assemblies and communes, and Casta provinces by their counts and barons. The founding treaty guarantees both ways of life, and the Tribunal is charged with defending that guarantee.
 
-<!-- GAP: The names of the current Consuls and of the Tribunal's chief judge are open. -->
+
 
 ## Law
 
@@ -70,7 +70,7 @@ The Union is Korthak's partner in trade and its old rival from the city-state wa
 
 Before 5267 the land that is now Korthak was split between the Empire of Adriacium in the west and the Oligarchy of Presium in the east. For a century before the fall, its western half lived under Adriacium's faceless emperor.
 
-In 5267 an army of demons and devils marched out of Adriacium and ravaged the continent, and both Adriacium and Presium fell. Their people were killed or scattered, and the survivors rebuilt from the ruins. Captains and warlords seized the cities, and for decades the city-states fought one another for power. In the north, the cities rose against their captains and declared their people free and equal citizens, and those risings gave birth to the Barbois. In the south the captains held on, turned their conquests into counties, and became the Casta lords.
+Both Adriacium and Presium fell in the [[History/Timeline\|war of 5267]]. Their people were killed or scattered, and the survivors rebuilt from the ruins. Captains and warlords seized the cities, and for decades the city-states fought one another for power. In the north, the cities rose against their captains and declared their people free and equal citizens, and those risings gave birth to the Barbois. In the south the captains held on, turned their conquests into counties, and became the Casta lords.
 
 The wars wore both sides down. About ninety years ago, every power within Korthak's present borders met at Saventiaria and signed the Treaty of Saventiaria, founding the republic. The treaty guaranteed each culture its own way of governing, divided the national government into three branches, and made the Eldar codes the common law of all, and Korthak has held together under it ever since.
 

@@ -34,7 +34,7 @@ Each logothete runs their own section, but no logothete may make a sweeping deci
 
 The council governs through the service, the body of officials who carry out the empire's business. Its officials are chosen by examination, open to any free person, and they keep the empire's records, collect its taxes, maintain its roads, and run its courts under the direction of the logothetes.
 
-<!-- GAP: The names of the seven logothetes are open. -->
+
 
 ### The Chaos Lord
 
@@ -86,7 +86,7 @@ Korthak feels that pressure most. Casta counts have sought Vera's favor, Barbois
 
 ## History
 
-Before 5267 these lands were the heart of the Empire of Adriacium. In 5167 Adriacium's emperor was murdered, and a faceless emperor rose in his place, who ruled for a century by a single law and let every other restraint fall away. In 5267 an army of demons and devils marched out of Adriacium and ravaged the continent.
+Before 5267 these lands were the heart of the Empire of Adriacium. In 5167 Adriacium's emperor was murdered, and a faceless emperor rose in his place, who ruled for a century by a single law and let every other restraint fall away. In 5267 the faceless emperor's army of demons and devils marched out to war, and Adriacium fell with it.
 
 Vera and her companions of Retribution fought that army, brought reinforcements from across the ocean, and banished [[Religion and Deities/Deific Figures/Progenitors/Demons/Rouge, the Red Progenitor Demon\|Rouge]]. Adriacium did not survive the war. Its people were killed or scattered, and other powers rose in the ruins to claim its lands. Vera already commanded troops and influence from the war, and she was the strongest force in the region from the start. Within a few years her rivals had been absorbed or defeated, and the Empire of Nox had taken shape on Adriacium's western lands.
 

@@ -6,7 +6,7 @@
 
 ## Overview
 
-Noir (no-AHR), Leader of the Strong, rules over the [[Places/Planes/Outer Planes/Nine Hells of Baator\|Baatorian]] realm known as the Darkened Badlands. He embodies the idea of strength and hierarchies, and is known for having limited control over some laws of nature.
+Noir (no-AHR), Leader of the Strong, rules over the [[Places/Planes/Outer Planes/Nine Hells of Baator\|Baatorian]] realm known as the Darkened Badlands, in Nessus, the ninth and deepest layer. As Lord of the Nine he sits at the top of Hell's hierarchy, and every archdevil answers to him. He embodies the idea of strength and hierarchies, and is known for having limited control over some laws of nature.
 
 ## Worship and Clergy
 

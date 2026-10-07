@@ -12,4 +12,4 @@ During this Age, realms across [[Places/Materia\|Materia]] made vast advancement
 
 ## Magic
 
-Many magical advancements were made as well. During this Age, many of the [[Artifacts\|Artifacts]] that are heard of, and still in existence, to this day. Before, magic was mysterious, and while spheres were known to an extent, it was during this Age that many of them were defined, explored, and explained.
+Many magical advancements were made as well. During this Age, many of the [[Artifacts\|Artifacts]] that are heard of, and still in existence to this day, were made. Before, magic was mysterious, and while spheres were known to an extent, it was during this Age that many of them were defined, explored, and explained.

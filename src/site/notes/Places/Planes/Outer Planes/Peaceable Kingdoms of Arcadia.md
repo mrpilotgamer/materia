@@ -7,52 +7,54 @@
 *"The plane where harmony is born"*
 
 ## Overview
-Arcadia thrives with orchards of perfectly lined trees, ruler-straight streams, orderly fields, and cities laid out in geometrically pleasing shapes. Erosion has not marked its mountains. Everything here works toward the common good and a flawless form of existence, and nothing is permitted to intrude on harmony.
+Arcadia is a tidy plane. Its orchards grow in straight lines, its streams run straight as a ruler, its fields are square and its cities are laid out in neat geometric patterns. Its mountains have never worn down. Everything on Arcadia exists to serve the common good, and anything that would spoil the harmony is kept out.
 
-It is said that everything on Arcadia is as perfect as it can be, neither as strictly regimented as Mechanus nor as devoted to individual perfection as Celestia. The claim is not entirely accurate. The inhabitants are often so convinced of their own righteousness that they struggle to recognize their own flaws, and that failing likely contributed to the loss of Arcadia's bottommost layer millennia ago. Menausus transmigrated spiritually to Mechanus and became one with the gear works realm of ultimate law.
+People say Arcadia is as perfect as a place can be: less rigid than Mechanus and less fixed on personal virtue than Celestia. That isn't quite true. Arcadians are so sure they are right that they have trouble seeing their own faults. That blind spot is probably why Arcadia lost its third layer thousands of years ago. Menausus drifted into Mechanus, and it is part of that clockwork plane now.
 
-Nothing native to Arcadia's remaining two layers fails to contribute toward perfection and peace. The fields and forests are swollen with grain and fruit, all of it growing without tending or fear of infestation. Even the wild flowers grow naturally into the most harmonious arrangement.
+Everything native to Arcadia's two remaining layers works toward peace and order. Grain and fruit grow without anyone tending them, and no pests touch them. Even wildflowers come up in pleasing arrangements.
 
-The trees are wondrous specimens, growing in neat forests and straight-rowed orchards alike. Their bark carries a copper, gold, silver, or iron sheen, and their leaves range from deep green to fiery red without ever falling. Fruit is always in season. On rare occasions a plucked fruit manifests magical properties, taking on the effects of some potion or other, though it remains entirely mundane until picked.
+The trees grow in neat woods and in rows. Their bark shines like copper, gold, silver or iron. Their leaves run from dark green to bright red and never fall, and they always bear fruit. Now and then a picked fruit turns out to carry the magic of a potion. Until it is picked, it is only fruit.
 
-Sight is unaffected here. Day and night are determined by the Orb of Day and Night atop Arcadia's tallest peak. Half the orb radiates light and the other half is dark, and it rotates evenly and without fail, lighting part of the infinite plane while another part falls into natural darkness. There is no dusk and no dawn, only day or night.
+Nothing on Arcadia blocks sight. Day and night come from the Orb of Day and Night on top of the plane's tallest mountain. One half of the orb shines and the other is dark, and it turns at a steady pace, so one part of the plane is always in daylight while another is in night. There is no dawn or dusk. It is simply day, and then night.
 
 ## Planar Links
-Portals to other planes are few, and all of them are permanent and clearly identified. Arched trellises of flowering ivy, holly, or some other lush growth mark each gateway off-plane. Portals also connect far-flung locales within Arcadia and run between its two layers, and those between layers are usually set between huge rune-carved plinths standing forty to fifty feet tall.
+Arcadia has few portals to other planes. They are all permanent and clearly marked with arches of flowering ivy, holly or some other thick growth. Other portals link distant parts of Arcadia, and some connect its two layers. The portals between layers usually stand between pairs of carved stone pillars forty or fifty feet tall.
+
+## Divine Realms
+**[[Religion and Deities/Deific Figures/Progenitors/Angels/Lilla, the Purple Progenitor Angel\|Lilla]]**, Voice of the Many, holds the Unified Gardens. It is the strongest domain on Arcadia. Lilla's followers give up their own thoughts and think as one.
+
+**[[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura]]**, God of Courage, and **[[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri]]**, God of Restraint, also make their homes on Arcadia.
+
+
 
 ## Inhabitants
-Many mortals from the material world live on Arcadia, settling among archons, devas, and the ever-present einheriar militias. The plane is also home to peaceful animals: golden foxes, coppery hares, and silver-wooled sheep, along with every manner of organized insect including wasps, bees, and ants. Giant-sized versions of all of them can be found throughout the plane.
+Many mortals from material worlds have settled on Arcadia. They live alongside archons, devas and the einheriar militias, who are everywhere. The animals are gentle: gold foxes, copper hares and sheep with silver wool. Organized insects of every kind live here too, including wasps, bees and ants. Giant versions of all of them can be found across the plane.
 
 ## Petitioners
-The petitioners of Arcadia are called einheriar. They appear much as they did in their previous lives, though markedly healthier and more robust, and all of them are fanatically devoted to maintaining the common good.
+Arcadia's petitioners are called einheriar. They look much as they did in life, only healthier and stronger, and every one of them is fanatically devoted to the common good.
 
-The einheriar can perceive the moral and ethical character of anyone they meet, and they use that ability to police the plane. On catching any creature that is neither lawful nor good, they follow one of four courses. Visitors who are good at heart are tolerated whatever their view of law, so long as they keep to Arcadian custom while they stay. Those who incline toward neither good nor evil are asked to finish their business and go. Those who incline toward chaos without any answering goodness are asked to go at once. Anyone tainted with evil in any aspect is attacked immediately and without remorse.
+Einheriar can sense the moral character of anyone they meet, and they use it to police the plane. They deal with anyone who is not both lawful and good in one of four ways:
 
-<!-- 
-The einheriar have the following special petitioner qualities:
+- Good-hearted visitors are tolerated, however they feel about law, as long as they follow Arcadian custom while they are here.
+- Visitors who lean neither good nor evil are asked to finish what they came for and leave.
+- Visitors who lean toward chaos and have no goodness to balance it are told to leave right away.
+- Anyone with any trace of evil is attacked on sight, without mercy.
 
-**Additional Immunities:** Sonic, acid.
 
-**Resistances:** Cold 20, electricity 20.
-
-**Other Special Qualities:** Detect chaos, detect evil, detect good, detect law.
-
-**Detect Chaos/Evil/Good/Law (Ex):** Einheriar can detect chaos, detect evil, detect good, or detect law at will (as the spells cast by a 5th-level cleric). 
--->
 
 ## Layers
 
 ### Abellio
-The first layer is mostly flat, though mountains and hills are arranged just so. Forests, lakes, fields, and streams are all found here. It is a layer of plenty, and everything on it, common beasts included, is dedicated to the good of all.
+The first layer is mostly flat. The hills and mountains it does have look placed. There are forests, lakes, fields and streams, and food everywhere. Everything on Abellio, animals included, works for the good of all.
 
-**Mount Clangeddin:** A perfectly conical mountain standing apart from any range, rising at least thirty thousand feet above the fields below with its peak wreathed in clouds and storms. The great dwarven hero Clangeddin Silverbeard raised it. Its interior is riddled with great halls, galleries, and carved roads paved with flagstones, and costly lamps, hot and cold forges, and city-wide feasting halls provide light and merriment for the underground visitor. Strangers are welcome, particularly those who come to commission special weapons from the legendary smiths laboring in the hottest parts of the forge.
+**Mount Burdinola:** A perfect cone of a mountain standing alone, at least thirty thousand feet tall, its peak lost in cloud and storm. The [[Species and Cultures/Races/Vullukk\|Vullukk]] hero Aitor Burdinola, of the [[Species and Cultures/Cultures/Valekai\|Valekai]], raised it, and hollowed it out the way the Valekai hollow their own cliffs. Inside are great halls, galleries and paved roads, lit by expensive lamps and warmed by forges and huge feasting halls. Visitors are welcome, especially those who come to commission weapons from the master smiths who work in the hottest forges.
 
 ### Buxenus
-The second layer resembles the first, with pleasant valleys swathed in perfectly even grass, naturally growing orchards, and circular lakes. It has also become a mustering ground where the forces of Arcadia slowly gather strength for a presumed ideological thrust into Mechanus, meant to recover the lost layer of Menausus. How that reliberation is supposed to occur is anyone's guess.
+The second layer looks like the first: gentle valleys of perfectly even grass, orchards nobody planted and round lakes. It has also become a staging ground. Arcadia's forces are slowly gathering here for a push into Mechanus to win back Menausus, the lost layer. How they plan to win back a layer of a plane is anyone's guess.
 
-Here and there on this layer stand the training grounds of a particularly militant sect of mortals called the Harmonium. They seek to do good, and many authorities hold that their retraining camps accomplish more harm than anything else.
+The Harmonium, a militant order of mortals, keeps training camps here. They mean well. Plenty of observers think their camps do more harm than good.
 
-In those camps the Harmonium indoctrinates borrowed mortals of chaotic disposition in the dictates of law and harmony, attempting to reshape their spiritual identity into something more harmonious. The success rate is low. In the greater scheme the camps may be pushing Buxenus itself further toward law and away from good, and should that shift continue, Arcadia could lose its second layer to Mechanus as it has already lost its third.
+The Harmonium borrows chaotic mortals and drills them in law and harmony, trying to remake them into more orderly souls. It rarely works. Worse, the camps may be pulling Buxenus itself toward law and away from good. If that keeps up, Arcadia could lose its second layer to Mechanus the way it lost its third.
 
 ### Menausus (Lost Layer)
-The third layer no longer exists and has not for millennia. Its planar essence joined with Mechanus, and no one can now determine which particular portion of Mechanus was once Menausus.
+The third layer has been gone for thousands of years. It merged into Mechanus, and nobody can now say which part of Mechanus used to be Menausus.

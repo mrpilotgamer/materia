@@ -4,15 +4,19 @@
 
 ## Physical Description
 
-Quick and nimble creatures of tiny stature, the Chisana rarely exceed two and a half feet in height. Their diminutive frames lack physical strength while moving with striking grace and agility, and they are capable of natural flight up to fifteen feet above the ground.
+The Chisana are tiny, quick and nimble, rarely more than two and a half feet tall. They're not strong, but they move gracefully, and they can fly up to fifteen feet off the ground.
 
 ## Biology
 
-As fey creatures and not humanoids, the Chisana possess an innate magical nature that manifests in several ways. They demonstrate natural flight capabilities, lowlight vision that allows them to see clearly in dim conditions, and reflexes so acute they seem to anticipate danger before it arrives. Their fey heritage makes them fundamentally different from mortal races, with biology tied more closely to magic and nature than to flesh and bone.
+The Chisana are fey, not humanoids, and their magic shows in their bodies. They fly without wings, they see well in dim light, and their reflexes are so quick they seem to dodge trouble before it arrives. Their bodies owe more to magic and the natural world than to ordinary flesh and blood.
 
 ## Origins
 
-The Chisana's fey ancestry is well-documented, though the precise circumstances of their arrival on [[Places/Materia\|Materia]] remain debated. [[Places/Materia\|Materia]] itself is known as the spawning ground of the [[Fey\|Fey]], which suggests the Chisana may be among the first true fey-descended mortal races. Most Chisana maintain strong spiritual connections to the [[Religion and Deities/Deific Figures/Primordials\|Primordials]], a practice scholars believe stems from ancient pacts or kinship between the fey and the world's primal forces. Some theorists propose the Chisana emerged naturally when the boundaries between the material world and the fey realms were thinner, while others suggest they were deliberately created or invited by the [[Religion and Deities/Deific Figures/Primordials\|Primordials]] themselves during [[History/Ages/Prehistory\|Prehistory]].
+There's no doubt the Chisana are fey. How they came to [[Places/Materia\|Materia]] is less clear. Materia is known as the birthplace of the [[Fey\|Fey]], so the Chisana may be one of the first fey-blooded peoples. Most Chisana keep close ties to the [[Religion and Deities/Deific Figures/Primordials\|Primordials]], which the archive takes as a sign of some old pact or kinship between the fey and the spirits of the world. One idea is that the Chisana simply appeared at a time when the wall between this world and the fey realms was thinner. Another is that the Primordials brought them here on purpose, sometime in [[History/Ages/Prehistory\|Prehistory]].
+
+## Where They Live
+
+The largest Chisana population is on the island of [[Places/Realms/Alora/Nations/Laurland\|Laurland]], where they live alongside the [[Species and Cultures/Races/Grendal\|Grendals]] by [[Species and Cultures/Cultures/Dali\|Dali]] culture.
 
 ## Pronunciation
 

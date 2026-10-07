@@ -6,7 +6,7 @@
 
 The Valekai are the people of the Wildlands' only mountain range. They live in warrens carved into cliff faces and bored deep into the rock, linked by tunnels, ledges, ropes, and bridges, and they share nearly everything with their clan. They are clever, practical, and endlessly inventive, and they have kept to their heights while empires rose and fell in the lowlands around them.
 
-The Valekai are not a nation. They have no king, no capital, and no borders of their own, and the frontier between the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]] and the [[Places/Realms/Alora/Nations/Empire of Bornumia\|Empire of Bornumia]] runs through their mountains without their leave. They are simply a people, and they intend to remain one.
+The Valekai have no king, no capital and no borders. The frontier between the [[Places/Realms/Alora/Nations/Cilomutesan Union\|Cilomutesan Union]] and the [[Places/Realms/Alora/Nations/Empire of Bornumia\|Empire of Bornumia]] runs through their mountains, and nobody asked them about it. They are a people, and they mean to stay one.
 
 ## Origins & Distribution
 
@@ -80,7 +80,7 @@ The Valekai keep sheep and goats on the high pastures, and cheese, milk, and dri
 
 ## Cultural Identity
 
-A Valekai is known by their etxe, their warren, and their rope. They measure themselves by the strength of the clan they belong to, the clever solutions they have found, and the knowledge they have added to its walls. To be Valekai is to be one strand of a rope that has held for longer than any empire below.
+A Valekai is known by their etxe, their warren, and their rope. Ask a Valekai what they are proud of and they will tell you about their clan and what they have carved into its walls. Each of them thinks of themselves as one strand in a rope that has held longer than any empire down below.
 
 ## Adaptation & Tensions
 
@@ -107,7 +107,7 @@ Younger Valekai are drawn to the lowland cities, where their cleverness and thei
 **Neutral:** Hodei, Ibai, Aran
 
 **Clan Names:** Mendizabal, Goikoetxea, Etxeberria, Harrieta, Aizpurua, Zubiri, Leizaola
-<!-- Basque: Mendizabal "broad mountain", Goikoetxea "upper house", Etxeberria "new house", Harrieta "place of stones", Aizpurua "head of the rock", Zubiri "bridge town", Leizaola "place of the chasm"; Hodei "cloud", Ibai "river", Aran "valley" -->
+
 
 *Note: The Valekai use a given name followed by the name of their etxe (e.g., Edurne Goikoetxea). A Valekai who marries into another clan takes its name.*
 

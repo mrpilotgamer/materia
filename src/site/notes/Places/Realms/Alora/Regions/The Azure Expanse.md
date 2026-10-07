@@ -11,7 +11,7 @@ The Azure Expanse is a continent of [[Places/Realms/Alora/Alora\|Alora]] curved 
 
 Four nations share the continent. [[Places/Realms/Alora/Nations/Imnas\|Imnas]], homeland of the [[Species and Cultures/Races/Mannee\|Mannee]], holds the northern half. [[Places/Realms/Alora/Nations/Imestalia\|Imestalia]] holds the southwest and the long western and southern coasts, and [[Places/Realms/Alora/Nations/Pimestalia\|Pimestalia]] lies between it and Morlas Bay. [[Places/Realms/Alora/Nations/Yoichizu\|Yoichizu]], homeland of the [[Species and Cultures/Races/Araki\|Araki]], holds the south and the whole of the long eastern arm.
 
-Imestalia was settled by [[Species and Cultures/Races/Human\|humans]] long ago and grew into a meeting place for many peoples. In 5240 it was split by civil war, and Pimestalia broke away under founders who wanted a fair system of government in place of a monarchy. Nearly two centuries later the two are rivals more than enemies, and the conflict between them has eased.
+Imestalia was settled by [[Species and Cultures/Races/Human\|humans]] long ago and grew into a meeting place for many peoples. In 5240 it was split by civil war, and Pimestalia broke away under founders who wanted a fair system of government instead of a monarchy. Nearly two centuries later the two are rivals more than enemies, and the conflict between them has eased.
 
 When the army of demons and devils marched out of Adriacium in 5267, the party [[Adventures And Stories/Parties/Retribution\|Retribution]] pressed its danger on the powers across the ocean. Imnas sent reinforcements, which helped halt the army inside the [[Places/Realms/Alora/Nations/Empire of Bornumia\|Empire of Bornumia]]. Pimestalia sent an advisor to the war but no soldiers, and Imestalia and Yoichizu sent nothing at all.
 
@@ -41,7 +41,7 @@ The leylines run beneath the whole continent, invisible to the eye and strong en
 
 Sireth, the capital of Imnas, is the only floating city in the world. It hangs more than 2,000 feet above the mouth of a river on the eastern coast of Imnas, and the people of Imnas regard it as proof of their nation's magical prosperity. Enchanted levitation stone holds it aloft, its enchantments woven from Enhancement, Telekinesis, and many other spheres that the city's mages maintain. Space aloft is limited, so its true population is small, and it is a refined and exclusive city of mages, governed by the mages who live there.
 
-[[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]] is honored as the Angel of the Azure Expanse, and she is the region's most honored god, though no nation claims her as patron. Her worship reaches across the water as well, since [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]] honors her as one of its three gods.
+[[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]] is honored as the Herald of the Azure Expanse, and they are the region's most honored god and the patron of [[Places/Realms/Alora/Nations/Imestalia\|Imestalia]]. Their worship reaches across the water as well, since [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]] honors them as one of its three gods.
 
 ## Nations
 

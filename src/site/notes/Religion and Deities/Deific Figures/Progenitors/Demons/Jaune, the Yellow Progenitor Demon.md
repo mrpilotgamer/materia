@@ -6,7 +6,7 @@
 
 ## Overview
 
-Jaune (ZHOHN), Breaker of Minds, rules over the [[Places/Planes/Outer Planes/Windswept Depths of Pandemonium\|Pandemonian]] realm known as the Maddening Fields. She embodies the idea of madness and fear, and is said to be able to cause anyone who looks at her have their brain melt out their ears.
+Jaune (ZHOHN), Breaker of Minds, rules over the [[Places/Planes/Outer Planes/Windswept Depths of Pandemonium\|Pandemonian]] realm known as the Maddening Fields. She embodies the idea of madness and fear, and is said to be able to cause anyone who looks at her to have their brain melt out their ears.
 
 ## Worship and Clergy
 
@@ -25,11 +25,11 @@ Fractured geometric patterns in yellow and orange
 **Sacred Colors:** Yellow and Orange
 
 ### Worshipers
-The insane and cultists form June's following.
+The insane and cultists form Jaune's following.
 
 ### Tenets of Faith
 
-1. **All shall flee from my power—fear is my greatest weapon.**
+1. **All shall flee from my power. Fear is my greatest weapon.**
 
 2. **My enemies shall have their minds dissolved, as their minds are their greatest weapons.**
 

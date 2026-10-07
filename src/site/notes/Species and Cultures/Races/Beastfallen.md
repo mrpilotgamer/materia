@@ -4,15 +4,17 @@
 
 ## Physical Description
 
-Bearing features of both humanoid and beast, the Beastfallen display extraordinary variety in their forms. Some carry lupine ears and keen golden eyes, others avian plumage and taloned hands, others reptilian scales and forked tongues. Though fundamentally humanoid in shape, each individual carries unmistakable marks of their particular animal heritage, and no two Beastfallen are precisely alike.
+The Beastfallen are part person and part animal, and no two look alike. One has a wolf's ears and gold eyes, another has feathers and talons, another scales and a forked tongue. They're all humanoid in shape, but every one of them clearly carries the mark of some particular animal.
 
 ## Biology
 
-The Beastfallen possess abilities that reflect their diverse bestial origins, whether heightened senses that often surpass purely humanoid races, natural weapons such as claws or talons, or environmental adaptations suited to their animal nature. Their social behaviors mirror their beast-touched forms. Wolf-touched naturally form packs in wilderness settings, raven-blessed congregate in urban heights, bear-touched claim and defend territories fiercely, and deer-touched rarely settle anywhere for long. These behavioral patterns appear to be biological and not purely cultural, which suggests their transformation affected more than physical appearance.
+Their gifts depend on their animal: sharper senses than most humanoids, claws or talons, or bodies suited to a particular kind of country. They behave like their animals too. The wolf-touched form packs out in the wild, the raven-blessed gather on city rooftops, the bear-touched stake out ground and defend it, and the deer-touched never stay anywhere long. These habits look to be in the blood and not just upbringing, so whatever made them Beastfallen went deeper than looks.
 
 ## Origins
 
-The name "Beastfallen" itself hints at a transformation or curse and never at natural evolution, though the exact circumstances remain shrouded in mystery. Scholars have proposed several theories. Some suggest these individuals were once purely humanoid before suffering, or receiving, a transformative magic that merged them with animal essences. Others theorize they may be descendants of ancient druids or shamans who took their connection to nature too far. A third hypothesis proposes they emerged during the [[History/Ages/Age of Incursion\|Age of Incursion]] when the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]' intervention in mortal affairs may have blurred the boundaries between humanoid and beast. The rarity of Beastfallen and their lack of unified origin stories, each seeming to have their own tale of how they came to be, points toward multiple independent causes and no single historical event. What remains clear is that the change reaches a biological level. Whatever the Beastfallen are, they are not humans wearing animal features.
+The name suggests a fall or a curse, but nobody knows how the Beastfallen came to be. The most common story says they were ordinary humanoids once, until some magic, given or inflicted, fused them with an animal's spirit. Druids tell of ancestors who went too far in their bond with the wild. Others blame the [[History/Ages/Age of Incursion\|Age of Incursion]], when the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]' meddling may have blurred the line between people and beasts. Every Beastfallen family seems to have its own tale, which suggests there was never a single cause. Whatever happened, it changed them down to the bone.
+
+
 
 ## Pronunciation
 

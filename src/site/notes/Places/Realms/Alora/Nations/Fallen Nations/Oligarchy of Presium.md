@@ -4,7 +4,7 @@
 
 # Oligarchy of Presium
 
-<!-- GAP: Presium's capital, its exact founding date, and the names of its great families are lost. -->
+
 
 ## Overview
 
@@ -26,7 +26,7 @@ The oligarchy was harder and narrower than the merchant republics that followed 
 
 ## Military
 
-Presium's strength was its fleet, which guarded its harbors and trade along the northern sea. Its armies were smaller, raised and paid by the great families, and they had never faced an enemy like the one that came out of Adriacium in 5267. The army of demons and devils outmaneuvered them and crushed them within weeks.
+Presium's strength was its fleet, which guarded its harbors and trade along the northern sea. Its armies were smaller, raised and paid by the great families, and they had never faced an enemy like the one that came out of Adriacium in 5267.
 
 ## Economy
 
@@ -42,7 +42,7 @@ The [[Species and Cultures/Cultures/Sonta\|Sonta]] descend from Presium's people
 
 Presium was founded shortly before 5167, when the great merchant families of the central coast bound their cities together into a single oligarchy. Within a few years its western neighbor, Adriacium, fell under the faceless emperor. Presium went on trading with Adriacium through the century that followed, and its families profited from a neighbor whose commerce no law could bind.
 
-In 5267 an army of demons and devils marched out of Adriacium. Presium's armies were outmaneuvered and crushed within weeks, and the oligarchy was wiped away. Its capital was ruined and its great families killed or scattered.
+When the [[History/Timeline\|war of 5267]] reached Presium, its capital was ruined and its great families killed or scattered.
 
 In the years after the war, the surviving cities fought one another for power. In the east, the harbor cities turned away from rule by a few great families, built merchant republics, and in 5330 bound themselves together as the Cilomutesan Union. The western lands of the old oligarchy became part of the Republic of Korthak.
 

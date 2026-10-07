@@ -6,7 +6,7 @@
 
 ## Overview
 
-Lilla (LIL-lah), Voice of the Many, resides over a section of [[Places/Planes/Outer Planes/Peaceable Kingdoms of Arcadia\|Arcadia]] known as the Unified Gardens. She embodies the principle that individual thought disrupts perfect harmony, that true leadership emerges only when all minds think as one, and that surrendering personal will to collective consciousness serves the greater good more than any individual genius ever could.
+Lilla (LIL-lah), Voice of the Many, resides over a section of [[Places/Planes/Outer Planes/Peaceable Kingdoms of Arcadia\|Arcadia]] known as the Unified Gardens. Lilla teaches that thinking for yourself spoils the harmony of the group. Her followers give up their own will and think together as one mind, and she holds that a crowd of minds in agreement will always do more good than any single genius.
 
 ## Worship and Clergy
 

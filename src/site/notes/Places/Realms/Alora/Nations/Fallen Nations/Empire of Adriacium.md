@@ -4,11 +4,11 @@
 
 # Empire of Adriacium
 
-<!-- GAP: Adriacium's founding date, its dynasties, and the name of its last emperor are lost with its records. -->
+
 
 ## Overview
 
-The Empire of Adriacium was the great [[Species and Cultures/Cultures/Eldar\|Eldar]] power of the western [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]]. It ruled from Lincugus, traded with its neighbors, and grew into one of the wealthiest realms of the Eldar world. In 5167 its emperor was murdered, and for a century afterward Adriacium lived under a faceless emperor who gave it a single law. In 5267 an army of demons and devils marched out of Adriacium and ravaged the continent, and the empire did not survive the war.
+The Empire of Adriacium was the great [[Species and Cultures/Cultures/Eldar\|Eldar]] power of the western [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]]. It ruled from Lincugus, traded with its neighbors, and grew into one of the wealthiest realms of the Eldar world. In 5167 its emperor was murdered, and for a century afterward Adriacium lived under a faceless emperor who gave it a single law. In 5267 the faceless emperor's army marched out to ravage the continent, and the empire did not survive the war that followed.
 
 Much of what was known about Adriacium was lost with it. Its official records perished in the ruins, and the archivists piece its history together from the accounts of survivors, the records of its neighbors, and the stones it left behind. The [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox]] now stands on its western lands.
 

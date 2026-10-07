@@ -4,15 +4,19 @@
 
 ## Physical Description
 
-Small in stature and built for speed over combat, Grendals possess an unassuming appearance that belies their considerable social prowess. Their slight frames and quick movements make them easily underestimated, an advantage many Grendals have learned to exploit through centuries of avoiding direct confrontation.
+Grendals are small and built to run, not fight. They look harmless, and they're much better with people than they look. Most folk underestimate them, and Grendals have spent centuries learning to make use of that.
 
 ## Biology
 
-The Grendal possess what scholars describe as uncanny self-preservation instincts that manifest as exceptional luck. They demonstrate an almost supernatural ability to avoid harm, evade danger, and escape situations that would prove fatal to others. This biological tendency toward survival combines with a natural aptitude for social manipulation, which makes them extraordinarily skilled diplomats and deceivers. Their fleet-footed nature grants them quick reaction times, and their instincts consistently guide them to avoid combat whenever possible, seeking resolution through negotiation, misdirection, or swift retreat.
+Grendals have a knack for staying alive that looks a lot like luck. Danger seems to slide past them, and they walk out of situations that would kill anyone else. They're also natural talkers, which makes them excellent diplomats and excellent liars. They're quick on their feet, and their instincts steer them away from a fight whenever they can manage it, toward a bargain, a trick or a fast exit.
 
 ## Origins
 
-The origins of the Grendal remain frustratingly obscure, with few reliable records surviving from [[History/Ages/Prehistory\|Prehistory]]. Their extraordinary luck and survival instincts suggest either selective pressure from an extremely hostile environment or possibly magical intervention that enhanced their ability to endure. Some scholars propose the Grendals may have developed their diplomatic prowess as a survival mechanism when surrounded by larger, stronger races, learning to talk their way out of conflicts they could not win through force. Others theorize their luck may be a remnant of fey magic or divine blessing, though no definitive connection to either has been established. What remains clear is that the Grendals have survived and thrived through adaptation and never through dominance.
+Very little is known about where the Grendals came from, since almost nothing survives from [[History/Ages/Prehistory\|Prehistory]] about them. Their luck could come from a harsh homeland that only the luckiest survived, or from some old magic. One common idea is that they learned to talk their way out of trouble because everyone around them was bigger and stronger. Another is that their luck is a trace of fey magic or a god's blessing, though nobody has proven a link to either. Either way, the Grendals got where they are by slipping past trouble, not by winning fights.
+
+## Where They Live
+
+Grendals are the majority in [[Places/Realms/Alora/Nations/Khania\|Khania]], on the southeastern coast of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]], and on the island of [[Places/Realms/Alora/Nations/Laurland\|Laurland]]. Both live by [[Species and Cultures/Cultures/Dali\|Dali]] custom.
 
 ## Pronunciation
 

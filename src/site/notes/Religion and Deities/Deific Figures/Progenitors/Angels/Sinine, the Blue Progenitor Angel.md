@@ -6,7 +6,7 @@
 
 ## Overview
 
-Sinine (SIH-nih-neh), Speaker of All Truths, resides over a section of [[Places/Planes/Outer Planes/Twin Paradises of Bytopia\|Bytopia]] known as the Hall of Unveiled Words. She embodies the principle that all truth must be shared for the collective good, that secrets are inherently selfish acts that divide communities, and that radical transparency in all things serves the greater whole even when individual feelings suffer.
+Sinine (SIH-nih-neh), Speaker of All Truths, resides over a section of [[Places/Planes/Outer Planes/Twin Paradises of Bytopia\|Bytopia]] known as the Hall of Unveiled Words. Sinine holds that every truth belongs to everyone. A secret is a selfish thing that splits a community apart, so her followers hide nothing, whoever gets hurt by it.
 
 ## Worship and Clergy
 

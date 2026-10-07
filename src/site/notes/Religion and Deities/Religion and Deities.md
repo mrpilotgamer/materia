@@ -6,7 +6,7 @@ In the multiverse, there are many beings that can make claim to being of a deifi
 
 #### [[Religion and Deities/Deific Figures/Gods\|Gods]]
 
-Gods, being defined by their ever expanding need for worship, are among the lower rank of deities. Defined by their need of worship, gods are always meddling in mortal affairs, though ever since the [[History/Great Schism War\|Great Schism War]], The gods have been unable to manifest Physically on [[Places/Materia\|Materia]]
+Gods, being defined by their ever expanding need for worship, are among the lower rank of deities. Defined by their need of worship, gods are always meddling in mortal affairs, though ever since the [[History/Great Schism War\|Great Schism War]], the gods have been unable to manifest physically on [[Places/Materia\|Materia]]. The one exception is [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]], who can act directly, but only within the [[Places/Planes/Transitive Planes/Expanding Refuse of Mortest\|Expanding Refuse of Mortest]] and at the moment of death.
 #### [[Religion and Deities/Deific Figures/Progenitors\|Progenitors]]
 
 Some of the oldest beings in the multiverse, Progenitors are defined by their strong ideological beliefs, and by their opposing origins, with half being tied to the [[Places/Planes/Outer Planes\|Upper Planes]], and the other half being tied to the [[Places/Planes/Outer Planes\|Lower Planes]].

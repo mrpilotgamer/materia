@@ -47,7 +47,7 @@ The greatest taboo is the destruction of the dead. To destroy an Araki's brain d
 
 Close behind it comes the holding of a reborn to the deeds of their past life. Taking vengeance on a reborn for a wrong their former self committed, or demanding they pay a former self's debt, shames the one who does it and their clan.
 
-The Aj'Snaga honor [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]] as the god of loyal service, and many bushi dedicate their swords to her. Among the Primordials they honor [[Religion and Deities/Deific Figures/Primordials/Aoi, Blue Primordial Spirit\|Aoi]] for the sea that carries their ships and [[Religion and Deities/Deific Figures/Primordials/Midori, Green Primordial Spirit\|Midori]] as the spirit of life who returns them.
+The Aj'Snaga honor [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]] as the god of loyal service, and many bushi dedicate their swords to them. Among the Primordials they honor [[Religion and Deities/Deific Figures/Primordials/Aoi, Blue Primordial Spirit\|Aoi]] for the sea that carries their ships and [[Religion and Deities/Deific Figures/Primordials/Midori, Green Primordial Spirit\|Midori]] as the spirit of life who returns them.
 
 The Aj'Snaga do not worship [[Religion and Deities/Deific Figures/Primordials/Kuro, Black Primordial Spirit\|Kuro]]. Many of Kuro's followers see the Araki's escape from death as unnatural, and a few go as far as to rank them with liches and other undead that cannot die, a comparison the Aj'Snaga resent more than almost any insult.
 
@@ -116,16 +116,16 @@ The Aj'Snaga look on the [[Species and Cultures/Cultures/Dulandi\|Dulandi]] with
 ## Example Names
 
 **Male:** Haruki, Kenshin, Takeshi, Masato, Ryūji, Shigeru, Nobuhide
-<!-- Haruki "spring brightness", Kenshin "modest truth", Takeshi "warrior", Masato "righteous person", Ryūji "dragon child", Shigeru "luxuriant", Nobuhide "trust and excellence" -->
+
 
 **Female:** Tomoe, Chiyo, Akane, Sayo, Kiku, Hana, Masako
-<!-- Tomoe "comma-shaped swirl", Chiyo "a thousand generations", Akane "deep red", Sayo "night", Kiku "chrysanthemum", Hana "flower", Masako "child of justice" -->
+
 
 **Neutral:** Akira, Hikaru, Makoto, Yū
-<!-- Akira "bright", Hikaru "shining", Makoto "sincerity", Yū "gentle" -->
+
 
 **Clan Names:** Kaneda, Hamada, Mizushima, Fujinami, Kawabe, Ishikawa, Takeuchi
-<!-- Kaneda "metal field", Hamada "beach field", Mizushima "water island", Fujinami "wisteria wave", Kawabe "riverside", Ishikawa "stone river", Takeuchi "within the bamboo" -->
+
 
 *Note: The Aj'Snaga give the clan name first and the given name second (e.g., Kaneda Haruki). Each reborn takes a new given name and keeps the clan name, and a clan's records list every life a member has lived under each of its names.*
 

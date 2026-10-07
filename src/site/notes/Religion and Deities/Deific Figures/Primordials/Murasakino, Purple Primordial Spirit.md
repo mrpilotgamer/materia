@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/murasakino-purple-primordial-spirit/","dg-note-properties":{"type":"deity","tier":"primordial","domain":["Earth","Luck","Madness","Magic"],"portfolio":["Magic","Caves","Change"],"worshipers":["Magic Casters","Trox"],"holy-symbol":"A circle divided by a horizontal line, purple above and brown below","sacred-animal":"Raven","sacred-colors":["Purple","Brown"]}}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/murasakino-purple-primordial-spirit/","dg-note-properties":{"type":"deity","tier":"primordial","domain":["Earth","Luck","Madness","Magic"],"portfolio":["Magic","the Underground","the Unknown"],"worshipers":["Magic Casters","Trox"],"holy-symbol":"A circle divided by a horizontal line, purple above and brown below","sacred-animal":"Raven","sacred-colors":["Purple","Brown"]}}
 ---
 
 *"Lord of Dusk and Dawn" • "Creator of Magic"*
 
 ## Overview
 
-Murasakino (MOO-rah-sah-KEE-no), Lord of Dusk and Dawn, is fabled to have witnessed [[Places/Materia\|Materia]]'s very creation, standing present at the moment when formless potential became structured reality. They embody the concept of change itself, though never gradual evolution. Theirs are the transformative moments when one state becomes another, when day surrenders to night and night yields to morning, when the mundane crosses the threshold into the magical. It is said that Murasakino granted the greatest gift ever bestowed upon mortals: magic itself, given millennia ago when the primordial judged mortal races ready to wield power that could reshape reality. This decision fundamentally altered the world's trajectory, and shows that Murasakino values potential and transformation above stability or tradition.
+Murasakino (MOO-rah-sah-KEE-no), Lord of Dusk and Dawn, is said to have watched [[Places/Materia\|Materia]] being made, there at the moment shapeless possibility became a world. Murasakino is the spirit of what lies just past the edge of what we know: the deep places under the ground, the moment day tips into night or night into morning, and the first step from the ordinary into the magical. Murasakino also gave mortals the greatest gift they ever received, magic itself, handed over thousands of years ago once the spirit judged them ready to hold a power that can remake the world. That choice changed everything that came after, and it shows that Murasakino cares more about what mortals might become than about keeping things as they are.
 
-Transitions and thresholds are Murasakino's domain. The moment of dusk when day has ended but night has not yet begun. The instant of dawn when darkness gives way to light. The depths of caves where surface world meets subterranean mysteries. The instant when a spell transforms thought into reality. The [[Species and Cultures/Races/Trox\|Trox]] maintain particularly strong devotion to Murasakino, as their race emerged from caves into the surface world during their own transformation, crossing a threshold that defined their existence. Those who worship Murasakino understand that change is sacred as well as inevitable, that resistance to transformation is resistance to nature's fundamental design, and that magic itself is proof that reality can be altered by those wise enough to attempt it.
+Dusk and dawn belong to Murasakino, and so do cave mouths, where the world above gives way to the dark below, and the instant a spell turns a thought into something real. The [[Species and Cultures/Races/Trox\|Trox]] are especially devoted to Murasakino, since their people came up out of the caves into the world above, crossing over into the unknown in the moment that made them who they are. Murasakino's faithful hold that the unknown is to be gone into and not feared, and that magic is the proof that the world can be changed by anyone wise enough to try.
 
 ## Worship and Clergy
 
@@ -27,11 +27,11 @@ A circle divided by a horizontal line, purple above and brown below, representin
 
 ### Worshipers
 
-Magic casters who recognize the primordial as the source of their power, and [[Species and Cultures/Races/Trox\|Trox]] who venerate the spirit tied to their ancestral emergence from underground realms, make up Murasakino's faithful. Sacred spaces are found in caves where surface transitions to depths, at horizons where earth meets sky, and in places where magic naturally concentrates. The clergy offers no comfort to those fearing change. They teach that transformation is opportunity, that clinging to familiar forms is a slow death, and that the universe rewards those brave enough to cross thresholds into the unknown.
+Murasakino's faithful are mages, who know where their power came from, and the [[Species and Cultures/Races/Trox\|Trox]], who honor the spirit tied to their people's climb out of the deep. Their holy places are cave mouths, high points where the land meets the sky, and spots where magic runs strong. The clergy have no comfort for people who are afraid of the unknown. They teach that what you don't know is where everything worth finding is, and that people who never step past the edge of the familiar slowly wither.
 
-Ravens thrive in both day and night, appear equally comfortable in multiple environments, and show the intelligence required to adapt and transform. They are seen at dusk and dawn, the transitional times when Murasakino's power is strongest, and their presence is interpreted as the primordial's watchful eye observing whether mortals continue to prove worthy of the magic they possess.
+The raven is Murasakino's bird. It's at home by day and by night, and clever enough to get by anywhere. Ravens are about at dusk and dawn, when Murasakino is strongest, and people say they are the spirit's eyes, watching to see whether mortals still deserve the magic they were given.
 
-Priests conduct rituals at transitional times: dawn, dusk, equinoxes, and solstices, when the world itself demonstrates change's inevitability. They teach magic to those with aptitude, and treat education as a sacred duty since magic is Murasakino's direct legacy to mortals. The clergy studies magic as communion with Murasakino's gift and never as a mere tool, each spell a small echo of the primordial's power to reshape reality. They maintain extensive records of magical discoveries, believing that each new spell or technique represents mortals proving themselves worthy. The faith teaches that change is sacred, that thresholds and transitions hold power stable states cannot match, and that magic was granted as a test, proof that mortals could be trusted with the ability to alter reality itself. Murasakino appears at moments of transformation, watching to see whether mortals will embrace change or cling desperately to what was.
+Priests hold their rites at dusk, dawn, the equinoxes and the solstices. They teach magic to anyone with a gift for it, and count that teaching as a holy duty, since magic is Murasakino's own legacy to mortals. To them every spell is a small echo of the spirit's power, a way of keeping in touch with the gift. They keep long records of every new spell and technique, each one a sign that mortals are still proving themselves worthy. Magic, the clergy say, was given as a test of whether mortals could be trusted with it, and Murasakino is still watching.
 
 The [[Species and Cultures/Cultures/Dulandi\|Dulandi]] of [[Places/Realms/Alora/Nations/Imnas\|Imnas]] honor Murasakino above all the Primordials, holding magic as the birthright the spirit gave them and the leylines as that gift flowing through the land. The [[Species and Cultures/Cultures/Valekai\|Valekai]] honor Murasakino in every tunnel they cut, and before a clan digs into new rock its elders make offerings and ask leave.
 
@@ -53,7 +53,7 @@ To follow Murasakino requires adherence to these beliefs:
 
 ### Overview
 
-The Purple keep to the world's hidden structure: down in deep caves where the surface gives out, and along the Leylines, the unseen rivers of magic that run through Alora. They move toward whatever they have not figured out yet, so to anyone who cannot feel the currents they track, their wandering looks aimless.
+The Purple keep to the world's hidden structure: down in deep caves where the surface gives out, and along the Leylines, the unseen rivers of magic that run through Materia. They move toward whatever they have not figured out yet, so to anyone who cannot feel the currents they track, their wandering looks aimless.
 
 ### Ways and Practices
 
@@ -67,17 +67,17 @@ Almost everyone mistrusts them, and the ambitious seek them out, because a mage 
 
 ### The Day of Two Transitions
 
-Twice on the autumn equinox, once at dawn and once at dusk, Murasakino's followers honor change itself. When day and night achieve perfect balance before the world tips toward darkness, they gather at horizons or cave mouths to witness both transformative moments.
+Twice on the autumn equinox, the 7th of Malbia, once at dawn and once at dusk, Murasakino's faithful mark the crossing from one thing into another. On the day when light and dark are evenly balanced, they gather on high ground or at cave mouths to watch both moments.
 
-Dawn: Followers position themselves to catch the exact moment of transition from darkness to light. The clergy leads meditations on transformations experienced during the past year, including skills learned, places left behind, relationships that ended, and beliefs that changed. Magic casters demonstrate spells learned during this time, each casting a tribute to Murasakino's gift and proof that mortals continue evolving. [[Species and Cultures/Races/Trox\|Trox]] participants share stories of their ancestors' emergence from caves, connecting their race's greatest transformation to the daily miracle of dawn. Ravens are released at sunrise, their flight symbolizing the soul's willingness to embrace change over remaining in comfortable darkness.
+**Dawn:** The faithful wait for the exact moment the dark gives way to light. Priests lead them in thinking back over the year: what they learned, what they left behind, what they found out they hadn't known. Mages show off spells they learned that year, each one a thank-you for Murasakino's gift. [[Species and Cultures/Races/Trox\|Trox]] tell the story of their ancestors coming up out of the caves. Ravens are released at sunrise.
 
-The day between transitions is spent examining what transformations the coming darker season might bring. Caves are explored, horizons traveled to, and magical research conducted, all activities that honor thresholds and change.
+The hours between are for going somewhere new. People explore caves, walk out to a horizon they've never reached, and work at magical research.
 
-Dusk: Followers return to witness light surrender to darkness. The evening ritual focuses on accepting that change does not always appear positive at first, since the coming darkness enables rest, reflection, and the preparations necessary for spring's eventual renewal. As magic allows mortals to transform reality, each individual possesses the power to transform themselves. Both dusk and dawn prove that endings are transitions to new states and never final conclusions. The day concludes in darkness, with participants acknowledging they cannot see what comes next and trusting that transformation will continue as it always has.
+**Dusk:** The faithful come back to watch the light go. At night you can't see what's ahead of you, and that's the lesson of the evening ritual. The day ends in the dark, with everyone admitting they don't know what comes next and going forward anyway.
 
 ## Areas of Concern
 
-Magic, Caves, Change
+Magic, the Underground, the Unknown
 
 ## Adjective
 

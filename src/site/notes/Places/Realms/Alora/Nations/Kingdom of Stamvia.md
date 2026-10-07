@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/places/realms/alora/nations/kingdom-of-stamvia/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Jotuun Nexus","government":"Feudal monarchy under martial law","capital":"Sannes","ruler":"King Gerrick Valor","dominant-culture":"Yotuun"}}
+{"dg-publish":true,"permalink":"/places/realms/alora/nations/kingdom-of-stamvia/","dg-note-properties":{"type":"nation","realm":"Alora","region":"The Jotuun Nexus","government":"Feudal monarchy under martial law","capital":"Sannes","ruler":"King Gerrick Valor","dominant-culture":"Jotuun"}}
 ---
 
 # Kingdom of Stamvia
@@ -20,7 +20,7 @@ That order has now been largely destroyed. Since seizing the throne, Gerrick Val
 
 ## Law
 
-Before the coup, the king and the jarlar made and enforced the law, each lord judging the people of his own lands. Local þings continued to meet under Yotuun custom and settled most disputes among the kynnar, though the crown held the final word.
+Before the coup, the king and the jarlar made and enforced the law, each lord judging the people of his own lands. Local þings continued to meet under Jotuun custom and settled most disputes among the kynnar, though the crown held the final word.
 
 Stamvia is now under martial law. Army officers carry out Gerrick's orders directly, and the local þings meet only where the fighting and the officers allow.
 
@@ -38,7 +38,7 @@ After seizing the throne, Gerrick closed the kingdom to foreign trade entirely, 
 
 ## Peoples and Culture
 
-Stamvia is [[Species and Cultures/Cultures/Yotuun\|Yotuun]] in culture. Its grassland Yotuun are more mobile and trade-focused than their desert kin, which traditionalists criticize as softening. The population is roughly half [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]], about two-fifths [[Species and Cultures/Races/Human\|Human]], and a tenth other races. The Yol-Mar were common here long before Helano fell, and many of Helano's refugees joined them after 5267.
+Stamvia is [[Species and Cultures/Cultures/Jotuun\|Jotuun]] in culture. Its grassland Jotuun are more mobile and trade-focused than their desert kin, which traditionalists criticize as softening. The population is roughly half [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]], about two-fifths [[Species and Cultures/Races/Human\|Human]], and a tenth other races. The Yol-Mar were common here long before Helano fell, and many of Helano's refugees joined them after 5267.
 
 Many Stamvian kynnar move with their herds through the year, shifting between the western grasslands and the eastern savanna as the rains come and go. They live in portable halls of hide and timber that can be packed onto carts, and each kynnar keeps a permanent höll in a home village where it gathers for the winter þing. Seasonal cattle fairs bring the wandering kynnar together to trade, settle disputes, and arrange marriages. Since the coup, martial law and the fighting have stifled the migrations, and many herds now stay close to home.
 

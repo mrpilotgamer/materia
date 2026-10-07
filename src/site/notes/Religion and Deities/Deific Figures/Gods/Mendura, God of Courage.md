@@ -6,9 +6,9 @@
 
 ## Overview
 
-Mendura (mehn-DOO-rah), Master of the Shield, teaches that true courage lies not in victory but in refusing to yield. The concept of "fight or flight" is held to be a false choice. There is no flight, for to flee is to be a disgrace. To Mendura's followers, the body itself is the shield, and one's duty is to stand firm regardless of pain, fear, or overwhelming odds. When you believe you can go no further, take another step. When you believe you cannot take another hit, endure one more blow.
+Mendura (mehn-DOO-rah), Master of the Shield, asks one thing of the faithful: don't run. Mendurians call "fight or flight" a trick question, since flight was never on the table. You stand where you are, you take the blow, and when you think you can't take another, you take one more.
 
-As the Jarl of [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]], Mendura is particularly revered across that harsh continent, where survival demands unyielding fortitude. The god attracts knights who defend the weak, bodyguards who place themselves between danger and their charges, and parents who shield their children from harm at any cost. The philosophy concerns absolute defense and leaves aggression to other faiths. A Mendurian is an immovable barrier protecting what lies behind it, no matter how many blows shatter against it.
+The god is honored most in [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]], where they are called its Jarl, and above all in the desert interior, where giving ground can get a whole camp killed. Knights pray to Mendura, as do bodyguards and parents. Their gift is the strength to keep standing in front of whoever you're protecting.
 
 ## Worship and Clergy
 
@@ -29,11 +29,9 @@ A shield that bears the scars of many fractures and shattering
 
 ### Worshipers
 
-Mendura's followers include knights sworn to protect their lords, bodyguards who place themselves in harm's way, and parents who view themselves as shields for their children. The clergy teaches that courage is not the absence of fear but the refusal to let fear dictate action, and that true defense comes not from hiding behind barriers but from becoming the barrier itself.
+Most Mendurians are knights sworn to a lord, bodyguards, or parents. The clergy don't pretend their followers are fearless. Everyone is afraid. A Mendurian is just someone who has decided the fear doesn't get a vote.
 
-The faith departs from war gods that emphasize offense and conquest, holding to the supremacy of defensive stoicism. Followers do not wield shields. They are shields. Their temples work as training grounds where followers learn to endure pain, maintain position under assault, and develop the mental fortitude required to stand when every instinct screams to run. The clergy teaches that the greatest warriors are not those who deal the most damage, but those who protect the most people.
-
-Clerics of Mendura work as protectors of communities, trainers of guards, and counselors to those who must face unavoidable dangers. They teach breathing techniques for managing pain, mental disciplines for suppressing panic, and tactical principles for establishing defensive positions. The clergy ministers with particular attention to parents, teaching that protecting one's children sometimes means enduring hardship stoically in place of lashing out. They maintain an uneasy alliance with followers of [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]], as both deities value battlefield prowess, though Alfugel's emphasis on overwhelming offense contrasts sharply with Mendura's focus on immovable defense.
+Mendurian temples double as training yards. Novices learn to hold a doorway while someone beats on their shield, and to keep their feet when everything in them wants to bolt. Priests also train town guards and sit with people who have something frightening ahead of them, like a battle or a long sickness. Parents get extra attention, since a parent's job is mostly enduring things quietly so the children don't have to.
 
 ### Tenets of Faith
 
@@ -49,25 +47,27 @@ Those who follow Mendura swear to live by these principles:
 
 ## History
 
-Mendura has been worshiped since before the [[History/Great Schism War\|Great Schism War]], with particularly strong reverence in [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]] where the god serves as the region's spiritual protector. During the [[History/Ages/Age of Incursion\|Age of Incursion]], when the [[Religion and Deities/Deific Figures/Primordials\|Primordials]] unleashed natural disasters upon the world, Mendura's followers distinguished themselves by refusing to abandon their posts. Communities protected by Mendurian defenders suffered fewer casualties. The disasters there were no less severe, and the difference came from trained protectors who held defensive lines, evacuated civilians methodically, and stood between danger and those who could not defend themselves.
+Mendura was worshiped before the [[History/Great Schism War\|Great Schism War]], and the Jotuun Nexus has held to the god ever since. During the [[History/Ages/Age of Incursion\|Age of Incursion]], Mendurian guards were known for staying at their posts when the disasters came. They kept order and got people out of the way. Towns with Mendurian guards seem to have lost fewer people than their neighbors, though the archive's records from that Age are thin.
 
-In the current [[History/Ages/Age of Stability\|Age of Stability]], worship remains strongest in [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]] and has spread throughout [[Places/Materia\|Materia]] wherever people value steadfast protection over aggressive glory. The faith's emphasis on endurance and stoic defense has made Mendurian-trained guards highly sought after, and many noble families employ bodyguards who follow the god's teachings. Parents across all cultures have increasingly turned to Mendura's philosophy, seeing in it a framework for the difficult task of shielding children from harm while teaching them strength.
+Today the faith has spread well beyond the Nexus. Mendurian-trained bodyguards are in demand, and plenty of noble houses keep one.
 
 ## Related Entities
 
-**Allies:** Mendura forms a divine triumvirate with [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya, God of Devotion]] and [[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine, God of Belief]], the three gods worshiped together by the Rayhostian Theocracy, representing courage, devotion, and hope. [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]] maintains an uneasy alliance with Mendura, as both deities value battlefield prowess, though Alfugel's overwhelming offense contrasts with Mendura's immovable defense. [[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner, God of Caution]] shares Mendura's defensive mindset, as both teach followers to prepare positions and hold ground in place of charging forward recklessly.
+**Allies:** Mendura is one of the three gods of [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]], with [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya, God of Devotion]] and [[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine, God of Belief]]. [[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner, God of Caution]] is a natural friend, since both faiths would rather dig in than charge. [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]] is an ally too, if an uneasy one. The two faiths respect each other on the battlefield and argue about everything else, because Alfugel attacks and Mendura holds.
 
-**Rivals:** [[Religion and Deities/Deific Figures/Gods/Arlaxena, God of Leisure\|Arlaxena, God of Leisure]] stands opposed to Mendura's philosophy. The path of least resistance and the avoidance of unnecessary effort conflict directly with standing firm regardless of difficulty and taking one more step when you believe you can go no further.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Arlaxena, God of Leisure\|Arlaxena, God of Leisure]] teaches the path of least resistance, and Mendurians find that hard to forgive.
 
 ## Holy Days and Festivals
 
 ### Day of Shoring
 
-Celebrated during late autumn when communities prepare for winter's assault, the Day of Shoring is spent checking your house and community's defenses to see if they can stave off outside forces such as weather or thieves. Followers conduct thorough inspections of walls, gates, locks, and fortifications, repairing weaknesses before they can be exploited. The day emphasizes that defense begins long before attack arrives, and that preparation and maintenance are as crucial as courage in the moment of crisis.
+Held on the 28th of Mendia, as winter gets close, the Day of Shoring is for checking your defenses. Households go over their doors and roofs. Towns walk their walls and gates with a Mendurian priest and fix what's weak before the snow comes.
 
-Communities organize collective defense assessments, with Mendurian clergy leading inspections of public fortifications and critical infrastructure. Households check doors, windows, and roofs, while parents ensure their homes are safe for children. The ram features prominently in the day's symbolism, a creature that stands its ground, lowers its horns, and meets threats head-on where others would flee. Some communities hold "standing vigils" where participants maintain defensive stances for extended periods, building the endurance and mental discipline required to protect others when it matters most.
+Rams are everywhere on this day, carved on gateposts and painted on shields, because a ram doesn't back away from anything. Some towns hold standing vigils, where people hold a guard stance for as long as they can manage. In the evening there's a shared meal and stories about people who held their ground. Anyone carrying a scar they got protecting someone else is given the first cup.
 
-The day concludes with communal meals where stories are shared of those who stood firm in the face of danger. Particular honor is given to those whose shields, literal or metaphorical, bear the scars of protecting others, since Mendura teaches that a shield without scars has never truly been tested.
+## Home Plane
+
+Mendura makes a home on [[Places/Planes/Outer Planes/Peaceable Kingdoms of Arcadia\|Arcadia]].
 
 ## Areas of Concern
 

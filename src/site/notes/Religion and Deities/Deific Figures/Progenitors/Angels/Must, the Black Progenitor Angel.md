@@ -6,7 +6,7 @@
 
 ## Overview
 
-Must (MOOST), Servant of Order, resides over a section of [[Places/Planes/Outer Planes/Seven Mounting Heavens of Celestia\|Celestia]] known as the Hall of Eternal Vigil. He embodies the idea of perfect obedience to rightful authority, teaching that true freedom comes from surrendering individual will to those wiser and more powerful, and that the highest calling is to become a flawless instrument of benevolent hierarchies.
+Must (MOOST), Servant of Order, resides over a section of [[Places/Planes/Outer Planes/Seven Mounting Heavens of Celestia\|Celestia]] known as the Hall of Eternal Vigil. Must asks for perfect obedience to rightful authority. His followers hand their will over to those wiser and stronger than themselves, and the best of them become flawless tools in the hands of a good master.
 
 ## Worship and Clergy
 

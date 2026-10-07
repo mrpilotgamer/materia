@@ -6,9 +6,9 @@
 
 ## Overview
 
-Malbing (MÆL-bing), Beast of the Wildlands, governs endless hunger and the sacred cycle of consumption. The teaching holds that all things exist to be consumed, food and knowledge and experience alike, and that consumption itself is a holy act connecting mortals to the divine. To consume is to participate in the fundamental nature of existence. All living things take from the world, and in death the world takes back what was given.
+Malbing (MÆL-bing), Beast of the Wildlands, is the god of hunger and of eating. Everything exists to be consumed, whether food, knowledge or experience, and every act of eating is holy. Everything alive takes from the world, and when it dies the world takes it back. [^1]
 
-As a deity closely tied to [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], Malbing embodies the predator's hunger and the earth's patient reclamation of all things. Fire is the god's cleansing force, consuming wood to create warmth and light, as living beings consume sustenance to create life and action. Farmers revere Malbing for the harvest that feeds communities, and pyromancers honor the god's connection to flame's consuming nature. The Beast teaches that consumption without sharing is hollow, and that the sight of someone who has not eaten is a tragedy requiring remedy.
+Malbing belongs to [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]] above all, where the god is the hunting animal's hunger and the slow way the earth swallows everything in the end. Fire is Malbing's too, eating wood to make heat and light the way living things eat to keep going. Farmers honor Malbing for the harvest, and fire mages for the flame. And Malbing is generous. Eating alone is empty, and seeing someone go hungry is a wrong that has to be put right.
 
 ## Worship and Clergy
 
@@ -29,11 +29,11 @@ A wolf snout, with teeth bared, all made of fire
 
 ### Worshipers
 
-Malbing's followers include farmers who understand harvest as consumption of the earth's bounty, pyromancers who wield flame's consuming power, and those who hold that experience itself is meant to be consumed through eating, learning, or living fully. The clergy teaches that actively seeking things to consume, whether new or old, exotic or basic, is engagement with life's fundamental cycle and not greed.
+Malbing's followers include farmers, fire mages, and people who believe life is meant to be devoured, whether by eating, learning or living hard. The clergy teach that going out looking for new things to taste, new or old, rare or plain, is joining in the cycle of life. They don't call it greed.
 
-The faith departs from gods who preach moderation or restraint, holding instead to the sanctity of abundance and the importance of sharing that abundance freely. Their temples often work as communal feast halls where none go hungry, since the clergy considers it a grave offense to witness someone who has not eaten and do nothing. They teach that all consumption is shared with Malbing, that every meal is a communion with the divine, and that the god experiences all that their followers consume.
+Malbing's temples are often feast halls where nobody goes hungry. To see someone who hasn't eaten and do nothing is a serious offense in the faith. Every meal is shared with Malbing, and the god tastes whatever the faithful eat.
 
-Clerics of Malbing oversee harvest rituals, bless fields and hunting grounds, and ensure that communities share their bounty equitably. They are known for their generous hospitality and their insistence that guests eat until satisfied. The clergy also performs funeral rites on the belief that the body should return to the earth to be consumed by nature, whether through burial where worms and roots reclaim the flesh or through cremation where fire consumes and transforms. Resisting this final consumption through preservation or undeath is taught as an affront to the natural order.
+Priests lead the harvest rites, bless fields and hunting grounds, and make sure a town's harvest is shared fairly. They are famous hosts, and won't let a guest leave the table hungry. They also see to the dead, believing a body should go back to be eaten by the world, by worms and roots in the ground or by fire on the pyre. Embalming a body, or keeping it walking as undead, is an insult to Malbing.
 
 ### Tenets of Faith
 
@@ -49,29 +49,31 @@ Those who follow Malbing swear to live by these principles:
 
 ## History
 
-Malbing has been worshiped since before the [[History/Great Schism War\|Great Schism War]], with particularly strong reverence in [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]] where the god is honored as the Beast of that region. The faith's emphasis on natural cycles of consumption and return aligned well with the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]' philosophy, and the worship survived the Great Schism War largely unscathed.
+Malbing was worshiped before the [[History/Great Schism War\|Great Schism War]], most of all in [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], where the god is called its Beast. The Primordials care about natural cycles too, so the faith came through the war mostly untouched.
 
-During the [[History/Ages/Age of Regrowth\|Age of Regrowth]], Malbing's clergy helped communities establish sustainable agriculture, teaching that consuming what the land provides while ensuring it can provide again prevents overexploitation. The [[History/Ages/Age of Expansion\|Age of Expansion]] saw tension between this philosophy and the dominant ethos of unlimited growth, and many followers warned that consumption without eventual return would lead to disaster.
+In the [[History/Ages/Age of Regrowth\|Age of Regrowth]] Malbing's priests taught farming that let the land recover, eating what it gave while making sure it could give again. In the [[History/Ages/Age of Expansion\|Age of Expansion]] they warned that taking without giving back would end badly, and when the [[History/Ages/Age of Incursion\|Age of Incursion]] came, the towns that had listened suffered less than the ones that hadn't. The faith is still strong in farm country and across the Wildlands.
 
-The [[History/Ages/Age of Incursion\|Age of Incursion]] proved them correct. Communities that had followed Malbing's teachings of moderate consumption, and had allowed the earth to reclaim what it needed, suffered less than those who had taken without thought of return. In the current [[History/Ages/Age of Stability\|Age of Stability]], worship remains strong in agricultural regions and [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], and the faith's message of abundance through balance resonates with communities seeking to maintain stability.
-
-The [[Species and Cultures/Cultures/Eldar\|Eldar]] of [[Places/Realms/Alora/Nations/Empire of Bornumia\|Bornumia]] give him particular reverence in their funeral rites of consumption and return, and the western cultures keep his place at harvests and funerals.
+The [[Species and Cultures/Cultures/Eldar\|Eldar]] of [[Places/Realms/Alora/Nations/Empire of Bornumia\|Bornumia]] give them particular reverence in their funeral rites of consumption and return, and the western cultures keep their place at harvests and funerals.
 
 ## Related Entities
 
-**Allies:** [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] shares Malbing's understanding of natural cycles, consumption in life and the earth consuming the dead in return, and both deities teach that what is taken must eventually be given back. [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]] aligns with Malbing's philosophy of embracing natural urges without shame, as both hunger and rage are primal forces. [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] shares the belief that taking and consuming what one desires is natural and should be honored.
+**Allies:** [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] agrees that what is eaten in life goes back to the earth in death. [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]] shares Malbing's view that hunger and rage are natural and nothing to be ashamed of. [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] shares Malbing's reverence for appetite. [[Religion and Deities/Deific Figures/Gods/Arlaxena, God of Leisure\|Arlaxena, God of Leisure]] trusts the easy way, like water running downhill and plants growing without fuss.
 
-**Rivals:** [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity, God of Benevolence]] stands opposed to Malbing's teachings. Malbing holds that what you consume is yours and need not be shared, while Maltrunity demands that excess be given to those in need, creating fundamental conflict between consumption for self and distribution to others.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity, God of Benevolence]] gives through careful charity, rationing what there is so it reaches those in greatest need, while Malbing shares through the feast, where everyone eats their fill. The two faiths argue over whether plenty should be celebrated or measured out. [[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri, God of Restraint]] teaches eating only what you need, which Malbing's faithful see as turning down the harvest's gifts.
 
 ## Holy Days and Festivals
 
 ### Day of Feast
 
-Celebrated during the autumn harvest when the year's abundance is gathered, the Day of Feast brings entire communities together to share a massive communal meal. All contribute what they can. Farmers bring grain and vegetables, hunters provide meat, bakers create bread, and brewers offer drink. The feast continues from noon until midnight, with participants encouraged to eat their fill and beyond, since gluttony is considered holy on this day.
+Held on the 14th of Malbia, at the autumn harvest, the Day of Feast brings whole towns together for one enormous meal. Everyone brings what they can: farmers bring grain and vegetables, hunters bring meat, bakers bring bread, brewers bring drink. The feast runs from noon to midnight, and everyone is told to eat their fill and then some. Gluttony is holy on this day.
 
-The day begins with the Rite of Consumption, where clergy light great bonfires and speak of the cycle: how the sun's fire was consumed by plants, plants were consumed by animals or harvested by farmers, and now the community consumes the harvest in turn. At sunset, vultures are honored as sacred witnesses to the feast, and offerings of food are left for them as representatives of consumption's final form.
+It starts with the Rite of Consumption. Priests light big bonfires and tell the cycle: the sun's fire was eaten by the plants, the plants were eaten by animals or harvested by farmers, and now the town eats the harvest. At sunset food is left out for the vultures, who are the feast's honored witnesses.
 
-The celebration emphasizes that no one should go hungry when others have plenty. Communities specifically invite the poor, travelers, and those without family to ensure all partake in the abundance. Hoarding food on this day is considered deeply offensive, and sharing generously is believed to earn Malbing's favor for the coming year. As the feast concludes, participants often bury food scraps and bones, returning portions of the meal to the earth as thanks for its provision.
+The poor, travelers and anyone without family are invited by name, so that nobody goes hungry while others have plenty. Hoarding food on the Day of Feast is a real insult, and generosity is said to win Malbing's favor for the coming year. At the end of the night the scraps and bones are buried, giving some of the meal back to the earth.
+
+## Home Plane
+
+Malbing makes a home on [[Places/Planes/Outer Planes/Wilderness of the Beastlands\|the Beastlands]].
 
 ## Areas of Concern
 
@@ -80,3 +82,5 @@ Gluttony, Harvest, Fire
 ## Adjective
 
 Malbian (MÆL-bee-an) - "The Malbian harvest festival featured tables groaning under the weight of food meant to be consumed without restraint."
+
+[^1]: I attended a Day of Feast once, for research. I don't remember much of the research.

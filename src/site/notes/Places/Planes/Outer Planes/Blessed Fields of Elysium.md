@@ -7,98 +7,94 @@
 *"A land so pleasant you may never want to leave"*
 
 ## Overview
-Elysium is the most strongly good plane of the Great Wheel, a place of good untroubled by questions of law or chaos. Doing well by others is valued here above any other ideal.
+Elysium is the most purely good of all the planes. It cares nothing for law or chaos. What matters here is treating others well, above everything else.
 
-The first layer is a riot of color: brilliant green meadows dotted with starburst flowers, pools as deep blue as a jay's plumage, and silver clouds drifting against a perfect sky. The plane seems to vibrate with its own sense of life and intensity. It is usually peaceful, and its tranquility seeps into the bones and souls of those who cross it.
+The first layer is bright with color: green meadows scattered with star-shaped flowers, pools as blue as a jay's feathers, and silver clouds in a clear sky. The whole plane feels intensely alive. It is usually peaceful, and the calm soaks into anyone who passes through.
 
-Elysium consists of four layers strung together by the myriad courses of the River Oceanus. The first is the most like the material world, with sweet-smelling pines and flowering trees along its banks giving way to open meadows and rolling fields. The second is rougher and more mountainous, with rapids and falls common along the river's channels. The third is a great marsh awash with life. The deepest is the sea itself and the headwaters of the great river, dotted with islands where veteran heroes of good rest for eternity.
+Elysium has four layers, tied together by the many branches of the River Oceanus. The first is the most like Materia, with sweet-smelling pines and flowering trees along the river opening into meadows and rolling fields. The second is rougher and mountainous, full of rapids and falls. The third is a vast marsh crowded with life. The deepest is the sea where the great river begins, scattered with islands where the greatest good heroes rest forever.
 
-The River Oceanus varies in size from a braid of small side channels to a mighty flow that tops its banks and floods the surrounding country. Islands, low gravel bars, and rocky promontories line it, and these are often the homes of petitioners and of more powerful denizens.
+The Oceanus ranges from a tangle of small streams to a huge river that bursts its banks and floods the land around it. It is lined with islands, gravel bars and rocky points, and petitioners and stronger beings often make their homes on them.
 
 ## Planar Links
-Elysium borders the neighboring Outer Planes of Bytopia and the Beastlands. Natural portals connect them, and the shifting borders between Elysium and its neighbors mean a traveler may find themselves on another good plane without realizing it. Portals leading off-plane often take the form of caverns.
+Elysium borders Bytopia and the Beastlands. Natural portals connect them, and the borders drift, so a traveler can cross onto another good plane without noticing. Portals off the plane are often caves.
 
-Each of the four layers holds a radically different terrain. Inhabitants move between them by portal, or by following the River Oceanus, which is probably the easiest method.
+Each of the four layers looks completely different. Natives travel between them by portal, or by following the Oceanus, which is probably the easiest way.
 
-The Oceanus originates in the deepest layer and flows through all four, emptying from Amoria into the Beastlands. Rapids mark each boundary crossing, though there are no serious waterfalls or other perils. Most activity on Elysium takes place along the great river's banks.
+The Oceanus begins in the deepest layer, runs up through all four, and flows out of Amoria into the Beastlands. There are rapids at every border, but no dangerous falls. Most life on Elysium happens along the river.
+
+## Divine Realms
+**[[Religion and Deities/Deific Figures/Progenitors/Angels/Valge, the White Progenitor Angel\|Valge]]**, Validator of Souls, holds the Gathering Glade. It is the strongest domain on Elysium. Valge gives empty lives meaning through selfless work.
+
+**[[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity]]**, God of Benevolence, also makes a home on Elysium.
+
+
 
 ## Inhabitants
-Good-aligned outsiders of every type are found here, including those of lawful and chaotic disposition, and even natives of the Elemental planes such as djinn. All types of celestial can be found, and the dominant kind is the guardinal, which includes the winged avoral and the powerful leonal.
+Good outsiders of every kind live here, lawful and chaotic alike, along with good natives of the elemental planes such as djinn. Every kind of celestial can be found here, but the most common are guardinals, including the winged avorals and the mighty leonals.
 
-The plane also swarms with celestial creatures and half-celestials. Celestial creatures have golden skin and silvery eyes and seem to shine with power and nobility. Unlike the creatures of the neighboring Beastlands, they are no sharper of mind than their counterparts in the material world, though they do seem more empathic and understanding.
+The plane is also full of celestial creatures and half-celestials. Celestial creatures here have gold skin and silver eyes and seem to glow with strength and nobility. They are no smarter than ordinary animals, unlike those of the Beastlands next door, but they are kinder and quicker to understand.
 
 ## Petitioners
-The petitioners of Elysium either venerate a particular deity of the plane or are simply souls that gravitated naturally toward ultimate goodness and peace. They appear as they did in life, goodness caring little for outward appearance, though most carry a nobler and calmer demeanor than they once did.
+Elysium's petitioners either worship one of the powers who live on the plane or are simply souls drawn to goodness and peace. They look as they did in life, since goodness cares little about looks, but most seem calmer and nobler than they were.
 
-Only when evil actions besmirch the plane do they take up arms, and then they prove more dangerous than most petitioners elsewhere. Unlike other petitioners they retain some knowledge of their past lives, which usually shows itself as wistful nostalgia. Sometimes the memory is more practical than that, and a petitioner who held real skill or power in life keeps a portion of it here.
+They only fight when evil threatens the plane, and when they do they are more dangerous than most petitioners. Unlike other petitioners, they remember some of their old lives. Usually this is just a fond nostalgia. Sometimes it's more useful, and a petitioner who had real skill or power in life keeps some of it.
 
-<!-- 
-Petitioners of Elysium have the following special petitioner qualities:
 
-**Additional Immunities:** Electricity, cold.
 
-**Resistances:** Cold 20, fire 20.
-
-**Other Special Qualities:** Retain up to four character levels acquired prior to becoming a petitioner. Multiclass characters can choose levels from any classes they held in life. 
--->
-
-Planar travelers are common along the shores of the Oceanus, and merchants ply their wares up and down the river between towns inhabited by petitioners and half-celestials. Evil and morally neutral creatures tend to become lost along the riverbanks, unable to cope with the goodness that infuses the landscape, which makes such interlopers prime targets for avoral scouts. Facing determined evil, the scouts call on the more august leonals to join the fight, and evil creatures are killed on Elysium. Morally neutral visitors are questioned closely by the avorals, who establish their intentions and then either aid or expel them. Aid and expulsion both come with a gentle and very long lecture.
+Travelers are common along the Oceanus, and merchants sell their goods up and down the river between towns of petitioners and half-celestials. Evil and neutral creatures tend to get lost on the riverbanks, because the goodness of the land is too much for them, and that makes them easy for avoral scouts to spot. When the scouts find real evil, they call in the leonals, and evil creatures die on Elysium. Neutral visitors are questioned closely by the avorals, who work out what they want and then either help them or send them away. Either way, the visitor also gets a kind and very long lecture.
 
 ## Travel and Conflict
-The great river and its side channels dominate much of the plane, so boat traffic is heavy. The Oceanus runs at about three miles an hour from the deepest layer of Thalasia through Belierin and Eronia to Amoria.
+The river and its branches cover so much of the plane that boats are everywhere. The Oceanus flows at about three miles an hour, from Thalasia at the bottom up through Belierin and Eronia to Amoria.
 
-Celestial animals haul rafts and keelboats upstream, and all manner of mundane and fantastic seagoing vessels stray into deeper waters. In places the river widens into a great calm lake or fen with no appreciable current. In others it splits and tumbles through sharp-rocked rapids, particularly on the mountainous second layer.
+Celestial animals tow rafts and keelboats upstream, and ships of every kind, ordinary and strange, wander into deeper water. In some places the river widens into a still lake or fen with no current at all. In others it splits and crashes through rocky rapids, especially on the mountainous second layer.
 
-The plane neither aids nor hinders a fight. Tolerance for evil is very low, and most of the celestial natives can strike at evil with particular force. Fights tend to run long and end without death more often than elsewhere, because the positive energy infusing the plane keeps the wounded on their feet.
+The plane doesn't help or hurt anyone in a fight. Evil isn't tolerated here, and most celestials can hit evil especially hard. Fights tend to go on longer and kill fewer people than elsewhere, because the positive energy in the plane keeps the wounded on their feet.
 
-<!-- 
-Combat
-Elysium does not present any inherent benefit or penalty to combat. There is very little tolerance for evil, and most of the celestial natives have the ability to smite evil. Fights tend to last longer and be less often fatal due to the positive energy that infuses the entire plane. 
--->
+
 
 ## Features
-The top layer is Amoria, more like the material world than the rest. Upstream on the Oceanus the land turns rougher and more mountainous until the traveler reaches the cascades of Eronia, the second layer, where steep valleys flank the river and it surges through narrow passages.
+Amoria, the top layer, is the most like Materia. Following the Oceanus upstream, the land gets rougher and more mountainous until a traveler reaches the falls of Eronia, the second layer, where the river pushes through steep valleys and narrow gorges.
 
-Eventually the mountains diminish and the river spreads into a great marsh alive with insects and reptiles. This is Belierin. Finally the bottom of the marsh deepens and the traveler passes into Thalasia, the fourth layer, the headwaters of the Oceanus among the Isles of the Blessed.
+After a while the mountains drop away and the river spreads into a huge marsh full of insects and reptiles. That is Belierin. At the bottom of the marsh the water deepens into Thalasia, the fourth layer, where the Oceanus begins among the Isles of the Blessed.
 
-The river runs between the layers by no straight path. It splits into myriad smaller flows, recombines, and splits again, and an offshoot occasionally curls around and reenters the layer it just left.
+The river doesn't run straight between the layers. It splits into countless streams, joins up, splits again, and sometimes a branch curls back into the layer it just left.
 
-Sight functions here as it would in the material world at any given hour. Elysium shares a day and night cycle with the material world and has similar if gentler weather, the days warm and calm, the nights cool and comfortable.
+Sight works as it does on Materia at any hour. Elysium keeps the same day and night as Materia and has similar weather, only gentler: warm, calm days and cool, pleasant nights.
 
-The nights are alive with small lights. A river of stars overhead imitates the Oceanus below, fireflies dance among the trees and fields, and luminous jellyfish swim beneath the river's surface.
+The nights are full of small lights. A river of stars overhead mirrors the Oceanus below, fireflies drift through the trees and fields, and glowing jellyfish swim under the water.
 
 ## Layers
 
 ### Amoria
-The topmost layer, and one of the most hospitable places among the Outer Planes, provided one sets aside the plane's tendency to convert long-term visitors into full-time petitioners. Small towns dot the banks of the Oceanus, and islands of rolling hills rise from the river itself. Boat travel is common, and the bulk of Elysium's population lives here.
+The top layer is one of the friendliest places on the outer planes, apart from the plane's habit of turning long-term visitors into permanent petitioners. Small towns line the banks of the Oceanus, and hilly islands rise out of the river. People travel by boat, and most of Elysium's population lives here.
 
-Amoria is peaceful and offers ample opportunity to aid others and demonstrate goodness. Misfortune still exists, and it seems to exist only to show the collective power of goodness. Calamities such as a village fire or a capsized boat test and identify those who come from other planes. Travelers are besieged by small errands and tasks, and those who complete them find powerful allies at their side.
+Amoria is peaceful, and there's plenty of chance to help others. Bad luck still happens, but it seems to happen only so that goodness can show what it can do. A village fire or a capsized boat is how the natives find out what kind of person a visitor is. Travelers get asked for small favors constantly, and those who help out end up with powerful friends.
 
-The layer has seasons, so timid that visitors from the material world hardly notice them. It is never too hot in summer nor too cold in winter, and it rarely rains without a rainbow appearing immediately afterward. The guardinals often upbraid storm giant druids and other weather-workers for causing sudden rainstorms, however good their reasons.
+There are seasons, but they are so mild that visitors from Materia barely notice them. Summers are never too hot and winters never too cold, and it rarely rains without a rainbow right after. The guardinals often scold storm giant druids and other weather-workers for starting sudden storms, however good their reasons.
 
-The rulers of the guardinals live on Amoria, and these supremely powerful beings match the archdukes of the Nine Hells or the demon princes of the Abyss. First among them is Prince Talisid, wisest and most powerful of leonals. His lieutenants are the Five Companions: the lupine Duke Lucan, the bearlike Duchess Callisto, the winged Duke Windheir, the equine Lord Hwyn, and the antlered Lord Rhanok. Together they organize the efforts of the guardinals, sending them on missions against evil and striking into the lower planes to recover those the forces of evil have taken.
+The rulers of the guardinals live on Amoria, and they are as powerful as the archdukes of the Nine Hells or the demon princes of the Abyss. First among them is Prince Talisid, the wisest and strongest of the leonals. Under him are the Five Companions: Duke Lucan, who is wolflike; Duchess Callisto, who is bearlike; Duke Windheir, who is winged; Lord Hwyn, who is horselike; and Lord Rhanok, who has antlers. Together they direct the guardinals, sending them against evil and on raids into the lower planes to rescue souls taken by evil powers.
 
 ### Eronia
-A rising land of steep hills, sharp-toothed mountains, and white granite valleys that divert the river again and again. Rugged foothills coil at the bases of the mountains, along with high bluffs, plateaus, and mesas. Communities congregate on the plateaus or in small towns hunched between the mountains and the river.
+A land of steep hills, jagged mountains and white granite valleys that turn the river again and again. Rough foothills wind around the mountains' feet, along with tall bluffs, plateaus and mesas. People gather on the plateaus or in small towns squeezed between the mountains and the river.
 
-The weather is fierce here, with great windstorms and snowfalls accompanied by lightning. Summers run hotter and winters more bitter than in the material world. Eronia is for good souls who still want to be challenged in their afterlife.
+The weather is harsh, with big windstorms and snowstorms full of lightning. Summers are hotter and winters colder than on Materia. Eronia is for good souls who still want a challenge after death.
 
-Those who live here do so at the whim of the mountains. Parts of great hills slide into the river, blocking it in places and forcing it into new channels elsewhere. Eronia is a place of rugged peace, its mountains lost in luminous clouds above and a challenge to any climber. The wind whips around mightily, and even the winged avoral guardinals find flying difficult. Anything that takes to the air here handles worse than it would elsewhere, and the clumsiest fliers do best to stay on the ground.
+People here live at the mercy of the mountains. Hillsides slide into the river, damming it in one place and pushing it into new channels in another. Eronia's peace is a rugged one. Its peaks vanish into glowing clouds and test any climber. The wind is so strong that even avorals struggle to fly, and anything that flies here handles worse than elsewhere. Clumsy fliers are better off walking.
 
 ### Belierin
-A land of misty swamps and fog-bound marshes, which is the opposite of what one might expect on a plane of ultimate goodness. The river here is no more than a tangled braid of slow water through uncountable channels, with low flooded sandbars and tangles of mangrove rising out of it.
+A layer of misty swamps and foggy marshes, which isn't what most people expect on a plane of pure goodness. The river here is a slow tangle of countless channels, with low flooded sandbars and mangrove thickets rising out of the water.
 
-The positive nature of Elysium shines through the desolation regardless. The fog itself seems to spread light with each wispy tendril, surrounding every torch and lantern with a luminous nimbus.
+Even here, Elysium's goodness shows through. The fog itself seems to carry light, and every torch and lantern glows with a halo.
 
-The few communities on Belierin rise from rocky spurs jutting out of the swamp. These small towns are usually built around a cathedral-like lighthouse whose beacon pierces the mildly luminous fog and brings travelers safely to dock.
+The few towns on Belierin sit on rocky spurs above the swamp. Most are built around a lighthouse like a cathedral, whose beam cuts through the faintly glowing fog and guides boats safely in.
 
-Belierin is the prison of some deadly creature, or creatures. Some tales name the prisoner a powerful monster along the lines of the tarrasque. Others name a deadly archduke of the lower planes. The indisputable fact is that evil creatures are sometimes caught lurking here, and the native guardinals are constantly beating back attacks on this layer.
+Something deadly is imprisoned in Belierin. Some stories say it is a monster on the scale of the tarrasque. Others say it is an archduke of the lower planes. What everyone agrees on is that evil creatures are sometimes caught sneaking around here, and the guardinals are always fighting off attacks on this layer.
 
 ### Thalasia
-The headwaters of the River Oceanus, the start of the great river that flows through the layers of Elysium, dodges the sun-dappled trees of the Beastlands, and plunges into Arborea. Thalasia is dotted with islands and sprinkled with small communities.
+Thalasia is where the River Oceanus begins. From here it flows up through Elysium, winds through the sunlit forests of the Beastlands, and pours into Arborea. The layer is scattered with islands and small communities.
 
-Those islands are variously known as the Isles of the Holy Dead, the Isles of the Blessed, the Hills of Avalon, the Islands beyond the world, and the Heroic Isles. Here the best of the good petitioners make their homes, retaining some knowledge and perhaps some power from their previous lives. Hero-kings wait for the day their nations need them again, and religious scholars research great mysteries in huge libraries.
+The islands go by many names: the Isles of the Holy Dead, the Isles of the Blessed, the Hills of Avalon, the Islands Beyond the World, and the Heroic Isles. The best of the good petitioners live here and keep some of their memories and powers from life. Hero-kings wait for the day their nations need them again, and scholars of faith study great mysteries in enormous libraries.
 
-Many of these great petitioners made the journey to Thalasia while still alive and approaching death, whether from age or from wounds taken in noble battle. Elysium then converted them slowly into powerful petitioners, and they scarcely felt the pang of dying. Here they keep their powers and memories while at peace with themselves and with others, the ultimate reward for good.
+Many of these great petitioners came to Thalasia while still alive, when they were close to death from old age or from wounds won in a noble fight. Elysium slowly turned them into powerful petitioners, and they hardly noticed the moment they died. Here they keep their power and memories and live at peace with themselves and everyone else. For a good soul there is no greater reward.
 
-The purpose of Thalasia may be to provide a good and just reward. It may also be to produce recruits for the guardinals, to create wardens for whatever is locked in Belierin, or to muster an army of goodness for an eventual last battle against the forces of evil.
+Thalasia may simply be a reward for the good and just. It may also be a recruiting ground for the guardinals, a source of guards for whatever is locked in Belierin, or the mustering ground of an army of good for some final war against evil.

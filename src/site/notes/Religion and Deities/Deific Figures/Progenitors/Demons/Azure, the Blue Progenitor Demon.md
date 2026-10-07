@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/progenitors/demons/azure-the-blue-progenitor-demon/","dg-note-properties":{"type":"deity","tier":"progenitor","domain":["Charm","Madness","Trickery","Water"],"portfolio":["Manipulation","Deception","Suicide"],"worshipers":["Political manipulators","Chronic liars"],"favored-weapon":"Scythe","holy-symbol":"Tangled blue strings forming a web","sacred-animal":"Coyote","sacred-colors":["Blue","Pink"]}}
 ---
 
-*"Master Manipulator" • "Lord of Betrayal"*
+*"Mistress Manipulator" • "Lady of Betrayal"*
 
 ## Overview
 
-Azure (ah-ZHUR), Master Manipulator, rules over the [[Places/Planes/Outer Planes/Bleak Eternity of Gehenna\|Gehennian]] realm known as the Forsaken Tundra. She embodies the idea of manipulating others for your own gain, and leaving those behind who are now useless to you.
+Azure (ah-ZHUR), Mistress Manipulator, rules over the [[Places/Planes/Outer Planes/Bleak Eternity of Gehenna\|Gehennian]] realm known as the Forsaken Tundra. She embodies the idea of manipulating others for your own gain, and leaving those behind who are now useless to you.
 
 ## Worship and Clergy
 
@@ -32,7 +32,7 @@ Political manipulators and chronic liars form Azure's following.
 
 2. **When I make a deal, it does not matter the promise I made, if breaking it leads to a greater reward.**
 
-3. **Death is no object—when I find myself surrounded by enemies, I shall end my life to give my soul to the Master Manipulator.**
+3. **Death is no object. When I find myself surrounded by enemies, I shall end my life to give my soul to the Mistress Manipulator.**
 
 ## Areas of Concern
 

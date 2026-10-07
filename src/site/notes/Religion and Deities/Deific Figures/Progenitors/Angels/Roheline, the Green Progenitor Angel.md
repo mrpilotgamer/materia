@@ -6,7 +6,7 @@
 
 ## Overview
 
-Roheline (ro-HEH-lih-neh), The Infinite Giver, resides over a section of the [[Places/Planes/Outer Planes/Wilderness of the Beastlands\|Beastlands]] known as the Grove of Empty Hands. She embodies the principle that all possessions are theft from the collective, that keeping anything for oneself is selfish greed, and that true virtue demands giving until nothing remains—not food, not shelter, not even life itself.
+Roheline (ro-HEH-lih-neh), The Infinite Giver, resides over a section of the [[Places/Planes/Outer Planes/Wilderness of the Beastlands\|Beastlands]] known as the Grove of Empty Hands. Roheline teaches that owning anything is stealing from everyone else. Her followers give and keep giving until they have nothing left, their food and their shelter first, and in the end their lives.
 
 ## Worship and Clergy
 

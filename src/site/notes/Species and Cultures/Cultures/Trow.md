@@ -24,7 +24,7 @@ A Trow hold sits within the territory of a dragon in Narathatath or a noble in t
 
 ## Values & Beliefs
 
-[[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel]] has long been the main god of the Trow, and the god is said to favor the form of a Trox. The Trow do not always honor the three gods of the Anor, but they respect Mendura. Those in Narathatath pay heed to [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect]] out of respect for the Drako who worship him.
+[[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel]] has long been the main god of the Trow, and the god is said to favor the form of a Trox. The Trow do not always honor the three gods of the Anor, but they respect Mendura. Those in Narathatath pay heed to [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect]] out of respect for the Drako who worship them.
 
 Sharing is the first Trow value, and the gravest Trow taboo is hoarding food or goods while the hold is in need. Alfugel's teaching that anger should be channeled suited a people who hunted monsters in the dark. The Trow hold that anger belongs to the hunt and the task, while anger turned on one's own hold is a disgrace.
 

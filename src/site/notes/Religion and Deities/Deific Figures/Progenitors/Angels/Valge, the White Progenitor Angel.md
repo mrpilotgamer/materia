@@ -8,6 +8,8 @@
 
 Valge (VAHL-geh), Validator of Souls, resides over a section of [[Places/Planes/Outer Planes/Blessed Fields of Elysium\|Elysium]] known as the Gathering Glade. He represents the filling of the void, and allowing empty lives to gain meaning through selfless works.
 
+Valge validates souls in life, and [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria]] validates them after death. Valge's work is giving an empty life something to be full of.
+
 ## Worship and Clergy
 
 ### Domains

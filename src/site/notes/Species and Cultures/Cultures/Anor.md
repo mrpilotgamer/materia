@@ -78,7 +78,7 @@ Buildings carry three-peaked roofs, triangular windows, and three-spired towers.
 
 ### Festivals and Recreation
 
-The Anor keep the holy days of all three gods. Arloya's Day of Devoted Aid falls in spring, Coptimaine's Day of Aid at the summer solstice, and Mendura's Day of Shoring in late autumn. Winter Reflection closes the year as a time for contemplating the virtuous acts of the months behind.
+The Anor keep the holy days of all three gods. Arloya's Day of Devoted Aid falls on 14 Arlaya in spring, Coptimaine's Day of Aid on 14 Coptiama at summer's end, and Mendura's Day of Shoring on 28 Mendia in late autumn. Winter Reflection, as the old year ends and winter begins, is a time for contemplating the virtuous acts of the months behind.
 
 Popular sports include the tri-joust, a tournament requiring skill with three different weapons, and Virtue Racing, run over obstacle courses that test courage, devotion, and hope. Temple Ball is a team game played on a triangular field. Three-player strategy games, three-sided virtue dice, and riddle contests drawn from religious teaching are common pastimes. Traveling virtue minstrels and passion plays depicting the tales of the gods tour the countryside.
 
@@ -109,13 +109,13 @@ Several Anor teachings differ from the accounts gathered elsewhere in this archi
 ## Example Names
 
 **Courage (Menduric):** Baldwin, Everard, Gerard, Hardwin, Hildegard, Mathilde, Wilmot, Gunhild
-<!-- Baldwin "bold friend", Everard "brave as a boar", Gerard "spear-brave", Hardwin "hardy friend", Hildegard "battle-guard", Mathilde "mighty in battle", Wilmot "helmet of will", Gunhild "battle" -->
+
 
 **Devotion (Arloyic):** Constance, Fidelia, Amice, Oswin, Leofric, Winfrid, Ottilie, Godeleva
-<!-- Constance "steadfast", Fidelia "faithful", Amice "friend", Oswin "god-friend", Leofric "beloved ruler", Winfrid "friend of peace", Ottilie "prosperity", Godeleva "dear to god" -->
+
 
 **Hope (Coptimaic):** Esperance, Clarice, Lucienne, Aveline, Clement, Bertrand, Albert, Lucan
-<!-- Esperance "hope", Clarice "bright, clear", Lucienne and Lucan "light", Aveline "desired", Clement "merciful", Bertrand "bright raven", Albert "noble and bright" -->
+
 
 **Devout Names:** Mendric, Arloise, Coptin, Menduine, Arlo, Coptiane
 

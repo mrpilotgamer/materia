@@ -8,146 +8,75 @@
 *"Where you are when you aren't anywhere else"*
 
 ## Overview
-The Astral Plane is the space between the planes. A traveler passing through an interplanar portal, or projecting her spirit to another plane of existence, passes through the Astral. Even magic that moves a person instantly across a single plane brushes against it in passing.
+The Astral Plane is the gap between all the other planes. Anyone who steps through a portal to another plane, or sends their spirit out of their body, passes through it. Even magic that jumps someone from one place to another on the same plane brushes past the Astral on the way.
 
-The Astral is a great endless sphere of clear silvery sky, above and below alike. Large tube-shaped clouds coil slowly into the distance, some resembling thunderheads and others immobile tornadoes of gray wind. Erratic whirlpools of color flicker in midair like spinning coins. Occasional bits of solid matter drift here, though most of the plane is open and empty domain.
+It is an endless silver sky, above and below. Long, tube-shaped clouds coil off into the distance. Some look like thunderheads and some like frozen tornadoes of gray wind. Small whirlpools of color flicker in the air like spinning coins. Here and there a scrap of solid matter drifts past, but almost all of the plane is open and empty.
 
-There is no day or night. A gray radiance lights the whole plane from every direction at once. Though there seems to be nothing to see, sight fades out at roughly six hundred feet. The other senses are unaffected.
+There is no day or night. A gray light comes from every direction at once. Even though there's nothing in the way, sight gives out at about six hundred feet. The other senses work normally.
 
 ## Planar Links
-Many people pass through the Astral without realizing it when they work certain magic or use interplanar portals. They notice the plane only when something goes wrong, such as a badly worked transit or a bag of holding stuffed inside a portable hole. When something must go somewhere else and has no other direction available, it usually ends up here.
+Plenty of people pass through the Astral without knowing it when they use certain magic or step through a portal. They only notice it when something goes wrong, like a spell that misfires or a bag of holding stuffed into a portable hole. Anything that has to go somewhere and has nowhere else to go usually ends up here.
 
-Permanent portals can exist between the Astral and various other planes, and outsiders lacking any innate means of planar travel use them.
+Some permanent portals link the Astral to other planes, and outsiders who can't travel between planes on their own use them.
 
-A number of openings called color pools connect the Astral to other planes. Color pools are irregular disks of a particular color floating in the vastness, and the color tells an astral traveler which plane lies on the far side.
+The most common doorways are color pools: ragged disks of a single color floating in the void. The color tells an astral traveler which plane is on the other side. Most color pools only go one way, into their plane. About three in ten go both ways. A traveler who arrived as a projected spirit can always get back through the pool they used, even a one-way one.
 
-Seven of every ten color pools lead one way only, into the plane in question. The remaining three allow passage in both directions. A projected spirit still connects back through a color pool regardless of its direction, so someone who has moved onto a new plane can retreat to the Astral even through a one-way pool.
+Portals that pass through the Astral leave trails called conduits, long streaks of dark gray across the silver sky. A traveler can grab onto a conduit and ride it to one of its ends. It works, but it's dangerous. Conduits twist and lash around, and catching one is like grabbing hold of a tornado. Each conduit flows one way and rarely reverses, so travelers who catch the same one soon after each other end up in the same place. A spirit that rides a conduit forms a new body when it arrives.
 
-Portals that pass through the Astral toward other planes form conduits, appearing as large trails of dark gray against the astral sky. A traveler can reach a particular location on another plane by latching onto a conduit and following it to one of its destinations, and this is a perilous way to travel.
+A conduit usually leaves the traveler a way back. The trouble is that nothing about a conduit tells you where it comes from or where it goes. They are mostly used by astral travelers who have no other way out and need to leave fast.
 
-Conduits flex and weave as they move, and catching one is akin to hitching a ride on a tornado. <!-- Grabbing a conduit requires a Will saving throw (DC 20). Failure means the individual is flung violently away from the conduit and takes 1d10 points of damage from the astral turbulence. Success indicates that the traveler has latched onto the conduit and moves instantly onto one of the two planes the conduit connects. --> A conduit flows in one direction or the other and rarely changes, so travelers who catch the same conduit in quick succession arrive on the same plane. A spirit that joins a conduit forms a new body at the destination.
 
-The advantage of a conduit is that the traveler likely has a way back out of wherever they land. The disadvantage is that nothing about a conduit's appearance reveals where it comes from or where it goes. They are used most often by astral travelers with no other means of transport who need to leave the plane quickly.
 
 ## Inhabitants
-The Astral has few native forms. It has a great many travelers, and some natives of other planes have taken up permanent residence. The astral dreadnought may be a form of native life, though its origin resists study.
+Very little is native to the Astral, but a great many travelers pass through, and some natives of other planes have settled here for good. The astral dreadnought may be native, though nobody has worked out where it comes from.
 
-Travelers may be met in physical form or in astral form. In the latter case they appear as ghostly silvery images of themselves, with a silver cord trailing a few feet behind before disappearing into the astral haze. An astral form is generally the more dangerous of the two to meet, since projecting one's spirit at all demands far greater magical proficiency than simply stepping between planes.
-
-<!-- 
-Movement and Combat
-
-### Movement
-The Astral Plane's lack of gravity makes it a tricky place to get around in. Most of the plane's inhabitants move by merely thinking themselves in a particular direction. This is akin to flight with perfect maneuverability and a maximum speed of 10 feet per point of Intelligence. When one is maneuvering through astral space, "up" and "down" are determined solely by the traveler's orientation (down is beyond your feet, and up is above your head). Unlike normal flying, climbs and dives on the Astral plane don't change a character's speed, and there's no minimum speed to avoid a stall.
-
-An astral character may double move, but his maneuverability drops to average. An astral character may move at four times his speed (effectively running), but maneuverability drops to clumsy.
-
-Individuals with an Intelligence of 0 or without a listed Intelligence score (golems, for example) can move very slowly, and then only by pushing off other solid objects. Their maximum speed is 10 feet, and they cannot double move or run. If they are somehow grounded by localized gravity and able to walk, they move normally.
-
-Distances are deceptive on the Astral Plane, and maps are almost completely useless in the hazy expanse. The time it takes an individual or a group of individuals to reach a particular part of the Astral Plane depends on how familiar the travelers are with that area.
-
-**Astral Travel Time by Familiarity**
-
-| Familiarity | Travel Time |
-|---|---|
-| Very Familiar | 2d6 hours |
-| Studied Carefully | 1d4 × 6 hours |
-| Seen Casually | 1d4 × 10 hours |
-| Viewed Once | 1d6 × 20 hours |
-| Description Only | 1d10 × 50 hours |
-
-"Very familiar" describes a place the traveler has been to very often and feels at home with. "Studied carefully" is a well-known place from regular visits, including most color pools the traveler has used before. "Seen casually" is a place known from occasional visits, including a color pool of a particular type but not a specific color pool (any color pool to Ysgard as opposed to a specific color pool to Ysgard, for example). "Viewed once" is for a place seen one time only, or a place that has been seen only by magic. "Description only" can be verbal or written, although a map to the location would be useless on a plane so devoid of landmarks. Travelers on the Astral Plane suffer no movement penalty for armor or weight, but they can carry no more than a heavy load while moving.
-
-Movement through the Astral Plane is silent.
-
-### Combat
-The Astral Plane has no gravity, so attackers may approach from all sides. And without gravity or anything else to affect it, an arrow can effectively fly forever. The penalty for each range increment beyond the first is –1 instead of –2. There is no maximum range, except the limit of the attacker's vision.
-
-The Astral Plane has the timeless trait with respect to such things as poison and disease, so a poisoned wizard on the Astral Plane would be unaffected until she moves to another plane. A traveler in astral form would not be affected at all, because damage taken by the astral form isn't transferred back to the original body on another plane. The Astral Plane is also timeless with regard to natural healing, so only magical healing works.
-
-Travelers on the Astral Plane suffer no penalties to speed for armor or encumbrance. Armor check penalties and arcane spell failure chances still apply, however. 
--->
+Travelers can be met in their own bodies or in astral form. An astral form looks like a ghostly silver copy of its owner, with a silver cord trailing a few feet behind it before it fades into the haze. Astral forms are usually the more dangerous of the two, because sending your spirit out at all takes much stronger magic than simply stepping between planes.
 
 ## Travel and Conflict
-The absence of gravity makes the Astral a tricky place to cross. Most inhabitants move simply by thinking themselves in a particular direction, which amounts to flight of perfect control, and the sharper the mind the faster the passage. Direction is entirely a matter of the traveler's own orientation: down lies beyond your feet and up above your head, whatever anyone nearby believes. Climbing and diving cost nothing here, and nothing stalls. A traveler willing to give up precision can move considerably faster, at the cost of handling clumsily.
+With no gravity, the Astral is tricky to cross. Most travelers move by thinking themselves in a direction, which works like perfectly controlled flight, and the sharper the mind, the faster they go. "Down" is wherever your feet point and "up" is over your head, whatever anyone else thinks. Climbing and diving cost nothing, and nobody stalls. A traveler can go faster if they accept being clumsier about it.
 
-Creatures with no mind to speak of, golems among them, move very slowly and only by pushing off solid objects, and they cannot hurry. Where some localized gravity grounds them and lets them walk, they walk normally.
+Mindless creatures, like golems, can only move slowly by pushing off solid objects, and they can't hurry. If something gives them local gravity to stand on, they walk normally.
 
-Distances deceive, and maps are nearly useless in the hazy expanse. How long a journey takes depends on how well the traveler knows the place they are going, ranging from a few hours for somewhere they know intimately to the better part of a month for somewhere they have only had described to them. Armor and burden slow nobody here, though no one carries more than a heavy load. Movement through the Astral is silent.
+Distances are deceptive and maps are nearly useless. How long a trip takes depends on how well the traveler knows where they're going: a few hours to somewhere they know well, and most of a month to somewhere they've only heard described. Armor and baggage don't slow anyone down, though nobody can carry more than a heavy load. Moving through the Astral makes no sound.
 
-With no gravity, an attacker may come from any side, and an arrow meets nothing to stop or turn it and flies until it strikes or passes out of sight. The plane is also timeless in certain respects: poison and disease take no hold until the afflicted reaches another plane, and wounds do not close on their own, so only magic heals here.
+With no gravity, an attack can come from any direction, and an arrow has nothing to stop or bend it, so it flies until it hits something or passes out of sight. The plane is timeless in some ways. Poison and disease do nothing until the victim reaches another plane, and wounds don't heal on their own, so only magic heals here.
+
+
 
 ## Notable Features
 
 ### Astral Form
-An astral form has the same general capabilities as its native body, and differs from it in several important ways.
+An astral form can do what its owner's body can, with some important differences.
 
-**Dying:** An astral form cannot be slain in the ordinary sense. When one is destroyed, the traveler's soul returns to its original body, which remains unharmed.
+**Dying:** An astral form can't really be killed. If it is destroyed, the traveler's soul goes back to their real body, which is unharmed.
 
-**Traveling Elsewhere:** An astral form that passes through a color pool or otherwise manifests on another plane builds a new body out of the substance of that plane. The body is identical to the traveler's natural form, save that it is immune to the natural hazards of wherever it stands, so an astral body arriving on the Elemental Plane of Fire takes no harm from the flames. Should that form be destroyed, the soul returns to the original body and location, unharmed.
+**Traveling Elsewhere:** When an astral form passes through a color pool or otherwise arrives on another plane, it builds a new body out of that plane's own substance. The new body looks exactly like the traveler but can't be hurt by the plane's natural hazards, so an astral traveler arriving on the Elemental Plane of Fire isn't burned. If that body is destroyed, the soul goes back to the real body, unharmed.
 
-**Items:** Worn, held, and carried items belonging to the original form take no harm if their astral copies are damaged or destroyed. When the traveler leaves the Astral, those copies fade into oblivion, whether or not the traveler meant to leave them behind. If someone removes an item from the original body while its owner travels astrally, the astral copy vanishes as well. Where an astral form uses magic items with a limited number of uses, those uses are spent on the real items alongside the copies. Objects picked up while astral can be carried back to the original body, provided the astral form returns normally. If it is destroyed instead, astral objects gathered along the way stay where they are and do not accompany the soul.
+**Items:** Anything the traveler wears or carries comes along as an astral copy. Damage to the copies doesn't touch the real items. When the traveler leaves the Astral, the copies fade, whether the traveler wanted to keep them or not. If someone takes an item off the traveler's real body while they're away, its astral copy vanishes too. Magic items with limited uses spend those uses on the real item as well as the copy. Things picked up on the Astral can be brought back to the real body, but only if the astral form returns normally. If the form is destroyed, anything it picked up stays behind.
 
-**Healing:** Wounds do not close on their own in the Astral. Magical healing works on astral forms as it would anywhere.
+**Healing:** Wounds don't heal on their own on the Astral, but magical healing works on astral forms as it would anywhere.
 
 ### Silver Cord
-An astral form may return to its original body at any moment it chooses. When a projecting form passes through a color pool or other portal, the silver cord bonds with that portal, which lets the traveler return even where the pool permits passage in one direction only.
+An astral traveler can return to their body whenever they want. When an astral form goes through a color pool or another portal, its silver cord attaches to that portal, so the traveler can get back even through a one-way pool.
 
-Severing the silver cord kills the traveler's real body. The cord usually appears at the base of the skull and stretches back some five feet before merging into the Astral. Only a few things can sever it, among them the psychic wind and the attack of an astral dreadnought. No creature, item, or circumstance cuts a silver cord unless it is specifically capable of doing so.
+Cut the silver cord and the traveler's real body dies. The cord usually starts at the base of the skull and stretches back about five feet before disappearing into the Astral. Very few things can cut it, among them the psychic wind and the bite of an astral dreadnought. Nothing cuts a silver cord unless it is specifically able to.
 
-A traveler is always aware when the cord is threatened. No such warning attends a threat to the original body, so many astral travelers leave guardians or wards to protect it, or at least to alert them if something moves against it.
+A traveler always knows when their cord is in danger. They get no such warning when their real body is threatened, so many astral travelers leave guards or wards over their body, or at least something to warn them if anything happens to it.
 
 ### Psychic Storms
-Winds blow in the Astral and rarely trouble a traveler. Clothing and hair flutter backward during astral travel, and the psychic winds seldom rise above a light breeze.
+Wind blows on the Astral, but it rarely bothers anyone. Clothes and hair stream backward as a traveler moves, and the psychic wind seldom gets stronger than a light breeze.
 
-Occasionally part of the plane flares into a psychic storm that whips through the area, delaying travelers or driving them onto other planes entirely. Such storms can also work on the minds of those caught in them.
+Now and then, part of the plane erupts into a psychic storm that tears through the area, delaying travelers or throwing them onto other planes altogether. These storms can also damage the minds of anyone caught in them.
 
-A storm brews without warning. The Astral darkens in one direction, and the darkness engulfs everything in its path with great speed, quickly enough that only the swiftest travelers moving directly away from it have any hope of outrunning it. Everyone else is overtaken.
+A storm comes without warning. The Astral goes dark in one direction, and the darkness swallows everything in its path so fast that only the quickest travelers, heading straight away from it, have any chance of outrunning it. Everyone else gets caught.
 
-Those caught in a psychic wind may be blown off course and may suffer mentally from the turbulence, which at its worst leaves a traveler stunned, confused, senseless, terrified, or permanently unwell in mind. Violent though they are, psychic storms blow consistently, so several travelers caught in the same storm are carried to the same destination.
+Anyone caught in a psychic wind may be blown off course, and the storm can leave them stunned, confused, knocked out, terrified or worse, sometimes permanently. For all their violence, psychic storms blow steadily, so travelers caught in the same storm end up in the same place.
 
-<!-- 
-Consult the following table, rolling once per group for location effects, and once per individual for mental effect:
 
-**Location Effect, Travelers in Physical Form**
-
-| d% | Effect |
-|---|---|
-| 01-40 | Diverted. Add 1d6 hours to travel time |
-| 41-60 | Blown off course. Add 3d10 hours to travel time |
-| 61-80 | Lost. Begin travel again as if starting anew |
-| 81-100 | Sent through random color pool. Roll on random color pools table |
-
-**Location Effect, Travelers in Astral Form**
-
-| d% | Effect |
-|---|---|
-| 01-40 | Diverted. Add 1d6 hours to travel time |
-| 41-60 | Blown off course. Add 3d10 hours to travel time |
-| 61-80 | Lost. Begin travel again as if starting anew |
-| 81-95 | Silver cord takes 2d10 points of damage, then traveler diverted (as above) |
-| 96-100 | Silver cord takes 4d10 points of damage, then traveler blown off course (as above) |
-
-**Mental Effect**
-
-| d% | Effect |
-|---|---|
-| 01-40 | Stunned (no saving throw) for 1d6 minutes |
-| 41-50 | Confused (Will save DC 20 negates), as confusion spell, for 3d8 minutes |
-| 51-60 | Unconscious (Fort save DC 20 negates) for 1d10 hours |
-| 61-80 | Fear (Will save DC 20 negates), as spell, for 2d10 minutes |
-| 81-90 | Feebleminded (Will save DC 20 negates), as feeblemind spell, for 2d10 hours |
-| 91-95 | Pain (Fort save DC 25 negates), as symbol of pain, for 2d10 × 10 minutes |
-| 96-100 | Insanity (Will save DC 25 negates), as the spell | 
-
-Psychic storm outrunning speed: 320 feet, moving directly away.
--->
 
 ### Astral Objects
-Bits of solid matter are strewn through the Astral. Most have been sucked through color pools or left behind by careless, or deceased, adventurers.
+Scraps of solid matter are scattered across the Astral. Most were sucked in through color pools or left behind by careless, or dead, adventurers.
 
-Travelers spot such items easily enough at any distance they can see, and maneuvering toward them is simple. Natives of the plane, the githyanki in particular, sail the astral winds looking for debris to add to their own fortresses and hoards.
+Travelers can spot these objects as far as they can see, and getting to them is easy. Some natives of the plane, the githyanki above all, sail the astral winds hunting for debris to add to their fortresses and hoards.
 
-<!-- 
-About 10% of found debris may be valuable (the equivalent of a 10th-level treasure; see Chapter 7 of the DUNGEON MASTER's Guide). Such treasure may be in the form of a locked chest, a dead body, or a bag of holding that met an ugly fate when it was put inside a portable hole and cast onto the Astral Plane. Valuable treasures found in this manner often have powerful owners who want their valuables back. 
--->
+

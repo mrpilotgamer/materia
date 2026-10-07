@@ -43,7 +43,7 @@ The thin planar barrier leaves its mark on some resources. Bornumia mines demon-
 
 The barrier between the Wildlands and the outer planes is thin enough that extraplanar beings and effects cross more easily here than anywhere else in Alora, and even weaker demons can make a crossing that would be beyond them elsewhere. The same thinness brings the gods closer, and clerics speak of prayers answered more readily here.
 
-[[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] bears the epithet Beast of the Wildlands, and his worship is strongest here. He is the region's most honored god, though no nation claims him as its patron. Farmers honor him for the harvest, and his teaching that all things are consumed and returned carries weight in a land that remembers the war of 5267.
+[[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]] bears the epithet Beast of the Wildlands, and their worship is strongest here. They are the region's most honored god, though no nation claims them as its patron. Farmers honor them for the harvest, and their teaching that all things are consumed and returned carries weight in a land that remembers the war of 5267.
 
 The ruins of Adriacium lie across the west, in the lands the faceless emperor ruled for a century. Nox has restored and expanded much of what the empire built, but ruins remain beyond its cities. The ruins of Presium lie in the centre, in the lands Korthak and the Union now divide.
 
@@ -72,4 +72,4 @@ The Empire of Nox governs the west from Lincugus, population 19,961. Korthak gov
 
 [[Species and Cultures/Cultures/Eldar\|Eldar]] culture once covered the whole continent. It lost its hold in the war of 5267 and has receded into Bornumia, the heartland where it was born. Four newer cultures have grown up in its place, each drawing on Eldar and each with its own values: the [[Species and Cultures/Cultures/Algar\|Algar]] in Nox, the [[Species and Cultures/Cultures/Barbois\|Barbois]] in northern Korthak, the [[Species and Cultures/Cultures/Casta\|Casta]] in southern Korthak, and the [[Species and Cultures/Cultures/Sonta\|Sonta]] in the Union. The Valekai keep to the mountains, as they have for as long as the archive records.
 
-Bornumia has the highest density of [[Species and Cultures/Races/Daemedi\|Daemedi]] anywhere in Alora. [[Species and Cultures/Races/Human\|Humans]] and [[Species and Cultures/Races/Vullukk\|Vullukk]] are common across the continent, the Valekai are Vullukk, and other races are present in small numbers.
+Bornumia has the highest density of [[Species and Cultures/Races/Daemedi\|Daemedi]] anywhere in Alora. [[Species and Cultures/Races/Human\|Humans]] and [[Species and Cultures/Races/Vullukk\|Vullukk]] are common across the continent, the Valekai are almost purely Vullukk, and other races are present in small numbers.

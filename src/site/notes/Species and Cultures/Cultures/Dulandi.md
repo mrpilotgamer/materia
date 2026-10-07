@@ -38,7 +38,7 @@ The Dulandi hold that the self, the *anian*, does not live in the body. A Mannee
 
 The greatest taboo is the taking of another's name, passing oneself off as another person by name and claim. In a culture where any shape can be worn, the name is what others trust, and a Dulandi who steals one shames their whole aelwyd.
 
-The Dulandi worship the Primordials, and [[Religion and Deities/Deific Figures/Primordials/Murasakino, Purple Primordial Spirit\|Murasakino]] above them all, since Murasakino gave magic to mortals and the Dulandi hold that gift as their birthright. [[Religion and Deities/Deific Figures/Primordials/Midori, Green Primordial Spirit\|Midori]] is honored for the forests and [[Religion and Deities/Deific Figures/Primordials/Kuro, Black Primordial Spirit\|Kuro]] at every death. The Dulandi know the old stories that name [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]] the Angel of the Azure Expanse and regard her place in the lore with respect, but they keep their worship for the Primordials.
+The Dulandi worship the Primordials, and [[Religion and Deities/Deific Figures/Primordials/Murasakino, Purple Primordial Spirit\|Murasakino]] above them all, since Murasakino gave magic to mortals and the Dulandi hold that gift as their birthright. [[Religion and Deities/Deific Figures/Primordials/Midori, Green Primordial Spirit\|Midori]] is honored for the forests and [[Religion and Deities/Deific Figures/Primordials/Kuro, Black Primordial Spirit\|Kuro]] at every death. The Dulandi know the old stories that name [[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]] the Herald of the Azure Expanse and regard their place in the lore with respect, but they keep their worship for the Primordials.
 
 The leylines are Murasakino's gift flowing through the land, and the Dulandi speak of them with reverence. Some follow them. The *crwydriaid*, wanderers, are semi-nomadic scholars who move with the leylines as they shift, studying their currents and settling for a season wherever the magic runs strongest.
 
@@ -66,7 +66,7 @@ A newborn is given a childhood name, which they keep until they come of age. The
 
 A young Dulandi comes of age when their pennaeth judges them ready. They make their first full glide from the household's highest platform before their kin, and on landing they speak the adult name they have chosen for themselves. The childhood name is set aside from that day, and calling an adult by it is a deep insult.
 
-<!-- NOTE: How Mannee households form and how Mannee have children is not recorded on the Mannee page, so this page gives no marriage custom. Worth deciding. -->
+
 
 Each death is honored with a wake. The household gathers to keen for them, and the seanchaí recites the deeds of their life so they pass into the household's memory. The body is laid among the roots of the forest and given back to Kuro.
 
@@ -111,10 +111,10 @@ The Dulandi regard their [[Species and Cultures/Cultures/Portizian\|Portizian]] 
 ## Example Names
 
 **Neutral:** Eirian, Siriol, Gwylan, Aelir, Caelwen, Dyfrin, Faelan, Ithrel, Llirwen, Rhoswy
-<!-- Eirian "bright, silver" (Welsh), Siriol "cheerful" (Welsh), Gwylan "seagull" (Welsh), Faelan "little wolf" (Irish, Faolán); Aelir, Caelwen, Dyfrin, Ithrel, Llirwen, and Rhoswy are invented in the same sound. -->
+
 
 **Household Names:** Gelli, Nant, Bryn, Derwen, Onnen, Celyn, Coedwyn
-<!-- Gelli "grove", Nant "stream", Bryn "hill", Derwen "oak", Onnen "ash tree", Celyn "holly" (all Welsh); Coedwyn "white wood" is invented. -->
+
 
 *Note: The Dulandi have no gendered names. They use their chosen adult name followed by o, "of," and the name of their aelwyd (e.g., Eirian o Gelli). Household names usually recall the tree, hill, or stream where the household lives.*
 

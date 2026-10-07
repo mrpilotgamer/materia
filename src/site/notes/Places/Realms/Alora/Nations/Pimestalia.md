@@ -4,7 +4,7 @@
 
 # Pimestalia
 
-<!-- GAP: The current Presidente of the Junta General is unnamed. -->
+
 
 ## Overview
 
@@ -52,7 +52,7 @@ In 5240 the eastern lands of Imestalia rose against the crown. Their leaders cha
 
 The civil war lasted about five years. Neither side could force a decisive blow across the mountains, and when the war reached a stalemate, the two signed a treaty that left the border along the range.
 
-In 5267, when the army of demons and devils marched out of Adriacium, [[Adventures And Stories/Parties/Retribution\|Retribution]] reached Pimestalia, and Pimestalia sent an advisor to the Wildlands to aid them. She was Seki Thundersword, unknown to history beyond her name, said to have been a strong soldier on the Pimestalian side of the civil war.
+During the [[History/Timeline\|war of 5267]], [[Adventures And Stories/Parties/Retribution\|Retribution]] reached Pimestalia, and Pimestalia sent an advisor to the Wildlands to aid them. She was Seki Thundersword, unknown to history beyond her name, said to have been a strong soldier on the Pimestalian side of the civil war.
 
 ## Capital
 

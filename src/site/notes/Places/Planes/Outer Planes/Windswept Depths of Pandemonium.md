@@ -7,98 +7,69 @@
 *"Where sanity is besieged by unending madness"*
 
 ## Overview
-Pandemonium is an enormous mass of matter pierced through by innumerable tunnels, all of them carved by the plane's howling winds. It is windy, loud, and dark, with no natural source of light anywhere in it. The wind snuffs ordinary fires quickly, and any light that burns longer draws wights driven insane by the constant noise.
+Pandemonium is a gigantic lump of rock riddled with countless tunnels, all of them carved by the plane's screaming winds. It is windy, loud and dark, and nothing in it gives off light on its own. The wind puts out ordinary fires fast, and any light that keeps burning attracts wights driven mad by the endless noise.
 
-Every word, scream, and shout is caught by the wind and flung through all four layers. Conversation requires shouting, and even then the wind carries the words away past ten feet or so.
+The wind catches every word, scream and shout and throws it through all four layers. You have to shout to be heard, and even then the wind carries your words off past about ten feet.
 
-The plane's stale wind is cold and strips heat from anyone unprotected against the endless gale. It buffets every inhabitant, blows sand and dirt into eyes, snuffs torches, and carries off anything not secured. In places the wind howls fiercely enough to lift a creature off its feet, carry it for miles, and dash it to lifeless pulp against some dark and unseen cliff face.
+The wind is stale and cold, and it pulls the warmth out of anyone who isn't protected from it. It shoves at everyone, throws grit in their eyes, blows out torches and carries off anything not tied down. In some places it howls hard enough to pick a creature up, carry it for miles and smash it against some unseen cliff in the dark.
 
-A few sheltered pockets exist where the wind drops to a breeze carrying haunting echoes from distant parts of the plane, distorted by the journey until they sound like cries of torment.
+There are a few sheltered pockets where the wind drops to a breeze. Even there it carries eerie echoes from far parts of the plane, bent out of shape on the way until they sound like screams of pain.
 
-The four layers are Pandesmos, Cocytus, Phlegethon, and Agathion. The name Pandemonium translates as "uproar and commotion," and the plane's features answer to the description. Windstorms can blow through any layer without warning. Sight functions much as it would in any deep underground place beyond the reach of natural light.
+The four layers are Pandesmos, Cocytus, Phlegethon and Agathion. The name Pandemonium means "uproar and commotion," and the plane earns it. Windstorms can tear through any layer without warning. Sight works as it would in any deep cave where no daylight reaches.
 
-<!-- 
-Hearing on Pandemonium
-The constant screams of the wind make it impossible to hear anything beyond 10 feet. Likewise, spells and effects that rely on sonic energy have their range limited to 10 feet. Travelers are temporarily deafened after 1d10 rounds of exposure to the winds, and permanently deafened after 24 hours of exposure. Temporarily deafened characters regain their hearing after 1 hour spent out of the wind. Ear plugs or similar devices negate the deafening effect. Of course, wearing ear-plugs effectively mimics the normal effects of being deafened.
+The wind deafens. Any time in it leaves a traveler unable to hear, and long exposure makes the deafness permanent. Earplugs prevent the damage, with the obvious downside. When a real windstorm comes up, anyone caught in the open is in danger in body and mind: flying stones, gusts strong enough to throw a body into rock, and shrieking that confuses listeners and, at its worst, drives them permanently mad.
 
-Windstorms on Pandemonium
-The constant winds on Pandemonium can gust with howls so maddening and speeds so enormous that they become dangerous.
 
-Those caught without shelter when one of Pandemonium's windstorms blows up are in trouble; both mind and body are in peril. A windstorm has a 10% chance per day of blowing through a given area. Generally, a windstorm gusts through an area in 1 round.
-
-**Windstorms on Pandemonium Table**
-
-| d% | Effect | Saving Throw |
-|---|---|---|
-| 01–10 | Flying pebbles deal 1d4 points of damage | Reflex DC 15 half |
-| 11–20 | Pelting stones deal 2d6 points of damage | Reflex DC 18 half |
-| 21–30 | Howling wind causes confusion for 1d4+1 rounds | Will DC 15 negates |
-| 31–40 | Flying boulders deal 2d8 points of damage | Reflex DC 20 half |
-| 41–50 | Cacophonous wind causes confusion for 2d4+1 rounds | Will DC 18 negates |
-| 51–60 | Wind picks up travelers, dashing them against rock wall for 2d10 points of damage | Reflex DC 22 half |
-| 61–70 | Screaming wind causes confusion for 2d4+1 rounds | Will DC 20 negates |
-| 71–80 | Wind picks up travelers, dashing them against rock wall for 4d10 points of damage | Reflex DC 24 half |
-| 81–90 | Wind picks up travelers, dashing them against rock wall for 4d10 points of damage, then blows them into a tributary of the River Styx | Reflex DC 24 half, then Reflex DC 20 negates |
-| 91–100 | Shrieking wind causes insanity | Will DC 22 negates | 
--->
-
-The wind deafens. Exposure of any length leaves a traveler unable to hear, and prolonged exposure makes the loss permanent. Ear plugs prevent the damage at the obvious cost. When a true windstorm rises, those caught in the open face danger to mind and body together, whether flying stone, wind strong enough to throw a body against rock, or the shrieking that drives listeners to confusion and, at its worst, to lasting insanity.
 
 ## Planar Links
-Permanent portals connect Pandemonium to various other planes. Several tunnels blow in from or out to the Elemental Plane of Air, and the headwaters of the Styx well up from the topmost layer.
+Pandemonium has permanent portals to many other planes. Several tunnels blow in from, or out to, the Elemental Plane of Air, and the River Styx begins on the top layer.
+
+## Divine Realms
+**[[Religion and Deities/Deific Figures/Progenitors/Demons/Jaune, the Yellow Progenitor Demon\|Jaune]]**, Breaker of Minds, rules the Maddening Fields. It is the strongest domain on Pandemonium. Jaune is madness and fear, and it is said that anyone who looks at her has their brain melt out of their ears.
+
+No god of Materia holds a realm on Pandemonium.
 
 ## Inhabitants
-Pandemonium is likely the least inhabited of all the Outer Planes, and arguably the least hospitable. Hotter planes exist, and colder ones, and planes whose denizens are crueler. None is more exhausting. The constant screeching of the winds wears down the loftiest celestial and the foulest fiend alike, given time.
+Pandemonium probably has fewer people than any other outer plane, and it may be the least welcoming. Other planes are hotter or colder, and some have crueler natives, but none is more exhausting. Given enough time, the constant shrieking of the wind grinds down the noblest celestial and the foulest fiend alike.
 
-Beyond the occasional fiendish nest, the only natives of note are small ragged groups of mortal humans, goblinoids, giants, dwarves, drow, and other species, known collectively as the Banished. Some long-forgotten creature, spellcaster, or deity sentenced their distant ancestors to this plane, and their descendants have never found a way out. The Banished are responsible for the few sad cities that survive here.
+Apart from the odd nest of fiends, the only natives worth mentioning are small, ragged bands of mortal humans, [[Species and Cultures/Races/Grendal\|Grendal]], [[Species and Cultures/Races/Trox\|Trox]], [[Species and Cultures/Races/Daemedi\|Daemedi]], giants and others, known together as the Banished. Long ago, some forgotten creature, spellcaster or god exiled their ancestors to this plane, and their descendants have never found a way out. The Banished built the few sad cities that still stand here.
 
 ## Petitioners
-Pandemonium receives many petitioners. The screaming wind swallows most of them on arrival. Some linger, appearing much as they did in life though considerably thinner, and the winds trouble them less than they trouble the living. Nearly all of them are utterly insane.
+Many petitioners arrive on Pandemonium, and the screaming wind swallows most of them right away. Some hang on. They look much as they did in life, only much thinner, and the wind bothers them less than it bothers the living. Almost all of them are completely mad.
 
-<!-- 
-Pandemonium's petitioners have the following special petitioner traits:
 
-**Additional Immunities:** Electricity, sonic.
-
-**Resistances:** Cold 20, acid 20.
-
-**Other Special Qualities:** None. 
--->
 
 ## Travel and Conflict
-Getting about Pandemonium feels much like getting about the material world wherever tunnels run long and winds run strong. When the winds gust up, movement becomes very difficult. Fighting here is complicated by the same gale, which spoils the aim of anyone using a thrown or shot weapon and knocks the smallest combatants off their feet.
+Getting around Pandemonium is like getting around Materia in long tunnels with a strong wind. When the wind gusts, moving at all becomes very hard. The same gale makes fighting harder too. It throws off anyone using a bow or thrown weapon, and it knocks the smallest fighters off their feet.
 
-<!-- 
-Combat
-Combat functions normally on Pandemonium, but in most cases takes place among strong winds. All ranged weapons suffer a –2 penalty on attacks due to the winds, and Tiny or smaller creatures must make a Fortitude save (DC 10) each round or be knocked down. 
--->
+
 
 ## Layers
 
 ### Pandesmos
-The first layer holds the largest caverns, some of them big enough to contain entire nations. Large or small, most are desolate and long since abandoned to the winds.
+The first layer has the biggest caverns, some of them large enough to hold whole nations. Big or small, most of them are empty and were given up to the wind long ago.
 
-Many of Pandesmos's caverns and tunnels share a feature besides the omnipresent wind. Streams of frigid water run from cavern to cavern, some of them down the center of a tunnel in midair, where the objective gravity of each wall cancels out the others. Many of these streams are tributaries of the River Styx, though not all.
+Many of the caverns and tunnels of Pandesmos have something else in common besides the wind. Streams of icy water run from cavern to cavern, some of them flowing through the middle of a tunnel in midair, where the gravity pulling toward each wall cancels out. Many of these streams, though not all, are branches of the River Styx.
 
-**Madhouse:** A group of outsiders called the Bleak Cabal maintains a citadel in Pandesmos that works as a way station for travelers. The Madhouse is a sprawling structure of haphazardly arranged buildings divided by several circular stone walls, so large that it fills an entire cavern and covers every surface of it. Travelers, petitioners, and natives crowd the place. Lodging is available along with most services a normal city would offer. A respectable portion of the population is insane, deaf, or both.
+**Madhouse:** A group called the Bleak Cabal keeps a fortress in Pandesmos that serves as a rest stop for travelers. The Madhouse is a sprawling jumble of buildings split up by several ring-shaped stone walls, and it is so big that it fills a whole cavern and covers every surface in it. It is packed with travelers, petitioners and natives. A visitor can find a bed and most of the services any normal city offers. A good share of the people living there are mad, deaf or both.
 
-**Winter's Hall:** A snowbound and blizzard-ridden region. Visibility runs to a few feet at best even where light can be had. The snow never settles, since the winds whip it up continually until tunnels and creatures alike wear a uniform coat of ice. Frost giants and winter wolves prowl the cold waste, serving a cruel entity known by many names and most often venerated as the Trickster.
+**Winter's Hall:** A region of snow and blizzards. Even where there's light, you can see a few feet at best. The snow never settles, because the wind keeps whipping it up until tunnels and creatures alike are crusted with ice. Frost giants and winter wolves roam this frozen waste, serving a cruel being with many names, most often worshipped as the Trickster.
 
 ### Cocytus
-The tunnels of Cocytus run smaller than those of Pandesmos, which funnels the wind more tightly. The resulting wails have earned the layer its nickname, the layer of lamentation. The tunnels here bear marks of hand-chiseling, which is difficult to account for: any such undertaking would have to predate any measure of years the archive possesses.
+The tunnels of Cocytus are smaller than those of Pandesmos, which squeezes the wind tighter. The wailing it makes has earned this layer the nickname "the layer of lamentation." The tunnels show the marks of chisels, which nobody can explain: any work like that would have to be older than any calendar the archive knows.
 
-**Howler's Crag:** A jagged spike of stone at the layer's center, a jumbled pile of stones, boulders, and worked masonry resembling a giant's palace collapsed inward. Its top is a level platform roughly eight feet across, ringed by a low wall, and the platform and anyone standing on it glow with an ephemeral blue radiance. Small burrows riddle the Crag's lower reaches, some dead ends and some connecting. Every burrow wall is covered in lost alphabets said to spell out strange psalms, liturgies, and strings of numerals or formulas.
+**Howler's Crag:** A jagged spike of stone in the middle of the layer, a heap of rocks, boulders and cut stone that looks like a giant's palace caved in on itself. Its top is a flat platform about eight feet across with a low wall around it, and the platform and anyone standing on it glow with a faint blue light. Small burrows run all through the bottom of the Crag. Some dead-end and some connect. Every burrow wall is covered in lost alphabets, said to spell out strange hymns, prayers and long strings of numbers or formulas.
 
-Natives hold that anything shouted from the top of the Crag reaches the ears of its intended recipient anywhere on the Great Wheel, carried on a shrieking and frigid wind. Demons have learned that visitors trickle to the crag continually. Those visitors are generally archaeologists, diviners, and people hoping to send word to some lost friend or enemy, and most of them become prey for the fiends waiting in ambush.
+Natives say that anything shouted from the top of the Crag will reach the ears of whoever it's meant for, anywhere on the Great Wheel, carried there on a freezing, shrieking wind. Demons have figured out that a steady trickle of visitors comes to the Crag. Most are archaeologists, diviners and people hoping to send a message to some lost friend or enemy, and most of them end up as prey for the fiends waiting in ambush.
 
-**Harmonica:** A site known only from legend. The winds are said to whip through a cavern where holes and tubes have been chiseled into gargantuan rock columns, producing a noise worse than anywhere else on the plane. Somewhere within that maze of tortured cacophony supposedly lies the true secret of planewalking, the art of traveling between planes without portal, spell, or device. The account is in all likelihood a legend with no foundation, which has never stopped seekers from finding the columns of Harmonica and dying among them.
+**Harmonica:** A place known only from legend. The story goes that the wind whips through a cavern where holes and tubes have been carved into huge stone columns, making a noise worse than anywhere else on the plane. Somewhere in that maze of tortured noise is supposed to be the true secret of planewalking: how to travel between planes without a portal, spell or device. The story is almost certainly made up, which has never stopped seekers from finding the columns of Harmonica and dying among them.
 
 ### Phlegethon
-The unrelenting noise of dripping water meshes with the howling wind in Phlegethon's narrow, twisting runnels. The rock itself absorbs light and heat, and every light source, natural or magical, reaches only half its usual distance. Normal gravity applies in these tunnels, unlike elsewhere on the plane, which has allowed intricate stalagmite and stalactite formations to grow. The brutal wind weathers them continually.
+In Phlegethon's narrow, twisting channels, the constant drip of water mixes with the howl of the wind. The rock soaks up light and heat, so every light, natural or magic, reaches only half as far as normal. Unlike the rest of the plane, these tunnels have normal gravity, so elaborate stalagmites and stalactites have grown here. The harsh wind is always wearing them down.
 
-**Windglum:** A city of the Banished occupying a cavern several miles across, its ceiling held up by enormous natural columns. Hundreds of ever-burning globes light a disordered sprawl of homes surrounding a fortification known locally as the Citadel of Loros. Suspicion characterizes the place. The locals rarely trust strangers and many are mentally unstable. One inn does welcome outsiders: the Scaly Dog, where a planar traveler can meet other wayfarers, hire mercenaries, gather information, or look for work.
+**Windglum:** A city of the Banished in a cavern several miles across, its roof held up by huge natural pillars. Hundreds of globes that never go out light a messy sprawl of houses around a fort the locals call the Citadel of Loros. The city runs on suspicion. Locals rarely trust strangers, and many are unstable. One inn does welcome outsiders: the Scaly Dog, where a planar traveler can meet other travelers, hire mercenaries, pick up news or look for work.
 
 ### Agathion
-In the fourth layer the tunnels narrow until they constrict to nothing, leaving an infinite number of closed-off spaces filled with stale air or vacuum, each surrounded by an infinity of solid stone. The portals connecting Agathion to the rest of Pandemonium open into these otherwise unreachable bubbles, and stepping through one always sets off a windstorm.
+On the fourth layer the tunnels narrow until they close off entirely, leaving countless sealed pockets of stale air or empty vacuum, each wrapped in endless solid stone. The portals between Agathion and the rest of Pandemonium open into these otherwise unreachable bubbles, and stepping through one always sets off a windstorm.
 
-The closed spaces of Agathion are nearly impossible to find without knowing where the portal is. For that reason deities, and other powerful entities predating the current deities, have used them as vaults. What is hidden there reportedly includes uncontrollable artifacts, precious mementos, lost languages, unborn cosmologies, and monsters of such cataclysmic power that they could be neither slain nor otherwise neutralized.
+The sealed pockets of Agathion are almost impossible to find without knowing where the portal is. That has made them a favorite hiding place of gods, and of powerful beings older than the current gods. What's hidden there supposedly includes artifacts nobody can control, treasured keepsakes, lost languages, unborn cosmologies, and monsters so powerful they could not be killed or stopped any other way.

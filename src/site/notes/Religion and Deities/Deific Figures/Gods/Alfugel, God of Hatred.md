@@ -6,9 +6,9 @@
 
 ## Overview
 
-Alfugel (AL-fuh-gel), The Embodiment of Rage, makes hard demands of the faithful. They require their followers to reject what society asks of them and to show their anger when it arises. Those who suppress anger where suppression is wholly unnecessary earn the god's loathing, since Alfugel treats emotional restraint as weakness and as dishonesty toward oneself.
+Alfugel (AL-fuh-gel), The Embodiment of Rage, is a demanding god. The faithful are expected to turn their backs on what polite society wants and to show their anger when they feel it. Swallowing anger you had no need to swallow earns Alfugel's contempt. To Alfugel, holding your feelings in is weakness, and it's lying to yourself.
 
-Warriors on the battlefield worship Alfugel widely, as befits a god of anger and strength. Depictions give the god the form of a [[Species and Cultures/Races/Trox\|Trox]], and trox communities across [[Places/Materia\|Materia]] revere them accordingly. Some say Alfugel watches every battle and waits to see who proves worthy of their support and gifts, marking out the warriors who fight with unbridled fury and hold nothing back in combat.
+Warriors worship Alfugel widely. The god is shown in the form of a [[Species and Cultures/Races/Trox\|Trox]], and Trox communities everywhere honor them. Some say Alfugel watches every battle, looking for the fighters who hold nothing back, and that those are the ones who receive the god's gifts.
 
 ## Worship and Clergy
 
@@ -29,11 +29,11 @@ A Cracked Skull with Flames in its Eyes
 
 ### Worshipers
 
-Alfugel's followers are predominantly warriors, barbarians, and members of the trox species who embrace rage as a sacred gift and refuse to treat it as a flaw requiring suppression. The clergy teaches that anger is honest, that fury is strength, and that holding back in battle shows an enemy a mercy they do not deserve.
+Alfugel's followers are mostly warriors, berserkers and Trox, who treat their rage as a gift. The clergy teach that anger is honest and fury is strength. Holding back in battle is a mercy the enemy hasn't earned.
 
-The faith departs from war gods that preach discipline or honor. Alfugelian teaching holds to the purity of unleashed rage, and treats combat as the truest expression of one's nature, a place where societal masks are stripped away and only raw emotion and strength remain.
+To an Alfugelian, combat is where you find out who you really are, with all the politeness stripped away.
 
-Clerics of Alfugel often work as war priests. They bless warriors before battle and ensure that the fallen who fought with proper fury receive appropriate rites. Their counsel warns followers against suppressing legitimate grievances, on the teaching that unexpressed anger festers and weakens the spirit.
+Priests serve as war priests. They bless warriors before a battle and make sure that anyone who died fighting with real fury gets the proper rites. They also warn the faithful against sitting on a real grievance, since anger kept inside goes sour and eats at you.
 
 ### Tenets of Faith
 
@@ -49,27 +49,31 @@ Those who follow Alfugel swear to live by these principles:
 
 ## History
 
-Alfugel has existed since before the [[History/Great Schism War\|Great Schism War]], and their worship has remained remarkably consistent throughout the ages. The clergy grew significantly during the [[History/Ages/Age of Expansion\|Age of Expansion]] as kingdoms expanded through military conquest.
+Alfugel was worshiped before the [[History/Great Schism War\|Great Schism War]], and the faith has barely changed since. It grew in the [[History/Ages/Age of Expansion\|Age of Expansion]], when kingdoms were spreading by the sword.
 
-The [[History/Ages/Age of Incursion\|Age of Incursion]] destroyed many temples to Alfugel through natural disaster, an irony not lost on scholars, since the god's worshipers had often shown little restraint in their treatment of the land.
+The [[History/Ages/Age of Incursion\|Age of Incursion]] destroyed many of Alfugel's temples, which scholars have always found fitting, given how little restraint Alfugel's faithful had shown the land.
 
-In the current [[History/Ages/Age of Stability\|Age of Stability]], worship remains strong among warrior cultures. It holds particular force in [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]], where combat prowess is highly valued, and in [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]], where draconic might and strength are celebrated virtues.
+Alfugel is strongest among warrior peoples, above all in [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]], where strength in a fight is prized, and in [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]], where the might of dragons is admired.
 
 ## Related Entities
 
-**Allies:** Alfugel maintains an uneasy alliance with [[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura, God of Courage]], as both deities value battlefield valor, though Mendura's emphasis on standing firm differs from Alfugel's focus on overwhelming offense.
+**Allies:** [[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura, God of Courage]] is an uneasy ally. Both faiths value courage in battle, but Mendura holds the line and Alfugel charges it. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing, God of Consumption]] agrees that hunger and rage are natural and nothing to be ashamed of.
 
-**Rivals:** [[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri, God of Restraint]] stands in philosophical opposition to everything Alfugel represents, teaching that restraint and patience are virtues. The followers of the two gods clash often in theological debate, and occasionally in more direct confrontations.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri, God of Restraint]] teaches that restraint and patience are virtues, which is everything Alfugel rejects. The two faiths argue constantly, and sometimes it comes to blows. [[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner, God of Caution]] teaches careful planning, and Alfugel's faithful see that caution as fear wearing a sensible face.
 
 ## Holy Days and Festivals
 
 ### Day of Release
 
-Celebrated during the month of **Alfula**, the fifth month, named in Alfugel's honor, the Day of Release is a sacred time when followers are encouraged to voice their grievances openly. Tradition on this day calls for telling those who have frustrated or wronged you exactly how they have done so, holding nothing back, in the spirit of honesty through anger.
+Held on the 14th of **Alfula**, the fifth month, named in Alfugel's honor, the Day of Release is for saying what's been eating at you. Tradition says you tell anyone who has wronged or frustrated you exactly what they did, and hold nothing back.
 
-The day also features contests of strength and martial prowess, where warriors prove their mettle in combat tournaments. These competitions can be fierce. Death is not the goal, though serious injury is considered an acceptable risk, and the victors are said to receive Alfugel's favor in the coming year.
+There are also contests of strength and fighting tournaments. They get rough. Nobody is trying to kill anyone, but serious injury is an accepted risk, and the winners are said to have Alfugel's favor for the year.
 
-Some communities light controlled bonfires, into which participants throw symbols of their frustrations. The clergy ensures these fires are properly maintained, so as to avoid the kind of destructive conflagration that drew the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]' ire during the [[History/Ages/Age of Incursion\|Age of Incursion]].
+In some towns bonfires are lit, and people throw in things that stand for what has been making them angry. Priests keep the fires under close watch. Nobody wants a fire that gets out of hand and draws the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]' anger the way such fires did in the [[History/Ages/Age of Incursion\|Age of Incursion]].
+
+## Home Plane
+
+Alfugel makes a home on [[Places/Planes/Outer Planes/Infernal Battlefield of Acheron\|Acheron]].
 
 ## Areas of Concern
 

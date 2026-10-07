@@ -35,7 +35,7 @@ The Portizians hold three values above the rest, and the two nations read each o
 
 The greatest taboo is to turn a vecino out for their race or people. Driving away a neighbor who has sworn to the town's fuero breaks the oldest promise of Portizian life, and the family that does it loses its honra in every town that hears of it.
 
-[[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]] is the most honored god among the Portizians. Her temples stand in every town, and her faithful servants, the knights and the officials who serve with loyalty, look to her for their reward. Each nation honors her in its own way. Imestalians pray to her as the patron of loyal service to the crown, and Pimestalians as the patron of loyalty to one's neighbors and one's cause. [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity]] is honored as well, and the brotherhoods that keep his alms feed the poor of every town.
+[[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]] is the most honored god among the Portizians. Their temples stand in every town, and their faithful servants, the knights and the officials who serve with loyalty, look to them for their reward. Each nation honors them in its own way. Imestalians pray to them as the patron of loyal service to the crown, and Pimestalians as the patron of loyalty to one's neighbors and one's cause. [[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity]] is honored as well, and the brotherhoods that keep their alms feed the poor of every town.
 
 The Portizians regard magic as an *oficio*, a trade like smithing or law, learned through study and practiced for a living. Mages are respected professionals, and every town of any size keeps one or more for hire. Mannee born into Portizian towns are known to have a gift for it, and many take up the trade, but the culture judges them by their skill as it would any other craftsman.
 
@@ -106,16 +106,16 @@ The Portizians admire the [[Species and Cultures/Cultures/Dulandi\|Dulandi]] for
 ## Example Names
 
 **Male:** Rodrigo, Fernando, Alfonso, Sancho, Diego, Gonzalo, Álvaro
-<!-- Rodrigo "famous ruler", Fernando "bold journey", Alfonso "noble and ready", Sancho "holy", Diego, Gonzalo "battle", Álvaro "guardian" -->
+
 
 **Female:** Jimena, Urraca, Elvira, Sancha, Leonor, Mencía, Berenguela
-<!-- Jimena "listener", Urraca "magpie", Elvira "true", Sancha "holy", Leonor "light", Mencía, Berenguela "bear spear" -->
+
 
 **Neutral:** Cruz, Paz, Reyes, Celeste
-<!-- Cruz "cross", Paz "peace", Reyes "kings", Celeste "heavenly" -->
+
 
 **Surnames:** Rodríguez, Fernández, González, Sánchez, Díaz, Álvarez, Ruiz
-<!-- Most are patronymics in -ez, "son of": Rodríguez "of Rodrigo", Fernández "of Fernando", González "of Gonzalo", Sánchez "of Sancho", Díaz "of Diego", Álvarez "of Álvaro"; Ruiz "of Ruy". -->
+
 
 *Note: Portizians use a given name followed by two surnames, the first from one parent and the second from the other (e.g., Jimena Díaz Ruiz). Old families often add the place their line comes from (e.g., Rodrigo Díaz de Quichollow). In Imestalia nobles are addressed as don or doña. Pimestalia abolished the titles, and its people address one another as vecino or vecina.*
 

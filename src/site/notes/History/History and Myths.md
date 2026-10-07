@@ -6,7 +6,7 @@ Across time and memory, there have been events and stories told to us all. Here,
 
 ## History
 
-Our History is divided into many ages, as to better understand and define our past.
+Our History is divided into many ages, as to better understand and define our past. Years are counted PC, Post-Cataclysm, from the end of the [[History/Great Schism War\|Great Schism War]]. The [[History/Timeline\|Timeline]] lists the dated events of each age, and the [[History/Calendar\|Calendar]] explains the months, weeks and holy days.
 
 [[History/Ages/Prehistory\|Prehistory]] - The time before our written records and research. This era ends with the [[History/Great Schism War\|Great Schism War]]. All that we know here is based on Conjecture.
 
@@ -18,7 +18,7 @@ Our History is divided into many ages, as to better understand and define our pa
 
 [[History/Ages/Age of Incursion\|Age of Incursion]] - When the civilizations had drained so much, that the world was starting to feel the effects, the [[Religion and Deities/Deific Figures/Primordials\|Primordials]] Stepped in, and caused minor devastation across the lands, reminding the civilizations that they will learn to coexist with the land, or they will not exist at all
 
-[[History/Ages/Age of Stability\|Age of Stability]] - After the Incursion, peace and stability returned to the world. While many cities and lands were lost, a balance was achieved that allowed many peoples to prosper, and remain stable. This is the current age we find ourselves in.
+[[History/Ages/Age of Stability\|Age of Stability]] - After the Incursion, a balance with nature returned to the world. While many cities and lands were lost, the Primordials have not struck again, and many peoples have prospered, though wars between them have not stopped. This is the current age we find ourselves in.
 
 
 ## Myths

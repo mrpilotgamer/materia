@@ -7,67 +7,66 @@
 *"Where the most loyal animal companions go when they die"*
 
 ## Overview
-The Wilderness of the Beastlands is nature unbound. Its forests range from mangroves hung heavy with moss to snowfall-laden pines to acres of sequoias a hundred feet thick whose canopies admit no light at all. Oak, birch, spruce, fir, and maple are common, and explorers who reach the plane's distant corners find great forests of giant fungi and mushrooms. Vast deserts exist as well, and they are hardly barren. Cactus, aloe, and other desert plants thrive in the arid parts of the plane.
+The Beastlands is wild country with nothing to hold it back. It has mangrove swamps draped in moss, pine forests heavy with snow, and stands of sequoia a hundred feet thick whose crowns shut out the light completely. Oak, birch, spruce, fir and maple are everywhere, and explorers who go far enough find whole forests of giant mushrooms. There are deserts too, and they are far from empty: cactus, aloe and other dry-country plants grow thick across them.
 
-The air favors anything that grows. It is humid and warm in the swampy regions, calm and cool beneath the sequoias, breezy and clear among the beeches, and arid and hot across the open country. The Beastlands has three layers, each frozen at a different part of the day. The top layer holds eternal daylight, the second perpetual twilight, and the third a night lit only by a pale moon.
+The air suits whatever grows in it. It is hot and wet in the swamps, cool and still under the sequoias, fresh and breezy among the beeches, and hot and dry in open country. Each of the plane's three layers is stuck at one time of day. The top layer is always afternoon, the middle layer is always dusk, and the bottom layer is always night under a pale moon.
 
-What matters most about the Beastlands is how it favors animals of every kind. Like Arcadia it is heavily populated by animals, beasts, and magical beasts. Traditional towns, cities, and strongholds are few and far between, and those who make homes here seek to live with the trees and never against them.
+The Beastlands belongs to the animals. Like Arcadia, it is full of animals, beasts and magical beasts, but here they come first. There are very few towns, cities or forts, and the people who do settle here try to live with the forest, never against it.
 
 ## Planar Links
-The Beastlands borders the neighboring Outer Planes of Arborea and Elysium. Natural portals between them are common, and shifting borders can whisk a traveler from one plane to another without warning. Such portals often take the form of hollow trees. Stepping into the rotted core of a lightning-blasted oak carries a traveler to Arborea, and ducking into the hollow of a toppled sequoia connects to Elysium.
+The Beastlands borders Arborea and Elysium. Portals between them are common, and the borders shift, so a traveler can end up on a different plane without warning. The portals are often hollow trees. Climb into the rotten heart of an oak split by lightning and you come out on Arborea. Crawl into the hollow of a fallen sequoia and you come out on Elysium.
 
-Portals between the layers are insubstantial and erratic, and many run one way only. Passing between two trees or ducking beneath a branch shifts the light from day to twilight, Krigala to Brux, or from dusk to night, Brux to Karasuthra. These portals are common enough that a wanderer can usually find their way back to the top layer without much trouble.
+Portals between the layers are faint and unreliable, and many only go one way. Walk between two particular trees, or duck under a certain branch, and the light changes from afternoon to dusk (Krigala to Brux) or from dusk to night (Brux to Karasuthra). These portals are common enough that a lost traveler can usually find a way back up to the top layer.
 
-The River Oceanus flows through the Beastlands on its way from Elysium to Arborea. Its course runs straight and true across the plane, though the border between planes is a stretch of white-water rapids, and no traveler should attempt that crossing without a sturdy ship.
+The River Oceanus crosses the Beastlands on its way from Elysium to Arborea. It runs straight across the plane, but the borders at either end are white-water rapids, and nobody should try them without a strong boat.
+
+## Divine Realms
+**[[Religion and Deities/Deific Figures/Progenitors/Angels/Roheline, the Green Progenitor Angel\|Roheline]]**, the Infinite Giver, holds the Grove of Empty Hands. It is the strongest domain on the Beastlands. Roheline's followers give away everything they have, down to their own lives.
+
+**[[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]]**, God of Consumption, also makes a home here. On Materia they are honored as the Beast of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], and the Beastlands, where everything eats and is eaten, suits him.
+
+
 
 ## Inhabitants
-A variety of creatures live here. Outsiders come first among them, often celestial versions of wild creatures found in the material world. These celestial animals, beasts, vermin, and magical beasts inhabit every environmental niche the plane offers. A nonevil aberration occasionally makes its home here, though few intelligent creatures beyond magical beasts such as unicorns stay long in the wilderness.
+All kinds of creatures live here. Most are outsiders, usually celestial versions of wild animals from material worlds. Celestial animals, beasts, vermin and magical beasts fill every corner of the plane. Now and then a good-natured aberration settles here, but few thinking creatures stay in the wild for long, apart from magical beasts like unicorns.
 
-Some sages contend that the spirits of wild creatures drift to the Beastlands after death and are reincarnated as celestial versions of their mortal selves. Whether that is true remains unknown, and it would account for the enormous number of celestial wild things living here.
+Some sages think wild animals' spirits come to the Beastlands when they die and are reborn as celestial versions of themselves. Nobody knows if that's true, though it would explain why there are so many celestial animals here.
 
-Celestial creatures in the Beastlands are markedly sharper of mind than their kin elsewhere and can speak the Celestial tongue. The added wit does little to dull their natural tendencies, and the deadly dance between predator and prey continues in this extraplanar arena as it does anywhere else. It does let prey attempt to bargain its way out of danger, and it lets a pack of predators coordinate the hunt more effectively.
+Celestial creatures on the Beastlands are smarter than their kin elsewhere, and they can speak Celestial. That doesn't change what they are. Predators still hunt and prey still runs. Speech does let prey try to talk its way out of being eaten, and it lets a pack plan a hunt.
 
-Azatas may be found here as well. The plane is home to many beasts of legend, superior versions of powerful animals, beasts, and magical beasts. Good-aligned lycanthropes, and their petitioner spirits after death, find great joy among their animal kin here, though they lose their lycanthropic abilities on this plane.
+Azatas live here too. So do many legendary beasts, bigger and stronger versions of ordinary animals and magical beasts. Good-hearted lycanthropes love it here, and so do their spirits after they die, though they cannot change shape while they're on the plane.
 
-Planar travelers are common on all three layers, largely because the portals between layers are so numerous that spreading across all three is easy. Some are simply moving between Elysium and Arborea. Others are sages and acolytes seeking knowledge available only in the darkest woods. Others still are hunters from other planes pursuing the beasts that populate the plane, and hunters frequently find themselves overmatched by the wild creatures here and beat a hasty retreat.
+Travelers are common on every layer, because the portals between layers make it easy to wander. Some are just passing between Elysium and Arborea. Some are sages and acolytes after knowledge that can only be found in the darkest woods. Some are hunters from other planes chasing the beasts that live here, and they often find the beasts are better hunters than they are.
 
 ## Petitioners
-Because few deities make their home on this plane, the mortal souls drawn here arrive chiefly on the strength of their philosophy: good, and leaning a little toward freedom over order. They generally live in small communities at the bases of great trees, leading simple lives in harmony with the plane's other creatures.
+Few gods live on the Beastlands, so most of the souls who come here are drawn by how they lived. They were good people who leaned a little more toward freedom than toward order. They tend to live in small groups at the feet of the great trees, keeping simple lives alongside the animals.
 
-These petitioners take on animal traits soon after arriving. Their hair grows long into lustrous pelts, short horns sprout from their foreheads, and they develop cats' eyes or fox ears. Across centuries they become celestial beasts or animals themselves.
+Soon after they arrive, petitioners start to take on animal features. Their hair grows into thick, glossy fur, short horns push out of their foreheads, and some grow cat's eyes or fox's ears. Over centuries they turn into celestial animals entirely.
 
-<!-- 
-Beastlands petitioners have the following special petitioner qualities:
 
-**Additional Immunities:** Electricity, poison.
-
-**Resistances:** Cold 20, fire 20.
-
-**Other Special Qualities:** Fast healing 2. 
--->
 
 ## Travel and Conflict
-The Beastlands hinders movement no more than any forest or woodland of the material world. Creatures able to climb or brachiate can cross the plane without touching the ground at all. Fighting here is neither helped nor hindered by the plane itself, though cover and concealment are plentiful for anyone who knows how to use them.
+Getting around the Beastlands is no harder than walking through any forest on Materia. Anything that climbs or swings through branches can cross the whole plane without touching the ground. The plane doesn't help or hurt anyone in a fight, but there is plenty of cover for those who know how to use it.
 
 ## Layers
 
 ### Krigala
-The top layer is split in two by the River Oceanus, which flows through in a strong torrent flanked by verdant forests that often bridge the water with intertwined branches overhead. Small side channels depart from the main course, and numerous bayous and oxbow lakes have formed wherever the extraplanar river has altered its banks.
+The River Oceanus cuts the top layer in two. It runs fast between thick green forests, and in many places branches from both banks grow together over the water. Smaller channels split off the main river, and wherever the river has moved its banks it has left bayous and oxbow lakes behind.
 
-Krigala is a land of eternal afternoon. A warm sun bathes it in continual glow, warm enough for the plant life and steady within a comfortable range unless some spell or divine will intervenes.
+It is always afternoon on Krigala. A warm sun hangs in the sky and keeps the temperature comfortable for growing things. It doesn't change unless a spell or a god changes it.
 
-Time passes normally here and is not marked by the movement of the sun. Instead, gentle rains drift in on soft breezes once a day. Thunderstorms strike more rarely and send many of Krigala's beasts to cover.
+Time still passes, but the sun doesn't mark it. A soft rain blows in once a day. Thunderstorms are rarer, and they send many of the animals into hiding.
 
-Most creatures encountered here would be active by day if they lived in the material world. Most native life understands in a basic way how the portals between layers work, and can avoid them instinctively when it chooses to.
+Most creatures here are the kind that would be active by day on Materia. Most of them understand, in a simple way, how the portals between layers work, and they can avoid them when they want to.
 
 ### Brux
-The second layer is a land of eternal dusk. The sun is a red ball along the horizon casting long ruddy shadows through the forest, and where it can be seen above the trees a silvered moon hovers low over the opposite horizon. Time passes normally, though newcomers often get the eerie sense that the world has frozen at sunset.
+It is always dusk on Brux. The sun is a red ball on the horizon throwing long red shadows through the trees, and where the sky shows through, a silver moon hangs low on the opposite side. Time passes normally, but newcomers often feel as if the world stopped at sunset.
 
-Brux is slightly cooler than Krigala, and fogs and mists roil through the trees. Its animal life is active at morning and evening, sleeping through the heat of the day and feeding when the sun sits low.
+Brux is a little cooler than Krigala, and mist and fog roll through the woods. Its animals are active at dawn and dusk. They sleep through the heat of the day and feed when the sun is low.
 
-Travelers who arrive on Brux by accident can find their way back to Krigala by following the creeks and streams. Many lead eventually to Oceanus. Others lead into boggy marshes and swamps.
+Travelers who end up on Brux by accident can usually get back to Krigala by following streams downhill. Many of them lead to the Oceanus eventually. Some lead into swamps.
 
 ### Karasuthra
-The lowest layer wears a cloak of continual night. A silver moon whose phases change achingly slowly hangs in the open sky, surrounded by stars drifting lazily across it. Only a few beacons of moonlight pierce the thick forest canopy, forming silver shafts that reach the forest floor.
+It is always night on the bottom layer. A silver moon hangs in the sky and changes phase so slowly it's painful to watch, and stars drift lazily around it. Only a few beams of moonlight get through the thick canopy, falling in silver shafts to the forest floor.
 
-Karasuthra is home to the most dangerous night creatures, hunters relentless in pursuit of their quarry. Hunters from the material world sometimes journey here after the most dangerous of trophies. Some even survive to try a second time.
+Karasuthra is home to the deadliest night hunters, and they never give up a chase. Hunters from material worlds sometimes come here looking for the most dangerous trophies there are. A few of them live to try again.

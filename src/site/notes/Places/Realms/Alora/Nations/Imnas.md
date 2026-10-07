@@ -52,13 +52,13 @@ Imnas keeps largely to itself beyond the business of trade. Its relations with Y
 
 ## History
 
-The Dulandi have lived in the forests of Imnas longer than any record they keep, and the founding of the nation is lost to memory. <!-- NOTE: The founding of Imnas as a nation, as distinct from the Dulandi culture, has no date. Worth deciding whether it matters. -->
+The Dulandi have lived in the forests of Imnas longer than any record they keep, and the founding of the nation is lost to memory. 
 
 Sireth was raised into the sky more than five hundred years ago. Who raised it, and how long the work took, is known only to the council. The rest of Imnas knows only that one generation lived without a floating city and the next lived beneath it.
 
 About four hundred years ago, Yoichizu laid claim to the whole of Morlas Bay, meaning to keep its navy strong and its waters closed. Imnas retaliated and took the easternmost island from Yoichizu. The war ended in an agreement that Morlas Bay would be neutral waters, open to all three nations that border it, and the island stayed with Imnas.
 
-In 5267 the army of demons and devils marched out of Adriacium. Retribution pressed its danger on Imnas, and the council sent battle mages across the ocean to the Wildlands, where they helped halt the army inside Bornumia.
+In 5267 [[Adventures And Stories/Parties/Retribution\|Retribution]] pressed the danger of Adriacium's army on Imnas, and the council sent battle mages across the ocean to the Wildlands, where they helped halt the army inside Bornumia.
 
 ## Capital
 

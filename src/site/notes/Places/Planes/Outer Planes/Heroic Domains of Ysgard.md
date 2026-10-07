@@ -7,56 +7,52 @@
 *"The battleground of eternity"*
 
 ## Overview
-Ysgard is a plane built on an epic scale, with soaring mountains, deep fjords, and dark caverns, and a biting wind always at a hero's back. From freezing water channels to sacred groves, the terrain is grand and terrible alike. Its seasons are sharp: winter a rime of darkness and killing cold, a summer day scorching and clear.
+Everything on Ysgard is big. The mountains are taller than any on Materia, the fjords are deeper, the caves go further down, and the wind is always cold and always strong. Winters are long, dark and deadly. Summer days are hot and cloudless.
 
-Most spectacular of all, the landscape floats atop immense rivers of earth that flow forever through an endless skyscape. The broadest of those earthen rivers are the size of continents, while smaller sections, called earthbergs, are island-sized. Fire rages beneath each river, though only a reddish glow reaches the surface above. The greater concern is the occasional collision between rivers, which produces terrible quakes and sometimes raises new mountain ranges.
+The land itself floats. Ysgard's ground is made of huge rivers of earth that drift forever through an open sky. The largest are the size of continents, and the small broken-off pieces, called earthbergs, are the size of islands. Fire burns on the underside of every one, and from the top it shows only as a red glow through the cracks. Sometimes two rivers of earth run into each other. The quakes from these collisions are terrible, and they can push up whole new mountain ranges.
 
-Ysgard is the home of slain heroes waging eternal battle on fields of glory. When these petitioners fall, they rise again the next morning and continue the war.
+This is where dead heroes go to keep fighting. Every day they go out to the battlefields, and every morning the ones who fell get up again and go back.
 
-Beyond the peculiarities of its landscape, Ysgard behaves much as the material world does, and a traveler will find little difference in how magic and ability function here. Sight is unaffected. The plane is vast, and it is full of life.
+Apart from the floating ground, Ysgard works much like Materia. Magic and skill behave as a traveler expects, and nothing interferes with sight. The plane is huge and crowded with life.
 
 ## Planar Links
-Permanent portals connect Ysgard to various other planes. One of the most notable is a particularly rough-hewn extension of the Infinite Staircase, which reaches countless planes. Multiple landings allow a traveler to ascend or descend that staircase from each of Ysgard's three layers.
+Ysgard has many permanent portals to other planes. The best known is a rough, hand-cut stretch of the Infinite Staircase, which climbs through countless planes. It has landings on all three of Ysgard's layers.
+
+## Divine Realms
+**[[Religion and Deities/Deific Figures/Progenitors/Angels/Kollane, the Yellow Progenitor Angel\|Kollane]]**, the Ever-Smiling, holds the Fields of Endless Valor. It is the strongest domain on Ysgard. Kollane's warriors fight without fear or grief, and they are expected to smile while they do it.
+
+**[[Religion and Deities/Deific Figures/Gods/Meregoma, God of the Ego\|Meregoma]]**, God of the Ego, also makes a home on Ysgard.
+
+
 
 ## Inhabitants
-Petitioners predominate, the slain heroes of countless ages. Humanoids of all kinds also live throughout the top layer, which shares the plane's name. The fiery middle layer of Muspelheim is home mostly to fire giants, while the cavernous lowest layer of Nidavellir belongs to the [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]]. A few devas live here as well.
+Most of Ysgard's people are petitioners, heroes who died in every age there has been. Living humanoids of many kinds also settle the top layer. Fire giants hold most of Muspelheim, the burning middle layer. Fire giants and [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] together hold the caves of Nidavellir at the bottom. A few devas live on the plane as well.
 
 ## Petitioners
-The petitioners of Ysgard are mostly former soldiers whose aggressive and valiant spirits drew them to a plane where competition never dies.
+Ysgard's petitioners were mostly soldiers. They were restless and brave in life, and that is what drew them to a plane where the fighting never stops.
 
-<!-- 
-They have the following special petitioner qualities:
 
-**Additional Immunities:** Fire, acid.
-
-**Resistances:** Electricity 20, sonic 20.
-
-**Other Special Qualities:** None. Like anyone else on the plane, petitioners benefit from the minor positive-dominant trait on Ysgard. 
--->
 
 ## Travel and Conflict
-Getting about Ysgard resembles travel in the material world, with one significant exception: moving between the floating earthbergs of the top layer is tricky work. Anyone who falls between the flaming cracks plummets into Muspelheim below, where earthbergs also predominate and each mass of earth burns continuously, which makes for an inhospitable environment. The lowest layer of Nidavellir offers easy passage through rifts and tunnels, though those tunnels sometimes close, an event dangerous to travelers and natives alike.
+Travel on Ysgard is like travel on Materia, except for the gaps. Getting from one earthberg to the next on the top layer is hard, and anyone who slips through a burning crack falls into Muspelheim. The ground there is broken into earthbergs too, and all of it is on fire. In Nidavellir, the bottom layer, tunnels and rifts make for easy walking, but tunnels sometimes slam shut, and that kills travelers and locals alike.
 
-Fighting proceeds much as it does elsewhere, save that the plane's vitality knits wounds closed as fast as they are opened. Battles consequently run long, and the fallen rise each day to join the fight again.
+Fights on Ysgard go on a long time, because wounds close almost as fast as they are made. And since the dead get up each morning, no battle is ever really over.
 
-<!-- 
-Combat
-Battles on Ysgard function much like they do on the Material Plane. Because all combatants have fast healing 2, battles tend to take longer, and every day fallen foes can rise to join the battle anew. 
--->
+
 
 ## Layers
 
 ### Ysgard
-The top layer shares the plane's name and is by far the best known and most traveled of the three. Most inhabitants live in camps and rugged settlements under rough and wild conditions. Dozens of huge halls, smoking battlefields, and hilly terrain leading down to cold seas dot the layer. Few settlements stand along the edges of any earthberg, excepting those that trade with communities on other earthbergs.
+The top layer has the same name as the plane, and most visitors never see the other two. People live in camps and rough towns. There are dozens of great mead halls, battlefields still smoking from the day's fighting, and hills running down to cold seas. Few settle near the edge of an earthberg unless they trade with the earthbergs nearby.
 
-**Plain of Ida:** A great field near the Hall of the Valiant and the great free city of Himinborg, the largest population center on the layer. The Plain of Ida hosts daily festivals where warriors flaunt their mettle, and bravery and skill in battle are valued above everything else.
+**Plain of Ida:** A wide field near the Hall of the Valiant and the free city of Himinborg, the biggest city on the layer. Every day there is a festival on the Plain of Ida where warriors show off what they can do. Courage and skill in a fight count for more here than anything else.
 
 ### Muspelheim
-The middle layer is made of ribbons of floating earth, some of them continent-sized or larger. Here the ground smokes and burns, which has earned the layer its name as the Land of Fire. It is hostile country where even the soil is sharp volcanic rock, and most of it burns fiercely enough to consume anything unprotected.
+The middle layer is long strips of floating ground, some of them bigger than continents. All of it smokes and burns, which is why it is called the Land of Fire. Even the dirt is sharp volcanic rock, and most of the ground burns hot enough to destroy anything that isn't protected.
 
-Muspelheim's ground rolls upward toward a ridge of fiery mountains at its highest point. That range, called the Serpent Spine, is home to hundreds of fire giant clans, whose watchtowers and citadels defend the mountain passes against rival clans and unwanted visitors.
+The land rises toward a range of burning mountains called the Serpent Spine. Hundreds of fire giant clans live along it, and their towers and fortresses guard the mountain passes from rival clans and from anyone else who isn't welcome.
 
 ### Nidavellir
-The third layer is an underground realm crisscrossed by warm tunnels heated by hot springs and geysers. Its wild regions are crowded with underground forests of strange woods that need no sun, only heat, to grow. Vast caverns run through veins of clear quartz, and deep holds are studded with shining mica and pyrite. Precious and semiprecious minerals lie strewn across the floor of some tunnels and even entire caverns.
+The bottom layer is underground. Hot springs and geysers keep its tunnels warm, and forests of strange trees grow in the wild parts with heat in place of sunlight. Some caverns run through veins of clear quartz, and others glitter with mica and pyrite. In some tunnels gems and precious ore lie loose on the floor.
 
-[[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] kingdoms divide up most of Nidavellir. Most of the layer's inhabitants are mortals, though petitioners are common as well. It is a place of fiery furnaces, ringing anvils, and constant striving toward perfection in smithing, runecrafting, and magic.
+Most of Nidavellir is split between kingdoms where fire giants and [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] live side by side. Yol-Mar who believe they descend from fire giants point to Nidavellir as proof. Skeptics answer that living together makes nobody kin, and the argument goes on. Living mortals outnumber petitioners here, though there are plenty of both. It is a layer of forges and anvils, where smiths, rune-carvers and mages spend their lives trying to perfect their work.

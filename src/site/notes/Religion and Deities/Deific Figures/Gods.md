@@ -8,7 +8,7 @@ Gods are also known to require worship, whether it be because it allows them to 
 
 ## List of Gods 
 
- [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]] - The Embodiment of Rage. His followers are taught to channel their anger, and use it, rather than suppress and hide it
+ [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel, God of Hatred]] - The Embodiment of Rage. Their followers are taught to channel their anger, and use it, rather than suppress and hide it
  
  [[Religion and Deities/Deific Figures/Gods/Arlaxena, God of Leisure\|Arlaxena, God of Leisure]] - The master of Well-Being. Not the most worshiped god, mainly due to the clergy not pushing for hard work to spread the word of their god.
  
@@ -16,7 +16,7 @@ Gods are also known to require worship, whether it be because it allows them to 
  
  [[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine, God of Belief]] - The Great Bringer of light. Followers of this god are kind, bringing light to those around them. They are also a clergy that believe in purging the undead
  
- [[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner, God of Caution]] - Lord of Preparations. He is one many turn to, in their time of need, especially when faced with a difficult choice
+ [[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner, God of Caution]] - Lord of Preparations. They are one many turn to, in their time of need, especially when faced with a difficult choice
  
  [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing, God of Consumption]] - Beast of the Wildlands. Their followers are often wild, or barbaric type people, but are also often kind, wishing to share that which they consume with those around them in great feasts
  
@@ -32,9 +32,9 @@ Gods are also known to require worship, whether it be because it allows them to 
  
  [[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri, God of Restraint]] - Lord of Patience. Those who worship this god understand that doing something purely for looks or excessive pleasure is unnecessary, and wholly untasteful
  
- [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] - Judge of Souls. Every mortal will face this god once, as he is the one who decides which afterlife a soul goes to.
+ [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] - Judge of Souls. Every mortal will face this god once, as they are the one who judges each soul and sees it to its afterlife.
  
- [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma, God of Desire]] - Sage of Cravings. Many of her followers are rewarded for indulging in vices, and chasing the dreams of their own making
+ [[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma, God of Desire]] - Sage of Cravings. Many of their followers are rewarded for indulging in vices, and chasing the dreams of their own making
 
 [^1]: It is currently unknown how the gods came to be. Theories are scattered about what happened Pre-Schism war, however some posit the gods may have either once been mortal and gifted this power, or perhaps stole this power from other deific beings. Or perhaps they were created by the Primordials, but somewhere along the way they became at odds with them.
 

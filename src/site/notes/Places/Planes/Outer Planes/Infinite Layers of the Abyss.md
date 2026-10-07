@@ -7,124 +7,86 @@
 *"Where morality crumbles and ethics perish"*
 
 ## Overview
-The Abyss is everything ugly, everything evil, and everything chaotic, reflected in infinite variety through layers beyond counting. Its nearly endless layers spiral downward into ever more atrocious forms. Conventional wisdom puts the count at 666, and there may well be far more. The whole point of the Abyss is that it exceeds anything conventional wisdom could encompass.
+The Abyss is everything ugly, evil and chaotic, repeated in endless variety across more layers than anyone can count. Layer after layer spirals downward, each one worse than the last. The usual figure is 666 layers, and there may be far more. The whole point of the Abyss is that it is bigger than any usual figure.
 
-Every layer has its own unique and horrific environment. No theme unifies them beyond their harsh and inhospitable character. Lakes of caustic acid, clouds of noxious fumes, caverns of razor-sharp spikes, and landscapes of magma are all possible, as are the less immediately lethal terrains: parched salt deserts, subtly poisonous winds, and plains of biting insects.
+Every layer has its own horrible landscape, and there's no shared theme except that they are all harsh and hostile. There are lakes of acid, clouds of poison gas, caves full of razor-sharp spikes and lands of lava. There are also slower killers: dry salt deserts, winds that poison you a little at a time, and plains crawling with biting insects.
 
-The Abyss is home to demons, creatures devoted to death and destruction. A demon here regards a visitor as food or as amusement. Some regard powerful visitors as potential recruits, willing or otherwise, for the endless war between demons and devils known as the Blood War.
+The Abyss is home to demons, creatures that live for death and destruction. To a demon, a visitor is food or entertainment. Some demons see powerful visitors as recruits, willing or not, for the Blood War, the endless war between demons and devils.
 
-Demon lords inhabit the plane, among them Demogorgon, Graz'zt, and Pazuzu. Other demon princes include Yeenoghu, Alzrius, Baphomet, Eldanoth, Fraz Urblu, Juiblex, Kostchtchie, Lissa'aera, Lupercio, Lynkhab, Pale Night, Verin, and Vucarik.
+Demon lords live here, among them Demogorgon, Graz'zt and Pazuzu. Other demon princes include Yeenoghu, Alzrius, Baphomet, Eldanoth, Fraz Urblu, Juiblex, Kostchtchie, Lissa'aera, Lupercio, Lynkhab, Pale Night, Verin and Vucarik.
 
-Sight functions normally except where a layer's conditions prevent it. Unless noted otherwise, hellish suns, phantom glows, or similarly unpleasant radiances light every layer. Hearing likewise functions normally unless a particular layer suppresses sound.
+Sight works normally unless a layer's conditions get in the way. Unless noted, every layer is lit by a hellish sun, a ghostly glow or some other ugly light. Hearing works normally too, unless a particular layer smothers sound.
 
 ## Planar Links
-The two best-known access points are a gate in the Outlands from the town of Plague-Mort, and the River Styx. Both deliver a traveler to the topmost layer, the Plain of Infinite Portals.
+The two best-known ways in are a gate in the Outlands from the town of Plague-Mort, and the River Styx. Both lead to the top layer, the Plain of Infinite Portals.
 
-<!-- 
-Random Abyssal Layers
-What if your characters wind up being sent to the Abyss as a result of an adventure gone wrong? Or what if they flee powerful demons on the Plain of Infinite Portals by jumping down the nearest pit?
 
-Use the following table to randomly determine the general terrain type of an unknown layer. If desired, roll twice (or more) and combine the results.
 
-| d% | Type of Layer |
-|----|---------------|
-| 1-5 | Air-Dominant |
-| 6-10 | Blood War battleground (demons against devils) |
-| 11-15 | Burning Hellscape |
-| 16-20 | Demonic City |
-| 21-25 | Desert of sand, ice, salt, or ash |
-| 26-30 | Earth-Dominant |
-| 31-35 | Fire-Dominant |
-| 36-40 | Grass plain (filled with predators) |
-| 41-45 | Mixed elemental-dominant (as Limbo) |
-| 46-50 | Mountainous |
-| 51-55 | Negative-dominant (minor or major) |
-| 56-60 | Normal (as the Material Plane) |
-| 61-65 | Ocean of water |
-| 66-70 | Realm of powerful Abyssal entity |
-| 71-75 | Sea of Acid |
-| 76-80 | Sea of Insects |
-| 81-85 | Sea of Magma |
-| 86-90 | Subterranean |
-| 91-95 | Undead Realm |
-| 96-100 | Water-Dominant | 
--->
+## Divine Realms
+**[[Religion and Deities/Deific Figures/Progenitors/Demons/Rouge, the Red Progenitor Demon\|Rouge]]**, Breaker of Chains, rules the Crimson Battlefields. It is the strongest domain in the Abyss. Rouge is passion, and fighting for what you are passionate about. He was banished from [[Places/Materia\|Materia]] by the party [[Adventures And Stories/Parties/Retribution\|Retribution]] in 5267 and has ruled the Crimson Battlefields again ever since.
+
+The demon lords rule their own layers and do not answer to Rouge, though none of them is as strong as he is.
+
+No god of Materia holds a realm in the Abyss.
 
 ## Inhabitants
-Called Demonholme by some, the Abyss harbors demons and is likely their ultimate source. They rule most of its known layers. Other evil creatures live among those layers as well, including bebiliths, bodaks, retrievers, undead of every description, renegade devils, twisted mortals, and worse.
+Some call the Abyss Demonholme. It is home to the demons and probably where they come from, and they rule most of its known layers. Other evil creatures live there too, including bebiliths, bodaks, retrievers, undead of every kind, rogue devils, twisted mortals and worse.
 
 ## Petitioners
-Souls arriving from the material world that are not simply absorbed into the structure of the Abyss become petitioners called manes. A mane has pale white skin, cruel claws, sharp teeth, sparse hair, and white eyes, and maggots can often be seen squirming through its bloated flesh. Manes that survive many years are sometimes promoted to lesser demon types, retaining no memory of their former lives.
+Souls from material worlds that aren't simply swallowed up by the Abyss become petitioners called manes. A mane has pale white skin, cruel claws, sharp teeth, thin hair and white eyes, and maggots often wriggle through its swollen flesh. Manes that survive for many years are sometimes promoted into lesser demons, with no memory of who they used to be.
 
-<!-- 
-Manes have the following special petitioner qualities:
 
-**Additional Immunities:** Electricity, poison.
-
-**Resistances:** Fire 20, acid 20.
-
-**Other Special Qualities:** Acidic vapor, no planar commitment.
-
-**Acidic Vapor (Su):** When a mane is slain, it discorporates into a cloud of noxious vapor. Anyone within 10 feet of a slain mane who fails a Reflex save (DC 20) takes 1d6 points of acid damage.
-
-**No Planar Commitment (Ex):** Unlike most other petitioners, manes can leave the plane they call home.
--->
 
 ## Travel and Conflict
-Across most of the Abyss, movement and fighting proceed much as they would in the material world. The exceptions are the layers whose environments are radically strange, and there are a great many of those. A given layer may be dominated by fire, or have no fixed direction to its gravity, or obey some other rule entirely. Such conditions behave in the Abyss exactly as they behave anywhere else. The difficulty is that a traveler rarely knows which conditions apply until they have already arrived.
-
-<!-- 
-## Movement and Combat
-In general, the Abyss functions like the Material Plane with regard to movement and combat. On layers where the environment is radically strange, different rules apply. Individual layers of the Abyss could have the fire-dominant trait, for example, or have subjective directional gravity. Unless stated otherwise, those traits function the same in the Abyss as they do everywhere else. 
--->
+On most of the Abyss, moving and fighting work the same as on Materia. The exceptions are the layers with truly strange environments, and there are a lot of those. A layer might be ruled by fire, or have gravity that points wherever you decide, or follow some other rule entirely. Those conditions work the same in the Abyss as anywhere else. The trouble is that a traveler rarely knows which ones apply until they've already arrived.
 
 ## Notable Locations
 
 ### Plain of Infinite Portals
-The topmost of the uncountable Abyssal layers, a barren and dusty place without life or greenery, baking under a hell-red sun. Three features break the dusty plains: huge pits in the earth, great iron strongholds, and the River Styx.
+The top layer of the countless layers of the Abyss: a dry, dusty, lifeless place baking under a blood-red sun. Only three things break up the dusty plains: huge pits in the ground, great iron fortresses and the River Styx.
 
-The pits are portals to deeper layers, and dropping into one deposits the traveler on the layer it serves. Jumping into a random pit leading to an unknown Abyssal layer is an act of insanity. Most pits work in both directions. Some do not, and strand whoever used them.
+The pits are portals to deeper layers. Drop into one and you land on the layer it leads to. Jumping into a random pit to an unknown layer is madness. Most pits work both ways. Some don't, and anyone who uses them is stuck.
 
-The iron strongholds generally house powerful demons and their courts, and often serve as rallying points for demonic armies marching to join the Blood War. Some of that war's greatest battles have been fought on this layer, on deeper layers, and on neighboring Outer Planes.
+The iron fortresses usually belong to powerful demons and their courts, and they are often where demon armies gather before marching off to the Blood War. Some of the war's biggest battles have been fought on this layer, on deeper layers and on the neighboring outer planes.
 
-The River Styx runs a winding course here. Some channels pour into the pits, while other pits well up with foul water and feed the river as tributaries.
+The Styx winds across the plain. Some of its branches pour down into the pits, and some pits bubble up with foul water that feeds the river.
 
-Anyone entering an unknown layer by pit or other means may arrive in nearly any sort of terrain, and no reliable account exists of what waits below any particular opening.
+Anyone who drops into an unknown layer, by pit or any other way, could land in almost any kind of terrain, and there is no reliable record of what waits at the bottom of any particular pit.
 
-**Broken Reach:** Red Shroud, a succubus sorcerer, rules the town of Broken Reach, which works as a gathering point for Blood War mercenaries, a way station for travelers mad enough to explore the Abyss, and a place of trade. The town is a set of crumbling towers ringed by trenches, walls, and spiked barricades. Several important precincts lie underground, including the portal to Plague-Mort in the Outlands, which sits beneath the main hall, along with the food stores, the arsenal, the interrogation halls, and the crypts, all linked by narrow tunnels. Rooms for visiting mercenaries and merchants are above ground off the main towered hall. The inhabitants are a mix of petitioner slaves, demons of every type, and mercenaries from the material world and beyond.
+**Broken Reach:** A succubus sorcerer called Red Shroud rules the town of Broken Reach. It is a meeting place for Blood War mercenaries, a rest stop for travelers mad enough to explore the Abyss, and a place to trade. The town is a cluster of crumbling towers surrounded by trenches, walls and spiked barricades. Several important parts of it are underground and linked by narrow tunnels: the portal to Plague-Mort in the Outlands, right under the main hall, plus the food stores, the armory, the interrogation rooms and the crypts. Rooms for visiting mercenaries and merchants are above ground, off the main hall with its towers. The people are a mix of petitioner slaves, demons of every kind, and mercenaries from material worlds and beyond.
 
-**Ferrug:** An abandoned iron stronghold near the Lakes of Molten Iron, a series of natural white-hot crucibles. Ferrug's former demonic lord was killed while lying senseless, her spirit travelling astrally to the material world to corrupt mortal hearts. Since then the stronghold has hosted countless demon armies seeking workable iron for building other iron strongholds. Because demons value that iron highly, devil strike forces attack the lakes often, and Ferrug currently acts as the command center for a demon force charged by Demogorgon with protecting them.
+**Ferrug:** An abandoned iron fortress near the Lakes of Molten Iron, a string of natural white-hot crucibles. Ferrug's old demon lord was killed while her body lay helpless and her spirit was off traveling to some material world to corrupt mortal hearts. Since then, countless demon armies have used the fortress while collecting iron to build other iron fortresses. Demons prize that iron, so devil strike forces raid the lakes often. Right now Ferrug is the headquarters of a demon force that Demogorgon has ordered to protect the lakes.
 
 ### Azzagrat (45th-47th Layers)
-Azzagrat is the realm of the Abyssal lord Graz'zt, spanning the 45th, 46th, and 47th layers. Because one lord rules all three, they share many traits and are connected by many portals.
+Azzagrat is the realm of the Abyssal lord Graz'zt, covering the 45th, 46th and 47th layers. Since one lord rules all three, they have a lot in common and are linked by many portals.
 
-One common thread is the River of Salt, a sparkling crystalline mass of liquid salt crystal. Submersion in it is fatal.
+One thing they share is the River of Salt, a glittering flow of liquid salt crystal. Falling into it means death.
 
-Portals between the three layers appear as groves of viper trees and ovens of green fire, though Graz'zt's cruel humor ensures that some green-fire ovens contain nothing but fire. The environments themselves are not especially dangerous, each resembling a twisted version of the material world. The 45th layer is a constantly gray, rain-swept steppe. The 46th is lit from the ground, so that shadows fall strangely and rise like columns of darkness into the sky. The 47th, reachable only from the other two and never from the Plain of Infinite Portals, is lit by a blue sun, and its flames burn purple and freeze instead of burning. Creatures who consider themselves proof against fire have been caught out by this more than once.
+Portals between the three layers look like groves of viper trees or ovens of green fire, though Graz'zt has a cruel sense of humor, and some of the green-fire ovens are just ovens full of fire. The layers themselves aren't especially deadly. Each looks like a twisted version of Materia. The 45th is a gray, rainy steppe where it never stops raining. On the 46th, light comes from the ground, so shadows fall the wrong way and rise into the sky like pillars of darkness. The 47th can only be reached from the other two, never from the Plain of Infinite Portals. It is lit by a blue sun, and its flames burn purple and freeze instead of burn. More than one creature who thought it was safe from fire has learned this the hard way.
 
-**Zelatar:** The largest city of Graz'zt's realm exists across all three layers at once. A doorway may open onto a street or into a building, and that street or interior may well sit on a different layer than the door did. The inhabitants, demons and half-fiends and others who revere Graz'zt, learn the ways of the shifting portals. Most visitors need a guide to cross the city at all. The Argent Palace is visible from anywhere in Zelatar regardless of which layer the observer stands on: Graz'zt's abode of sixty-six ivory towers and one hundred cold mirrored halls, a sterile and echoing place where anyone seeking his audience must work through a maze of mirrors and portals patrolled by ravenous bodaks.
+**Zelatar:** The biggest city in Graz'zt's realm exists on all three layers at once. A door might open onto a street or into a building, and that street or room may well be on a different layer from the door. The people who live there, demons, half-fiends and others who worship Graz'zt, learn how the shifting portals work. Most visitors can't get across the city without a guide. The Argent Palace can be seen from anywhere in Zelatar, whatever layer you're on. It is Graz'zt's home: sixty-six ivory towers and a hundred cold halls of mirrors, a sterile, echoing place. Anyone who wants to see him has to get through a maze of mirrors and portals patrolled by starving bodaks.
 
 ### Thanatos (113th Layer)
-The 113th layer is cold, a place of ice, thin air, and a dreary moonlit sky. It belongs as much to the undead as to the tanar'ri, and a faint draining influence pervades it that saps vitality from the living. Fiendish mosses and fungi still grow at the edges of crusty tundra. Tombstones of every imaginable and unimaginable type dot the frozen landscape, some standing alone and others grouped haphazardly as if in a small cemetery. Undead range everywhere.
+The 113th layer is cold: ice, thin air and a gloomy moonlit sky. It belongs as much to the undead as to the demons, and a faint draining force hangs over it, sapping the strength of the living. Fiendish mosses and fungi still grow at the edges of the crusted tundra. Gravestones of every kind you can imagine, and some you can't, are scattered across the frozen land, some alone and some bunched together like little graveyards. Undead roam everywhere.
 
-**Naratyr:** Called the City of the Dead, a cold realm carved into the surface of a frozen ocean. Its icy architecture makes a frigid necropolis of tall mausoleums, towering funeral obelisks, and crypt parapets, hung with carpets woven from the hair of the thousands of unquiet dead who reside there. The city's warlike legions include retrievers, vampiric giants, and liches of all varieties. The rank and file are mostly zombies, ghouls, wights, and other decaying corpses moving with a dark purpose.
+**Naratyr:** Called the City of the Dead, Naratyr is carved into the surface of a frozen sea. Its icy buildings make a freezing city of tall tombs, huge funeral obelisks and crypt walls, hung with carpets woven from the hair of the thousands of restless dead who live there. Its armies include retrievers, vampiric giants and liches of every kind. The rank and file are mostly zombies, ghouls, wights and other rotting corpses with a dark purpose. Wathoria's reach ends at Materia and Mortest, so the god cannot touch them here.
 
 ### Other Notable Layers
 
-**Realm of a Million Eyes (6th Layer):** Home to the Great Mother, whom beholders revere. The realm is a network of countless twisting tunnels, and living eyes stud the tunnel walls like encrusted gems. Each of those eyes is an eye of the Great Mother. Beholders and beholderkin of particular piety roam the tunnels, preying on one another and on any demons or other visitors who happen to fall in from the Plain of Infinite Portals.
+**Realm of a Million Eyes (6th Layer):** Home of the Great Mother, whom beholders worship. The realm is a web of endless twisting tunnels, and living eyes cover the tunnel walls like crusted gems. Every one of them is an eye of the Great Mother. Especially devout beholders and their kin roam the tunnels, preying on each other and on any demons or visitors who fall in from the Plain of Infinite Portals.
 
-**Ice Wastes (23rd Layer):** A bitterly cold layer of miles-deep ice, empty of most life, lit by a distant sun no brighter than a moon. The Ice Wastes belong to the frost giants who serve their demon prince Kostchtchie. Frost giant mages live with him in the Glacier Citadel, a fortress carved into the creaking ice between two towering peaks. Spring never comes here, and most inhabitants live in underground strongholds or caverns.
+**Ice Wastes (23rd Layer):** A bitterly cold layer of ice miles deep, empty of almost all life, lit by a distant sun no brighter than a moon. The Ice Wastes belong to the frost giants who serve their demon prince Kostchtchie. Frost giant mages live with him in the Glacier Citadel, a fortress cut into the groaning ice between two tall peaks. Spring never comes, and most of the people here live in underground strongholds or caves.
 
-**Demonweb Pits (66th Layer):** Home to Lolth, the Spider Queen. The layer folds in on itself until it resembles a great web, a dizzying array of web tunnels interconnecting with fractal complexity. Every strand is strung with portals onto the planes where Lolth is worshiped. Her palace is said to be a mobile iron stronghold shaped like a spider, crawling perpetually across her planar web.
+**Demonweb Pits (66th Layer):** Home of Lolth, the Spider Queen. The layer folds in on itself until it looks like a giant web, a dizzying tangle of web tunnels connecting in endless patterns. Every strand is strung with portals to planes where Lolth is worshipped. Her palace is said to be a moving iron fortress shaped like a spider, always crawling across her web.
 
-**Abysm (88th Layer):** The 88th layer, called the Brine Flats, belongs to Demogorgon, among the most powerful of demon princes. It is a realm of briny water and rocky prominences used as rookeries by flying demons. Aboleths, kraken, and demonic manta rays war in the depths and all bow to Demogorgon. His terrible palace of Abysm stands here, the portion above water taking the form of two serpentine towers crowned with skull-like minarets. From it he works his arcane might, attempting to induce the Abyss itself to vomit up its secrets. The bulk of the palace extends deep underwater into chill darkened caverns that have never seen light. The demon prince hoards his strength and rarely involves himself directly in the Blood War. His designs run deeper.
+**Abysm (88th Layer):** The 88th layer, called the Brine Flats, belongs to Demogorgon, one of the most powerful demon princes. It is a realm of salt water and rocky crags where flying demons roost. Aboleths, kraken and demonic manta rays fight in the depths, and all of them bow to Demogorgon. His terrible palace, Abysm, stands here. Above the water it is two snakelike towers topped with skull-shaped minarets. From there he uses his magic to try to force the Abyss to give up its secrets. Most of the palace runs deep underwater into cold, dark caves that have never seen light. The demon prince saves his strength and rarely gets directly involved in the Blood War. He has deeper plans.
 
-**Slime Pits (222nd Layer):** Home to both Juiblex, the Slime Lord, and Zuggtmoy, the Lady of Fungi. The layer is a bubbling morass of oozing, fetid sludge called the Amoebic Sea. Vast expanses of caustic slime engender strange life forms, sometimes at the will of the demons who live here and sometimes spontaneously.
+**Slime Pits (222nd Layer):** Home of both Juiblex, the Slime Lord, and Zuggtmoy, the Lady of Fungi. The layer is a bubbling swamp of oozing, stinking sludge called the Amoebic Sea. Huge stretches of acid slime give rise to strange creatures, sometimes because the demons here will it and sometimes all on their own.
 
-**Fortress of Indifference (348th Layer):** A lonely, blasted plain of tumbled rocks, jagged pinnacles, and sinister gorges without natural life. Crimson clouds scrub the sky and freezing winds lash the eyes and skin. The Fortress itself is a single tower of black iron gridwork, two hundred feet tall, with humanoids of every variety woven into the metal as a ghastly mortar. Most of those forms are dead. Many are undead and wail and claw at the air without pause.
+**Fortress of Indifference (348th Layer):** A lonely, blasted plain of tumbled rocks, jagged spires and sinister gorges, with nothing living on it. Red clouds scrape across the sky and freezing winds whip at the eyes and skin. The Fortress is a single tower of black iron latticework two hundred feet tall, with humanoids of every kind woven into the metal as a ghastly mortar. Most of them are dead. Many are undead and wail and claw at the air without end.
 
-The Fortress houses outcast demons and half-fiends. Evil through and through, they have nonetheless turned their backs on the Blood War. A nalfeshnee demon named Tapheon rules the place. His form is horribly scarred, and he wears a body-brace of rusty iron that holds his bloated bulk upright on long hooks. His favorite toy is a magic rod called the Despoiler of Flesh, fashioned from sewn-together tongues, with which he can alter any creature's shape into any other shape imagination can supply. The imagination of a demon being what it is, the rod brings the ghastliest things into being.
+The Fortress houses outcast demons and half-fiends. They are evil through and through, but they have turned their backs on the Blood War. A nalfeshnee demon named Tapheon runs the place. His body is horribly scarred, and he wears a rusty iron brace that holds his bloated bulk upright on long hooks. His favorite toy is a magic rod called the Despoiler of Flesh, made of tongues sewn together, which can change any creature's shape into any other shape he can imagine. Since he's a demon, he imagines some truly horrible things.
 
-**Noisome Vale (489th Layer):** Once ruled by a powerful balor called Tarnhem, who has gone missing. The layer's atmosphere is a haze of acidic gas continually regenerated by volcanic vents scarring an utterly blasted landscape. A ravine cuts through it carrying neither water nor condensed acid but a flood of slick writhing worms, ranging from an inch to ten feet in length. These worms inhale the sulfur fumes endemic to the layer and exhale breathable air, and their respiration scrubs the air clean for some fifty feet along both shores.
+**Noisome Vale (489th Layer):** Once ruled by a powerful balor called Tarnhem, who has gone missing. The air on this layer is a haze of acid gas, constantly renewed by volcanic vents that scar a completely ruined landscape. A ravine cuts through it, carrying not water or acid but a river of slimy, wriggling worms from an inch to ten feet long. The worms breathe in the sulfur fumes found everywhere on the layer and breathe out clean air, cleaning the air for about fifty feet along both banks.
 
-Tarnhem's manor is built along that ravine and possesses a breathable atmosphere thanks to the worms, though the constant susurrus of the writhing mass below is maddening. His demonic staff still maintains the manor in his absence, believing him imprisoned off-plane. The demons guarding it continue to take a dim view of unannounced visitors.
+Tarnhem's manor is built along that ravine, and thanks to the worms it has breathable air, though the constant rustle of the wriggling mass below is enough to drive anyone mad. His demon staff still keep up the manor while he's gone. They believe he is imprisoned on another plane. The demons guarding it still don't like unexpected visitors.

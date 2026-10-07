@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/aoi-blue-primordial-spirit/","dg-note-properties":{"type":"deity","tier":"primordial","domain":["Air","Healing","Water","Weather"],"portfolio":["Oceans","Rivers","Storms"],"worshipers":["Sailors","Fishers"],"holy-symbol":"A spiral of blue and yellow","sacred-animal":"Blue Whale","sacred-colors":["Blue","Yellow"]}}
+{"dg-publish":true,"permalink":"/religion-and-deities/deific-figures/primordials/aoi-blue-primordial-spirit/","dg-note-properties":{"type":"deity","tier":"primordial","domain":["Air","Healing","Water","Weather"],"portfolio":["Oceans","Rivers","Rain"],"worshipers":["Sailors","Fishers"],"holy-symbol":"A spiral of blue and yellow","sacred-animal":"Blue Whale","sacred-colors":["Blue","Yellow"]}}
 ---
 
 *"Wrath of the Storm" • "Horizons Expanse"*
 
 ## Overview
 
-Aoi (ah-OY), Wrath of the Storm, resides in all water across the material plane, from the smallest stream to the vast oceans that separate continents. They embody nature's chaotic and unpredictable behavior, the fundamental truth that while one day may bring calm seas and gentle rain, tomorrow might unleash devastating storms without warning or reason. As one of the forces that shaped [[Places/Materia\|Materia]] itself, Aoi represents the wild, untamable aspect of nature that refuses to be controlled, predicted, or reasoned with. The tranquil river and the hurricane are equal expressions of Aoi's nature, and chaos is the natural state of water and weather and never a corruption of it.
+Aoi (ah-OY), Wrath of the Storm, lives in all the water of the world, from the smallest stream to the oceans between the continents, and in the rain that falls into them. Aoi is water's restlessness. Today the sea is calm and the rain is gentle. Tomorrow a storm might come out of nowhere, for no reason anyone could give. The quiet river and the flood are both Aoi, and there is nothing wrong with water behaving wildly. That is simply what water is like.
 
-Aoi embodies pure natural volatility: the ocean that gives and takes life with equal indifference, the storm that waters crops and destroys villages in the same breath, the river that provides sustenance and drowns the unwary. Where gods may favor order or purpose, this primordial recognizes no such distinctions. Aoi's consciousness is thought to flow through every body of water simultaneously, which makes them a vast, interconnected presence that experiences all water and weather as one, and no singular entity at all. A sailor might pray for calm passage, receive it, and watch the next ship sink in sudden squalls. Aoi passes no judgment in this. Chaos simply makes no promises. Those who worship Aoi seek the wisdom to accept whatever nature provides and the strength to endure its whims, and they leave prayers for calm seas and gentle rain to other faiths.
+The sea feeds people and drowns them without caring which. The same rain waters a field and washes away a village. The gods may care about order or purpose, but Aoi doesn't. Aoi is thought to be present in every body of water at once, one great spirit spread through all of it. A sailor prays for a calm crossing and gets one, and the next ship out sinks in a squall. Aoi hasn't judged either of them. The water just made no promises. So Aoi's faithful don't pray for calm seas. They pray to take what comes and to last through it.
 
 ## Worship and Clergy
 
@@ -27,11 +27,11 @@ A spiral of blue and yellow, representing the rotating chaos of storms and whirl
 
 ### Worshipers
 
-Sailors who navigate unpredictable seas and fishers whose livelihoods depend on water's bounty form the core of Aoi's followers. They suffer from water's fury as often as they benefit from its generosity, and this duality shapes their faith. The clergy offers no false comfort about controlling weather or ensuring safe passage. They provide training in reading natural signs, understanding currents and wind patterns, and developing the resilience necessary to endure nature's unpredictability. Records of weather patterns and ocean conditions fill temple libraries, kept as proof that chaos has no discernible pattern and that last year's calm season guarantees nothing about this year's weather. Prediction of the future is no part of their purpose.
+Sailors and fishers are the heart of Aoi's following. The water has hurt them as often as it has fed them, and their faith reflects that. The clergy never promise anyone safe passage. What they teach is how to read the sky and the water, how currents and winds behave, and how to keep going when the weather turns. Temple libraries are full of old weather records, kept mainly to show that last year's calm season tells you nothing about this one.
 
-The blue whale exemplifies everything Aoi teaches. Even the mightiest creatures must submit to ocean currents and storms, size and power mean nothing against nature's fundamental chaos, and life persists through adaptation where control would fail. Priests maintain sanctuaries near coastlines or major rivers where they can directly observe water's behavior, teaching swimming, navigation, and survival skills. They believe understanding nature's power is more valuable than praying for protection from it. During storms, clergy members often stand exposed to the elements, experiencing Aoi's power firsthand and showing that fear of nature's chaos only increases suffering while acceptance brings peace even in turmoil.
+The blue whale is Aoi's animal. Even the biggest creature in the sea goes where the currents take it, and it lives by adapting, since it can't fight the ocean. Priests keep shrines on the coast and on the great rivers, where they can watch the water every day, and they teach swimming, sailing and how to survive a wreck. When a storm comes, priests often go out and stand in it, to feel Aoi's strength firsthand and show others that being afraid of the weather only makes it worse.
 
-The faith teaches that attempting to control or predict nature is futile hubris, that calm and storm are equally natural expressions of Aoi's being, and that survival depends on accepting nature's chaos in place of fighting it. Aoi provides both life-giving rain and destructive floods without malice or favor, since such is simply water's nature. Preparation acknowledges chaos; claiming control denies it. The clergy counsels respect for water's power, readiness for the worst possibilities, and gratitude when nature shows mercy.
+Trying to control or predict the water is pride, the faith teaches, and calm and storm are both Aoi. The rain that grows your crops and the flood that ruins them come from the same place. Getting ready for the worst is wise. Claiming you can stop it is foolish. The clergy ask the faithful to respect the water, prepare for the worst, and be thankful when it's kind.
 
 The [[Species and Cultures/Cultures/Sonta\|Sonta]] hold Aoi in special regard as the power of the sea that carries their trade, and each year their cities wed themselves to the sea by casting a ring into the water. The [[Species and Cultures/Cultures/Aj'Snaga\|Aj'Snaga]] honor Aoi for the sea that carries their fleets.
 
@@ -63,21 +63,21 @@ Inside the circle, choices often come down to chance, the tide, or whichever way
 
 ### Standing
 
-Aoi grants healing among her gifts, and the Blue are prized as menders when anyone can find them. Finding them is the trouble. They will not come when called. Sailors swap stories about a figure who walks out of the surf, sets a broken bone without a word, and walks back in.
+Aoi grants healing among their gifts, and the Blue are prized as menders when anyone can find them. Finding them is the trouble. They will not come when called. Sailors swap stories about a figure who walks out of the surf, sets a broken bone without a word, and walks back in.
 
 ## Holy Days and Festivals
 
 ### The First Storm
 
-The exact date varies by region and year, an uncertainty the festival celebrates in itself. Followers watch weather patterns and declare the festival when the first major storm arrives after a period of calm weather, acknowledging that chaos is nature's default state and calm a temporary respite. This unpredictability is considered part of the sacred observance, since scheduling would imply a control over nature that Aoi's followers reject.
+The date is different every year and in every place, and that's the point. The faithful watch the sky and call the festival when the first big storm comes after a spell of calm weather. Setting a fixed date would be pretending to a control over the weather that Aoi's faithful don't believe anyone has.
 
-Storm clouds gather. Followers move to exposed locations where they can fully experience the coming chaos, standing in rain and wind and allowing themselves to feel small and powerless before nature's fury. The clergy leads no formal prayers for protection. They lead chants acknowledging nature's supremacy and their own insignificance. Sailors pour offerings of fresh water into the ocean, showing that even the smallest stream eventually joins Aoi's vast domain. Fishers release portions of their catch back into turbulent waters, acknowledging that the sea provides and the sea reclaims.
+As the clouds gather, the faithful go out to open ground to meet the storm, standing in the wind and rain and letting themselves feel small. Priests don't pray for protection. They lead chants about how little people are before the water. Sailors pour fresh water into the sea, since even the smallest stream ends up in Aoi in the end, and fishers throw part of their catch back into the waves.
 
-As the storm intensifies, participants share stories of those lost to water and weather. The dead are honored as natural returns to Aoi's embrace, and the telling names no victims of tragedy. Some followers swim in rough waters during the ceremony, carefully and under supervision, to experience the ocean's power directly and remember that humans survive by Aoi's indifference and by no inherent right of their own. The blue whale's migration patterns are discussed, since even these massive creatures move according to currents and conditions they cannot control. The festival continues throughout the storm's duration and ends only when the chaos naturally subsides, proving once again that nature's moods can be endured and accepted, and never scheduled or commanded.
+While the storm builds, people tell stories about those the water has taken, and speak of them as having gone back to Aoi. A few of the faithful swim out into the rough water, carefully and with others watching, to feel what the sea can do. The festival lasts as long as the storm does, and ends when it blows itself out.
 
 ## Areas of Concern
 
-Oceans, Rivers, Storms
+Oceans, Rivers, Rain
 
 ## Adjective
 

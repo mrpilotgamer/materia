@@ -4,7 +4,7 @@
 
 # Imestalia
 
-<!-- GAP: The current king and the royal dynasty are unnamed. -->
+
 
 ## Overview
 

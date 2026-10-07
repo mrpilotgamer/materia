@@ -12,9 +12,9 @@ It is unknown at this time the origins of these beings. Its believed they may ha
 
 [[Religion and Deities/Deific Figures/Primordials/Aoi, Blue Primordial Spirit\|Aoi, Blue Primordial Spirit]] - Spirit of Oceans, Rivers, and Rain
 
-[[Religion and Deities/Deific Figures/Primordials/Ki, Yellow Primordial Spirit\|Ki, Yellow Primordial Spirit]] - Spirit of the Sun, Skies, and Summer
+[[Religion and Deities/Deific Figures/Primordials/Ki, Yellow Primordial Spirit\|Ki, Yellow Primordial Spirit]] - Spirit of the Sun, Warmth, and Summer
 
-[[Religion and Deities/Deific Figures/Primordials/Kuro, Black Primordial Spirit\|Kuro, Black Primordial Spirit]] - Spirit of Death, Decay, and Regrowth
+[[Religion and Deities/Deific Figures/Primordials/Kuro, Black Primordial Spirit\|Kuro, Black Primordial Spirit]] - Spirit of the Night Sky, the Undergrowth, and Decaying Nature
 
 [[Religion and Deities/Deific Figures/Primordials/Midori, Green Primordial Spirit\|Midori, Green Primordial Spirit]] - Spirit of Life, Forests, and Spring
 

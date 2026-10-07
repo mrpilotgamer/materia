@@ -6,9 +6,9 @@
 
 ## Overview
 
-Arlaxena (Are-LAX-en-ah), Master of Well-Being, has one of the smaller followings among the gods, mostly because their worshipers cannot be moved to take the time to spread the teachings. Those who do worship tend to be once-stressed workers who wanted time to relax, or people who see no purpose in doing more than they must. Arlaxena teaches that efficiency and rest are wisdom, that laziness is the wrong name for them, and that energy should be expended only where it truly matters.
+Arlaxena (Are-LAX-en-ah), Master of Well-Being, has one of the smallest followings of any god, mostly because their worshipers can't be bothered to spread the word. Those who do worship tend to be people who were worked half to death and wanted to sit down, or people who see no point in doing more than they have to. Arlaxena calls that good sense, not laziness. Save your strength for what matters. [^1]
 
-Nature represents Arlaxena in many places. They are a god of plants, life forms that do nothing all day beyond what they must to survive, and that manage it with little to no movement. They are represented in rivers as well, since water follows the path of least resistance at all times. The philosophy extends to their followers: find the easiest path that accomplishes what is needed, and preserve your strength for when it truly counts.
+Arlaxena is a god of plants, which do nothing all day but what they must to live, and barely move to do it. They are a god of rivers too, since water always takes the easiest way downhill. The faithful try to live the same way: find the easiest road that gets the job done, and keep your strength for when you need it.
 
 ## Worship and Clergy
 
@@ -29,11 +29,11 @@ A Hammock Hanging Between Two Trees
 
 ### Worshipers
 
-Arlaxena's followers include laborers who have learned the value of rest, procrastinators who see their ways as perfectly reasonable, and anyone who has suffered from overwork and burnout. The clergy teaches that doing only what is required is wisdom and no kind of failure, since anyone who wanted more would have asked for more. They counsel followers to work smarter instead of harder, to delegate where possible, and to guard their leisure time jealously as sacred.
+Arlaxena's followers include laborers who have learned what rest is worth, procrastinators who think they've been right all along, and anyone who has worked themselves into the ground. The clergy say doing what you were asked is enough. If they'd wanted more, they would have asked. Pass work on when you can, and guard your rest like it's holy, because to Arlaxena it is.
 
-The faith departs from gods of industry or ambition who push their followers toward constant achievement. Laxian teaching holds to a philosophy of sufficiency. Why do ten things adequately when you can do one thing well and rest for the other nine? Their temples are notorious as some of the most tranquil places in [[Places/Materia\|Materia]], quiet gardens with flowing water, comfortable seating, and an atmosphere that actively discourages hurry.
+Why do ten things badly when you can do one thing well and rest through the other nine? Arlaxena's temples are famously the most peaceful places on [[Places/Materia\|Materia]]: quiet gardens with running water and comfortable seats, where nobody is ever in a hurry.
 
-Clerics of Arlaxena often work as counselors to the overworked, teaching stressed individuals the art of setting boundaries and finding peace in doing "enough" in place of "everything." They also make surprisingly effective trap-makers and strategists, having mastered the art of achieving maximum results with minimum effort.
+Priests spend much of their time with the overworked, teaching them how to say no and how to be satisfied with enough. They also make surprisingly good trap-makers and strategists, since getting the most result for the least effort is what they've practiced all their lives.
 
 ### Tenets of Faith
 
@@ -51,23 +51,27 @@ Those who follow Arlaxena swear to live by these principles:
 
 ## History
 
-Worship of Arlaxena predates the [[History/Great Schism War\|Great Schism War]], though the following has always been modest by design, since spreading the faith energetically would contradict its core teachings. During the [[History/Ages/Age of Expansion\|Age of Expansion]], the clergy grew quietly as overworked populations sought respite from the relentless push for growth and conquest. The message found particular resonance among laborers forced to work themselves to exhaustion.
+Arlaxena was worshiped before the [[History/Great Schism War\|Great Schism War]], and the faith has always stayed small on purpose, since preaching hard would go against everything it teaches. In the [[History/Ages/Age of Expansion\|Age of Expansion]] it grew quietly among workers who were being driven to exhaustion.
 
-The [[History/Ages/Age of Incursion\|Age of Incursion]] saw a dramatic, if temporary, surge in worship. When the [[Religion and Deities/Deific Figures/Primordials\|Primordials]] punished civilizations for their excessive exploitation of the land, many read this as validation of Arlaxena's philosophy, that taking more than necessary leads only to ruin. Temples to Arlaxena were typically modest affairs in harmony with nature, and they largely survived the disasters that destroyed more grandiose structures.
+In the [[History/Ages/Age of Incursion\|Age of Incursion]] there was a short rush of new worshipers, as people read the [[Religion and Deities/Deific Figures/Primordials\|Primordials]]' wrath as proof that taking too much ends in ruin. Arlaxena's temples were small and built to suit the land around them, and most of them came through the disasters that brought down grander buildings.
 
-In the current [[History/Ages/Age of Stability\|Age of Stability]], worship remains steady and unobtrusive. Followers can be found throughout [[Places/Materia\|Materia]], particularly in regions where hard labor is common and rest is precious. The faith neither grows nor shrinks dramatically, which followers would argue is exactly as it should be.
+The faith hasn't grown or shrunk much since. Its followers would say that's exactly as it should be.
 
 ## Related Entities
 
-**Allies:** [[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri, God of Restraint]] shares Arlaxena's philosophy of doing only what is necessary, though Selcontri applies this to all actions while Arlaxena specifically champions rest and efficiency. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing, God of Consumption]] aligns with Arlaxena's teaching that following the path of least resistance is natural and wise, as water flows downhill and plants grow without unnecessary movement.
+**Allies:** [[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri, God of Restraint]] also preaches doing only what is necessary, though Selcontri means everything you do and Arlaxena mostly means rest. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing, God of Consumption]] shares Arlaxena's trust in the easy way, like water running downhill and plants growing without fuss.
 
-**Rivals:** [[Religion and Deities/Deific Figures/Gods/Meregoma, God of the Ego\|Meregoma, God of the Ego]] stands opposed to Arlaxena's minimalism, teaching constant self-improvement and striving to become better, which Arlaxena's followers see as exhausting and unnecessary. [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] represents the antithesis of leisure, since endless accumulation and collection leave no time for the rest Arlaxena holds most sacred.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Meregoma, God of the Ego\|Meregoma, God of the Ego]] wants everyone always improving, which Arlaxena's faithful find exhausting to even think about. [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] keeps people collecting forever, with never any time to rest. [[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura, God of Courage]] tells people to take one more step when they can't go on, and Arlaxena would much rather they sat down.
 
 ## Holy Days and Festivals
 
 ### Day of Rest
 
-Celebrated whenever followers feel it is needed, though traditionally observed during the summer solstice when the day is longest, the Day of Rest is spent relaxing and putting off any projects or work you are asked to do until another day. Followers gather in comfortable spaces, often outdoor gardens or somewhere near flowing water, and do absolutely nothing productive. The only permitted activities are those that bring joy and restoration: napping, quiet conversation, enjoying good food, or simply watching clouds drift by. Asking someone to work on this day is considered deeply offensive, and Arlaxena's clergy teach that refusing such requests is virtuous as well as acceptable.
+Followers take it whenever they feel they need it, but the traditional day is the 14th of Arlaxara, the last day of winter, one proper rest before the spring work begins. The Day of Rest is for putting off anything anyone asks you to do. The faithful gather somewhere comfortable, usually a garden or a riverbank, and do nothing useful at all. Napping, talking quietly, eating well and watching the clouds are all allowed. Asking someone to work on the Day of Rest is a serious insult, and Arlaxena's priests teach that saying no to such a request is a virtue.
+
+## Home Plane
+
+Arlaxena makes a home on [[Places/Planes/Outer Planes/Olympian Glades of Arborea\|Arborea]].
 
 ## Areas of Concern
 
@@ -76,3 +80,5 @@ Rest, Rivers, Traps
 ## Adjective
 
 Laxian (LAX-ee-an) - "The Laxian philosophy suggests doing only what is necessary and nothing more."
+
+[^1]: Of all the clergies I wrote to for this entry, Arlaxena's was the only one that never wrote back. I am choosing to take that as a statement of doctrine.

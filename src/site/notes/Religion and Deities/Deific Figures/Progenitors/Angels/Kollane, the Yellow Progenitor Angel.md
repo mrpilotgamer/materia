@@ -6,7 +6,7 @@
 
 ## Overview
 
-Kollane (KOL-lah-neh), The Ever-Smiling, resides over a section of [[Places/Planes/Outer Planes/Heroic Domains of Ysgard\|Ysgard]] known as the Fields of Endless Valor. He embodies the principle that negative emotions weaken the collective, that fear and sadness are selfish indulgences that must be eliminated, and that true service demands eternal joy and courage even when grief and caution would be natural and healthy.
+Kollane (KOL-lah-neh), The Ever-Smiling, resides over a section of [[Places/Planes/Outer Planes/Heroic Domains of Ysgard\|Ysgard]] known as the Fields of Endless Valor. Kollane believes fear and sadness are selfish, and that they weaken everyone around you. His followers are expected to be brave and cheerful always, even at a funeral, even when any sensible person would be afraid.
 
 ## Worship and Clergy
 

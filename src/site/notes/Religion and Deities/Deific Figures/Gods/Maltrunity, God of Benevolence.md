@@ -6,9 +6,9 @@
 
 ## Overview
 
-Maltrunity (mahl-TROO-nih-ty), Earl of Giving, teaches that possessions exist not to be hoarded but to be shared with those in need. Everyone holds something another requires, and recognizing these needs and meeting them is the highest calling. To Maltrunity's followers, the measure of a person's worth lies not in what they accumulate but in what they freely give away.
+Maltrunity (mahl-TROO-nih-ty), Earl of Giving, holds that anything you own and don't need belongs to whoever does need it. Everyone has something someone else is missing. Noticing that, and handing it over, is the whole of the faith.
 
-As a deity of charity and compassion, Maltrunity emphasizes rational benevolence over emotional attachment. The god teaches a principle that many find counterintuitive: when resources are limited and all are equally in need, help strangers before helping friends, since attachment to those you care about may leave nothing for those you care about less. This wisdom prevents compassion fatigue and ensures that charity flows to all who need it, including those who lack anyone to love them.
+What surprises people is how cool-headed it is. When there isn't enough to go around and everyone is equally desperate, a Maltrunin helps the stranger first and their friends last. Their reasoning is simple: give to the people you love first and you'll have nothing left for anyone else, and the ones nobody loves would get nothing at all.
 
 ## Worship and Clergy
 
@@ -29,11 +29,11 @@ Two hands, outstretched, holding food and a water jug in a basket
 
 ### Worshipers
 
-Maltrunity's followers include dedicated altruists who have devoted their lives to helping others, healers who provide care regardless of a patient's ability to pay, and travelers who both give to and receive from the kindness of strangers. The clergy teaches that possessions one does not need belong, morally if not legally, to those who do need them, and that hoarding resources while others suffer is a form of theft from the needy.
+Maltrunity's faithful are people who have given their lives over to giving: healers who treat whoever comes, whether they can pay or not, and travelers who live on the kindness of strangers and pay it forward. The clergy say that hoarding while others go without is a kind of theft, even when the law calls it property.
 
-The faith departs from those that encourage charity as a path to divine favor or personal virtue. Maltrunin teaching holds that giving is the right thing to do on its own terms, the natural response to observing need when you have the means to address it. Their temples work as distribution centers where donated goods are matched with those who need them, and where the clergy maintains careful records of community needs to ensure help reaches those requiring it most urgently.
+Nobody gives to earn Maltrunity's favor. You give because someone needs it and you have it. A Maltrunin temple is part storehouse and part ledger office. Donations come in, and the priests keep careful lists of who in town needs what, so the goods go where the need is worst.
 
-Clerics of Maltrunity are trained in what they call "benevolent triage," the art of determining who needs help most when resources are insufficient to help everyone. They teach the controversial but logical principle that emotional attachment should not guide charity, since those who give only to loved ones will exhaust themselves before reaching strangers equally deserving of aid. The clergy provides healing to the sick, food to the hungry, and shelter to the homeless, asking nothing in return. They work with particular energy along trade routes and in remote areas where travelers might find themselves in desperate circumstances far from home.
+Priests train in what they call benevolent triage, deciding who gets help first when there isn't enough for everyone. They feed the hungry, heal the sick and shelter the homeless without asking for anything back, and they work hardest along trade roads and in remote country, where a traveler in trouble has nobody else.
 
 ### Tenets of Faith
 
@@ -49,29 +49,31 @@ Those who follow Maltrunity swear to live by these principles:
 
 ## History
 
-Maltrunity has been worshiped since before the [[History/Great Schism War\|Great Schism War]], though the faith took its current form during the devastation that followed. In the immediate aftermath, Maltrunity's clergy organized some of the first large-scale relief efforts, distributing resources by need alone, without regard to political allegiance or ability to pay.
+Maltrunity was worshiped before the [[History/Great Schism War\|Great Schism War]], but the faith as it is now took shape in the ruin afterward, when its clergy handed out what little there was by need alone. In the [[History/Ages/Age of Regrowth\|Age of Regrowth]] their habit of helping strangers first looked odd, but it reached isolated people nobody else was helping, and Maltrunin temples became known as safe places for travelers and refugees.
 
-During the [[History/Ages/Age of Regrowth\|Age of Regrowth]], the clergy's emphasis on helping strangers before friends struck some as strange, and proved remarkably effective at ensuring aid reached isolated or forgotten populations. Temples became known as safe havens for travelers and refugees.
+Expanding empires in the [[History/Ages/Age of Expansion\|Age of Expansion]] saw the clergy's talk of redistribution as a threat. Then the [[History/Ages/Age of Incursion\|Age of Incursion]] came, and the same clergy, with their supply networks and their practice at triage, kept a great many people fed.
 
-The [[History/Ages/Age of Expansion\|Age of Expansion]] brought tension between Maltrunity's philosophy and the accumulation-focused mentality of expanding empires, and many rulers viewed the clergy's insistence on resource redistribution as a threat. The [[History/Ages/Age of Incursion\|Age of Incursion]] saw a dramatic surge in worship, as the clergy's established distribution networks and experience with triage proved invaluable during humanitarian crises, and many credit them with preventing starvation and disease. In the current [[History/Ages/Age of Stability\|Age of Stability]], Maltrunity's temples continue matching abundance with need. They remain particularly strong in areas with heavy travel, where the principle of helping strangers ensures passing travelers receive assistance equal to local residents.
-
-Among the [[Species and Cultures/Cultures/Portizian\|Portizian]] people, brotherhoods sworn to Maltrunity keep his alms and feed the poor of every town, and [[Species and Cultures/Cultures/Barbois\|Barbois]] communes keep public granaries and almshouses in his name.
+Among the [[Species and Cultures/Cultures/Portizian\|Portizian]] people, brotherhoods sworn to Maltrunity keep their alms and feed the poor of every town, and [[Species and Cultures/Cultures/Barbois\|Barbois]] communes keep public granaries and almshouses in their name.
 
 ## Related Entities
 
-**Allies:** [[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine, God of Belief]] shares Maltrunity's mission of helping the poor and downtrodden, as both bring hope and material aid to those society has forgotten. [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] aligns with Maltrunity's emphasis on justice and ensuring resources reach those most in need regardless of social standing.
+**Allies:** [[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine, God of Belief]] works the same streets, bringing hope and food to people everyone else has forgotten. [[Religion and Deities/Deific Figures/Gods/Wathoria, God of Equity\|Wathoria, God of Equity]] shares Maltrunity's insistence that rank shouldn't decide who gets what.
 
-**Rivals:** [[Religion and Deities/Deific Figures/Gods/Millary, God of Jealousy\|Millary, God of Jealousy]] represents the opposite of charity, taking from others out of envy where Maltrunity's faithful give freely to help those in need. [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] teaches endless accumulation and the hoarding of specialized collections, directly opposing Maltrunity's philosophy that excess possessions should be redistributed to those who lack necessities. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing, God of Consumption]] claims what is consumed belongs to the consumer and need not be shared, conflicting with Maltrunity's demand for charitable distribution.
+**Rivals:** [[Religion and Deities/Deific Figures/Gods/Millary, God of Jealousy\|Millary, God of Jealousy]] takes out of envy, which is everything Maltrunity's faithful are against. [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect, God of Want]] hoards, and Maltrunins think spare possessions should go to people who lack the basics. [[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing, God of Consumption]] shares abundance through lavish communal feasts, where Maltrunity's faithful ration what they have so it reaches those in greatest need. The two faiths argue over whether plenty should be celebrated or measured out.
 
 ## Holy Days and Festivals
 
 ### Day of Gifts
 
-Celebrated during the winter solstice when nights are longest and need is often greatest, the Day of Gifts is spent finding and giving gifts to those in need, with particular emphasis on giving to those you do not know personally. Followers identify strangers who are struggling, whether travelers far from home, new arrivals to a community, or isolated individuals without family support, and provide them with gifts meeting their specific needs.
+Held on the 14th of Maltiam, in the lean weeks of high summer when last year's harvest is gone and the new one is not yet in, the Day of Gifts is for giving to people in need, especially people you don't know. The faithful look for strangers who are struggling, such as travelers far from home or someone with no family nearby, and give them what they need.
 
-The day challenges participants to look beyond their immediate circles of family and friends. Clergy organize "circles of giving" where participants draw lots to determine which stranger in the community they will help, ensuring that affection does not guide charity. Gifts typically address practical needs such as warm clothing for winter, preserved food, medicine, or tools for trade, though thoughtful gestures acknowledging the recipient's personhood are equally valued.
+Priests run circles of giving, where people draw lots to decide which stranger in town they will help, so that nobody just gives to their friends. Most gifts are practical, like clothing, preserved food, medicine or tools, though a gift that shows you took the time to know the person counts for just as much.
 
-The sheep features prominently in the day's traditions, as this animal gives freely of its wool, milk, and eventually its meat, embodying Maltrunity's philosophy of generous provision. Some communities hold "wool drives" where sheep are shorn and the wool distributed to those who need warm clothing. The day concludes with communal gatherings where both givers and receivers share meals as equals, since Maltrunity teaches that today's giver may be tomorrow's receiver, and all deserve dignity regardless of circumstance.
+Sheep are the day's animal, since a sheep gives its wool, its milk and in the end its meat. Some towns shear their flocks that morning and give the wool away to whoever will need warm clothes come winter. In the evening givers and receivers eat together at the same tables.
+
+## Home Plane
+
+Maltrunity makes a home on [[Places/Planes/Outer Planes/Blessed Fields of Elysium\|Elysium]].
 
 ## Areas of Concern
 
