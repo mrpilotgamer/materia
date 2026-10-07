@@ -17,7 +17,7 @@ Adriacium's emperor was murdered in 5167, in circumstances never explained. In h
 
 In 5267 an army of demons and devils marched out of Adriacium and ravaged the continent. The two had joined in an unholy alliance that did not always hold together, and the army reached into Bornumia before it was stopped.
 
-The party [[Adventures And Stories/Parties/Retribution\|Retribution]] brought reinforcements from the [[Rayhostian Theocracy\|Rayhostian Theocracy]] and [[Imnas\|Imnas]] to halt the army inside Bornumia, and it broke apart when they banished Rouge that same year. Adriacium and Presium did not survive the war. [[Vera\|Vera]] of Retribution raised the Empire of Nox from Adriacium's ruins, and the city-states that emerged across the rest of Adriacium and Presium fought over what remained until Korthak and the Union took shape.
+The party [[Adventures And Stories/Parties/Retribution\|Retribution]] brought reinforcements from [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|the Rayhostian Theocracy]] and [[Places/Realms/Alora/Nations/Imnas\|Imnas]] to halt the army inside Bornumia, and it broke apart when they banished Rouge that same year. Adriacium and Presium did not survive the war. [[Vera\|Vera]] of Retribution raised the Empire of Nox from Adriacium's ruins, and the city-states that emerged across the rest of Adriacium and Presium fought over what remained until Korthak and the Union took shape.
 
 After the war it was revealed that the faceless emperor had been [[Religion and Deities/Deific Figures/Progenitors/Demons/Rouge, the Red Progenitor Demon\|Rouge]] himself, but many refused to believe it. In the 170 years since, the claim has passed into myth and legend, and most now believe the war was a demon incursion gone wrong.
 

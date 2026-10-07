@@ -19,13 +19,13 @@ to do -
 
 [[Species and Cultures/Cultures/Anor\|Anor]] - The dominant culture in [[Places/Realms/Alora/Nations/The Rayhostian Theocracy\|The Rayhostian Theocracy]], primarily naval
 
-[[Portizian\|Portizian]] - The dominant culture in [[Imestalia\|Imestalia]] and [[Pimestalia\|Pimestalia]] - Castilian inspired
+[[Species and Cultures/Cultures/Portizian\|Portizian]] - The dominant culture in [[Places/Realms/Alora/Nations/Imestalia\|Imestalia]] and [[Places/Realms/Alora/Nations/Pimestalia\|Pimestalia]] - Castilian inspired
 
-[[Dulandi\|Dulandi]] - The dominant culture in [[Imnas\|Imnas]] - Elven inspired
+[[Species and Cultures/Cultures/Dulandi\|Dulandi]] - The dominant culture in [[Places/Realms/Alora/Nations/Imnas\|Imnas]] - Elven inspired
 
 [[Species and Cultures/Cultures/Trow\|Trow]] - A mix of Drako and Anor, heavily changed by the emerging [[Species and Cultures/Races/Trox\|Trox]] race
 
-[[Aj'Snaga\|Aj'Snaga]] - The dominant culture of [[Yoichizu\|Yoichizu]], heavily naval - Japanese inspired
+[[Species and Cultures/Cultures/Aj'Snaga\|Aj'Snaga]] - The dominant culture of [[Places/Realms/Alora/Nations/Yoichizu\|Yoichizu]], heavily naval - Japanese inspired
 
 [[Species and Cultures/Cultures/Drako\|Drako]] - The dominant culture of [[Places/Realms/Alora/Nations/Narathatath\|Narathatath]]
 
