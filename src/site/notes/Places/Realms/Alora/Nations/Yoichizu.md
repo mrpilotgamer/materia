@@ -62,8 +62,6 @@ Aj'Snaga culture began in the wetlands of the northeastern peninsula and spread 
 
 About four hundred years ago, Yoichizu laid claim to the whole of Morlas Bay, meaning to keep its navy strong and the bay under its control. Imnas retaliated and took the easternmost island. The war ended in an agreement that the bay would be neutral waters, and the island stayed with Imnas.
 
-When the army of demons and devils marched out of Adriacium in 5267, Yoichizu sent no one. [[Adventures And Stories/Parties/Retribution\|Retribution]] had no connections in the shogunate and never asked.
-
 ## Capital
 
 Killow, population 25,492, stands at the head of a deep bay on the southern coast. It is the greatest castle town in Yoichizu, built around a great castle whose walls look over the harbor. Below the castle lies the great shipyard, where the largest ships of Yoichizu's fleets are built and launched.

@@ -54,8 +54,6 @@ Portizian culture began on the coast around Quichollow, among humans who settled
 
 In 5240 the kingdom split. Reformers in the east charged that the nobles were abusing their power and causing strife, and they broke away to found Pimestalia. The civil war lasted about five years. The mountains kept either side from striking the other a decisive blow, and when the war reached a stalemate, the two signed a treaty that left the border along the range.
 
-When the army of demons and devils marched out of Adriacium in 5267, Imestalia sent no one. [[Adventures And Stories/Parties/Retribution\|Retribution]] had no connections in the kingdom, and no call reached it.
-
 ## Capital
 
 Quichollow, population 72,224, stands on the northwest coast, facing the strait toward the Crimson Lands. It is the most populous capital in Alora on record, the seat of the crown and the Cortes, and the home port of the navy. The city is where Portizian culture began, and its old quarters are the oldest Portizian streets anywhere.
