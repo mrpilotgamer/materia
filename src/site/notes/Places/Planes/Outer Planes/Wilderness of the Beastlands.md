@@ -23,9 +23,7 @@ The River Oceanus crosses the Beastlands on its way from Elysium to Arborea. It 
 ## Divine Realms
 **[[Religion and Deities/Deific Figures/Progenitors/Angels/Roheline, the Green Progenitor Angel\|Roheline]]**, the Infinite Giver, holds the Grove of Empty Hands. It is the strongest domain on the Beastlands. Roheline's followers give away everything they have, down to their own lives.
 
-**[[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]]**, God of Consumption, also makes a home here. On Materia they are honored as the Beast of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], and the Beastlands, where everything eats and is eaten, suits him.
-
-
+**[[Religion and Deities/Deific Figures/Gods/Malbing, God of Consumption\|Malbing]]**, God of Consumption, also makes a home here. On Materia they are honored as the Beast of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], and the Beastlands, where everything eats and is eaten, suits them. Their realm is the Red Hunt, on Brux, where it is always dusk. The red sun never sets on its hunting grounds, so it is always nearly supper.
 
 ## Inhabitants
 All kinds of creatures live here. Most are outsiders, usually celestial versions of wild animals from material worlds. Celestial animals, beasts, vermin and magical beasts fill every corner of the plane. Now and then a good-natured aberration settles here, but few thinking creatures stay in the wild for long, apart from magical beasts like unicorns.

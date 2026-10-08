@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Empire of Nox holds the west of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], on the lands of the fallen Empire of Adriacium. It was raised from Adriacium's ruins in 5267 by [[Vera\|Vera]], one of the adventurers of [[Adventures And Stories/Parties/Retribution\|Retribution]], who has stood at its head ever since. Her title, Chaos Lord, belongs to no other ruler in Alora, and the world has no better word for what she has become.
+The Empire of Nox holds the west of [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], on the lands of the fallen Empire of Adriacium. It was raised from Adriacium's ruins in 5267 by [[Adventures And Stories/Parties/Members/Vera\|Vera]], one of the adventurers of [[Adventures And Stories/Parties/Retribution\|Retribution]], who has stood at its head ever since. Her title, Chaos Lord, belongs to no other ruler in Alora, and the world has no better word for what she has become.
 
 Nox is an empire in name and a council in practice. Vera holds almost no formal power and leaves the governing of the empire to a council of seven, while her presence and her reputation give Nox a weight among its neighbors that no other Wildlands nation can match. For half of every year she is not in the empire at all.
 

@@ -62,7 +62,7 @@ Food is among Narathatath's most pressing needs. Scarce farmland and the dragons
 
 [[Species and Cultures/Cultures/Drako\|Drako]] culture is dominant throughout Narathatath, and most of its people are Drakmed, organized into holds under the dragons they serve. Trox live in large numbers along the eastern shores, some of them having come up from beneath the ground, and along those coasts the more common culture is [[Species and Cultures/Cultures/Trow\|Trow]]. Humans are much rarer, and few have remained since the uprising.
 
-The dragons worship Riavexect as the first dragon and their ancestor, and the god is the patron of the nation, with a major temple in Kisondarket. [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel]] is also widely worshiped, particularly among the Trox.
+The dragons worship Riavexect as the first dragon and their ancestor, and the god is the patron of the nation, with a major temple in Kisondarket. Some dragons also honor two great wyrms of the outer planes as Riavexect's first children: Aurelthion, the Platinum Wyrm of [[Places/Planes/Outer Planes/Seven Mounting Heavens of Celestia\|Celestia]], and Vexathrys, the Chromatic Wyrm of [[Places/Planes/Outer Planes/Nine Hells of Baator\|Baator]]. The metallic dragons of the council lean toward Aurelthion and the chromatic dragons toward Vexathrys, so the old rivalry between the two kinds runs through the temple as well as the council chamber. [[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel]] is also widely worshiped, particularly among the Trox.
 
 ## History
 

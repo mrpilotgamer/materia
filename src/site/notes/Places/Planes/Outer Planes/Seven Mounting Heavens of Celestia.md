@@ -11,7 +11,7 @@ Celestia is one holy mountain rising out of an endless sea of holy water, so hig
 
 The Seven Mounting Heavens are where the souls of kind and caring mortals go after death. The fiends of the lower planes would take it if they could. The mountain promises that the worthy can become better, and in the end become one with the powers of good and law. So pilgrims of every kind climb it, one layer at a time, toward the Heavenly City at the top and the Illuminated Heaven beyond it.
 
-Aurelthion, the Platinum Wyrm, lives on Celestia. Some dragons honor Aurelthion as the first child of [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect]].
+Aurelthion, the Platinum Wyrm, lives on Celestia. Some dragons honor Aurelthion as the first child of [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect]]. In [[Places/Realms/Alora/Nations/Narathatath\|Narathatath]], the metallic dragons favor Aurelthion.
 
 From the beach at the foot of the first layer to the heights of the seventh, paths wind up the mountain's peaks, ridges, canyons and passes. Every slope looks up toward the next layer, which shines over the one below it like a sun. Every valley leads down, past high waterfalls and fast streams, to the Silver Sea. Even several layers up, you can still faintly hear the waves chiming as they break on the shore of Lunia.
 
@@ -25,9 +25,9 @@ The climb takes more than strong legs. The path to each layer only shows itself 
 ## Divine Realms
 **[[Religion and Deities/Deific Figures/Progenitors/Angels/Must, the Black Progenitor Angel\|Must]]**, Servant of Order, holds the Hall of Eternal Vigil. It is the strongest domain on Celestia. Must's followers seek to become perfect, obedient instruments of rightful authority.
 
-**[[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]]**, God of Devotion, also makes a home on Celestia.
+**[[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]]**, General of the Faithful, holds the Citadel of Kept Oaths on Mertion, among the citadels of the paladins. It is a fortress of blue and silver, and every oath ever sworn in Arloya's name is cut into its walls.
 
-
+Samiel, the Angel of Time, also keeps a home on Celestia. He is an Archangel, one of the great celestials who rank below the Progenitor Angels, and the father of the mage [[Adventures And Stories/Parties/Members/Aria\|Aria]] of [[Adventures And Stories/Parties/Retribution\|Retribution]].
 
 ## Inhabitants
 Celestia is home to many good beings, including aasimars, devas, planetars and solars. Several groups of good folk from material worlds have also settled on the lowest slope, along the beach of the Silver Sea.
@@ -93,5 +93,3 @@ On the lowest terrace is the Exchequer of Souls, a black marble building of grac
 
 ### Chronias (The Illuminated Heaven)
 The seventh layer. Nobody knows what Chronias is like, and some say it is the great mystery of all. The few who reach it never come back, so there are no accounts of it. Stories say that anyone who enters has their goodness magnified until they become part of Celestia itself, and that anyone carrying evil inside them is snuffed out and erased from existence forever.
-
-

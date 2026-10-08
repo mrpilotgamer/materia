@@ -21,9 +21,7 @@ Ysgard has many permanent portals to other planes. The best known is a rough, ha
 ## Divine Realms
 **[[Religion and Deities/Deific Figures/Progenitors/Angels/Kollane, the Yellow Progenitor Angel\|Kollane]]**, the Ever-Smiling, holds the Fields of Endless Valor. It is the strongest domain on Ysgard. Kollane's warriors fight without fear or grief, and they are expected to smile while they do it.
 
-**[[Religion and Deities/Deific Figures/Gods/Meregoma, God of the Ego\|Meregoma]]**, God of the Ego, also makes a home on Ysgard.
-
-
+**[[Religion and Deities/Deific Figures/Gods/Meregoma, God of the Ego\|Meregoma]]**, Savior of the Lacking, holds the Hall of Laurels on the top layer. It is a mead hall where every arrival is crowned with a laurel wreath, and everyone is expected to tell their own deeds the loudest.
 
 ## Inhabitants
 Most of Ysgard's people are petitioners, heroes who died in every age there has been. Living humanoids of many kinds also settle the top layer. Fire giants hold most of Muspelheim, the burning middle layer. Fire giants and [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] together hold the caves of Nidavellir at the bottom. A few devas live on the plane as well.
@@ -53,6 +51,6 @@ The middle layer is long strips of floating ground, some of them bigger than con
 The land rises toward a range of burning mountains called the Serpent Spine. Hundreds of fire giant clans live along it, and their towers and fortresses guard the mountain passes from rival clans and from anyone else who isn't welcome.
 
 ### Nidavellir
-The bottom layer is underground. Hot springs and geysers keep its tunnels warm, and forests of strange trees grow in the wild parts with heat in place of sunlight. Some caverns run through veins of clear quartz, and others glitter with mica and pyrite. In some tunnels gems and precious ore lie loose on the floor.
+The bottom layer is underground. Hot springs and geysers keep its tunnels warm, and forests of strange trees grow in the wild parts with heat instead of sunlight. Some caverns run through veins of clear quartz, and others glitter with mica and pyrite. In some tunnels gems and precious ore lie loose on the floor.
 
 Most of Nidavellir is split between kingdoms where fire giants and [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]] live side by side. Yol-Mar who believe they descend from fire giants point to Nidavellir as proof. Skeptics answer that living together makes nobody kin, and the argument goes on. Living mortals outnumber petitioners here, though there are plenty of both. It is a layer of forges and anvils, where smiths, rune-carvers and mages spend their lives trying to perfect their work.

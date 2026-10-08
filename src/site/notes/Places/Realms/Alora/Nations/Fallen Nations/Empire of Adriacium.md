@@ -52,7 +52,7 @@ Adriacium was founded after the Empire of Bornumia, though the date has been los
 
 In 5167 the emperor was murdered, and the faceless emperor took the throne. For a century Adriacium lived under his single law. Its neighbors watched with alarm, and Bornumia closed its western border as far as it could.
 
-In 5267 an army of demons and devils marched out of Adriacium and ravaged the continent. Within months the western lands fell to ruin, their people killed or scattered. The party [[Adventures And Stories/Parties/Retribution\|Retribution]] fought the army in Adriacium, brought reinforcements from across the ocean, and banished Rouge, and the army broke apart. Adriacium did not survive. [[Vera\|Vera]] of Retribution raised the Empire of Nox from its ruins that same year, and the city-states that rose in its eastern lands became part of the Republic of Korthak.
+In 5267 an army of demons and devils marched out of Adriacium and ravaged the continent. Within months the western lands fell to ruin, their people killed or scattered. The party [[Adventures And Stories/Parties/Retribution\|Retribution]] fought the army in Adriacium, brought reinforcements from across the ocean, and banished Rouge, and the army broke apart. Adriacium did not survive. [[Adventures And Stories/Parties/Members/Vera\|Vera]] of Retribution raised the Empire of Nox from its ruins that same year, and the city-states that rose in its eastern lands became part of the Republic of Korthak.
 
 ## The Ruins Today
 

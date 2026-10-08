@@ -23,9 +23,7 @@ Portals are fairly common. They usually show up in the mouths of the tunnels tha
 ## Divine Realms
 **[[Religion and Deities/Deific Figures/Progenitors/Demons/Viole, the Purple Progenitor Demon\|Viole]]**, Lord of Nobility, rules the Amethyst Kingdom. It is the strongest domain on Acheron. Viole is the lavish life and the right to rule.
 
-**[[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel]]**, God of Hatred, also makes a home on Acheron.
-
-
+**[[Religion and Deities/Deific Figures/Gods/Alfugel, God of Hatred\|Alfugel]]**, the Embodiment of Rage, holds the Breaking Ground on Avalas, the Battleplains. It is a cube where the fighting never stops long enough for anyone to build walls.
 
 ## Inhabitants
 Rogue armies of every kind of creature wander the cube faces looking for someone to fight. Sooner or later mutiny or madness brings down even the strongest commander, so most armies end up with no goal except destroying other rogue armies. Armies of undead or constructs sometimes last longer, because they can keep carrying out their last orders without needing to believe in them.

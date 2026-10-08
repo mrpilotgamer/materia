@@ -23,9 +23,9 @@ Arcadia has few portals to other planes. They are all permanent and clearly mark
 ## Divine Realms
 **[[Religion and Deities/Deific Figures/Progenitors/Angels/Lilla, the Purple Progenitor Angel\|Lilla]]**, Voice of the Many, holds the Unified Gardens. It is the strongest domain on Arcadia. Lilla's followers give up their own thoughts and think as one.
 
-**[[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura]]**, God of Courage, and **[[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri]]**, God of Restraint, also make their homes on Arcadia.
+**[[Religion and Deities/Deific Figures/Gods/Mendura, God of Courage\|Mendura]]**, Master of the Shield, holds the Unbroken Wall on Buxenus, where Arcadia's forces gather. The wall runs across a valley facing Mechanus, and nobody standing on it has ever taken a step back.
 
-
+**[[Religion and Deities/Deific Figures/Gods/Selcontri, God of Restraint\|Selcontri]]**, Lord of Patience, holds the Measured Orchard on Abellio. Its trees give exactly what is needed, and no one there picks more than one fruit at a time.
 
 ## Inhabitants
 Many mortals from material worlds have settled on Arcadia. They live alongside archons, devas and the einheriar militias, who are everywhere. The animals are gentle: gold foxes, copper hares and sheep with silver wool. Organized insects of every kind live here too, including wasps, bees and ants. Giant versions of all of them can be found across the plane.

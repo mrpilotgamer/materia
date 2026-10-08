@@ -9,7 +9,7 @@
 ## Overview
 Arborea is wild country that has never been cut, plowed or fenced. Its forests are old maple, birch and oak, so tall and close that little grows beneath them except moss and fern. Where the trees break there are meadows of wildflowers, fields of wheat and barley that sow themselves, and orchards in tidy rows that nobody planted. Snow sits on the high ground under a clear blue sky, and on the same day the trees below are in flower and in fruit.
 
-The weather turns without warning. A storm can come up out of a clear afternoon, flatten the grass and strip leaves for a few minutes, then blow off and leave the woods steaming in the sun. Visitors say the air feels like the hour before a festival. There is nearly always music somewhere off in the trees. Sometimes it is the [[Species and Cultures/Races/Mannee\|Mannee]] or the [[Fey\|Fey]] playing, and sometimes it is only wind in the trunks.
+The weather turns without warning. A storm can come up out of a clear afternoon, flatten the grass and strip leaves for a few minutes, then blow off and leave the woods steaming in the sun. Visitors say the air feels like the hour before a festival. There is nearly always music somewhere off in the trees. Sometimes it is the [[Species and Cultures/Races/Mannee\|Mannee]] or the [[Bestiary/Fey\|Fey]] playing, and sometimes it is only wind in the trunks.
 
 The forest is only the first layer. Below it is an ocean with no shore, and below that a desert of white dust. What the three layers share is the weather and the mood. Arborea's joys run high and so do its griefs, and both pass quickly.
 
@@ -19,9 +19,7 @@ Arborea touches the Beastlands and Ysgard. Portals between them are common, and 
 ## Divine Realms
 **[[Religion and Deities/Deific Figures/Progenitors/Angels/Punane, the Red Progenitor Angel\|Punane]]**, the Eternal Martyr, holds the Fields of Glorious Sacrifice. It is the most powerful domain on Arborea. Punane's followers come here after dying for causes that were never their own, and they are honored here for it.
 
-**[[Religion and Deities/Deific Figures/Gods/Arlaxena, God of Leisure\|Arlaxena]]**, God of Leisure, also makes a home on Arborea.
-
-
+**[[Religion and Deities/Deific Figures/Gods/Arlaxena, God of Leisure\|Arlaxena]]**, Master of Well-Being, holds Stillwater Bend in Arvandor. It is a lazy river that loops through the forest without ever reaching the sea. Traps hang along its banks and catch dinner, so nobody there ever has to hunt.
 
 ## Inhabitants
 The Mannee dead are the plane's best-known guardians. Their souls return as celestials here, and they are far stronger in death than the small, gentle people they were in life.

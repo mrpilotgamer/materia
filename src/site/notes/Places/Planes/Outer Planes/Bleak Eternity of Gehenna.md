@@ -21,9 +21,7 @@ Portals to other planes are fairly common, and so are portals between Gehenna's 
 ## Divine Realms
 **[[Religion and Deities/Deific Figures/Progenitors/Demons/Azure, the Blue Progenitor Demon\|Azure]]**, the Mistress Manipulator, rules the Forsaken Tundra. It is the strongest domain on Gehenna. Azure uses others for her own gain and abandons them once they are no longer useful.
 
-**[[Religion and Deities/Deific Figures/Gods/Millary, God of Jealousy\|Millary]]**, God of Jealousy, also makes a home on Gehenna.
-
-
+**[[Religion and Deities/Deific Figures/Gods/Millary, God of Jealousy\|Millary]]**, the Resentful One, holds the Market of Lies on Chamada. It is a bazaar where nothing is as described and everyone is cheating everyone else.
 
 ## Inhabitants
 The scheming yugoloths are most at home on Gehenna, though sages say the race actually began in Hades. Even so, they have lived on Gehenna longer than most of the powers who now hold realms here.

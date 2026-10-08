@@ -25,9 +25,7 @@ The Oceanus begins in the deepest layer, runs up through all four, and flows out
 ## Divine Realms
 **[[Religion and Deities/Deific Figures/Progenitors/Angels/Valge, the White Progenitor Angel\|Valge]]**, Validator of Souls, holds the Gathering Glade. It is the strongest domain on Elysium. Valge gives empty lives meaning through selfless work.
 
-**[[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity]]**, God of Benevolence, also makes a home on Elysium.
-
-
+**[[Religion and Deities/Deific Figures/Gods/Maltrunity, God of Benevolence\|Maltrunity]]**, Earl of Giving, holds Almsbank, a stretch of the River Oceanus in Amoria. Boats tie up along it to leave what they carry and take what they lack.
 
 ## Inhabitants
 Good outsiders of every kind live here, lawful and chaotic alike, along with good natives of the elemental planes such as djinn. Every kind of celestial can be found here, but the most common are guardinals, including the winged avorals and the mighty leonals.

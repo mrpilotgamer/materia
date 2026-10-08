@@ -17,9 +17,7 @@ Limbo is full of strange sights. Bursts of elemental fire light it, some far awa
 Limbo has permanent portals to many other planes. On the Limbo side, a portal might open into a fireball, a pile of boulders or a howling windstorm, so arriving here is dangerous for anyone who isn't ready for chaos.
 
 ## Divine Realms
-**[[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma]]**, God of Desire, makes a home on Limbo. No Progenitor holds a realm here.
-
-
+**[[Religion and Deities/Deific Figures/Gods/Yearma, God of Desire\|Yearma]]**, Sage of Cravings, holds the Reaching Shore on Limbo. No Progenitor holds a realm here. The Reaching Shore is an island that takes the shape of whatever its visitors want, and it never holds that shape for long.
 
 ## The Shaping of Limbo
 Limbo has three kinds of ground: raw, controlled and stabilized. Almost all of it is raw. Controlled and stabilized areas are tiny islands by comparison.

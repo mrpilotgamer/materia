@@ -22,9 +22,7 @@ Devils rule the Nine Hells now, but some sages think they took the plane from a 
 ## Divine Realms
 **[[Religion and Deities/Deific Figures/Progenitors/Demons/Noir, the Black Progenitor Demon\|Noir]]**, Leader of the Strong, rules the Darkened Badlands in Nessus, the ninth layer, and from there he rules the whole of Hell's hierarchy. Noir is strength and hierarchy, and he is known to have some control over the laws of nature.
 
-**[[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect]]**, God of Want, also makes a home in Baator.
-
-
+**[[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect]]**, Lord of All Things Owned, holds the Counting Halls in Dis. They are vaults beneath the iron city, where every object brought in is weighed, labeled and kept forever.
 
 ## The Dark Eight
 The Dark Eight are the generals of the Blood War, eight pit fiends who meet in council every sixty-six days. They are enormously powerful, and they still answer to the Lords of the Nine and, in the end, to Noir.
@@ -72,9 +70,7 @@ Streams of blood run across Avernus and eventually join the River Styx. Nobody k
 
 **Pillar of Skulls:** A huge landmark built of real skulls, trophies taken by devils in the Blood War. Most are twisted demon skulls, ranging from tiny to the size of a house, and the pillar is more than a mile tall. It stands near the part of the ledge where getting to the next layer is an easy walk down a very tall metal spire of the city of Dis, which reaches up through the haze between the layers. Lots of devils and petitioners use the spire's winding staircase, and plenty fall off it, some by accident and some not. In a huge cave near the foot of the pillar lives an especially terrible guard of the ledge: Vexathrys.
 
-**Vexathrys:** The Chromatic Wyrm, honored by evil dragons, and by some of them as the first child of [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect]]. Each of her five heads is the color of one kind of evil dragon. She enjoys awful pastimes like torture, quarreling and destruction. Vexathrys guards the way between Avernus and Dis near the Pillar of Skulls, though she rarely comes out except to fight off demon attacks. Five consorts attend her at all times, powerful male great wyrms colored red, black, green, blue and white. Her hoard, hidden deep in her cave, is said to be worth as much as the treasuries of a hundred worlds.
-
-
+**Vexathrys:** The Chromatic Wyrm, honored by evil dragons, and by some of them as the first child of [[Religion and Deities/Deific Figures/Gods/Riavexect, God of Want\|Riavexect]]. In [[Places/Realms/Alora/Nations/Narathatath\|Narathatath]], the chromatic dragons favor her. Each of her five heads is the color of one kind of evil dragon. She enjoys awful pastimes like torture, quarreling and destruction. Vexathrys guards the way between Avernus and Dis near the Pillar of Skulls, though she rarely comes out except to fight off demon attacks. Five consorts attend her at all times, powerful male great wyrms colored red, black, green, blue and white. Her hoard, hidden deep in her cave, is said to be worth as much as the treasuries of a hundred worlds.
 
 **Lord of the First: Bel.** In the middle of the Bronze Citadel is the fortress of Bel, a very powerful pit fiend who rules Avernus. Besides being lord of the layer, he is a general in the Blood War, though not one of the Dark Eight. Bel betrayed the old Lady of the First, Zariel, to get the job. His underlings whisper that he still keeps her locked up somewhere deep in the Bronze Citadel, draining her hellish power into himself to make himself stronger while slowly turning her into just another soul shell. Bel has succeeded where many before him failed, but his rise seems to have stalled, because the other Lords of the Nine don't back him, except maybe Noir.
 
@@ -162,12 +158,4 @@ The ninth layer is the deepest part of the Nine Hells, a plain shattered by rift
 
 **Malsheem:** Right below the boundary between Cania and Nessus lies a rift of incredible depth and width, and the Pit above leads down into it. Malsheem, the Citadel of Hell, rises out of that trench in a dark, elegant, fiendish beauty. It is monstrously big, climbing miles above the plain, and like an iceberg, its visible towers and walls are small next to the vast halls hidden in the trench. Malsheem is the biggest known fortress on the outer planes, big enough to house millions of devils, an army larger than any ever sent into the Blood War. Noir, master of Malsheem and undisputed King of the Nine Hells, keeps those hordes in reserve for a terrible battle he foresees, one that will make the Blood War look small. The citadel is so huge that it can hardly be mapped, and only Noir knows its secrets.
 
-**Serpent's Coil:** Brutally silenced rumors say there is more to Noir than he lets on. The story goes that his true body lies in the deepest rift of Nessus, called the Serpent's Coil, and that the figure the other devils see in Malsheem is a magical projection or some kind of stand-in. The rift, carved by Noir's falling body when he first came to the Nine Hells, spirals inward for hundreds of miles. His giant body, miles long, is said to lie there still, his wounds still open, his acid-black blood pooling in the hollows of the rift, fouler than anything.
-
-Where did Noir fall from? Was he once a great god thrown down from Elysium or Celestia, or is he even older, as the rumor hints? He may be some fundamental being whose very existence holds the multiverse in its current shape. Nobody who tells the story of Noir's true form lives more than a day after saying it out loud. Even so, dusty scrolls in hard-to-reach libraries, Demogorgon's citadel in the Abyss among them, record it. That is, if it's anything more than a fairy tale.
-
-
-
 **Lord of the Ninth: Noir, King of the Nine Hells.** [[Religion and Deities/Deific Figures/Progenitors/Demons/Noir, the Black Progenitor Demon\|Noir]], Leader of the Strong, is a Progenitor and far greater than any archdevil. He rules from the Darkened Badlands and from Malsheem, and he is rarely seen. He only shows himself when the elite of the Nine Hells gather in one of his hundred audience halls. He has been challenged many times, most recently in the Hell-wide rebellion called the Reckoning, and he has never lost.
-
-

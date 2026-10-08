@@ -23,9 +23,7 @@ Portals into Mechanus usually open at the center of a cog. Some lead to other ou
 Portals look like pale green gear-shaped rings, turning slowly. Most open once each time their cog completes a turn. Some only open when several cogs line up in a certain way, and which cogs those are isn't always obvious. Once a portal opens it usually stays open for at least an hour, sometimes a full day.
 
 ## Divine Realms
-**[[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner]]**, God of Caution, makes a home on Mechanus. No Progenitor holds a realm here.
-
-
+**[[Religion and Deities/Deific Figures/Gods/Dilliminner, God of Caution\|Dilliminner]]**, Lord of Preparations, holds the Hourglass Bastion on Mechanus. No Progenitor holds a realm here. The bastion is built into one vast, slow gear, and its walls grow a little thicker with every turn.
 
 ## Inhabitants
 People on Mechanus live on the faces of the turning cogs. The bare cogs have no plants or animals of their own, but settlers from other planes, including material worlds, the Nine Hells and Celestia, have turned many cog faces into hedge mazes, parks and nature preserves.

@@ -6,7 +6,7 @@
 
 The Algar learned the hard way that freedom and goodness need each other. Its people descend from those who lived through the century of Adriacium's faceless emperor, when a single law let every freedom run unchecked. They came out of that century with a love of ceremony, rank, and written procedure, and with a stubborn refusal to give up the freedoms their ancestors knew.
 
-The Algar are the most varied people in [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], and they live under the [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox]], a state raised from Adriacium's ruins by the [[Vera\|Chaos Lord Vera]].
+The Algar are the most varied people in [[Places/Realms/Alora/Regions/The Wildlands\|The Wildlands]], and they live under the [[Places/Realms/Alora/Nations/Empire of Nox\|Empire of Nox]], a state raised from Adriacium's ruins by the [[Adventures And Stories/Parties/Members/Vera\|Chaos Lord Vera]].
 
 ## Origins & Distribution
 

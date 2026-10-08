@@ -29,9 +29,7 @@ A few portals link Shurrock and Dothion directly. The Dothion ends of these have
 ## Divine Realms
 **[[Religion and Deities/Deific Figures/Progenitors/Angels/Sinine, the Blue Progenitor Angel\|Sinine]]**, Speaker of All Truths, holds the Hall of Unveiled Words. It is the strongest domain on Bytopia. In Sinine's hall nothing may be kept secret.
 
-**[[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine]]**, God of Belief, also makes a home on Bytopia.
-
-
+**[[Religion and Deities/Deific Figures/Gods/Coptimaine, God of Belief\|Coptimaine]]**, the Great Bringer of Light, holds Dovecote Hollow in Dothion. It is a farm village of dovecotes and open doors, where the weary are fed, given a bed and sent on their way.
 
 ## Inhabitants
 Many celestials live on Bytopia: guardinals and archons, planetars and solars, and now and then an eladrin.
