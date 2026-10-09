@@ -27,7 +27,7 @@ The climb takes more than strong legs. The path to each layer only shows itself 
 
 **[[Religion and Deities/Deific Figures/Gods/Arloya, God of Devotion\|Arloya]]**, General of the Faithful, holds the Citadel of Kept Oaths on Mertion, among the citadels of the paladins. It is a fortress of blue and silver, and every oath ever sworn in Arloya's name is cut into its walls.
 
-Samiel, the Angel of Time, also keeps a home on Celestia. He is an Archangel, one of the great celestials who rank below the Progenitor Angels, and the father of the mage [[Adventures And Stories/Parties/Members/Aria\|Aria]] of [[Adventures And Stories/Parties/Retribution\|Retribution]].
+Samiel, the Angel of Time, also keeps a home on Celestia. He is an Archangel, one of the great celestials who rank below the Progenitor Angels, and the father of the sorceress [[Adventures And Stories/Parties/Members/Aria\|Aria]] of [[Adventures And Stories/Parties/Retribution\|Retribution]].
 
 ## Inhabitants
 Celestia is home to many good beings, including aasimars, devas, planetars and solars. Several groups of good folk from material worlds have also settled on the lowest slope, along the beach of the Silver Sea.

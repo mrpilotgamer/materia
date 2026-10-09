@@ -12,7 +12,7 @@ Retribution was the party of four who banished [[Religion and Deities/Deific Fig
 
 [[Adventures And Stories/Parties/Members/Billy Bob\|Billy Bob]] - Vullukk healer of [[Places/Realms/Alora/Nations/Laurland\|Laurland]]
 
-[[Adventures And Stories/Parties/Members/Aria\|Aria]] - Human mage of [[Places/Realms/Alora/Nations/Empire of Bornumia\|Bornumia]], daughter of the Archangel Samiel
+[[Adventures And Stories/Parties/Members/Aria\|Aria]] - Half-celestial sorceress of [[Places/Realms/Alora/Nations/Empire of Bornumia\|Bornumia]], daughter of the Archangel Samiel
 
 [[Adventures And Stories/Parties/Members/Lanz\|Lanz]] - Human fighter of [[Places/Realms/Alora/Nations/Fallen Nations/Empire of Adriacium\|Adriacium]], who fought with his bare hands
 
