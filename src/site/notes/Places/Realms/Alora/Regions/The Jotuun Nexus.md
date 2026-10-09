@@ -5,6 +5,8 @@
 # The Jotuun Nexus
 *"Birth and Deathplace of Giants"*
 
+![The Jotuun Nexus Map.png](/img/user/_Images/The%20Jotuun%20Nexus%20Map.png)
+
 ## Overview
 
 The Jotuun Nexus is a vast continent straddling the equator, named for the ancient giants said to have been born and to have died here during [[History/Ages/Prehistory\|Prehistory]]. No physical trace of these giants has ever been found. There are no bones, no ruins, and no artifacts, only the stories told across countless generations and the [[Species and Cultures/Races/Yol-Mar\|Yol-Mar]], who claim descent from them.

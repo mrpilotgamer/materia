@@ -5,6 +5,8 @@
 # The Wildlands
 *"Land of Many Origins"*
 
+![The Wildlands Map.png](/img/user/_Images/The%20Wildlands%20Map.png)
+
 ## Overview
 
 The Wildlands is a long continent in the south of [[Places/Realms/Alora/Alora\|Alora]], lying across the water from [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]]. It has the thinnest barrier between the material world and the outer planes of any region in the realm, so clerics find it easier to reach their gods here, and demons find it easier to cross into [[Places/Materia\|Materia]]. Demon sightings are not an everyday event, but they are not rare either.

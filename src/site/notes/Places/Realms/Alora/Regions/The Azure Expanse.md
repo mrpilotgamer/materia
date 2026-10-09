@@ -5,6 +5,8 @@
 # The Azure Expanse
 *"Land of Arcane Leylines"*
 
+![The Azure Expanse Map.png](/img/user/_Images/The%20Azure%20Expanse%20Map.png)
+
 ## Overview
 
 The Azure Expanse is a continent of [[Places/Realms/Alora/Alora\|Alora]] curved around a great inner bay called Morlas Bay, with [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]] lying across a narrow strait to the northwest. Legend holds that magic was first discovered here, and the archivists think the legend owes much to the strength of the leylines that run beneath the whole region. Mages and scholars of every kind travel here to study and practice, and some of the most prestigious magic schools in the world stand in its north.

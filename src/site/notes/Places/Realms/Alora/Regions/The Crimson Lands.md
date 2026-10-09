@@ -5,6 +5,8 @@
 # The Crimson Lands
 *"Land of Dragons"*
 
+![The Crimson Lands Map.png](/img/user/_Images/The%20Crimson%20Lands%20Map.png)
+
 ## Overview
 
 The Crimson Lands, also known as the Land of Dragons, spans two continents and is believed to be the birthplace of the first dragons in the multiverse. Dragons still rule in [[Places/Realms/Alora/Nations/Narathatath\|Narathatath]], where they commonly fly through the major cities. Beneath the ground lie the cave systems the [[Species and Cultures/Races/Trox\|Trox]] once called home.

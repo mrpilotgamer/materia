@@ -4,6 +4,8 @@
 
 # Laurland
 
+![Laurland Map.png](/img/user/_Images/Laurland%20Map.png)
+
 ## Overview
 
 Laurland is an island nation in the sea between [[Places/Realms/Alora/Regions/The Jotuun Nexus\|The Jotuun Nexus]] and [[Places/Realms/Alora/Regions/The Crimson Lands\|The Crimson Lands]], and one of the great trade powers of [[Places/Realms/Alora/Alora\|Alora]]. It is ruled by its merchant houses, whose ships carry goods to nearly every coast in Alora and whose navy guards the routes they sail. Its people are [[Species and Cultures/Cultures/Dali\|Dali]], mostly [[Species and Cultures/Races/Grendal\|Grendals]] and [[Species and Cultures/Races/Chisana\|Chisana]], and Laurland's brokers are known wherever goods change hands for their skill at haggling a price.
