@@ -8,7 +8,7 @@ The Chisana are tiny, quick and nimble, rarely more than two and a half feet tal
 
 ## Biology
 
-The Chisana are fey, not humanoids, and their magic shows in their bodies. They fly without wings, they see well in dim light, and their reflexes are so quick they seem to dodge trouble before it arrives. Their bodies owe more to magic and the natural world than to ordinary flesh and blood.
+The Chisana are fey, not humanoids, and their magic shows in their bodies. They fly on wings of their own, they see well in dim light, and their reflexes are so quick they seem to dodge trouble before it arrives. Their bodies owe more to magic and the natural world than to ordinary flesh and blood.
 
 ## Origins
 
